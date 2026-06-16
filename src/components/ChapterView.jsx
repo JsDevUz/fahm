@@ -149,8 +149,8 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
           <bdi>{chapter.title}</bdi>
         </h2>
 
-        <div className="arabic-text sentence-text-container" style={{ color: 'var(--text-primary)', direction: 'rtl', textAlign: 'justify', padding: '0 16px', lineHeight: '2.5' }}>
-          {chapter.sentences.map((s, si) => [
+        <div className="arabic-text sentence-text-container" style={{ color: 'var(--text-primary)', direction: 'rtl', textAlign: 'right', lineHeight: '2.5' }}>
+          {chapter.sentences.map((s, si) => (
             <span
               key={`card-${si}`}
               onClick={() => {
@@ -162,14 +162,9 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
                 transition: 'var(--transition)'
               }}
             >
-              {renderTokenized(s.ar)}
-            </span>,
-            si < chapter.sentences.length - 1 && (
-              <span key={`sep-${si}`} style={{ color: 'var(--text-muted)', fontSize: '20px', padding: '0 8px', userSelect: 'none', display: 'inline-block', verticalAlign: 'middle' }}>
-                *
-              </span>
-            )
-          ])}
+              {renderTokenized(s.ar)}{' '}
+            </span>
+          ))}
         </div>
       </div>
 
