@@ -394,7 +394,8 @@ textarea.input-base {
   .crumb {
     font-size: 11px !important;
     gap: 4px !important;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
   }
 
   .arabic-text {
