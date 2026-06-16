@@ -324,7 +324,7 @@ textarea.input-base {
 /* Responsive Utilities */
 @media (max-width: 768px) {
   .main-content {
-    padding: 16px 12px;
+    padding: 16px 5px;
   }
 
   .topbar {
@@ -332,7 +332,7 @@ textarea.input-base {
   }
 
   .chapter-card-padding {
-    padding: 20px 16px !important;
+    padding: 20px 5px !important;
   }
 
   .arabic-text {
@@ -341,7 +341,7 @@ textarea.input-base {
   }
 
   .sentence-card {
-    padding: 12px 16px !important;
+    padding: 10px 8px 2px !important;
   }
 }
 
@@ -433,7 +433,7 @@ textarea.input-base {
 
 @media (max-width: 768px) {
   .sentence-text-container {
-    font-size: 22px !important;
+    font-size: 20px !important;
     /* Smaller on mobile */
     line-height: 1.8;
   }
@@ -452,7 +452,7 @@ textarea.input-base {
 
   .word-translation-mobile {
     display: block;
-    font-size: 11px;
+    font-size: 10px;
     color: var(--text-secondary);
     line-height: 1.2;
     margin-top: 4px;
