@@ -1,0 +1,469 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Amiri:wght@400;700&display=swap');
+
+:root {
+  /* Color Palette */
+  --bg-primary: #f8fafc;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #f1f5f9;
+
+  --text-primary: #0f172a;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
+
+  --accent-primary: #3b82f6;
+  --accent-hover: #2563eb;
+  --accent-light: #eff6ff;
+
+  --border-color: #e2e8f0;
+
+  /* Grammar Tags */
+  --tag-tm-bg: #dbeafe;
+  --tag-tm-text: #1e40af;
+  --tag-tx-bg: #dcfce7;
+  --tag-tx-text: #166534;
+  --tag-ts-bg: #fef3c7;
+  --tag-ts-text: #92400e;
+  --tag-tf-bg: #fee2e2;
+  --tag-tf-text: #991b1b;
+  --tag-tmt-bg: #ede9fe;
+  --tag-tmt-text: #5b21b6;
+  --tag-th-bg: #d1fae5;
+  --tag-th-text: #065f46;
+  --tag-tb-bg: #f3f4f6;
+  --tag-tb-text: #4b5563;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+
+  /* Animations */
+  --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Glassmorphism Utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: var(--shadow-glass);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  border-radius: 16px;
+  transition: var(--transition);
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: #cbd5e1;
+}
+
+/* Typography */
+.arabic-text {
+  font-family: 'Amiri', 'Traditional Arabic', serif;
+  direction: rtl;
+  line-height: 2.2;
+}
+
+/* Layout */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  height: 64px;
+  flex-shrink: 0;
+  z-index: 10;
+  border-bottom: 1px solid rgba(226, 232, 240, 0.5);
+}
+
+.main-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 32px 24px;
+  position: relative;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  border: none;
+  outline: none;
+}
+
+.btn-primary {
+  background-color: var(--accent-primary);
+  color: white;
+  box-shadow: 0 2px 4px rgba(59, 130, 246, 0.3);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-hover);
+  box-shadow: 0 4px 6px rgba(59, 130, 246, 0.4);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+}
+
+.btn-ghost:hover {
+  background-color: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text-secondary);
+  border: none;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.icon-btn:hover {
+  background-color: var(--bg-tertiary);
+  color: var(--text-primary);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-in {
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+@keyframes modalPop {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-modal {
+  animation: modalPop 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Grammar Tags specific */
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.tag-tm {
+  background: var(--tag-tm-bg);
+  color: var(--tag-tm-text);
+}
+
+.tag-tx {
+  background: var(--tag-tx-bg);
+  color: var(--tag-tx-text);
+}
+
+.tag-ts {
+  background: var(--tag-ts-bg);
+  color: var(--tag-ts-text);
+}
+
+.tag-tf {
+  background: var(--tag-tf-bg);
+  color: var(--tag-tf-text);
+}
+
+.tag-tmt {
+  background: var(--tag-tmt-bg);
+  color: var(--tag-tmt-text);
+}
+
+.tag-th {
+  background: var(--tag-th-bg);
+  color: var(--tag-th-text);
+}
+
+.tag-tb {
+  background: var(--tag-tb-bg);
+  color: var(--tag-tb-text);
+}
+
+/* Inputs */
+.input-base {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 14px;
+  font-family: inherit;
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+  transition: var(--transition);
+  outline: none;
+}
+
+.input-base:focus {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px var(--accent-light);
+}
+
+textarea.input-base {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 13px;
+  resize: vertical;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive Utilities */
+@media (max-width: 768px) {
+  .main-content {
+    padding: 16px 12px;
+  }
+
+  .topbar {
+    padding: 0 10px;
+  }
+
+  .chapter-card-padding {
+    padding: 20px 16px !important;
+  }
+
+  .arabic-text {
+    font-size: 28px !important;
+    line-height: 2;
+  }
+
+  .sentence-card {
+    padding: 12px 16px !important;
+  }
+}
+
+.chapter-card-padding {
+  padding: 40px;
+}
+
+.sentence-card {
+  padding: 16px 20px;
+}
+
+/* TopBar Nav and Grammar Modal specific styles */
+.modal-backdrop {
+  padding: 24px;
+}
+
+.modal-header {
+  padding: 24px;
+}
+
+.modal-body {
+  padding: 24px;
+}
+
+.modal-tr-box {
+  padding: 16px 20px;
+}
+
+@media (max-width: 768px) {
+  .modal-backdrop {
+    padding: 12px !important;
+  }
+
+  .modal-header {
+    padding: 16px !important;
+  }
+
+  .modal-body {
+    padding: 16px !important;
+  }
+
+  .modal-tr-box {
+    padding: 12px 16px !important;
+  }
+
+  .topbar .nav {
+    gap: 8px !important;
+  }
+
+  .crumb {
+    font-size: 11px !important;
+    gap: 4px !important;
+    flex-wrap: wrap;
+  }
+
+  .arabic-text {
+    font-size: 24px !important;
+  }
+
+  table th,
+  table td {
+    padding: 8px !important;
+    font-size: 11px !important;
+  }
+
+  td.arabic-text {
+    font-size: 18px !important;
+  }
+}
+
+/* Interlinear Translation Styles */
+.sentence-text-container {
+  font-size: 26px;
+  /* Decreased from 28px as requested */
+  line-height: 2.2;
+}
+
+.word-block {
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 4px;
+  padding: 0 4px;
+}
+
+.word-translation-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .sentence-text-container {
+    font-size: 22px !important;
+    /* Smaller on mobile */
+    line-height: 1.8;
+  }
+
+  .word-block {
+    display: inline-flex !important;
+    flex-direction: column;
+    align-items: center;
+    margin: 4px 2px;
+    padding: 4px;
+  }
+
+  .arabic-word {
+    line-height: 1.2;
+  }
+
+  .word-translation-mobile {
+    display: block;
+    font-size: 11px;
+    color: var(--text-secondary);
+    line-height: 1.2;
+    margin-top: 4px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+  }
+
+  .word-tooltip {
+    display: none !important;
+  }
+
+  .desktop-eslatma {
+    display: none;
+  }
+}
