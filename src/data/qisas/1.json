@@ -10,33 +10,45 @@
       "parts": [
         {
           "w": "آزَرُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "آزَرُ — noqis fe'l كَانَ ning ismi (اسم كان) bo'lib, raf' holatida kelgan. كَانَ o'tgan zamonda mavjudlikni ifodalab, bu ismga xabar (وَلَدٌ لَهُ) bog'laydi; ya'ni Ozar o'g'li borligining egasi sifatida taqdim etiladi.",
+          "uz": "Ozar"
         },
         {
           "w": "لَهُ",
-          "r": "mutaalliq",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Jar-majrur"
+          "e": "لَهُ — لِ harf-jarri va هُ zamiridan tashkil topgan jar-majrur tarkibi bo'lib, كَانَ ning xabari (خَبَر كَان) vazifasida kelgan. Bu tarkib وَلَدٌ ning Ozarga tegishli ekanini, ya'ni egalik munosabatini ifodalaydi; خَبَر مُقَدَّم (ilgari kelgan xabar) hisoblanadi.",
+          "uz": "uning"
         },
         {
           "w": "وَلَدٌ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ مُؤَخَّر",
           "rc": "tm",
-          "e": "Ega"
+          "e": "وَلَدٌ — nakirа ism bo'lib, لَهُ خَبَر ning keyiniga qoldirilgan mubtadosi (مُبتَدَأ مُؤَخَّر) sifatida kelgan. Jar-majrurning mubtadodan oldin kelishi arabchada o'ziga xos uslub bo'lib, noaniqlik (nakiraliq) ma'nosini saqlab, «biror o'g'il» degan ma'noni beradi.",
+          "uz": "o'g'il"
         },
         {
           "w": "رَشِيدٌ",
-          "r": "sifat",
+          "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "Sifat"
+          "e": "رَشِيدٌ — وَلَدٌ ismiga ergashgan sifat (نَعت) bo'lib, nakiraliq, raf' holati va mufrадlik jihatdan وَلَدٌ bilan muvofiq kelgan. Bu sifat bolaning aql-zakovat va to'g'ri yo'lda ekanligi xususiyatini bayon qilib, hikoyaning asosiy qahramonini tavsiflovchi dastlabki belgi hisoblanadi.",
+          "uz": "aqlli"
         },
         {
           "w": "جِدًّا",
-          "r": "hol",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
           "rc": "th",
-          "e": "Miqdor holi"
+          "e": "جِدًّا — nasb holatida kelgan va رَشِيدٌ sifatining darajasini kuchaytiruvchi tasdiq iborasi (مَفعُول مُطلَق للتأكيد) vazifasini bajaradi. Bu so'z bolaning aqlliligi oddiy darajadan ancha yuqori ekanini ta'kidlash uchun takroriy رَشِيدٌ bilan birgalikda keltirilgan.",
+          "uz": "juda"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'lidan tashkil topgan. كَانَ fe'li o'tgan zamondagi davomli holatni bildiruvchi noqis fe'l bo'lib, اسم va خَبَر talab qiladi; و esa bu gapni oldidagi hikoya matniga bog'laydi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -46,21 +58,31 @@
       "parts": [
         {
           "w": "اسْمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "اسْمُ — كَانَ ning ismi (اسم كان) bo'lib, raf' holatida kelgan. Bu so'z مُضَاف vazifasida ham kelgan: هَذَا الْوَلَدِ uning мудофун илайhi (مُضَاف إِلَيه) hisoblanadi, ya'ni «bu bolaning ismi» degan izofa tarkibini hosil qiladi.",
+          "uz": "ismi"
         },
         {
           "w": "هَذَا الْوَلَدِ",
-          "r": "mutaalliq",
+          "r": "مُضَاف إِلَيه",
           "rc": "tmt",
-          "e": "Izofiy birikma"
+          "e": "هَذَا — اسم إشارة (ko'rsatish olmoshi) bo'lib, الْوَلَدِ so'zi unga بَدَل yoki عَطف بيان sifatida kelgan; butun tarkib اسْمُ ning мудофун илайhи (муضاف إليه) bo'lib, jar holatida keladi. Bu tarkib ismning aynan qaysi bolaga tegishli ekanini aniqlashtiradi.",
+          "uz": "bu bolaning"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Xabar — Ibrohim"
+          "e": "إِبْرَاهِيمَ — كَانَ ning xabari (خَبَر كان) bo'lib, nasb holatida kelgan. Bu so'z g'ayri munsarif (ممنوع من الصرف) bo'lgani uchun kasra o'rniga fatha bilan nasb holatini ko'rsatadi; bolaning kim ekanligi — ya'ni Ibrohim ekanligi — aynan shu xabar orqali ma'lum qilinadi.",
+          "uz": "Ibrohim"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'lidan iborat. كَانَ o'tgan zamonda bolaning ismi nima bo'lganini bayon qiluvchi noqis fe'l bo'lib, matnda avval aytilgan farzandning kimligini oydinlashtiruvchi yangi gap ochadi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -70,33 +92,45 @@
       "parts": [
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "إِبْرَاهِيمُ — كَانَ noqis fe'lining ismi bo'lib, raf' holatida kelgan. Bu so'z hikoyaning asosiy qahramoni bo'lib, keyingi fe'liy xabar (يَرَى) shu ismga bog'lanadi va Ibrohimning o'sha davrdagi doimiy kuzatuv xususiyatini bayon qiladi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يَرَى",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Ko'radi"
+          "e": "يَرَى — كَانَ ning fe'liy xabari bo'lib, muzоri' (hozirgi-kelasi zamon) fe'li o'tgan zamonlik kontekstda doimiy takrorlanuvchi holatni ifodalaydi. Ibrohimning odamlar sahna ko'rinishini o'sha paytlarda muntazam kuzatib borgani ma'nosi yaratiladi.",
+          "uz": "ko'radi"
         },
         {
           "w": "النَّاسَ",
-          "r": "maf'ul bih (يَسْجُدُونَ)",
+          "r": "مَفعُول بِه (يَرَى)",
           "rc": "tb",
-          "e": "To'ldiruvchi"
+          "e": "النَّاسَ — يَرَى fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. Ko'rish harakatining ob'ekti odamlar ekanligi ko'rsatilib, ular keyingi hol-jumlada (يَسْجُدُونَ) baholanayotgan holda taqdim etiladi.",
+          "uz": "odamlarni"
         },
         {
           "w": "يَسْجُدُونَ",
-          "r": "fe'l (hol)",
+          "r": "جُملَة حَالِيَّة (فِعل مُضَارِع)",
           "rc": "tf",
-          "e": "Sajda qilayotgan"
+          "e": "يَسْجُدُونَ — النَّاسَ ismi uchun hol-jumla (جملة حالية) vazifasini bajaradi; ya'ni Ibrohim odamlarni qaysi holatda ko'rganini bildiradi — ular sajda qilayotgan holda. Bu tarkib يَرَى ning bitta maf'ullik tuzilmasini boyitadi.",
+          "uz": "sajda qiladilar"
         },
         {
           "w": "لِلْأَصْنَامِ",
-          "r": "mutaalliq (يَسْجُدُونَ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Butlarga"
+          "e": "لِلْأَصْنَامِ — لِ harf-jarri bilan majrur bo'lgan ism tarkibi bo'lib, يَسْجُدُونَ fe'liga taallуq (متعلق بالفعل) hisoblanadi. Sajdaning yo'nalishi — kimga yoki nimaga qilinayotgani — aynan shu jar-majrur orqali ko'rsatiladi: butlarga.",
+          "uz": "butlarga"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'lidan tashkil topgan. كَانَ Ibrohimning odamlarga doimiy kuzatuv qilish holatini o'tgan zamonning davomiy ma'nosida ifodalab, hikoyani oldidagi gaplarga ulaydi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -106,27 +140,38 @@
       "parts": [
         {
           "w": "يَرَى",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Ko'radi"
+          "e": "يَرَى — muzоri' fe'li bo'lib, oldingi كَانَ kontekstida o'tgan zamonda doimiy takrorlanuvchi holatni bildiradi. Fe'lning egasi (فاعل) avvalgi gapdan ma'lum bo'lgan Ibrohim (ضمير مستتر: هو) bo'lib, gap Ibrohimning yana bir kuzatuvini bayon qiladi.",
+          "uz": "ko'radi"
         },
         {
           "w": "النَّاسَ",
-          "r": "maf'ul bih (يَرَى)",
+          "r": "مَفعُول بِه (يَرَى)",
           "rc": "tb",
-          "e": "Odamlarni"
+          "e": "النَّاسَ — يَرَى fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. Ko'rish harakatining ob'ekti yana odamlar ekanligi ta'kidlanib, avvalgi gapdan farqli o'laroq bu safar ibodat (عبادة) kontekstida taqdim etiladi.",
+          "uz": "odamlarni"
         },
         {
           "w": "يَعْبُدُونَ",
-          "r": "fe'l (hol)",
+          "r": "جُملَة حَالِيَّة (فِعل مُضَارِع)",
           "rc": "tf",
-          "e": "Ibodat qilayotgan"
+          "e": "يَعْبُدُونَ — النَّاسَ uchun hol-jumla (جملة حالية) bo'lib, odamlarning ko'rilayotgan ondagi holini bayon qiladi. يَسْجُدُونَ avvalgi gapda sajdani ko'rsatgan bo'lsa, bu fe'l umumiy ibodat harakatini ifodalab, ma'noni kengaytiradi.",
+          "uz": "ibodat qiladilar"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "maf'ul bih (يَعْبُدُونَ)",
+          "r": "مَفعُول بِه (يَعْبُدُونَ)",
           "rc": "tb",
-          "e": "Butlarga"
+          "e": "الْأَصْنَامَ — يَعْبُدُونَ fe'lining bevosita maf'uli bo'lib, nasb holatida kelgan. Ibodat harakatining ob'ekti aynan butlar ekanligi ko'rsatiladi; bu so'z avvalgi gapda لِلْأَصْنَامِ shaklida jar-majrur sifatida kelgan bo'lib, bu safar maf'ul sifatida takrorlanadi.",
+          "uz": "butlarni"
+        },
+        {
+          "w": "وَيَرَى",
+          "r": "حَرف عَطف + فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "وَيَرَى — و atf harfi fe'liy gapni oldingi gapga ulaydi. Bu birikmada و ma'tuf-ma'tufun alayh munosabatini hosil qilib, Ibrohimning birin-ketin kuzatgan ikki xil voqeasi — sajda va ibodat — bir zanjirda bayon qilinadi.",
+          "uz": "va ko'rardi"
         }
       ]
     },
@@ -136,33 +181,45 @@
       "parts": [
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "إِبْرَاهِيمُ — كَانَ noqis fe'lining ismi bo'lib, raf' holatida kelgan. Bu so'z Ibrohimni matn bo'ylab davom etayotgan bilish va anglash jarayonining egasi sifatida taqdim etadi; keyingi xabar (يَعْرِفُ) shu eganing bilimi haqida gapiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يَعْرِفُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Biladi"
+          "e": "يَعْرِفُ — كَانَ ning fe'liy xabari bo'lib, muzоri' fe'li o'tgan zamonda doimiy bilish holatini ifodalaydi. Ibrohim faqat ko'rgan emas, balki butlarning mohiyatini ichdan anglagan edi — bu fe'l shu chuqur bilimni ko'rsatadi.",
+          "uz": "bilardi"
         },
         {
           "w": "أَنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب (أَنَّ)",
           "rc": "tb",
-          "e": "Muakkad bo'lak"
+          "e": "أَنَّ — توكид va nasb ma'nosini beruvchi harf bo'lib, يَعْرِفُ fe'lidan keyin sadr o'rnida kelgan ma'sul (مفعول به في محل نصب) jumlani boshlaydi. أَنَّ bilish mazmunini mustaqil tasdiqli tuzilmaga aylantiradi: «butlar tosh» degan haqiqat alohida ta'kidlanadi.",
+          "uz": "deb"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Inna egasi"
+          "e": "الْأَصْنَامَ — أَنَّ ning ismi bo'lib, nasb holatida kelgan. Ibrohimning bilimi aynan butlar haqida ekanligi ko'rsatilib, keyingi خَبَر (حِجَارَةٌ) shu ismdagi hukm-xabarni ifodalaydi.",
+          "uz": "butlar"
         },
         {
           "w": "حِجَارَةٌ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "Tosh"
+          "e": "حِجَارَةٌ — أَنَّ ning xabari bo'lib, raf' holatida kelgan. Bu xabar Ibrohimning butlarga nisbatan qat'iy haqiqatini bildiradi: ular ilohiy kuch emas, shunchaki tosh. Bu hikoyaning teologik-falsafiy asosini qo'yuvchi kalit xabar.",
+          "uz": "tosh"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'lidan iborat. Bu fe'l Ibrohimning kuzatuvidan bilimga o'tishini ko'rsatuvchi yangi bosqichni boshlaydi: avval ko'rdi, endi esa biladi — o'tgan zamonda doimiy ravishda.",
+          "uz": "va edi"
         }
       ]
     },
@@ -172,33 +229,45 @@
       "parts": [
         {
           "w": "يَعْرِفُ",
-          "r": "xabar",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Biladi"
+          "e": "يَعْرِفُ — كَانَ ning fe'liy xabari bo'lib, egasi avvalgi gapdan ma'lum İbrohim (ضمير مستتر: هو) hisoblanadi. Bu fe'l Ibrohimning butlar ojizligi haqidagi ikkinchi bilimini bayon qilib, avvalgi «tosh» haqiqatini yangi sifatlar bilan kengaytiradi.",
+          "uz": "bilardi"
         },
         {
           "w": "أَنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب (أَنَّ)",
           "rc": "tb",
-          "e": "Muakkad bo'lak"
+          "e": "أَنَّ — يَعْرِفُ fe'lidan keyin maf'ul o'rnida (في محل نصب مفعول به) kelgan tasdiqlovchi harf. Bu gapda أَنَّ tarkibi ichida ikkita inkorli xabar (لَا تَتَكَلَّمُ va لَا تَسْمَعُ) kelgan bo'lib, bilishning mazmuni aniqroq ochiladi.",
+          "uz": "deb"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Inna egasi"
+          "e": "الْأَصْنَامَ — أَنَّ ning ismi bo'lib, nasb holatida kelgan. Avvalgi gapda ham bu ism أَنَّ ning ismi sifatida kelgan edi; bu safar gapirmaslik va eshitmaslik xususiyatlari shu ismga nisbatlanadi.",
+          "uz": "butlar"
         },
         {
           "w": "لَا تَتَكَلَّمُ",
-          "r": "xabar inna (nafi)",
+          "r": "خَبَر أَنَّ (جُملَة فِعلِيَّة مَنفِيَّة)",
           "rc": "tx",
-          "e": "Gapirmaydi"
+          "e": "لَا تَتَكَلَّمُ — لَا nafiy harfi bilan kelgan inkorli muzоri' fe'li bo'lib, أَنَّ tarkibining birinchi xabari hisoblanadi. Butlarning gapira olmasligi ularning ilohlik da'vosiga to'g'ridan-to'g'ri qarshi — haqiqiy iloh so'zlashi kerak, bu esa so'zlashga qodir emas.",
+          "uz": "gapirmaydi"
         },
         {
           "w": "وَلَا تَسْمَعُ",
-          "r": "xabar inna (nafi)",
+          "r": "مَعطُوف (خَبَر أَنَّ الثَّانِي)",
           "rc": "tx",
-          "e": "Eshitmaydi"
+          "e": "وَلَا تَسْمَعُ — و atf harfi bilan birinchi inkorli xabarга ma'tuf bo'lgan ikkinchi خَبَر أَنَّ. لَا تَتَكَلَّمُ nutq ojizligini ko'rsatsa, لَا تَسْمَعُ idrok ojizligini ko'rsatadi — ikkalasi birgalikda butlarning mutlaq passivligini isbotlaydi.",
+          "uz": "va eshitmaydi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li Ibrohimning bilimlarini ketma-ket bayon qiluvchi uzluksiz zanjirni davom ettiradi. Bu tuzilma Ibrohimning butlar haqidagi turli chuqur bilimlarini parallel qiyoslarda ko'rsatish usulidir.",
+          "uz": "va edi"
         }
       ]
     },
@@ -208,33 +277,45 @@
       "parts": [
         {
           "w": "يَعْرِفُ",
-          "r": "xabar",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Biladi"
+          "e": "يَعْرِفُ — كَانَ ning fe'liy xabari bo'lib, egasi tushirilgan Ibrohim (ضمير مستتر: هو). Bu fe'l Ibrohimning butlar haqidagi uchinchi va oxirgi bilim qatlamini ochadi: so'zlashning yo'qligi, eshitishning yo'qligi, endi zarar va foyda berish qobiliyatining yo'qligi.",
+          "uz": "bilardi"
         },
         {
           "w": "أَنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب (أَنَّ)",
           "rc": "tb",
-          "e": "Muakkad bo'lak"
+          "e": "أَنَّ — يَعْرِفُ fe'lining maf'uli o'rnida (في محل نصب مفعول به) kelgan tasdiqlovchi harf. Bu gapda أَنَّ tarkibi ikki inkorli xabar orqali butlarning foyda va zarar berish jihatidan mutlaqo ahamiyatsiz ekanligini ta'kidlaydi.",
+          "uz": "deb"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Inna egasi"
+          "e": "الْأَصْنَامَ — أَنَّ ning ismi bo'lib, nasb holatida kelgan. Bu so'z uchinchi marta أَنَّ ning ismi sifatida takrorlanmoqda; bu takror Ibrohimning bir xil ob'ekt — butlar — haqida turli tomondan mulohaza yuritishini ko'rsatadi.",
+          "uz": "butlar"
         },
         {
           "w": "لَا تَضُرُّ",
-          "r": "xabar inna (nafi)",
+          "r": "خَبَر أَنَّ (جُملَة فِعلِيَّة مَنفِيَّة)",
           "rc": "tx",
-          "e": "Zarar bermaydi"
+          "e": "لَا تَضُرُّ — لَا nafiy harfi bilan inkorlangan muzоri' fe'li bo'lib, أَنَّ ning birinchi xabari. Butlarning zarar yetkaza olmasligi ularga sig'inish befoydaligini amaliy jihatdan isbotlaydi — odamlar ulardan xavfsirasalar-da, bu xavf asossiz.",
+          "uz": "zarar bermaydi"
         },
         {
           "w": "وَلَا تَنْفَعُ",
-          "r": "xabar inna (nafi)",
+          "r": "مَعطُوف (خَبَر أَنَّ الثَّانِي)",
           "rc": "tx",
-          "e": "Foyda bermaydi"
+          "e": "وَلَا تَنْفَعُ — و atf harfi bilan birinchi xabarга ma'tuf bo'lgan ikkinchi خَبَر أَنَّ. لَا تَضُرُّ salbiy ta'sirni inkor qilsa, لَا تَنْفَعُ ijobiy ta'sirni inkor qiladi — bu juftlik butlarning ikki tomonlama ojizligini to'liq yopib qo'yadi.",
+          "uz": "va foyda bermaydi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li uchinchi bor ketma-ket Ibrohimning bilimlarini bayon qiluvchi tuzilmani boshlaydi. Bu anafora uslubi Ibrohimning aqli har tomonlama butlarni sinab ko'rganini ritm bilan ta'kidlaydi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -244,33 +325,45 @@
       "parts": [
         {
           "w": "يَرَى",
-          "r": "xabar",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Ko'radi"
+          "e": "يَرَى — كَانَ ning fe'liy xabari bo'lib, egasi tushirilgan Ibrohim (ضمير مستتر: هو). Bu gapda Ibrohimning bilimi nazariy emas, balki kuzatuvga asoslangan — u butlar ustidagi pashshani ko'rdi; bu kuzatuv avvalgi bilimlarning amaliy isboti.",
+          "uz": "ko'radi"
         },
         {
           "w": "الذُّبَابَ",
-          "r": "maf'ul bih (يَجْلِسُ)",
+          "r": "مَفعُول بِه (يَرَى)",
           "rc": "tb",
-          "e": "Pashshalarni"
+          "e": "الذُّبَابَ — يَرَى fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. Ko'rilayotgan narsa pashsha — arabcha balogʻatda eng zaif mavjudot — sifatida tanlangan; bu Qur'оn (22:73) oyatiдаги «pashsha» ramziga ishora.",
+          "uz": "pashsha"
         },
         {
           "w": "يَجْلِسُ",
-          "r": "fe'l (hol)",
+          "r": "جُملَة حَالِيَّة (فِعل مُضَارِع)",
           "rc": "tf",
-          "e": "Qo'nadi"
+          "e": "يَجْلِسُ — الذُّبَابَ uchun hol-jumla (جملة حالية) bo'lib, pashsha ko'rilgan paytdagi holini ko'rsatadi. Fe'lning egasi الذُّبَاب bo'lib, uning butlar ustiga bemalol qo'nayotgani butlarning qandaydir darajada ojiz ekanini ko'z oldimizга keltiradi.",
+          "uz": "o'tiradi"
         },
         {
           "w": "عَلَى الْأَصْنَامِ",
-          "r": "mutaalliq (يَجْلِسُ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Butlar ustiga"
+          "e": "عَلَى الْأَصْنَامِ — عَلَى harf-jarri bilan majrur bo'lgan ism tarkibi يَجْلِسُ fe'liga taallуq (متعلق بالفعل). «Ustiga» ma'nosi pashshaning butlar taniga bevosita tegishini ko'rsatadi — bu esa ilohiy muqaddaslik da'vosiga keskin zid.",
+          "uz": "butlar ustiga"
         },
         {
           "w": "فَلَا تَدْفَعُ",
-          "r": "fe'l",
+          "r": "جُملَة فِعلِيَّة مَنفِيَّة (فَاء السَّبَبِيَّة)",
           "rc": "tf",
-          "e": "Haydamaydi"
+          "e": "فَلَا تَدْفَعُ — فَاء السببية (sabab-natija fasi) va لَا nafiy harfi bilan inkorlangan muzоri' fe'lidan tashkil topgan. Bu tarkib butlarning pashshaga qarshi munosabatining yo'qligini, ya'ni ularning mutlaq harakatsizligini natija sifatida ko'rsatadi — ko'rish bilan natija o'rtasidagi mantiqiy bog'liq.",
+          "uz": "haydamaydi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li Ibrohimning yana bir kuzatuvini oldidagi bilim gaplaridan keyingi amaliy misol sifatida boshlaydi. Bu gap bilimdan kuzatuvga o'tishni ko'rsatuvchi syujet burilishidir.",
+          "uz": "va edi"
         }
       ]
     },
@@ -280,27 +373,45 @@
       "parts": [
         {
           "w": "الْفَأْرَ",
-          "r": "maf'ul bih (يَأْكُلُ)",
+          "r": "مَفعُول بِه (يَرَى)",
           "rc": "tb",
-          "e": "Sichqonni"
+          "e": "الْفَأْرَ — يَرَى fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. Avvalgi gapda pashsha tanlangan bo'lsa, bu gapda sichqon — taomga hujum qiladigan jonivor — tanlanib, butlarning himoyasizligini yangi kontekstda ko'rsatadi.",
+          "uz": "sichqon"
         },
         {
           "w": "يَأْكُلُ",
-          "r": "fe'l (hol)",
+          "r": "جُملَة حَالِيَّة (فِعل مُضَارِع)",
           "rc": "tf",
-          "e": "Yeydi"
+          "e": "يَأْكُلُ — الْفَأْرَ uchun hol-jumla (جملة حالية) bo'lib, sichqon ko'rilayotgan paytda nima qilayotganini bildiradi. Fe'l muzоri' bo'lib, doimiy va takrorlanuvchi harakatni ifodalaydi — sichqon butlarga nazr qilingan taomni bemalol eydi.",
+          "uz": "eydi"
         },
         {
           "w": "طَعَامَ الْأَصْنَامِ",
-          "r": "maf'ul bih (يَأْكُلُ)",
+          "r": "مَفعُول بِه (يَأْكُلُ) + مُضَاف إِلَيه",
           "rc": "tb",
-          "e": "Butlarning taomini"
+          "e": "طَعَامَ الْأَصْنَامِ — يَأْكُلُ fe'lining maf'uli (مَفعُول بِه) bo'lib, طَعَامَ мудоф, الْأَصْنَامِ esa мудофун илайhi (مُضَاف إِلَيه) sifatida jar holatida kelgan. «Butlarning taomi» — ularga bag'ishlangan nazr-niyoz — sichqon tomonidan yeyilishi, butlarning o'z mulkini ham himoya qila olmasligini ko'rsatadi.",
+          "uz": "butlarning taomini"
         },
         {
           "w": "فَلَا تَمْنَعُ",
-          "r": "fe'l",
+          "r": "جُملَة فِعلِيَّة مَنفِيَّة (فَاء السَّبَبِيَّة)",
           "rc": "tf",
-          "e": "To'xtatmaydi"
+          "e": "فَلَا تَمْنَعُ — فَاء السببية va لَا nafiy harfi bilan inkorlangan muzоri' fe'lidan tashkil topgan natija jumla. Avvalgi gapda فَلَا تَدْفَعُ pashshani haydashga ojizlikni ko'rsatsa, bu فَلَا تَمْنَعُ o'z taomini sichqondan himoya qila olmaslikni ko'rsatadi — ikki parallel misol.",
+          "uz": "to'xtatmaydi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li avvalgi pashsha kuzatuviga parallel ikkinchi kuzatuvni boshlaydi. Ikkala gapning tuzilmasi bir xil (يَرَى + مَفعُول + حال + فَلَا) bo'lib, bu parallelizm uslubi isbotning kuchini ikkilaydi.",
+          "uz": "va edi"
+        },
+        {
+          "w": "يَرَى",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "يَرَى — كَانَ ning fe'liy xabari bo'lib, egasi tushirilgan Ibrohim (ضمير مستتر: هو). Bu fe'l Ibrohimning kuzatuv harakatini boshlaydi va keyingi maf'ul hamda hol-jumlalar shu fe'lga bog'lanadi.",
+          "uz": "ko'radi"
         }
       ]
     },
@@ -310,45 +421,59 @@
       "parts": [
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "إِبْرَاهِيمُ — كَانَ noqis fe'lining ismi bo'lib, raf' holatida kelgan. Bu so'z hikoya bo'ylab davom etgan kuzatuv va bilim gaplaridan keyin Ibrohimning ichki so'roq-fikr bosqichini boshlaydi; endi u faqat ko'rib bilmay, balki so'roq qilayapti.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يَقُولُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Aytadi"
+          "e": "يَقُولُ — كَانَ ning fe'liy xabari bo'lib, Ibrohimning o'zicha «gapirib» fikrlash jarayonini ifodalaydi. Bu fe'l keyingi مقول القول (aytilgan gap) uchun kirish bo'lib xizmat qiladi; فِي نَفْسِهِ tarkibi esa bu nutq ichki monolog ekanini bildiradi.",
+          "uz": "deydi"
         },
         {
           "w": "فِي نَفْسِهِ",
-          "r": "mutaalliq (يَسْجُدُ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان مَجَازِي)",
           "rc": "tmt",
-          "e": "O'zicha"
+          "e": "فِي نَفْسِهِ — فِي harf-jarri va نَفْس so'zi (هِ zamiri bilan) jar-majrur tarkibi bo'lib, يَقُولُ fe'liga taallуq. «O'z ichida» degan majoziy ma'konga ishora qilib, Ibrohimning bu so'roqni ovoz chiqarmay, ichida o'ylaganini ko'rsatadi.",
+          "uz": "o'zicha (ichida)"
         },
         {
           "w": "لِمَاذَا",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "Nega"
+          "e": "لِمَاذَا — لِ harf-jarri va مَاذَا istifhom olmoshidan tashkil topgan so'roq iborasi bo'lib, so'roq gapning boshida keladi va سَبَب (sabab) haqida so'raladi. Bu so'roq Ibrohimning haqiqiy hayron qolish va mantiq izlashini aks ettiradi.",
+          "uz": "nega"
         },
         {
           "w": "يَسْجُدُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Sajda qiladi"
+          "e": "يَسْجُدُ — so'roq jumlasining asosiy fe'li bo'lib, egasi (النَّاسُ) keyinroq kelgan. Bu fe'l Ibrohimning ko'rgan holatini so'roq shaklida takrorlaydi — u birinchi gaplarda sajdani kuzatgan, endi esa uning sababini so'raydi.",
+          "uz": "sajda qiladi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (يَسْجُدُ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — يَسْجُدُ fe'lining fo'ili (فَاعِل) bo'lib, raf' holatida kelgan. Odamlar bu so'roqda harakat sub'ekti sifatida keltirilgan; Ibrohim ularning xulq-atvorini tushuna olmay, ich-ichidan savol bermoqda.",
+          "uz": "odamlar"
         },
         {
           "w": "لِلْأَصْنَامِ",
-          "r": "mutaalliq (يَسْجُدُ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ يَسْجُدُ)",
           "rc": "tmt",
-          "e": "Butlarga"
+          "e": "لِلْأَصْنَامِ — لِ harf-jarri bilan majrur bo'lgan ism tarkibi يَسْجُدُ fe'liga taallуq (متعلق بالفعل). Sajdaning yo'nalishi — aynan butlarga — so'roqning mohiyatini tashkil qiladi: ular tosh ekanini bilgan holda, nega?",
+          "uz": "butlarga"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li Ibrohimning kuzatuv va bilimdan so'roqqa o'tishini ko'rsatuvchi yangi bosqichni boshlaydi. Bu gap hikoyada Ibrohimning intellektual-ma'naviy uyg'onishining avjiga ko'tarilishidir.",
+          "uz": "va edi"
         }
       ]
     },
@@ -358,39 +483,59 @@
       "parts": [
         {
           "w": "يَسْأَلُ",
-          "r": "xabar",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "So'raydi"
+          "e": "يَسْأَلُ — كَانَ ning fe'liy xabari bo'lib, egasi اسم كان Ibrohim. Bu fe'l avvalgi gapda يَقُولُ (ichida gapiradi) bo'lsa, bu yerda يَسْأَلُ (so'raydi) bilan almashadi — harakatning chuqurroq ichki so'roqqa aylangani ko'rinadi.",
+          "uz": "so'raydi"
         },
         {
           "w": "نَفْسَهُ",
-          "r": "maf'ul bih (يَسْأَلُ)",
+          "r": "مَفعُول بِه (يَسْأَلُ)",
           "rc": "tb",
-          "e": "O'zini"
+          "e": "نَفْسَهُ — يَسْأَلُ fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. هُ zamiri Ibrohimga qaytadi; «o'zini so'rash» — ya'ni ichki so'roq, o'z-o'zi bilan suhbat — avvalgi فِي نَفْسِهِ iborasini yanada kuchaytiradi.",
+          "uz": "o'zini"
         },
         {
           "w": "لِمَاذَا",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "Nega"
+          "e": "لِمَاذَا — sabab so'raydigan istifhom iborasi bo'lib, so'roq gapining boshida keladi. Bu ikkinchi so'roqda Ibrohim yana nega savolini beradi, bu safar ibodat emas, балки so'rash (سؤال) harakatining sababini so'raydi.",
+          "uz": "nega"
         },
         {
           "w": "يَسْأَلُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "So'raydi"
+          "e": "يَسْأَلُ — so'roq jumlasining asosiy fe'li bo'lib, odamlarning butlarga so'roq qo'yish harakatini ifodalaydi. Qiziq parallelizm: Ibrohim o'zini so'rasa (يَسْأَلُ نَفْسَهُ), odamlar esa butlarni so'rasa (يَسْأَلُ النَّاسُ الْأَصْنَامَ) — bir fe'l ikki xil sub'ekt va ob'ekt bilan ishlatilgan.",
+          "uz": "so'raydi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (يَسْأَلُ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — يَسْأَلُ fe'lining fo'ili (فَاعِل) bo'lib, raf' holatida kelgan. Odamlar bu yerda butlarga murojaat qiluvchi harakat egasi sifatida keladi; bu ularning butlarga sig'inishining yana bir ko'rinishi — nafaqat sajda, balki iltijoyu so'roq.",
+          "uz": "odamlar"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "maf'ul bih (يَسْأَلُ)",
+          "r": "مَفعُول بِه (يَسْأَلُ)",
           "rc": "tb",
-          "e": "Butlardan"
+          "e": "الْأَصْنَامَ — يَسْأَلُ fe'lining bevosita maf'uli (مَفعُول بِه) bo'lib, nasb holatida kelgan. Butlar bu gapda so'roqning ob'ekti — odamlar ularga murojaat qiladi; holbuki Ibrohim biladi ular na gapira oladi, na eshita oladi.",
+          "uz": "butlarga"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص (حَرف عَطف + فِعل)",
+          "rc": "tb",
+          "e": "وَكَانَ — و atf harfi va كَانَ noqis fe'li ikkinchi ichki so'roq gapini boshlaydi. Bu tuzilma avvalgi gapning grammatik ko'zgusi bo'lib, ikkala gap parallel qurilgan: وَكَانَ إِبْرَاهِيمُ يَسْأَلُ + maf'ul + so'roq jumla.",
+          "uz": "va edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — كَانَ noqis fe'lining ismi bo'lib, raf' holatida kelgan. Bu so'z hikoyada oxirgi marta شخс ismi bilan صریх zikr qilinib, Ibrohimning so'roq va mulohaza sub'ekti ekanini yakuniy ravishda tasdiqlaydi.",
+          "uz": "Ibrohim"
         }
       ]
     }

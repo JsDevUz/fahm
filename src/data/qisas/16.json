@@ -10,45 +10,52 @@
       "parts": [
         {
           "w": "كَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ — o'tgan zamonda kelgan noqis fe'l bo'lib, ism va xabarni talab qiladi. Bu gapda يُوسُفُ uning ismi, وَلَدًا صَغِيرًا esa xabari hisoblanadi. كَانَ ismi marfu', xabari mansub bo'ladi — bu noqis fe'llarning asosiy grammatik qoidasi.",
+          "uz": "edi"
         },
         {
           "w": "يُوسُفُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Yusuf"
+          "e": "يُوسُفُ — كَانَ noqis fe'lining ismi bo'lib, marfu' holatda kelgan (rafe' alomati damma). Noqis fe'lning ismi fojil o'rnida turadi va grammatik jihatdan doim marfu' bo'ladi. Bu gapda Yusufning kichkina bola ekani xabar qilinmoqda.",
+          "uz": "Yusuf"
         },
         {
           "w": "وَلَدًا صَغِيرًا",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Kichkina bola"
+          "e": "وَلَدًا صَغِيرًا — كَانَ noqis fe'lining xabari bo'lib, mansub holatda kelgan (nasb alomati tanvin fatha). صَغِيرًا so'zi وَلَدًا uchun sifat bo'lib, ikkalasi ham mansub. Xabar Yusufning o'sha paytdagi yoshlik holatini ta'riflaydi.",
+          "uz": "kichkina bola"
         },
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ — وَ bog'lovchisidan keyin kelgan ikkinchi noqis fe'l bo'lib, mavjudlik (mulk) ma'nosini ifodalaydi. Bu jumlada xabar oldinda kelgan (لَهُ) va ism keyin kelgan (أَخًا) — bu arab tilida inversiya (taqdim va ta'xir) usuli hisoblanadi.",
+          "uz": "edi"
         },
         {
           "w": "لَهُ",
-          "r": "mutaalliq (وَكَانَ)",
+          "r": "خَبَر كَان (جَار وَمَجرُور)",
           "rc": "tmt",
-          "e": "Uning"
+          "e": "لَهُ — لِ harf jarr va هُ zamiridan tashkil topgan jar-majrur tarkibi bo'lib, وَكَانَ noqis fe'lining xabari vazifasida kelgan. Xabarning isimdan oldin kelishi arab tilidagi taqdim usuli bo'lib, nidoliq (emphasis) uchun qo'llaniladi. هُ zamiri Yusufga qaytib, aka-ukalarning unga mansub ekanini bildiradi.",
+          "uz": "uning"
         },
         {
           "w": "أَحَدَ عَشَرَ",
-          "r": "ma'dud",
+          "r": "عَدَد (مُرَكَّب)",
           "rc": "tm",
-          "e": "O'n bir"
+          "e": "أَحَدَ عَشَرَ — murakkab son (11) bo'lib, arab tilida 11–19 sonlari doim mabni bo'ladi (i'robdan o'zgarmaydi) va ular birlashib yaxlit son hosil qiladi. Bu son أَخًا ma'dudini miqdor jihatdan belgilaydi. Murakkab sonlar mansub o'rinda qoladi.",
+          "uz": "o'n bir"
         },
         {
           "w": "أَخًا",
-          "r": "xabar",
+          "r": "اسم كَان (مَعدُود)",
           "rc": "tx",
-          "e": "Aka-uka"
+          "e": "أَخًا — وَكَانَ noqis fe'lining ismi bo'lib, mansub holatda kelgan. U ayni paytda أَحَدَ عَشَرَ sonining ma'dudi (sanalguvchi) hisoblanadi. Arab tilida 11–99 oralig'idagi sonlarning ma'dudi doim mansub, birlikda keladi — bu holat shu qoidaning namunasidir.",
+          "uz": "aka-uka"
         }
       ]
     },
@@ -58,21 +65,31 @@
       "parts": [
         {
           "w": "يُوسُفُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Yusuf"
+          "e": "يُوسُفُ — birinchi كَانَ noqis fe'lining ismi bo'lib, marfu' holatda (damma bilan). Ism noqis fe'ldan keyin kelgan va Yusufning go'zallik sifati xabar orqali bayon qilinmoqda. Xos ism (alam) bo'lgani uchun harakat bilan i'rob oladi.",
+          "uz": "Yusuf"
         },
         {
           "w": "غُلَامًا جَمِيلًا",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Go'zal bola"
+          "e": "غُلَامًا جَمِيلًا — birinchi كَانَ ning xabari bo'lib, ikkalasi ham mansub holatda kelgan. جَمِيلًا so'zi غُلَامًا uchun sifat (نَعت) bo'lib, sifat mevsufiga muvofiq mansub kelgan. Xabar Yusufning o'sha davrda go'zal yigit ekanini ta'riflaydi.",
+          "uz": "go'zal bola"
         },
         {
           "w": "غُلَامًا ذَكِيًّا",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Aqlli bola"
+          "e": "غُلَامًا ذَكِيًّا — ikkinchi كَانَ ning xabari bo'lib, mansub holatda kelgan. ذَكِيًّا sifati غُلَامًا ni aniqlab, Yusufning zakovati va idrokini bildiradi. Ikki jumlaning parallel tuzilishi (تَوَازِي) Yusufning ikkala fazilatini alohida ta'kidlash uchun qo'llanilgan.",
+          "uz": "aqlli bola"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ — وَ atf harfi bilan bog'langan ikkinchi noqis fe'l bo'lib, birinchi jumlani ikkinchisiga ulab, Yusufning ikkinchi sifatini bayon qiladi. Ikkala jumlaning كَانَ bilan boshlanishi parallel struktura (parallelizm) hosil qilib, ta'kidni kuchaytiradi.",
+          "uz": "edi"
         }
       ]
     },
@@ -82,33 +99,45 @@
       "parts": [
         {
           "w": "أَبُوهُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Otasi"
+          "e": "أَبُوهُ — كَانَ noqis fe'lining ismi bo'lib, marfu' holatda kelgan (vov bilan, chunki أَب asmoul xamsadan). هُ zamiri Yusufga qaytadi. Ism noqis fe'ldan keyin kelishi odatiy tartib bo'lib, xabar (يُحِبُّهُ) undan keyinroq joylashgan.",
+          "uz": "otasi"
         },
         {
           "w": "يَعْقُوبُ",
-          "r": "badal",
+          "r": "بَدَل",
           "rc": "tb",
-          "e": "Ya'qub"
+          "e": "يَعْقُوبُ — أَبُوهُ uchun badal (بَدَل مُطَابِق) bo'lib, marfu' holatda kelgan. Badal asliga muvofiq i'rob oladi. Bu so'z اسم كَانning ismiga mos kelgan shaklda ishlatilgan — ya'ni Yusufning otasi kimligini aniq ism bilan izohlaydi.",
+          "uz": "Ya'qub"
         },
         {
           "w": "يُحِبُّهُ",
-          "r": "xabar",
+          "r": "خَبَر كَان (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Uni sevar edi"
+          "e": "يُحِبُّهُ — كَانَ noqis fe'lining xabari bo'lib, fe'l jumlasi shaklida kelgan. Xabar fe'l jumlasidan iborat bo'lganda mansub bo'lmaydi, balki o'z i'robini saqlaydi. هُ zamiri maf'ul bo'lib Yusufga qaytadi. Bu tuzilma sevgining doimiyligini (muzori' fe'l) ta'kidlaydi.",
+          "uz": "uni sevar edi"
         },
         {
           "w": "أَكْثَرَ",
-          "r": "hol",
+          "r": "حَال (مَفعُول مُطلَق تَشبِيهِي)",
           "rc": "th",
-          "e": "Ko'proq"
+          "e": "أَكْثَرَ — taqqoslash ismi (اسم التَّفضِيل) bo'lib, sevgining darajasini ifodalaydi. U hol vazifasida mansub holatda kelgan. Bu so'z مِنْ harfidan oldin kelishi bilan taqqoslash ma'nosini yuzaga keltiradi — Ya'qubning Yusufga bo'lgan muhabbati boshqalarnikidan ortiq ekani grammatik jihatdan rasmiylashtiriladi.",
+          "uz": "ko'proq"
         },
         {
           "w": "مِنْ جَمِيعِ إِخْوَتِهِ",
-          "r": "mutaalliq",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِأَكثَر)",
           "rc": "tmt",
-          "e": "Barcha aka-ukalaridan"
+          "e": "مِنْ جَمِيعِ إِخْوَتِهِ — مِنْ taqqoslash harfi jarr bo'lib, أَكْثَرَ taqqoslash ismi bilan bog'liq. جَمِيع so'zi مُضَاف, إِخْوَتِهِ esa مُضَاف إِلَيه bo'lib majrur holatda. هِ zamiri Yusufga qaytib, taqqoslash barchaning ichida ekanini bildiradi.",
+          "uz": "barcha aka-ukalaridan"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ — وَ bog'lovchisi bilan kelgan noqis fe'l bo'lib, oldingi gapga ulangan. Bu fe'l Ya'qubning Yusufga bo'lgan doimiy va barqaror sevgisini o'tgan zamon davomiyligi sifatida ifodalaydi. كَانَ ning muzori' xabari bilan kelishi harakatning doimiyligi (استمراريّة) ma'nosini beradi.",
+          "uz": "edi"
         }
       ]
     },
@@ -118,27 +147,31 @@
       "parts": [
         {
           "w": "ذَاتَ لَيْلَةٍ",
-          "r": "zarf (رَأَى)",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "Bir kechada"
+          "e": "ذَاتَ لَيْلَةٍ — vaqt zarfi bo'lib, رَأَى fe'lining vaqtini bildiradi. ذَات so'zi مُضَاف, لَيْلَةٍ esa مُضَاف إِلَيه bo'lib majrur. Zarf doim mansub holatda keladi. Bu birikma muayyan kechani emas, balki noma'lum bir kechani bildiradi (noaniqlik لَيْلَةٍ ning tanvinida).",
+          "uz": "bir kechada"
         },
         {
           "w": "رَأَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ko'rdi"
+          "e": "رَأَى — o'tgan zamondagi ko'rish fe'li bo'lib, yashirin fo'ili Yusuf. Fe'l mabni ala fath (o'zgarmas). رُؤْيًا عَجِيبَةً uning maf'ul bihi. Ko'rish fe'li bu gapda hissiy ko'rish emas, balki tush orqali ko'rishni anglatadi — bu arabchada رُؤيَا so'zi bilan aniqlanadi.",
+          "uz": "ko'rdi"
         },
         {
           "w": "يُوسُفُ",
-          "r": "fo'il (رَأَى)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Yusuf"
+          "e": "يُوسُفُ — رَأَى fe'lining fo'ili bo'lib, marfu' holatda (damma bilan). Fo'il fe'ldan keyin kelishi odatiy tartib (fe'l-fo'il-maf'ul). Bu ism tushni ko'rgan shaxsni belgilaydi va qissa markaziy shaxsining harakati sifatida muhim rol o'ynaydi.",
+          "uz": "Yusuf"
         },
         {
           "w": "رُؤْيًا عَجِيبَةً",
-          "r": "maf'ul bih (رَأَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ajoyib tush"
+          "e": "رُؤْيًا عَجِيبَةً — رَأَى fe'lining maf'ul bihi bo'lib, mansub holatda (tanvin fatha). عَجِيبَةً so'zi رُؤيَا uchun sifat (نَعت) bo'lib, unga muvofiq mansub kelgan. رُؤيَا so'zi alif maqsura bilan tugashi (tush ma'nosida) ва عَجِيبَةً sifati tushning g'aroyib tabiatini ta'kidlaydi.",
+          "uz": "ajoyib tush"
         }
       ]
     },
@@ -148,51 +181,59 @@
       "parts": [
         {
           "w": "رَأَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ko'rdi"
+          "e": "رَأَى — yashirin fo'ili Yusuf bo'lgan o'tgan zamon fe'li. Bu gapda fe'l ikki marta takrorlanishi (رَأَى ... وَرَأَى) tushda ko'rilgan narsalarni ikkiga bo'lib ko'rsatish uchun qo'llanilgan — birinchisi yulduzlar, ikkinchisi quyosh va oy.",
+          "uz": "ko'rdi"
         },
         {
           "w": "أَحَدَ عَشَرَ كَوْكَبًا",
-          "r": "maf'ul bih (رَأَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "O'n bir yulduzni"
+          "e": "أَحَدَ عَشَرَ كَوْكَبًا — رَأَى fe'lining maf'ul bihi bo'lib, mansub holatda kelgan. أَحَدَ عَشَرَ murakkab son (mabni ala fath), كَوْكَبًا esa uning ma'dudi bo'lib mansub, birlikda keladi. Bu struktura 11–99 sonlari qoidasiga mos.",
+          "uz": "o'n bir yulduzni"
         },
         {
           "w": "وَرَأَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (مَعطُوف)",
           "rc": "tf",
-          "e": "Va ko'rdi"
+          "e": "وَرَأَى — وَ atf harfi bilan birinchi رَأَى ga ma'tuf bo'lgan fe'l. Ma'tuf bo'lganda fe'l ham atf qoidasiga ko'ra bir xil holatda keladi. Bu fe'l Yusufning tushda quyosh va oyni ko'rganini alohida ta'kidlash uchun takroran ishlatilgan.",
+          "uz": "va ko'rdi"
         },
         {
           "w": "الشَّمْسَ",
-          "r": "maf'ul bih (وَرَأَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Quyoshni"
+          "e": "الشَّمْسَ — ikkinchi رَأَى fe'lining maf'ul bihi bo'lib, mansub holatda (fatha bilan). Ma'rifali (alif-lom bilan) bo'lgani uchun tanvinsiz kelgan. Tushda ko'rilgan osmon jismlarining birinchisi sifatida keladi va Yusufning tushining syurrealistik tabiatini ko'rsatadi.",
+          "uz": "Quyoshni"
         },
         {
           "w": "وَالْقَمَرَ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "Va oyni"
+          "e": "وَالْقَمَرَ — الشَّمْسَ ga وَ atf harfi bilan ma'tuf bo'lib, mansub holatda (fatha). Ma'tuf ma'tuf alayh bilan bir xil i'robda keladi — bu arab tilida atf qoidasi. Oy quyosh bilan birgalikda Yusufning tushida muhim ramziy ma'no kasb etadi.",
+          "uz": "va oyni"
         },
         {
           "w": "كُلٌّ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Har biri"
+          "e": "كُلٌّ — mustaqil mubtado bo'lib, marfu' holatda (damma va tanvin). U oldingi gapda zikr qilingan yulduzlar, quyosh va oyning barchasini o'zida jamlab, yangi hol jumlasini boshlaydi. كُلّ so'zining tanvinsiz emas, tanvin bilan (لٌّ) kelishi uning mustaqil islatilishini ko'rsatadi.",
+          "uz": "har biri"
         },
         {
           "w": "يَسْجُدُ",
-          "r": "xabar",
+          "r": "خَبَر (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Sajda qiladi"
+          "e": "يَسْجُدُ — كُلٌّ mubtadoning xabari bo'lib, fe'l jumlasi shaklida kelgan. Muzori' fe'l bo'lib, tush kontekstida harakatning ko'z oldida sodir bo'layotgandek tasvirlanishini bildiradi. Bu fe'l jumlasi xabar vazifasida mubtadoning holatini ta'riflaydi.",
+          "uz": "sajda qiladi"
         },
         {
           "w": "لَهُ",
-          "r": "mutaalliq (وَرَأَى)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِيَسجُد)",
           "rc": "tmt",
-          "e": "Unga"
+          "e": "لَهُ — لِ harf jarr va هُ zamiridan tashkil topgan jar-majrur tarkibi bo'lib, يَسجُد fe'liga bog'liq. هُ zamiri Yusufga qaytib, sajdaning kimga yo'naltirilganini ko'rsatadi. Bu ramziy ma'no keyinchalik haqiqatga aylangan voqeani bashorat qiladi.",
+          "uz": "uning"
         }
       ]
     },
@@ -202,33 +243,38 @@
       "parts": [
         {
           "w": "تَسْجُدُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع (إِنشَائِي)",
           "rc": "tf",
-          "e": "Sajda qiladimi"
+          "e": "تَسْجُدُ — so'roq-hayrat ohangidagi muzori' fe'l bo'lib, marfu' holatda (damma bilan). So'roq ma'nosi gap ohangida (intonatsiyada) aks etgan, aniq so'roq adati ishlatilmagan. Bu tuzilma hayrat va ishonchsizlikni (taajjub) ifodalash uchun qo'llanilgan.",
+          "uz": "sajda qilasan"
         },
         {
           "w": "الْكَوَاكِبُ",
-          "r": "fo'il (تَسْجُدُ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Yulduzlar"
+          "e": "الْكَوَاكِبُ — تَسجُدُ fe'lining fo'ili bo'lib, marfu' holatda (damma bilan). Jamlik shaklidagi ma'rifali ism. So'roq tarkibida fo'il fe'ldan keyin kelgan — bu oddiy fe'l jumlasi tartibiga mos. Yulduzlarning odamga sajda qilishi hayratlanarli hodisa sifatida ta'kidlanmoqda.",
+          "uz": "yulduzlar"
         },
         {
           "w": "وَالشَّمْسُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "Va quyosh"
+          "e": "وَالشَّمْسُ — الْكَوَاكِبُ ga وَ atf harfi bilan ma'tuf bo'lib, marfu' holatda (damma). Ma'tuf ma'tuf alayh bilan bir xil i'robda (marfu') keladi. Quyosh sajda qiluvchilar ro'yxatiga qo'shilishi so'roqning kengligini va hayratning chuqurligini ko'rsatadi.",
+          "uz": "quyosh esa"
         },
         {
           "w": "وَالْقَمَرُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "Va oy"
+          "e": "وَالْقَمَرُ — oldingi fo'illarga وَ atf harfi bilan ma'tuf bo'lib, marfu' holatda (damma). Oy ham sajda qiluvchilar qatoriga qo'shilishi bilan uchlik ro'yxat to'liq bo'ladi — bu uch kosmik jism Yusufning tushini va uning payg'ambarligini ramziy jihatdan kuchaytiradi.",
+          "uz": "va oyni"
         },
         {
           "w": "لِرَجُلٍ",
-          "r": "mutaalliq (تَسْجُدُ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِتَسجُد)",
           "rc": "tmt",
-          "e": "Bir odamga"
+          "e": "لِرَجُلٍ — لِ harf jarr va رَجُلٍ majrur ismdan tashkil topgan jar-majrur, تَسجُدُ fe'liga bog'liq. رَجُلٍ ning noaniq (tanvin bilan) kelishi muhim — bu 'qaysidir bir odam' ma'nosini beradi. So'roq tarkibida bu noaniqlik hayratni yanada kuchaytiradi: qaysi odamga ko'klar sajda qilishi mumkin?",
+          "uz": "bir odamga"
         }
       ]
     },
@@ -238,45 +284,52 @@
       "parts": [
         {
           "w": "ذَهَبَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Bordi"
+          "e": "ذَهَبَ — o'tgan zamondagi borish fe'li bo'lib, mabni ala fath (o'zgarmas). Fe'l jumlasini boshlab, Yusufning otasi tomon yo'nalgan harakatini ifodalaydi. Fo'il يُوسُفُ الصَّغِيرُ, maf'ul esa mavjud emas — fe'l lazim (o'timsiz) bo'lib, yo'nalish jar-majrur bilan berilgan.",
+          "uz": "ketdi"
         },
         {
           "w": "يُوسُفُ الصَّغِيرُ",
-          "r": "fo'il (ذَهَبَ)",
+          "r": "فَاعِل (مَوصُوف وَصِفَة)",
           "rc": "tm",
-          "e": "Kichkina Yusuf"
+          "e": "يُوسُفُ الصَّغِيرُ — ذَهَبَ fe'lining fo'ili bo'lib, marfu' holatda (damma). الصَّغِيرُ so'zi يُوسُفُ uchun sifat (نَعت) bo'lib, mevsuf va sifat orasida muvofiqlik bor: ikkalasi ma'rifali (alif-lom) va marfu'. Sifat Yusufning kichik yoshda ekanini ta'kidlab, qissaning emosional ta'sirini kuchaytiradi.",
+          "uz": "kichkina Yusuf"
         },
         {
           "w": "إِلَى أَبِيهِ",
-          "r": "mutaalliq (ذَهَبَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِذَهَبَ)",
           "rc": "tmt",
-          "e": "Otasining oldiga"
+          "e": "إِلَى أَبِيهِ — إِلَى yo'nalish harfi jarr va أَبِيهِ majrur ismdan tashkil topgan jar-majrur, ذَهَبَ fe'liga bog'liq. أَب asmoul xamsadan bo'lib, majrur holatda كسرة (kasra) bilan keladi. هِ zamiri Yusufga qaytib, otasining kimligini kontekstdan anglashga imkon beradi.",
+          "uz": "otasining oldiga"
         },
         {
           "w": "يَعْقُوبَ",
-          "r": "badal",
+          "r": "بَدَل",
           "rc": "tb",
-          "e": "Ya'qub"
+          "e": "يَعْقُوبَ — أَبِيهِ uchun badalul mutabiq (to'liq badal) bo'lib, majrur holatda fatha bilan kelgan. Bu g'ayrimunsarif ism (غير منصرف) bo'lgani uchun kasra o'rniga fatha oladi. Badal otasining aniq ismini beradi va tinglovchini qissaning asosiy shaxslari bilan tanishtiradi.",
+          "uz": "Ya'qub"
         },
         {
           "w": "وَحَكَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (مَعطُوف)",
           "rc": "tf",
-          "e": "Aytib berdi"
+          "e": "وَحَكَى — وَ atf harfi bilan ذَهَبَ ga ma'tuf bo'lgan o'tgan zamon fe'li. حَكَى fe'lining yashirin fo'ili Yusuf. Bu fe'l birinchi harakatning (borish) natijasi sifatida ikkinchi harakatni (hikoya qilish) bildiradi — Yusuf borib tushini aytib berdi.",
+          "uz": "aytib berdi"
         },
         {
           "w": "لَهُ",
-          "r": "mutaalliq (وَحَكَى)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِحَكَى)",
           "rc": "tmt",
-          "e": "Unga"
+          "e": "لَهُ — لِ harf jarr va هُ zamiridan tashkil topgan jar-majrur, حَكَى fe'liga bog'liq. هُ zamiri Ya'qubga qaytadi (kontekstdan). Bu tarkib hikoyaning kimga aytilganini — ya'ni mo'tadil maqsadni (maf'ul lahu emas, balki qo'shimcha maqsad) bildiradi.",
+          "uz": "uning"
         },
         {
           "w": "هَذِهِ الرُّؤْيَا الْعَجِيبَةَ",
-          "r": "maf'ul bih (وَحَكَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Bu ajoyib tushni"
+          "e": "هَذِهِ الرُّؤْيَا الْعَجِيبَةَ — حَكَى fe'lining maf'ul bihi bo'lib, mansub holatda. هَذِهِ ism ishora (ko'rsatish olmoshi) bo'lib الرُّؤيَا ga ishora qiladi; الْعَجِيبَةَ esa sifat. Uchta unsur (ishora, mevsuf, sifat) barchasi mansub holatda bir-biriga mos kelgan. هَذِهِ ning qo'llanishi tushning aynan shu ajoyib tush ekanini ta'kidlaydi.",
+          "uz": "bu ajoyib tushni"
         }
       ]
     },
@@ -286,57 +339,66 @@
       "parts": [
         {
           "w": "يَا أَبَتِ",
-          "r": "nido",
+          "r": "حَرف نِدَاء وَمُنَادَى",
           "rc": "tb",
-          "e": "Otajon"
+          "e": "يَا أَبَتِ — يَا nido harfi va أَبَت nidosi. أَبَ so'ziga تِ (ta marbuta nido uchun) qo'shilishi xos ism bilan murojaat qilishning mehrli, samimiy usuli. Munoda mansub o'rinda kelishi kerak edi, lekin تِ qo'shimchasi tufayli shakl o'zgangan. Bu ibora Quron oyatida Yusufning otasiga nisbatan hurmat va mehribonligini ifodalaydi.",
+          "uz": "otajon"
         },
         {
           "w": "إِنِّي",
-          "r": "inna",
+          "r": "حَرف تَوكِيد وَاسمُهَا",
           "rc": "tb",
-          "e": "Albatta men"
+          "e": "إِنِّي — إِنَّ ta'kid harfi va نِ (ya'ni ي mutakallim zamiri, ya'ni 'men') dan tashkil topgan. إِنَّ ismi mansub bo'ladi — bu yerda ي zamiri ismi. إِنَّ xabarni kuchaytirish uchun qo'llanilgan: Yusuf o'z tushining haqiqiyligini ta'kidlab aytmoqda.",
+          "uz": "albatta men"
         },
         {
           "w": "رَأَيْتُ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (خَبَر إِنَّ)",
           "rc": "tf",
-          "e": "Ko'rdim"
+          "e": "رَأَيْتُ — إِنَّ ning xabari sifatida kelgan fe'l jumlasi. تُ qo'shimchasi so'zlovchini (Yusufni) fo'il sifatida bildiradi. Bu fe'l إِنَّ ning xabari bo'lib, fe'l jumlasi shaklida kelganda o'z i'robini saqlaydi. رَأيتُ تُشsning shaxsiy guvoh sifatida aytilishini ta'kidlaydi.",
+          "uz": "ko'rdim"
         },
         {
           "w": "أَحَدَ عَشَرَ كَوْكَبًا",
-          "r": "maf'ul bih (رَأَيْتُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "O'n bir yulduzni"
+          "e": "أَحَدَ عَشَرَ كَوْكَبًا — رَأَيْتُ fe'lining maf'ul bihi bo'lib, mansub holatda. أَحَدَ عَشَرَ mabni ala fath murakkab son, كَوْكَبًا esa uning ma'dudi mansub birlikda. Bu Yusufning Quron oyatidagi tushini bevosita iqtibos qilish bo'lib, aka-ukalarni ramziy bildirgan 11 yulduz.",
+          "uz": "o'n bir yulduzni"
         },
         {
           "w": "وَالشَّمْسَ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (مَفعُول بِه)",
           "rc": "tb",
-          "e": "Va quyoshni"
+          "e": "وَالشَّمْسَ — كَوْكَبًا ga وَ atf harfi bilan ma'tuf maf'ul bo'lib, mansub holatda (fatha). Atf qoidasiga ko'ra ma'tuf ma'tuf alayh bilan bir xil i'robda keladi. Quyosh Quron tafsirida Yusufning onasini (yoki xolasini) ramziy bildiradi.",
+          "uz": "quyosh esa"
         },
         {
           "w": "وَالْقَمَرَ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (مَفعُول بِه)",
           "rc": "tb",
-          "e": "Va oyni"
+          "e": "وَالْقَمَرَ — وَالشَّمْسَ ga وَ atf harfi bilan ma'tuf bo'lib, mansub holatda (fatha). Oy Quron tafsirida Yusufning otasi Ya'qubni ramziy bildiradi. Uchta kosmik jism — yulduzlar, quyosh, oy — Yusufning kelgusidagi ulug'ligini bashorat qiladi.",
+          "uz": "va oyni"
         },
         {
           "w": "رَأَيْتُهُمْ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (تَوكِيد)",
           "rc": "tf",
-          "e": "Ularni ko'rdim"
+          "e": "رَأَيْتُهُمْ — ikkinchi ko'rish fe'li bo'lib, هُمْ zamiri oldingi maf'ullarning barchasiga (yulduzlar, quyosh, oy) qaytadi. Birinchi رَأيتُ dan keyin bu fe'lning takrorlanishi ta'kidiy tuzilma (ta'kidiy takror) hosil qiladi. Bu usul Quron uslubida ko'rilgan narsaning hol jihatini alohida ta'kidlash uchun qo'llanilgan.",
+          "uz": "ularni ko'rdim"
         },
         {
           "w": "لِي",
-          "r": "mutaalliq (رَأَيْتُهُمْ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِسَاجِدِين)",
           "rc": "tmt",
-          "e": "Menga"
+          "e": "لِي — لِ harf jarr va ي mutakallim zamiridan tashkil topgan jar-majrur tarkibi, سَاجِدِينَ sifat-holiga bog'liq. ي zamiri Yusufga (so'zlovchiga) qaytib, sajdaning unga qaratilganini bildiradi. Bu jar-majrurning سَاجِدِين dan oldin kelishi ta'kid maqsadida qo'llanilgan.",
+          "uz": "menga"
         },
         {
           "w": "سَاجِدِينَ",
-          "r": "hol (رَأَيْتُهُمْ)",
+          "r": "حَال",
           "rc": "th",
-          "e": "Sajda qilayotgan"
+          "e": "سَاجِدِينَ — رَأَيْتُهُمْ fe'lining maf'uli (هُمْ) uchun hol bo'lib, mansub jamlik shaklida (-ina qo'shimchasi bilan). Hol ko'rilgan narsalarning sajda qilayotgan holini ta'riflaydi. Hol doim mansub keladi va sahib al-holga (هُمْ) sonida muvofiq bo'ladi — bu yerda jamlik shakli shuning uchun.",
+          "uz": "sajda qilayotgan"
         }
       ]
     }

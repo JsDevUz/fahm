@@ -10,45 +10,59 @@
       "parts": [
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "إِبْرَاهِيمُ noqis fe'l كَانَ ning ismi bo'lib, marfu' holda kelgan va gapning asosiy mavzusini belgilaydi. كَانَ ismi o'tmish zamondagi doimiy holatni tavsiflovchi ot-xabar tarkibida mubtadoning o'rnini egallaydi va keyingi xabar aynan shu shaxs — Ibrohim — haqida aytilishini bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يَقُولُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Aytadi"
+          "e": "يَقُولُ fe'li كَانَ ning xabari bo'lib, Ibrohimning o'sha davrda odatda nima qilganini — otasiga nasihat aytishini — bildiradi. كَانَ + muzorii' tarkibi arabchada o'tmishdagi takroriy yoki davomiy harakatni ifodalash uchun ishlatiladi, ya'ni bu bir marta emas, balki muntazam ravishda bo'lgan.",
+          "uz": "deydi"
         },
         {
           "w": "لِوَالِدِهِ",
-          "r": "mutaalliq (تَعْبُدُ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Otasiga"
+          "e": "لِوَالِدِهِ jar va majrur tarkibi bo'lib, يَقُولُ fe'liga mutallaq sifatida bog'langan va nutq kimga qaratilganligini — otasiga — bildiradi. لِ harfi jar maqsadga yo'nalishni ko'rsatadi, وَالِدِهِ esa izofali majrur bo'lib, ضَمِير هِ orqali Ibrohimga nisbat bildiradi.",
+          "uz": "otasiga"
         },
         {
           "w": "يَا أَبِي",
-          "r": "nido",
+          "r": "نِدَاء",
           "rc": "tb",
-          "e": "Chaqiriq"
+          "e": "يَا أَبِي nido tarkibi bo'lib, يَا nido harfi, أَبِي esa منادى — murojaat ob'ekti. أَبِي ning oxiridagi يَاء mutakallim murojaat qilinayotgan shaxsning Ibrohimning o'z otasi ekanligini ko'rsatadi. Nido sintaktik jihatdan gapning asosiy tuzilmasidan ajratilgan mustaqil tarkib hisoblanadi.",
+          "uz": "ey otajon"
         },
         {
           "w": "لِمَاذَا",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "Nega"
+          "e": "لِمَاذَا so'roq olmoshi bo'lib, لِ harfi jar va مَاذَا istifhom ismidan tashkil topgan; u so'roq gapning sabab ma'nosini so'rab kelgan va fe'l تَعْبُدُ ning motivini so'raydi. Bu tarkib arabchada «nega, nima sababdan» ma'nosida sababni so'rash uchun qo'llanadi.",
+          "uz": "nega"
         },
         {
           "w": "تَعْبُدُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Ibodat qilasan"
+          "e": "تَعْبُدُ hozirgi-kelasi zamon fe'li bo'lib, ikkinchi shaxs mufradi murojaat, ya'ni otasi bilan suhbatda «sen ibodat qilasan» ma'nosini anglatadi. Bu so'roq gapning asosiy yuklamchisi bo'lib, gapning butun ma'nosi — otaning butlarga sajda qilish amalini tanqid qilish — aynan shu fe'l atrofida uyushadi.",
+          "uz": "ibodat qilasan"
         },
         {
           "w": "هَذِهِ الْأَصْنَامَ",
-          "r": "maf'ul bih (تَعْبُدُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Bu butlarga"
+          "e": "هَذِهِ الْأَصْنَامَ fe'l تَعْبُدُ ning maf'ul bihi bo'lib, mansub holda kelgan va ibodat qilish amali tushgan ob'ektni — aynan bu butlarni — ko'rsatadi. هَذِهِ ism ishorasi الْأَصْنَامَ ni aniqlab, nutq payti ko'rinib turgan yoki yaqindagi narsalar ekanligini ta'kidlaydi.",
+          "uz": "bu butlarni"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ ikki qismdan iborat: وَ ulovchi harfi bo'lib, bu gapni oldingisiga bog'laydi; كَانَ esa noqis fe'l bo'lib, ism va xabarini boshqaradi. كَانَ fe'li o'tmish zamondagi davomiy yoki takroriy holatni ifodalash uchun ishlatiladi va bu gapda Ibrohimning otasiga muntazam nasihat qilish odatini tavsiflamoqda.",
+          "uz": "va edi"
         }
       ]
     },
@@ -58,27 +72,38 @@
       "parts": [
         {
           "w": "يَا أَبِي",
-          "r": "nido",
+          "r": "نِدَاء",
           "rc": "tb",
-          "e": "Chaqiriq"
+          "e": "يَا أَبِي nido tarkibi bo'lib, Ibrohim navbatdagi savolini ham otasiga murojaat bilan boshlayapti. يَا nido harfi, أَبِي esa منادى vazifasida turadi. Bu takroriy nido uslubi nutqqa emotsional ta'kid qo'shadi va otaning e'tiborini jalb qilish maqsadini ko'rsatadi.",
+          "uz": "ey otajon"
         },
         {
           "w": "لِمَاذَا",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "Nega"
+          "e": "لِمَاذَا sababni so'rovchi istifhom olmoshi bo'lib, تَسْجُدُ fe'lining motivini — nega sajda qilinayotganini — so'raydi. Bu so'roq gapning mantiqiy o'zagini tashkil qilib, butlarga sajda qilishning ma'nosizligini ta'kidlashga yo'naltirilgan.",
+          "uz": "nega"
         },
         {
           "w": "تَسْجُدُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Sajda qilasan"
+          "e": "تَسْجُدُ hozirgi-kelasi zamon fe'li bo'lib, ikkinchi shaxs mufradi murojaat ma'nosida kelgan. Bu gapning asosiy yuklamchisi bo'lib, sajda qilish amali so'roq ostiga olinmoqda. Birinchi so'roqda عِبَادَة, bu savolda esa sajda so'ralib, har safar butlarga munosabatning yangi jihati tanqid qilinmoqda.",
+          "uz": "sajda qilasan"
         },
         {
           "w": "لِهَذِهِ الْأَصْنَامِ",
-          "r": "mutaalliq (تَسْجُدُ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Bu butlarga"
+          "e": "لِهَذِهِ الْأَصْنَامِ jar va majrur tarkibi bo'lib, تَسْجُدُ fe'liga mutallaq sifatida bog'langan; sajda kimga yoki nimaga qaratilganligini — aynan bu butlarga — aniqlashtiradi. لِ harfi jar yo'nalish va maqsadni bildiradi, هَذِهِ الْأَصْنَامِ esa majrur holda kelgan.",
+          "uz": "bu butlarga"
+        },
+        {
+          "w": "وَيَا",
+          "r": "حَرف عَطف + حَرف نِدَاء",
+          "rc": "tb",
+          "e": "وَيَا ikki harfdan iborat: وَ bu gapni oldingi gapga bog'lagan ulovchi harf, يَا esa nido harfi. Bu tarkib Ibrohimning bir qator savollarini ulaydigan anafora uslubini yaratadi va har bir savol oldingisining mantiqiy davomi sifatida kelayotganini ko'rsatadi.",
+          "uz": "va ey"
         }
       ]
     },
@@ -88,15 +113,38 @@
       "parts": [
         {
           "w": "تَسْأَلُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "So'raysan"
+          "e": "تَسْأَلُ hozirgi-kelasi zamon fe'li bo'lib, ikkinchi shaxs mufradi murojaat ma'nosida kelgan. Bu uchinchi savolning asosiy yuklamchisi bo'lib, endi butlardan so'rash amali tanqid qilinmoqda. Ibrohimning savollari ketma-ketligi — ibodat, sajda, so'rash — butlarga bo'lgan barcha munosabat shakllarini qamrab oladi.",
+          "uz": "so'raysan"
         },
         {
           "w": "هَذِهِ الْأَصْنَامَ",
-          "r": "maf'ul bih (تَسْأَلُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Bu butlardan"
+          "e": "هَذِهِ الْأَصْنَامَ fe'l تَسْأَلُ ning maf'ul bihi bo'lib, mansub holda kelgan va so'rash amali qaratilgan ob'ektni ko'rsatadi. Birinchi va uchinchi savollarda bu tarkib maf'ul bih sifatida mansub, ikkinchi savoldagi لِهَذِهِ الْأَصْنَامِ esa majrur holda kelgan — bu farq fe'llarning boshqaruv xususiyatlaridan kelib chiqadi.",
+          "uz": "bu butlarni"
+        },
+        {
+          "w": "وَيَا",
+          "r": "حَرف عَطف + حَرف نِدَاء",
+          "rc": "tb",
+          "e": "وَيَا oldingi savol gapiga bog'lovchi وَ ulovchi harfi va نِدَاء harfi يَا dan iborat. Bu takroriy uslub Ibrohimning bir zanjir savollari orqali otasiga qaratilgan mantiqiy hujjatini kuchaytiradi.",
+          "uz": "va ey"
+        },
+        {
+          "w": "أَبِي",
+          "r": "مُنَادَى",
+          "rc": "tb",
+          "e": "أَبِي يَا harfidan keyin kelgan munado — murojaat qilinayotgan shaxs bo'lib, مُضَاف holida يَاء mutakallim ga izofalanishi sababli majrur ko'rinishida kelgan. Ibrohimning har savolda otasiga murojaat bilan gapirishida hurmat va e'tibor jalb qilish maqsadi ko'rinadi.",
+          "uz": "otam"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "اسم اسْتِفهَام",
+          "rc": "tb",
+          "e": "لِمَاذَا sababni so'rovchi istifhom olmoshi bo'lib, bu savolda تَسْأَلُ fe'lining motivini — butlardan so'rashning ma'nosini — so'raydi. Uch marta takrorlangan لِمَاذَا istifhomi bir xil savolning turli aspektlarini qamraydi va nutqqa ritorik kuch beradi.",
+          "uz": "nega"
         }
       ]
     },
@@ -106,34 +154,81 @@
       "parts": [
         {
           "w": "إِنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "Muakkad bo'lak"
+          "e": "إِنَّ ta'kid va nasb harfi bo'lib, o'zidan keyingi ismni mansub holga o'tkazadi va gapga kuchli ta'kid ma'nosi qo'shadi. Bu gapda إِنَّ Ibrohimning dalilini — butlarning gapira olmasligi va eshita olmasligini — aniq va qat'iy ravishda ifodalash uchun ishlatilgan.",
+          "uz": "albatta"
         },
         {
           "w": "هَذِهِ الْأَصْنَامَ",
-          "r": "ism inna",
+          "r": "اسم إِنَّ",
           "rc": "tm",
-          "e": "Inna egasi"
+          "e": "هَذِهِ الْأَصْنَامَ إِنَّ ning ismi bo'lib, إِنَّ tomonidan mansub holga o'tkazilgan. هَذِهِ ism ishorasi gapga muayyanlik va ko'rsatish ma'nosini qo'shib, «aynan mana shu butlar» degan ta'kidni yaratadi. Bu ismning xabari sifatida ularga nisbat berilayotgan fe'llar keladi.",
+          "uz": "bu butlarni"
         },
         {
           "w": "لَا تَتَكَلَّمُ",
-          "r": "xabar inna (nafi)",
+          "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "Gapirmaydi"
+          "e": "لَا تَتَكَلَّمُ إِنَّ ning xabari bo'lib, ta'kidlangan ismga — butlarga — nisbatan hukm bildiradi. لَا nafi harfi fe'lni inkor qilib, butlarning gapira olmasligini qat'iy ravishda ta'kidlaydi. Bu dalil otaning butlardan so'rash amalining befoydaligini to'g'ridan-to'g'ri isbotlaydi.",
+          "uz": "gapirmaydi"
         },
         {
           "w": "وَلَا تَسْمَعُ",
-          "r": "xabar inna (nafi)",
+          "r": "مَعطُوف عَلى خَبَر إِنَّ",
           "rc": "tx",
-          "e": "Eshitmaydi"
+          "e": "وَلَا تَسْمَعُ وَ ulovchi harfi bilan xabar تَتَكَلَّمُ ga ma'tuf sifatida bog'langan ikkinchi xabar bo'lib, butlarning eshita olmasligini inkor qiladi. Ikki inkor xabarning — gapirmaslik va eshitmaslik — birgalikda kelishi butlarning jonli bo'lmasligini har tomonlama ko'rsatib, Ibrohimning hujjatini to'ldiradi.",
+          "uz": "va eshitmaydi"
         }
       ]
     },
     {
       "ar": "وَإِنَّ هَذِهِ الْأَصْنَامَ لَا تَضُرُّ وَلَا تَنْفَعُ!",
       "tr": "Va bu butlar zarar ham, foyda ham bermaydi!",
-      "parts": []
+      "parts": [
+        {
+          "w": "وإن",
+          "r": "حَرف عَطف + حَرف تَوكِيد",
+          "rc": "tb",
+          "e": "وإن ikki qismdan iborat: وَ oldingi ta'kid gapiga bog'lovchi ulovchi harf, إِنَّ esa yangi ta'kid jumlasini boshlovchi nasb va ta'kid harfi. Bu tarkib Ibrohimning dalillar zanjiridagi navbatdagi hujjatni kuchaytiradi — birinchi gapda gapirmaslik va eshitmaslik, bu gapda zarar va foyda bermaslik aytilmoqda.",
+          "uz": "va albatta"
+        },
+        {
+          "w": "هذه الأصنام",
+          "r": "اسم إِنَّ",
+          "rc": "tmt",
+          "e": "هذه الأصنام إِنَّ ning ismi bo'lib, mansub holga o'tkazilgan. هَذِهِ ism ishorasi belgili va aniq ob'ektni ko'rsatib, «aynan mana shu butlar, boshqa emas» degan ma'noni anglatadi. Bu ism oldingi gapda ham xuddi shunday ishlatilgan — bu takror nutqqa anafora uslubi beradi.",
+          "uz": "bu butlarni"
+        },
+        {
+          "w": "لا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا nafi harfi bo'lib, o'zidan keyingi muzorii' fe'lni inkor qiladi va fe'l bildirgan harakatning sodir bo'lmasligini bildiradi. Bu gapda zarar berish amali inkor qilinayotgani sababli, لَا ning o'z xabari تَضُرُّ dir va bu inkor hukmi إِنَّ ning xabari vazifasini bajaradi.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "تضر",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "تَضُرُّ hozirgi-kelasi zamon fe'li bo'lib, uchinchi shaxs muannas mufradi ma'nosida kelgan — الْأَصْنَامَ jam'iga mos ravishda ishlatilmoqda. Bu fe'l لَا nafi harfi bilan birgalikda إِنَّ ning xabari vazifasini bajarib, butlarning zarar bera olmasligini ta'kidlaydi.",
+          "uz": "zarar beradi"
+        },
+        {
+          "w": "ولا",
+          "r": "حَرف عَطف + حَرف نَفي",
+          "rc": "tb",
+          "e": "وَلَا ulovchi وَ va nafi لَا harflaridan iborat bo'lib, ikkinchi inkor fe'lni birinchisiga bog'laydi. وَلَا تَنْفَعُ tarkibi وَلَا تَضُرُّ ga ma'tuf bo'lib, butlarning ne zarar, ne foyda bera olmasligini juft inkor uslubida ifodalaydi — bu arabchada qat'iy va to'liq inkoring klassik shakli.",
+          "uz": "va yo'q"
+        },
+        {
+          "w": "تنفع",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "تَنْفَعُ hozirgi-kelasi zamon fe'li bo'lib, لَا نَافِيَة bilan birgalikda تَضُرُّ ga ma'tuf xabar sifatida kelgan. Zarar va foyda bermaslikning bir jumlada juft inkor bilan kelishi butlarning mutlaq ojizligini ta'kidlovchi kuchli ritorik usul bo'lib, Ibrohimning mantiqiy dalilini yakunlaydi.",
+          "uz": "foyda beradi"
+        }
+      ]
     },
     {
       "ar": "وَلِأَيِّ شَيْءٍ تَضَعُ لَهَا الطَّعَامَ وَالشَّرَابَ؟.",
@@ -141,33 +236,38 @@
       "parts": [
         {
           "w": "وَلِأَيِّ شَيْءٍ",
-          "r": "mutaalliq (تَضَعُ)",
+          "r": "اسم اسْتِفهَام",
           "rc": "tmt",
-          "e": "Nega"
+          "e": "وَلِأَيِّ شَيْءٍ sababni so'rovchi istifhom tarkibi bo'lib, لِ harfi jar va أَيِّ شَيْءٍ istifhom iborasi dan iborat. Bu tarkib تَضَعُ fe'lining maqsadini yoki sababini so'rab, butlarga taom qo'yish amalining mantig'ini so'roq ostiga oladi — birinchi savollar ibodat, sajda, so'rash haqida edi, bu savol esa endi moddiy xizmatni tanqid qilmoqda.",
+          "uz": "va nega"
         },
         {
           "w": "تَضَعُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Qo'yasan"
+          "e": "تَضَعُ hozirgi-kelasi zamon fe'li bo'lib, ikkinchi shaxs mufradi murojaat ma'nosida kelgan. Bu gapning asosiy yuklamchisi bo'lib, qo'yish amali so'roq ostida. Ibrohim bu savolda otasining butlarga taom-ichimlik keltirishining befoydaligini ko'rsatmoqchi — chunki butlar yeydi ham, ichmaydi ham deb keyingi gapda isbotlaydi.",
+          "uz": "qo'yasan"
         },
         {
           "w": "لَهَا",
-          "r": "mutaalliq (تَضَعُ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Ularga"
+          "e": "لَهَا jar va majrur tarkibi bo'lib, تَضَعُ fe'liga mutallaq sifatida bog'langan va qo'yish amali kimga qaratilganini — butlarga — bildiradi. لِ harfi jar yo'nalish va egalilikni, هَا ضَمِير esa الْأَصْنَام ga qaytadigan uchinchi shaxs muannas mufradi zamirini ifodalaydi.",
+          "uz": "unga"
         },
         {
           "w": "الطَّعَامَ",
-          "r": "maf'ul bih (تَضَعُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Taomni"
+          "e": "الطَّعَامَ fe'l تَضَعُ ning birinchi maf'ul bihi bo'lib, mansub holda kelgan. Bu so'z qo'yish amali tushgan ob'ektni — taomni — ko'rsatadi. الطَّعَام belgili ol idora bilan kelgani umumiy ma'noda «ovqat, taom» degan ma'noni anglatadi.",
+          "uz": "taomni"
         },
         {
           "w": "وَالشَّرَابَ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "Va ichimlikni"
+          "e": "وَالشَّرَابَ وَ ulovchi harfi bilan الطَّعَامَ ga ma'tuf bo'lib, xuddi shu maf'ul bih vazifasida mansub holda kelgan. Taom va ichimlikning juft kelishi nutqqa «ovqat-ichimlik» ma'nosida to'liqlik baxsh etadi va butlarga xizmat qilishning keng ko'lamini ko'rsatadi.",
+          "uz": "ichimlikni"
         }
       ]
     },
@@ -177,33 +277,38 @@
       "parts": [
         {
           "w": "وَإِنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف عَطف + حَرف تَوكِيد",
           "rc": "tb",
-          "e": "Va albatta"
+          "e": "وَإِنَّ oldingi savolga javob sifatida Ibrohimning yana bir ta'kidli dalilini boshlaydigan tarkib. وَ ulovchi harf oldingi gap bilan mantiqiy bog'liqlikni ko'rsatadi: «nega taom qo'yasan?» degan savol — «chunki ular yemaydi ham, ichmaydi ham» degan javobga bog'langan. إِنَّ esa bu javobni ta'kidlab ifodalaydi.",
+          "uz": "va albatta"
         },
         {
           "w": "هَذِهِ الْأَصْنَامَ",
-          "r": "ism inna",
+          "r": "اسم إِنَّ",
           "rc": "tm",
-          "e": "Inna egasi"
+          "e": "هَذِهِ الْأَصْنَامَ إِنَّ ning ismi bo'lib, mansub holga o'tkazilgan. Bu tarkib ushbu bob davomida bir necha marta takrorlangan — bu anafora uslubi Ibrohimning dalillarining barchasi aynan bir xil mavzu — mana shu butlar — haqida ekanligini ko'rsatadi va ta'kidni kuchaytiradi.",
+          "uz": "bu butlarni"
         },
         {
           "w": "يَا أَبِي",
-          "r": "nido",
+          "r": "نِدَاء",
           "rc": "tb",
-          "e": "Chaqiriq"
+          "e": "يَا أَبِي nido tarkibi bo'lib, إِنَّ gapining o'rtasida kelgan va ism bilan xabar orasida joylashgan. Bunday o'rtadagi nido arabcha nutqda ta'kidni kuchaytirish va tinglovchining e'tiborini jalb qilish uchun ishlatiladi; Ibrohim dalilini aytish orasida otasiga murojaat etib, gapning emotsional ta'sirini oshirmoqda.",
+          "uz": "ey otajon"
         },
         {
           "w": "لَا تَأْكُلُ",
-          "r": "xabar inna (nafi)",
+          "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "Yemaydi"
+          "e": "لَا تَأْكُلُ إِنَّ ning xabari bo'lib, butlarning yemayotganligini inkor qiladi. Bu xabar to'g'ridan-to'g'ri oldingi savolga — «nega taom qo'yasan?» — javob bo'lib kelgan va butlarga taom qo'yishning befoydaligini mantiqan isbotlaydi.",
+          "uz": "yemaydi"
         },
         {
           "w": "وَلَا تَشْرَبُ",
-          "r": "xabar inna (nafi)",
+          "r": "مَعطُوف عَلى خَبَر إِنَّ",
           "rc": "tx",
-          "e": "Ichmaydi"
+          "e": "وَلَا تَشْرَبُ xabar لَا تَأْكُلُ ga ma'tuf bo'lib, butlarning ichmasligi ham inkor qilinmoqda. Oldingi gapda «taom va ichimlik qo'yasan» degan savol bor edi — bu gapda esa «na yeyishadi, na ichishadi» deb juft inkor bilan javob berilmoqda; bu parallel tuzilma nutqning mantiqiy to'liqligini ta'minlaydi.",
+          "uz": "va ichmaydi"
         }
       ]
     },
@@ -213,21 +318,31 @@
       "parts": [
         {
           "w": "آزَرُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "آزَرُ كَانَ ning ismi bo'lib, marfu' holda kelgan. Bu ismning maxsus xususiyati shundaki, آزَرُ arab tilida غَيْر مُنْصَرِف — ya'ni tanvinsiz keluvchi ism bo'lib, ajam manshaidan kelgan. كَانَ ismi sifatida u gapning mavzusi bo'lib, uning holati tavsiflanmoqda.",
+          "uz": "Ozar"
         },
         {
           "w": "يَغْضَبُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "G'azablanadi"
+          "e": "يَغْضَبُ كَانَ ning xabari bo'lib, Ozarning o'sha davrda odatda g'azablanib turishini bildiradi. كَانَ + muzorii' tarkibi davomiy yoki takroriy o'tmish holatini ifodalaydi — ya'ni Ozar Ibrohimning nasihatlarini eshitganida har doimiy g'azablanib turgan.",
+          "uz": "g'azablanadi"
         },
         {
           "w": "وَلَا يَفْهَمُ",
-          "r": "ma'tuf (nafi)",
+          "r": "مَعطُوف عَلى خَبَر كَان",
           "rc": "tb",
-          "e": "Tushunmaydi"
+          "e": "وَلَا يَفْهَمُ وَ ulovchi harfi bilan يَغْضَبُ ga ma'tuf bo'lib, xuddi shu كَانَ ning xabari sifatida kelgan. G'azablanish va tushunmaslikning juft holda kelishi Ozarning holati to'liq tasvirini beradi — u hissiy jihatdan rad etadi va aqliy jihatdan qabul qilmaydi.",
+          "uz": "va tushunmaydi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ ulovchi وَ va noqis fe'l كَانَ dan iborat bo'lib, bu gap Ibrohimning otasi Ozar haqidagi tavsif bilan yangi mazmunli segment boshlanmoqda. كَانَ ning bu yerda ishlatilishi o'tmishdagi doimiy holat ekanligini ko'rsatib, Ozarning nasihatga bo'lgan munosabatini umumlashtiradi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -237,39 +352,52 @@
       "parts": [
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "إِبْرَاهِيمُ birinchi كَانَ jumlasining ismi bo'lib, marfu' holda kelgan. Bu gap Ibrohimning shaxsiy otasiga emas, balki butun qavmiga nasihat qilganini tavsiflab, mavzuning ko'lamini kengaytiradi. إِبْرَاهِيمُ shu gapda faol tomon — nasihatchi sifatida taqdim etilmoqda.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يَنْصَحُ",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Nasihat qiladi"
+          "e": "يَنْصَحُ birinchi كَانَ ning xabari bo'lib, Ibrohimning o'z qavmiga muntazam nasihat qilish odatini ifodalaydi. كَانَ + muzorii' tarkibining bu gapda ikki marta ishlatilishi — Ibrohim uchun ham, odamlar uchun ham — parallelizm yaratib, ikki tomonning zid xatti-harakatini qiyoslamoqda.",
+          "uz": "nasihat qiladi"
         },
         {
           "w": "لِقَوْمِهِ",
-          "r": "mutaalliq",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "O'z qavmiga"
+          "e": "لِقَوْمِهِ jar va majrur tarkibi bo'lib, يَنْصَحُ fe'liga mutallaq sifatida bog'langan va nasihating kimga qaratilganligini bildiradi. لِ harfi jar yo'nalish va maqsadni, قَوْمِ esa اسم مُضَاف holida, هِ ضَمِير esa Ibrohimga qaytuvchi zamir sifatida kelgan.",
+          "uz": "o'z qavmiga"
         },
         {
           "w": "النَّاسُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ega"
+          "e": "النَّاسُ ikkinchi كَانَ jumlasining ismi bo'lib, marfu' holda kelgan. Bu so'z Ibrohimning nasihatini eshitib, ularga javob berayotgan qavmni — odamlar jamoasini — bildiradi. Birinchi gapda إِبْرَاهِيمُ mufradi, bu gapda النَّاسُ jam'i — bu parallelizm Ibrohim va uning qavmi orasidagi ziddiyatni ta'kidlaydi.",
+          "uz": "odamlar"
         },
         {
           "w": "يَغْضَبُونَ",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "G'azablanadilar"
+          "e": "يَغْضَبُونَ ikkinchi كَانَ ning birinchi xabari bo'lib, odamlarning g'azablanish holatini bildiradi. يَغْضَبُ va يَغْضَبُونَ ning oldingi va bu gapda parallel kelishi — Ozar va butun qavmning bir xil munosabati — Ibrohimning nasihatiga qarshilik keng va umumiy ekanligini ko'rsatadi.",
+          "uz": "g'azablanadilar"
         },
         {
           "w": "وَلَا يَفْهَمُونَ",
-          "r": "ma'tuf (nafi)",
+          "r": "مَعطُوف عَلى خَبَر كَان",
           "rc": "tb",
-          "e": "Tushunmaydilar"
+          "e": "وَلَا يَفْهَمُونَ وَ ulovchi harfi bilan يَغْضَبُونَ ga ma'tuf bo'lib, xuddi shu كَانَ ning ikkinchi xabari sifatida kelgan. G'azablanish va tushunmaslikning juft kelishi oldingi Ozar tavsifida ham uchraganди — bu takror butun qavmning ham aynan Ozar kabi munosabat qilganini ko'rsatib, mavzuning umumiy xulosasini beradi.",
+          "uz": "va tushunmaydilar"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ bu gapda ikki مرّة ishlatilgan — birinchisi Ibrohim, ikkinchisi النَّاسُ jumlalarini boshlab kelgan. Har ikki gapning ham كَانَ bilan boshlanishi mantiqiy parallelizm yaratar: bir tomondan Ibrohimning doimiy nasihat qilishi, ikkinchi tomondan odamlarning doimiy rad etishi — bu kontrast hikoyaning asosiy ziddiyatini yaqqol ko'rsatadi.",
+          "uz": "va edi"
         }
       ]
     },
@@ -279,57 +407,66 @@
       "parts": [
         {
           "w": "قَالَ",
-          "r": "fe'l mozi",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَ o'tgan zamon fe'li bo'lib, uchinchi shaxs mufradi muzkari ma'nosida kelgan. Bu fe'l gapning asosiy yuklamchisi bo'lib, Ibrohimning bevosita nutqini kiritmoqda. Shu nuqtaga qadar Ibrohimning savollari va otasining reaktsiyasi tasvirlandi, endi esa Ibrohim o'z rejasini e'lon qilmoqda.",
+          "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (قَالَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Fe'l egasi"
+          "e": "إِبْرَاهِيمُ قَالَ fe'lining foili bo'lib, marfu' holda kelgan. Bu so'z suhbatning boshlovchisi — gap aytuvchi shaxsni ko'rsatadi. إِبْرَاهِيمُ bu hikoyada faol qahramon sifatida har doim foil yoki mubtado vazifasida kelgan, bu esa uning rolini qahramonlik nuqtai nazaridan ta'kidlaydi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنَا",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Men — ega"
+          "e": "أَنَا Ibrohimning bevosita nutqidagi ismiy gapning mubtadosi bo'lib, marfu' holda kelgan. Bu zamir muztakil — mustaqil holda kelgan — va gapga ta'kid ma'nosi qo'shadi: «aynan men, boshqa emas, sindiraman» degan ma'noni yaratadi. Bu Ibrohimning o'z harakatiga mas'uliyatni o'z zimmasiga olayotganini ko'rsatadi.",
+          "uz": "men"
         },
         {
           "w": "أَكْسِرُ",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Sindiraman"
+          "e": "أَكْسِرُ أَنَا mubtadosining xabari bo'lib, hozirgi-kelasi zamon fe'li sifatida kelgan. Bu gapda muzorii' fe'li kelajak ma'nosida — «sindiraman» — ishlatilgan. أَنَا أَكْسِرُ tarkibi arabchada shaxsiy va ta'kidli niyat bildiruvchi klassik ibora bo'lib, Ibrohimning qat'iy qarorini ifodalaydi.",
+          "uz": "sindiraman"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "maf'ul bih (يَفْهَمُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Butlarni"
+          "e": "الْأَصْنَامَ أَكْسِرُ fe'lining maf'ul bihi bo'lib, mansub holda kelgan. Bu so'z sindirish amali tushishi kerak bo'lgan ob'ektni — butlarni — ko'rsatadi. الْأَصْنَامَ so'zi butun hikoyadagi asosiy mavzu bo'lib kelgan, bu gapda esa Ibrohim ularni sindirish niyatini e'lon qilmoqda.",
+          "uz": "butlarni"
         },
         {
           "w": "إِذَا ذَهَبَ النَّاسُ",
-          "r": "shart jumlasi",
+          "r": "جُملَة شَرطِيَّة",
           "rc": "th",
-          "e": "Odamlar ketganda"
+          "e": "إِذَا ذَهَبَ النَّاسُ shart jumlasi bo'lib, إِذَا shart zarfi, ذَهَبَ shart fe'li, النَّاسُ esa shart fe'lining foili. Bu tarkib «odamlar ketsa» degan shartni bildiradi va Ibrohimning rejasini ma'lum sharoitga bog'laydi — u odamlar yo'q vaqtda ish tutmoqchi.",
+          "uz": "odamlar ketganda"
         },
         {
           "w": "وَحِينَئِذٍ",
-          "r": "zarf (يَفْهَمُ)",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "O'shanda"
+          "e": "وَحِينَئِذٍ zamon zarfi bo'lib, حِين + إِذٍ dan iborat — «o'sha vaqtda, o'shanda» degan ma'noni anglatadi. Bu so'z يَفْهَمُ fe'liga zarf sifatida bog'langan va butlarning sindirilishi qachon o'z natijasini — odamlarning tushunishi — berishi kerakligini vaqt jihatidan belgilaydi.",
+          "uz": "o'shanda"
         },
         {
           "w": "يَفْهَمُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Tushunadi"
+          "e": "يَفْهَمُ hozirgi-kelasi zamon fe'li bo'lib, bu gapda kelajak ma'nosida ishlatilgan. Bu hikoyadagi asosiy maqsad va natija ifodasi — Ibrohim butlarni sindirishi orqali odamlarning tushunishiga erishmoqchi. Bu fe'l hikoyaning kulminatsion nuqtasida kelgan bo'lib, Ibrohimning butun strategiyasini bir so'zda ifodalaydi.",
+          "uz": "tushunadi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (يَفْهَمُ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ يَفْهَمُ fe'lining foili bo'lib, marfu' holda kelgan. Bu so'z Ibrohimning rejasidan ko'zlagan natijasi — odamlarning tushunishi — ni bildiradi. Oldingi gapda النَّاسُ يَغْضَبُونَ وَلَا يَفْهَمُونَ deb aytilgan edi — endi Ibrohim ularda aynan shu يَفْهَم ni uyg'otish uchun harakat qilmoqda.",
+          "uz": "odamlar"
         }
       ]
     }

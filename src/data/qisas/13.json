@@ -10,27 +10,31 @@
       "parts": [
         {
           "w": "وَعَادَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Qaytdi"
+          "e": "وَعَادَ o’tgan zamon fe’li bo’lib, gapning asosiy predikatini tashkil etadi. Vov harfi atf yoki ibtido uchun kelgan, عَادَ esa «qaytdi» ma’nosidagi sulосий fe’ldir. Undan keyingi إِبْرَاهِيمُ fo’il, إِلَى مَكَّةَ yo’nalish, بَعْدَ مُدَّةٍ vaqt zarfi sifatida shu fe’lga bog’lanadi.",
+          "uz": "qaytdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَعَادَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَعَادَ fe’lining fo’ili bo’lib, raf holatida kelgan. Arab grammatikasida fe’ldan keyin kelgan ma’rifa ism odatda fo’il hisoblanadi. Bu so’z qaytish harakatini bajargan shaxsni aniq ifodalaydi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "إِلَى مَكَّةَ",
-          "r": "mutaalliq (وَعَادَ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "Makkaga"
+          "e": "إِلَى مَكَّةَ jar-majrur tarkibi bo’lib, وَعَادَ fe’liga mutaalliq. إِلَى yo’nalish bildiruvchi harf jar, مَكَّةَ esa majrur bo’lib, gayr munsarif sifatida fathaga o’tgan. Bu tarkib qaytishning qaysi manzilga bo’lganini belgilaydi.",
+          "uz": "Makkaga"
         },
         {
           "w": "بَعْدَ مُدَّةٍ",
-          "r": "zarf (وَعَادَ)",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "Bir muddatdan keyin"
+          "e": "بَعْدَ مُدَّةٍ vaqt zarfi bo’lib, وَعَادَ fe’liga mutaalliq. بَعْدَ vaqt zarfidir, مُدَّةٍ esa uning muzofun ilayhi sifatida jarr holatida kelgan. Bu tarkib qaytish qachon sodir bo’lganini — muayyan muddat o’tgach — ko’rsatadi.",
+          "uz": "bir muddatdan keyin"
         }
       ]
     },
@@ -40,45 +44,59 @@
       "parts": [
         {
           "w": "وَلَقِيَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Uchratdi"
+          "e": "وَلَقِيَ o’tgan zamon fe’li bo’lib, yashirin fo’ili oldingi gapdan anglashilgan Ibrohim. لَقِيَ uchrashish, ko’rishish ma’nosidagi fe’l bo’lib, o’zidan keyin maf’ul oladi. Birinchi uchrashuv shaxsi إِسْمَاعِيلَ ekanini keyingi maf’ul ko’rsatadi.",
+          "uz": "uchratdi"
         },
         {
           "w": "إِسْمَاعِيلَ",
-          "r": "maf'ul bih (وَلَقِيَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ وَلَقِيَ fe’lining birinchi maf’uli bo’lib, nasbda kelgan. Ismning gayr munsarif ekani fathadan aloma sifatida foydalanilishiga sabab bo’lgan. Bu so’z Ibrohim uchratgan birinchi shaxsni ifodalaydi.",
+          "uz": "Ismoilni"
         },
         {
           "w": "وَلَقِيَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Uchratdi"
+          "e": "Ikkinchi وَلَقِيَ oldingi fe’lga atf qilingan mustaqil fe’l-jumla bo’lib, yashirin fo’ili yana Ibrohim. Birinchi uchrashuvga qo’shimcha holda ikkinchi uchrashuvni — bu safar Hojar bilan — ifodalaydi. Ikkala fe’lni vov atf bog’laydi.",
+          "uz": "uchratdi"
         },
         {
           "w": "هَاجَرَ",
-          "r": "maf'ul bih (وَلَقِيَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Hojarni"
+          "e": "هَاجَرَ ikkinchi وَلَقِيَ fe’lining maf’uli bo’lib, nasb holatida kelgan. Ismning gayr munsarif ekani fathadan foydalanilishini taqozo etgan. Bu so’z Ibrohim uchratgan ikkinchi shaxsni — Hojarni — belgilaydi.",
+          "uz": "Hojarni"
         },
         {
           "w": "وَفَرِحَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Xursand bo'ldi"
+          "e": "وَفَرِحَ yangi fe’l-jumlaning predikat fe’li bo’lib, vov atf bilan oldingi voqeaga ulangan. فَرِحَ his-tuyg’u fe’li bo’lib, fo’ili keyingi إِبْرَاهِيمُ sifatida ochiq kelgan. Xursandlik sababi بِوَلَدِهِ jar-majruridir.",
+          "uz": "xursand bo'ldi"
         },
         {
           "w": "بِوَلَدِهِ",
-          "r": "mutaalliq (وَفَرِحَ)",
+          "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "O'g'lidan"
+          "e": "بِوَلَدِهِ jar-majrur tarkibi bo’lib, وَفَرِحَ fe’liga mutaalliq. بِ harfi jar سَبَبِيَّة — sabablik ma’nosida, وَلَدِهِ esa jarr holatida izofa tarkibida. -هِ zamiri Ibrohimga qaytib, xursandlik sababi — uning o’z farzandi ekanini ko’rsatadi.",
+          "uz": "o'g'lidan"
         },
         {
           "w": "إِسْمَاعِيلَ",
-          "r": "badal",
+          “r”: “بَدَل”,
+          “rc”: “tb”,
+          “e”: “إِسْمَاعِيلَ وَلَدِهِ so’zining badali bo’lib, uning holatiga — jarr holatiga — muvofiq kelishi lozim, ammo gayr munsarif sifatida fatha bilan kelgan. Badal qoidasi bo’yicha u o’rnini bosayotgan ism bilan grammatik muvofiqlikda bo’ladi va «o’g’li» noaniq iborasini to’liq ism bilan oydinlashtiradi.”,
+          "uz": "Ismoilni"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "فَاعِل",
           "rc": "tb",
-          "e": "Ismoildan"
+          "e": "إِبْرَاهِيمُ وَفَرِحَ fe’lining fo’ili bo’lib, raf holatida kelgan. Fe’ldan keyin kelgan bu ism gapda xursandlik his-tuyg’usini boshdan kechirgan shaxsni aniq ifodalaydi.",
+          "uz": "Ibrohim"
         }
       ]
     },
@@ -88,45 +106,52 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ noqis o’tgan zamon fe’li bo’lib, ism va xabar talab qiladi. Noqis fe’l sifatida u ismi raf, xabarini nasb holatida boshqaradi. Bu gap Ismoilning o’sha davrda kichkina bola ekanligini tavsiflovchi holat jumlasini hosil qiladi.",
+          "uz": "edi"
         },
         {
           "w": "إِسْمَاعِيلُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ismoil"
+          "e": "إِسْمَاعِيلُ كانَning ismi bo'lib, raf holatida kelgan. كانَ ismi doimo raf holatida bo'ladi va xabar aynan shu shaxs haqida bildiradi. Bu yerda Ismoilning bolalik davridagi holi وَلَدًا صَغِيرًا xabari orqali bayon qilinmoqda.",
+          "uz": "Ismoilni"
         },
         {
           "w": "وَلَدًا صَغِيرًا",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Kichkina bola"
+          "e": "وَلَدًا صَغِيرًا كانَning xabari bo'lib, nasb holatida kelgan. وَلَدًا asosiy xabar, صَغِيرًا esa uning sifati bo'lib, ikkalasi ham nasb alomatini — tanvini fathani — qabul qilgan. Bu tarkib Ismoilning kichik yoshdagi holatini tasvirlaydi.",
+          "uz": "kichkina bola"
         },
         {
           "w": "يَجْرِي",
-          "r": "sifat (hol)",
+          "r": "حَال",
           "rc": "th",
-          "e": "Yugurardi"
+          "e": "يَجْرِي hol fe’l-jumlasi bo’lib, إِسْمَاعِيلُning holatini tasvirlaydi. Hol sohibi — Ismoil, hol esa uning bolalik chog’idagi faoliyatini ko’rsatadi. Muzore’ shaklidagi bu fe’l davomiy holni ifodalash uchun qo’llanilgan.",
+          "uz": "yuguradi"
         },
         {
           "w": "وَيَلْعَبُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "O'ynardi"
+          "e": "وَيَلْعَبُ يَجْرِيga vov atf bilan bog’langan va u bilan bir xil grammatik vazifada — hol sifatida — turadi. Atf qoidasiga ko’ra ma’tuf ma’tufun alayh bilan muvofiq holatda bo’ladi. Bu fe’l Ismoilning o’sha davrdagi yana bir doimiy mashg’ulotini ko’rsatadi.",
+          "uz": "o'ynaydi"
         },
         {
           "w": "وَيَخْرُجُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف",
           "rc": "tb",
-          "e": "Chiqardi"
+          "e": "وَيَخْرُجُ oldingi ikkala fe’lga atf qilingan uchinchi hol fe’li. يَجْرِي va يَلْعَبُga parallel kelishi bilan Ismoilning bolalikdagi hayot tarzi to’liq manzarasini chizadi. -هُ zamirining yo’qligi shuni ko’rsatadiki, fo’il hamma uchun bir xil — Ismoil.",
+          "uz": "chiqadi"
         },
         {
           "w": "مَعَ وَالِدِهِ",
-          "r": "zarf (وَكَانَ)",
+          "r": "ظَرف مَكَان",
           "rc": "th",
-          "e": "Otasi bilan"
+          "e": "مَعَ وَالِدِهِ ma’iyyat zarfi bo’lib, وَيَخْرُجُ fe’liga mutaalliq. مَعَ birga bo’lish, hamrohlik ma’nosidagi zarf, وَالِدِهِ esa uning muzofun ilayhi. -هِ zamiri Ismoilga qaytib, chiqish kimning hamrohligida bo’lganini ko’rsatadi.",
+          "uz": "otasi bilan"
         }
       ]
     },
@@ -136,33 +161,38 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ noqis o’tgan zamon fe’li bo’lib, ismi raf, xabarini nasb holatida boshqaradi. Bu yerda xabar fe’l-jumla shaklida kelgan — يُحِبُّ. كانَ Ibrohimning doimiy muhabbat holatini o’tmishda sodir bo’lgan davomiy hol sifatida ifodalaydi.",
+          "uz": "edi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ كانَning ismi bo'lib, raf holatida kelgan. كانَ ismi bo'lgani uchun doimo raf holatida turadi. Keyingi يُحِبُّ fe'l-jumlasi aynan shu shaxs haqidagi xabarni beradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "يُحِبُّ",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Yaxshi ko'rardi"
+          "e": "يُحِبُّ كانَning xabari bo’lgan fe’l-jumladir. كانَ fe’l-jumla xabar olganda bu jumla محل nasb holatida deyiladi. Yashirin fo’ili هُوَ — ya’ni Ibrohim — bo’lib, uning Ismoilga muhabbati bu fe’l orqali ifodalanar.",
+          "uz": "yaxshi ko'radi"
         },
         {
           "w": "إِسْمَاعِيلَ",
-          "r": "maf'ul bih (وَكَانَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ يُحِبُّ fe’lining maf’uli bo’lib, nasb holatida kelgan. Gayr munsarif ism sifatida kasra o’rniga fatha qabul qiladi. Muhabbat qaratilgan shaxs — Ismoil — aynan shu maf’ul orqali aniqlanadi.",
+          "uz": "Ismoilni"
         },
         {
           "w": "جِدًّا",
-          "r": "hol (وَكَانَ)",
+          "r": "مَفعُول مُطلَق",
           "rc": "th",
-          "e": "Juda"
+          "e": "جِدًّا daraja va kuchaytirish ma’nosini bildiruvchi masdar-zarf bo’lib, يُحِبُّ fe’liga mutaalliq. U muhabbatning darajasini — «juda» — kuchaytiradi va fe’l ma’nosini tasdiqlab, uni ta’kidlaydi. Tanvini fatha bilan nasb holatida kelgan.",
+          "uz": "juda"
         }
       ]
     },
@@ -172,45 +202,52 @@
       "parts": [
         {
           "w": "وَذَاتَ لَيْلَةٍ",
-          "r": "zarf (رَأَى)",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "Bir kechada"
+          "e": "وَذَاتَ لَيْلَةٍ vaqt zarfi tarkibi bo’lib, رَأَى fe’liga mutaalliq. ذَاتَ nasb holatida — zarfiy nasb alomati bilan — kelgan va لَيْلَةٍ uning muzofun ilayhi. Bu ibtidoiy arab uslubida «muayyan bir kecha» ma’nosini ifodalab, voqea vaqtini belgilaydi.",
+          "uz": "bir kechada"
         },
         {
           "w": "رَأَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ko'rdi"
+          "e": "رَأَى o’tgan zamon fe’li bo’lib, ko’rish (uyquda tush ko’rish) ma’nosida qo’llangan. Bu fe’l أَنَّهُ يَذْبَحُ tarkibini maf’ul sifatida boshqaradi. Fo’ili keyingi إِبْرَاهِيمُ bo’lib, uning tushda ko’rgan narsasi rivoyatning asosini tashkil etadi.",
+          "uz": "ko'rdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (رَأَى)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ رَأَى fe’lining fo’ili bo’lib, raf holatida kelgan. Fe’ldan keyin kelgan ochiq ism fo’il vazifasini bajaradi. Tushni ko’rgan — shu rivoyatning bosh qahramoni Ibrohim ekanini bu so’z tasdiqlaydi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "فِي الْمَنَامِ",
           "r": "zarf (رَأَى)",
           "rc": "th",
-          "e": "Tushida"
+          "e": "فِي الْمَنَامِ jar-majrur holat o‘rni; رَأَى fe’liga ulanib, ko‘rish uyqudagi tushda bo‘lganini bildiradi.",
+          "uz": "tushida"
         },
         {
           "w": "أَنَّهُ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Deb u"
+          "e": "أَنَّهُ أَنَّ va -هُ zamiridan tuzilgan tarkib; zamir Ibrohimga qaytib, يَذْبَحُ jumlasini uning xabari qiladi.",
+          "uz": "u"
         },
         {
           "w": "يَذْبَحُ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "So'layapti"
+          "e": "يَذْبَحُ أَنَّ tarkibining xabari bo‘lgan fe’l jumlasi; yashirin fo’ili -هُ, ya’ni Ibrohimdir.",
+          "uz": "so'yadi"
         },
         {
           "w": "إِسْمَاعِيلَ",
           "r": "maf'ul bih (رَأَى)",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ يَذْبَحُ fe’lining maf’uli; tushda so‘yish harakati qaratilgan shaxsni bildiradi.",
+          "uz": "Ismoilni"
         }
       ]
     },
@@ -222,13 +259,29 @@
           "w": "نَبِيًّا صَادِقًا",
           "r": "xabar",
           "rc": "tx",
-          "e": "Rostgo'y payg'ambar"
+          "e": "نَبِيًّا صَادِقًا كانَning xabari; نَبِيًّا asosiy xabar, صَادِقًا esa shu xabarni sifatlab Ibrohimning rostgo‘y payg‘ambar ekanini bayon qiladi.",
+          "uz": "rostgo'y payg'ambar"
         },
         {
           "w": "مَنَامُهُ مَنَامًا صَادِقًا",
           "r": "xabar",
           "rc": "tx",
-          "e": "Tushi rost tush edi"
+          "e": "مَنَامُهُ مَنَامًا صَادِقًا ikkinchi كانَ tarkibidagi ism-xabar munosabati; -هُ zamiri Ibrohimga qaytadi, مَنَامًا صَادِقًا tushning rostligini xabar qiladi.",
+          "uz": "tushi rost tush edi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَكَانَ birinchi jumladagi noqis fe’l; إِبْرَاهِيمُ ismiga نَبِيًّا صَادِقًا xabarini bog‘laydi.",
+          "uz": "edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ birinchi كانَning ismi; نَبِيًّا صَادِقًا xabari aynan shu shaxsga bog‘langan.",
+          "uz": "Ibrohim"
         }
       ]
     },
@@ -240,31 +293,50 @@
           "w": "خَلِيلَ اللَّهِ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Allohning do'sti"
+          "e": "خَلِيلَ اللَّهِ كانَning xabari; izofa tarkibida Ibrohimning Allohga nisbatlangan yaqin maqomini bayon qiladi.",
+          "uz": "Allohning do'sti"
         },
         {
           "w": "فَأَرَادَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "فَأَرَادَ natija ma’noli fe’l; yashirin fo’ili Ibrohim bo‘lib, avvalgi maqomdan keyin uning buyruqni bajarishni iroda qilganini bildiradi.",
+          "uz": "va xohladi"
         },
         {
           "w": "أَنْ يَفْعَلَ",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "Qilishni"
+          "e": "أَنْ يَفْعَلَ أَرَادَ fe’liga tobe masdar ta’villi tarkib; Ibrohim xohlagan amalning o‘zini bildiradi.",
+          "uz": "qilishni"
         },
         {
           "w": "مَا أَمَرَهُ اللَّهُ",
           "r": "maf'ul bih (أَنْ يَفْعَلَ)",
           "rc": "tb",
-          "e": "Alloh buyurgan narsani"
+          "e": "مَا أَمَرَهُ اللَّهُ يَفْعَلَ fe’lining maf’uli; مَا “narsa” ma’nosida, أَمَرَهُ اللَّهُ esa uni aniqlovchi jumladir, -هُ Ibrohimga qaytadi.",
+          "uz": "Alloh buyurgan narsani"
         },
         {
           "w": "فِي الْمَنَامِ",
           "r": "zarf (أَنْ يَفْعَلَ)",
           "rc": "th",
-          "e": "Tushda"
+          "e": "فِي الْمَنَامِ أَمَرَهُga bog‘langan jar-majrur; buyruq qayerda, ya’ni tushda kelganini bildiradi.",
+          "uz": "tushida"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَكَانَ noqis fe’l; Ibrohim haqidagi خَلِيلَ اللَّهِ xabarini oldingi voqeaga bog‘lab beradi.",
+          "uz": "edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ كانَning ismi; خَلِيلَ اللَّهِ xabari shu ismga mansub.",
+          "uz": "Ibrohim"
         }
       ]
     },
@@ -276,61 +348,71 @@
           "w": "وَقَالَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "وَقَالَ so‘zlash fe’li; undan keyingi لِإِسْمَاعِيلَ qabul qiluvchi, iqtibos esa aytilgan gapdir.",
+          "uz": "va dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "fo'il (وَقَالَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَقَالَ fe’lining fo’ili; Ismoilga murojaat qilgan shaxsni bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "لِإِسْمَاعِيلَ",
           "r": "mutaalliq (وَقَالَ)",
           "rc": "tmt",
-          "e": "Ismoilga"
+          "e": "لِإِسْمَاعِيلَ jar-majrur bo‘lib, وَقَالَ fe’liga ulanadi; gap kimga aytilganini ko‘rsatadi.",
+          "uz": "Ismoilga"
         },
         {
           "w": "إِنِّي",
           "r": "inna",
           "rc": "tb",
-          "e": "Albatta men"
+          "e": "إِنِّي inna va mutakallim zamiridan tuzilgan; Yusufga aytilayotgan xabarda “men”ni ta’kidlab, أَرَى jumlasini xabar qiladi.",
+          "uz": "albatta men"
         },
         {
           "w": "أَرَى",
           "r": "xabar",
           "rc": "tx",
-          "e": "Ko'ryapman"
+          "e": "أَرَى inna tarkibining xabari bo‘lgan fe’l; so‘zlovchi Ibrohimning ko‘rayotganini bildiradi.",
+          "uz": "ko'ryapman"
         },
         {
           "w": "فِي الْمَنَامِ",
           "r": "zarf (فَانْظُرْ)",
           "rc": "th",
-          "e": "Tushimda"
+          "e": "فِي الْمَنَامِ أَرَى fe’liga bog‘langan jar-majrur; ko‘rish tushda ekanini bildiradi.",
+          "uz": "tushida"
         },
         {
           "w": "أَنِّي أَذْبَحُكَ",
           "r": "maf'ul bih (فَانْظُرْ)",
           "rc": "tb",
-          "e": "Seni so'layotganimni"
+          "e": "أَنِّي أَذْبَحُكَ أَرَى fe’lining mazmuniy maf’uli; أَذْبَحُكَ ichidagi -كَ zamiri Ismoilga qaytadi.",
+          "uz": "seni so'yayotganimni"
         },
         {
           "w": "فَانْظُرْ",
           "r": "fe'l (amr)",
           "rc": "tf",
-          "e": "Qara"
+          "e": "فَانْظُرْ buyruq fe’li; Ibrohim Ismoildan o‘z fikrini ko‘rib-aytishni talab qilmoqda.",
+          "uz": "qara"
         },
         {
           "w": "مَاذَا",
           "r": "ism istifhom",
           "rc": "tb",
-          "e": "Nima"
+          "e": "مَاذَا so‘roq olmoshi bo‘lib, تَرَى fe’lining mazmuniy maf’uli sifatida “qaysi fikrni” so‘raydi.",
+          "uz": "nimadan"
         },
         {
           "w": "تَرَى",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Ko'rasan"
+          "e": "تَرَى muhotab fe’l; fo’ili Ismoilga qaytgan yashirin “sen”, savolda uning qarashi so‘ralmoqda.",
+          "uz": "ko'rasan"
         }
       ]
     },
@@ -342,43 +424,50 @@
           "w": "قَالَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَ javob fe’li; yashirin fo’ili Ismoil bo‘lib, keyingi murojaat va buyruq uning javobini beradi.",
+          "uz": "dedi"
         },
         {
           "w": "يَا أَبَتِ",
           "r": "nido",
           "rc": "tb",
-          "e": "Otajon"
+          "e": "يَا أَبَتِ nido tarkibi; Ismoil otasi Ibrohimga mehr va hurmat bilan murojaat qilmoqda.",
+          "uz": "otajon"
         },
         {
           "w": "افْعَلْ",
           "r": "fe'l (amr)",
           "rc": "tf",
-          "e": "Qil"
+          "e": "افْعَلْ buyruq fe’li; muhotab Ibrohim bo‘lib, Ismoil unga buyurilgan ishni bajarishni aytmoqda.",
+          "uz": "qil"
         },
         {
           "w": "مَا تُؤْمَرُ",
           "r": "maf'ul bih (افْعَلْ)",
           "rc": "tb",
-          "e": "Senga buyurilgan narsani"
+          "e": "مَا تُؤْمَرُ افْعَلْ fe’lining maf’uli; مَا buyurilgan narsani, تُؤْمَرُ esa Ibrohimga qilingan buyruqni bildiradi.",
+          "uz": "senga buyurilgan narsani"
         },
         {
           "w": "سَتَجِدُنِي",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Meni topasan"
+          "e": "سَتَجِدُنِي kelasi zamon fe’li; -نِي zamiri Ismoilni maf’ul qilib, Ibrohim uni qanday holatda topishini bildiradi.",
+          "uz": "meni topasan"
         },
         {
           "w": "إِنْ شَاءَ اللَّهُ",
           "r": "shart",
           "rc": "th",
-          "e": "Alloh xohlasa"
+          "e": "إِنْ شَاءَ اللَّهُ shart jumlasi; sabrli bo‘lib topilish Allohning xohishiga bog‘langanini ko‘rsatadi.",
+          "uz": "Alloh xohlasa"
         },
         {
           "w": "مِنَ الصَّابِرِينَ",
           "r": "mutaalliq (سَتَجِدُنِي)",
           "rc": "tmt",
-          "e": "Sabr qiluvchilardan"
+          "e": "مِنَ الصَّابِرِينَ سَتَجِدُنِي tarkibidagi ikkinchi maf’ul ma’nosini to‘ldiradi; Ismoil qaysi toifadan topilishini bildiradi.",
+          "uz": "sabr qiluvchilardan"
         }
       ]
     },
@@ -390,37 +479,43 @@
           "w": "وَأَخَذَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Oldi"
+          "e": "وَأَخَذَ fe’li Ibrohimning Ismoilni o‘zi bilan olib ketishini bildiradi; fo’il keyingi إِبْرَاهِيمُdir.",
+          "uz": "oldi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "fo'il (وَأَخَذَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَأَخَذَ fe’lining fo’ili; olib ketish harakatini bajargan shaxsni ko‘rsatadi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "إِسْمَاعِيلَ",
           "r": "maf'ul bih (وَأَخَذَ)",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ birinchi وَأَخَذَ fe’lining maf’uli; Ibrohim o‘zi bilan olgan shaxsdir.",
+          "uz": "Ismoilni"
         },
         {
           "w": "مَعَهُ",
           "r": "zarf (وَأَخَذَ)",
           "rc": "th",
-          "e": "O'zi bilan"
+          "e": "مَعَهُ ma’iyyat zarfidir; -هُ zamiri Ibrohimga qaytib, Ismoil kim bilan olinganini bildiradi.",
+          "uz": "o'zi bilan"
         },
         {
           "w": "وَأَخَذَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Oldi"
+          "e": "Ikkinchi وَأَخَذَ oldingi fe’lga bog‘langan; yashirin fo’ili Ibrohim bo‘lib, bu safar pichoqni olishni bildiradi.",
+          "uz": "oldi"
         },
         {
           "w": "سِكِّينًا",
           "r": "maf'ul bih (وَأَخَذَ)",
           "rc": "tb",
-          "e": "Pichoq"
+          "e": "سِكِّينًا ikkinchi وَأَخَذَ fe’lining maf’uli; Ibrohim olgan asbobni bildiradi.",
+          "uz": "pichoq"
         }
       ]
     },
@@ -432,43 +527,50 @@
           "w": "وَلَمَّا",
           "r": "zarf (بَلَغَ)",
           "rc": "th",
-          "e": "Qachonki"
+          "e": "وَلَمَّا vaqt bog‘lovchi zarf; Minoga yetish voqeasini keyingi iroda jumlasiga shartli vaqt sifatida bog‘laydi.",
+          "uz": "qachonki"
         },
         {
           "w": "بَلَغَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Yetdi"
+          "e": "بَلَغَ yetib borish fe’li; fo’ili Ibrohim, manzil esa مِنًى bo‘lib kelgan.",
+          "uz": "yetdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "fo'il (بَلَغَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ بَلَغَ fe’lining fo’ili; Minoga yetgan shaxsni bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "مِنًى",
           "r": "maf'ul bih (أَرَادَ)",
           "rc": "tb",
-          "e": "Minoga"
+          "e": "مِنًى بَلَغَ fe’lining manzil bo‘lagi; fe’l vositasiz manzilni olgani uchun nasbda kelgan.",
+          "uz": "Minoga"
         },
         {
           "w": "أَرَادَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "أَرَادَ bosh fe’l; yashirin fo’ili Ibrohim bo‘lib, keyingi أَنْ يَذْبَحَ tarkibini xohlangan amal qiladi.",
+          "uz": "xohladi"
         },
         {
           "w": "أَنْ يَذْبَحَ",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "So'yishni"
+          "e": "أَنْ يَذْبَحَ أَرَادَga tobe masdar ta’villi fe’l; Ibrohimning niyat qilingan amalini bildiradi.",
+          "uz": "so'yishni"
         },
         {
           "w": "إِسْمَاعِيلَ",
           "r": "maf'ul bih (أَنْ يَذْبَحَ)",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ يَذْبَحَ fe’lining maf’uli; niyat qilingan amal qaratilgan shaxsni bildiradi.",
+          "uz": "Ismoilni"
         }
       ]
     },
@@ -480,19 +582,22 @@
           "w": "وَاضْطَجَعَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Yonboshladi"
+          "e": "وَاضْطَجَعَ yotish/yonboshlash fe’li; Ismoilning yerga yotgan holatini bildiradi.",
+          "uz": "yonboshladi"
         },
         {
           "w": "إِسْمَاعِيلُ",
           "r": "fo'il (وَاضْطَجَعَ)",
           "rc": "tm",
-          "e": "Ismoil"
+          "e": "إِسْمَاعِيلُ وَاضْطَجَعَ fe’lining fo’ili; yonboshlagan shaxsni ko‘rsatadi.",
+          "uz": "Ismoilni"
         },
         {
           "w": "عَلَى الْأَرْضِ",
           "r": "mutaalliq (وَاضْطَجَعَ)",
           "rc": "tmt",
-          "e": "Yerga"
+          "e": "عَلَى الْأَرْضِ jar-majrur bo‘lib, وَاضْطَجَعَ fe’liga ulanadi; Ismoil qayerga yotganini bildiradi.",
+          "uz": "yerga"
         }
       ]
     },
@@ -504,37 +609,43 @@
           "w": "وَأَرَادَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "وَأَرَادَ Ibrohimning niyatini bildiruvchi fe’l; xohlangan amal أَنْ يَذْبَحَهُ bilan berilgan.",
+          "uz": "xohladi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "fo'il (وَأَرَادَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَأَرَادَ fe’lining fo’ili; niyat qilgan shaxsni bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنْ يَذْبَحَهُ",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "Uni so'yishni"
+          "e": "أَنْ يَذْبَحَهُ أَرَادَning maf’ul ma’nosidagi masdar tarkibi; -هُ zamiri Ismoilga qaytadi.",
+          "uz": "uni so'yishni"
         },
         {
           "w": "فَوَضَعَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Qo'ydi"
+          "e": "فَوَضَعَ natija fe’li; Ibrohimning pichoqni muayyan joyga qo‘yish harakatini bildiradi.",
+          "uz": "qo'ydi"
         },
         {
           "w": "السِّكِينَ",
           "r": "maf'ul bih (فَوَضَعَ)",
           "rc": "tb",
-          "e": "Pichoqni"
+          "e": "السِّكِينَ فَوَضَعَ fe’lining maf’uli; qo‘yilgan narsa pichoq ekanini bildiradi.",
+          "uz": "pichoqni"
         },
         {
           "w": "عَلَى حُلْقُومِ إِسْمَاعِيلَ",
           "r": "mutaalliq (فَوَضَعَ)",
           "rc": "tmt",
-          "e": "Ismoilning halqumiga"
+          "e": "عَلَى حُلْقُومِ إِسْمَاعِيلَ فَوَضَعَga bog‘langan jar-majrur; pichoq qo‘yilgan joyni izofa bilan aniq ko‘rsatadi.",
+          "uz": "Ismoilning halqumiga"
         }
       ]
     },
@@ -546,43 +657,50 @@
           "w": "وَلَكِنَّ",
           "r": "harf",
           "rc": "tb",
-          "e": "Lekin"
+          "e": "وَلَكِنَّ oldingi keskin vaziyatga zid va istidrok ma’nosini kiritadi; اللَّهَni ism, يُحِبُّni xabar qiladi.",
+          "uz": "lekin"
         },
         {
           "w": "اللَّهَ",
           "r": "ism inna",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهَ لَكِنَّning ismi; nasbda kelib, keyingi يُحِبُّ xabari shu zot haqida ekanini bildiradi.",
+          "uz": "Alloh"
         },
         {
           "w": "يُحِبُّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshi ko'radi"
+          "e": "يُحِبُّ لَكِنَّning xabari bo‘lgan fe’l jumlasi; Allohning sinov hikmatini ko‘rishni istashini bildiradi.",
+          "uz": "yaxshi ko'radi"
         },
         {
           "w": "أَنْ يَرَى",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "Ko'rishni"
+          "e": "أَنْ يَرَى يُحِبُّ fe’lining maf’ul ma’nosidagi masdar tarkibi; ko‘rilishi istalgan narsaga kirish beradi.",
+          "uz": "ko'rishni"
         },
         {
           "w": "هَلْ يَفْعَلُ خَلِيلُهُ مَا يَأْمُرُهُ",
           "r": "istifhom",
           "rc": "th",
-          "e": "Do'sti buyurgan narsani qiladimi"
+          "e": "هَلْ يَفْعَلُ خَلِيلُهُ مَا يَأْمُرُهُ أَنْ يَرَىning mazmuni; خَلِيلُهُ Ibrohimga, -هُ zamiri Allohning buyrug‘i yo‘naltirilgan kishiga ishora qiladi.",
+          "uz": "do'sti buyurgan narsani qiladimi"
         },
         {
           "w": "وَهَلْ يُحِبُّ اللَّهَ أَكْثَرَ",
           "r": "istifhom",
           "rc": "th",
-          "e": "Allohni ko'proq sevadimi"
+          "e": "وَهَلْ يُحِبُّ اللَّهَ أَكْثَرَ oldingi so‘roqqa ma’tuf ikkinchi sinov mazmuni; اللَّهَ يُحِبُّning maf’uli, أَكْثَرَ daraja bildiradi.",
+          "uz": "Allohni ko'proq sevadimi"
         },
         {
           "w": "أَوْ يُحِبُّ ابْنَهُ أَكْثَرَ",
           "r": "istifhom",
           "rc": "th",
-          "e": "Yoki o'g'lini ko'proq sevadimi"
+          "e": "أَوْ يُحِبُّ ابْنَهُ أَكْثَرَ tanlov ma’nosidagi so‘roq; ابْنَهُ maf’ul bo‘lib, -هُ zamiri Ibrohimga qaytadi.",
+          "uz": "yoki o'g'lini ko'proq sevadimi"
         }
       ]
     },
@@ -594,19 +712,22 @@
           "w": "وَنَجَحَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Muvaffaqiyat qozondi"
+          "e": "وَنَجَحَ natija fe’li; Ibrohimning sinovdan muvaffaqiyat bilan o‘tganini bildiradi.",
+          "uz": "muvaffaqiyat qozondi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "fo'il (وَنَجَحَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَنَجَحَ fe’lining fo’ili; muvaffaq bo‘lgan shaxsni bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "فِي الِامْتِحَانِ",
           "r": "mutaalliq (وَنَجَحَ)",
           "rc": "tmt",
-          "e": "Imtihonda"
+          "e": "فِي الِامْتِحَانِ jar-majrur bo‘lib, وَنَجَحَ fe’liga ulanadi; muvaffaqiyat qaysi sinovda bo‘lganini bildiradi.",
+          "uz": "imtihonda"
         }
       ]
     },
@@ -618,61 +739,71 @@
           "w": "فَأَرْسَلَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Yubordi"
+          "e": "فَأَرْسَلَ natija fe’li; Allohning Jibrilni yuborish harakatini bildiradi.",
+          "uz": "yubordi"
         },
         {
           "w": "اللَّهُ",
           "r": "fo'il (فَأَرْسَلَ)",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ فَأَرْسَلَ fe’lining fo’ili; yuborish amalining egasidir.",
+          "uz": "Alloh"
         },
         {
           "w": "جِبْرِيلَ",
           "r": "maf'ul bih (فَأَرْسَلَ)",
           "rc": "tb",
-          "e": "Jibroilni"
+          "e": "جِبْرِيلَ فَأَرْسَلَ fe’lining maf’uli; yuborilgan elchini bildiradi.",
+          "uz": "Jibroilni"
         },
         {
           "w": "بِكَبْشٍ",
           "r": "mutaalliq (وَقَالَ)",
           "rc": "tmt",
-          "e": "Bir qo'chqor bilan"
+          "e": "بِكَبْشٍ فَأَرْسَلَga bog‘langan jar-majrur; Jibril nima bilan yuborilganini bildiradi.",
+          "uz": "qo'chqor bilan"
         },
         {
           "w": "مِنَ الْجَنَّةِ",
           "r": "mutaalliq (وَقَالَ)",
           "rc": "tmt",
-          "e": "Jannatdan"
+          "e": "مِنَ الْجَنَّةِ كَبْشٍni aniqlovchi jar-majrur; qo‘chqorning kelib chiqish manbasini bildiradi.",
+          "uz": "jannatdan"
         },
         {
           "w": "وَقَالَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Va dedi"
+          "e": "وَقَالَ oldingi yuborishga bog‘langan so‘zlash fe’li; keyingi buyruqlar aytilgan gap sifatida keladi.",
+          "uz": "va dedi"
         },
         {
           "w": "اذْبَحْ",
           "r": "fe'l (amr)",
           "rc": "tf",
-          "e": "So'y"
+          "e": "اذْبَحْ buyruq fe’li; muhotab Ibrohim bo‘lib, qurbonlikka yo‘naltirilgan amalni talab qiladi.",
+          "uz": "so'y"
         },
         {
           "w": "هَذَا",
           "r": "maf'ul bih (اذْبَحْ)",
           "rc": "tb",
-          "e": "Buni"
+          "e": "هَذَا اذْبَحْ fe’lining maf’uli; so‘yilishi buyurilgan yaqin narsaga, qo‘chqorga ishora qiladi.",
+          "uz": "bu"
         },
         {
           "w": "وَلَا تَذْبَحْ",
           "r": "fe'l (amr nafiy)",
           "rc": "tf",
-          "e": "Va so'yma"
+          "e": "وَلَا تَذْبَحْ nahiy shaklidagi buyruq; muhotab Ibrohimga Ismoilni so‘ymaslikni bildiradi.",
+          "uz": "va so'yma"
         },
         {
           "w": "إِسْمَاعِيلَ",
           "r": "maf'ul bih (وَلَا تَذْبَحْ)",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ وَلَا تَذْبَحْ fe’lining maf’uli; man qilingan amal qaratilmasligi kerak bo‘lgan shaxsdir.",
+          "uz": "Ismoilni"
         }
       ]
     },
@@ -684,25 +815,29 @@
           "w": "صَلَّى اللَّهُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Salovot bo'lsin"
+          "e": "صَلَّى اللَّهُ duodagi fe’l-fo’il tarkibi; salavotning egasi اللَّهُ, yo‘nalishi keyingi عَلَى bilan keladi.",
+          "uz": "Allohning salovoti"
         },
         {
           "w": "عَلَى إِبْرَاهِيمَ",
           "r": "mutaalliq (صَلَّى اللَّهُ)",
           "rc": "tmt",
-          "e": "Ibrohimga"
+          "e": "عَلَى إِبْرَاهِيمَ صَلَّى fe’liga bog‘langan jar-majrur; salavot kimga qaratilganini bildiradi.",
+          "uz": "Ibrohimga"
         },
         {
           "w": "الْخَلِيلِ",
           "r": "sifat",
           "rc": "ts",
-          "e": "Do'st (Xalil)"
+          "e": "الْخَلِيلِ إِبْرَاهِيمَning sifati yoki laqabi; majrur holatda oldingi ismga ergashib, uni “Xalil” deb aniqlaydi.",
+          "uz": "do'st (Xalil)"
         },
         {
           "w": "وَسَلَّمَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Salom bo'lsin"
+          "e": "وَسَلَّمَ صَلَّىga ma’tuf duo fe’li; salavotga salom duosini qo‘shadi.",
+          "uz": "salom bo'lsin"
         }
       ]
     },
@@ -714,25 +849,29 @@
           "w": "وَصَلَّى اللَّهُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Salovot bo'lsin"
+          "e": "وَصَلَّى اللَّهُ duodagi fe’l-fo’il tarkibi; salavotning kimga yo‘nalgani keyingi عَلَى ابْنِهِ bilan ochiladi.",
+          "uz": "Allohning salovoti bo'lsin"
         },
         {
           "w": "عَلَى ابْنِهِ",
           "r": "mutaalliq (وَصَلَّى اللَّهُ)",
           "rc": "tmt",
-          "e": "O'g'liga"
+          "e": "عَلَى ابْنِهِ صَلَّى fe’liga bog‘langan jar-majrur; -هِ zamiri Ibrohimga qaytib, salavot uning o‘g‘liga qaratilganini bildiradi.",
+          "uz": "o'g'liga"
         },
         {
           "w": "إِسْمَاعِيلَ",
           "r": "badal",
           "rc": "tb",
-          "e": "Ismoilga"
+          "e": "إِسْمَاعِيلَ ابْنِهِ uchun badal; “uning o‘g‘li” kimligini nom bilan aniqlaydi.",
+          "uz": "Ismoilni"
         },
         {
           "w": "وَسَلَّمَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Salom bo'lsin"
+          "e": "وَسَلَّمَ وَصَلَّىga ma’tuf duo fe’li; Ismoilga salom duosini ham qo‘shadi.",
+          "uz": "salom bo'lsin"
         }
       ]
     }

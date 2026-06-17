@@ -12,43 +12,50 @@
           "w": "قَالَ يُوسُفُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Yusuf dedi"
+          "e": "قَالَ يُوسُفُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "Yusuf dedi"
         },
         {
           "w": "فِي نَفْسِهِ",
           "r": "mutaalliq (قَالَ يُوسُفُ)",
           "rc": "tmt",
-          "e": "O'zicha"
+          "e": "فِي نَفْسِهِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "o'zicha (ichida)"
         },
         {
           "w": "إِنَّ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Albatta"
+          "e": "إِنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "albatta"
         },
         {
           "w": "الْحَاجَةَ",
           "r": "ism inna",
           "rc": "tm",
-          "e": "Ehtiyoj"
+          "e": "الْحَاجَةَ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "uz": "ehtiyoj"
         },
         {
           "w": "سَاقَتِ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Yetakladi"
+          "e": "سَاقَتِ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "yetakladi"
         },
         {
           "w": "الرَّجُلَيْنِ",
           "r": "maf'ul bih (قَالَ يُوسُفُ)",
           "rc": "tb",
-          "e": "Ikki odamni"
+          "e": "الرَّجُلَيْنِ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "ikki odamni"
         },
         {
           "w": "إِلَيَّ",
           "r": "mutaalliq (قَالَ يُوسُفُ)",
           "rc": "tmt",
-          "e": "Menga"
+          "e": "إِلَيَّ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "menga"
         }
       ]
     },
@@ -60,77 +67,399 @@
           "w": "وَإِنَّ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Va albatta"
+          "e": "وَإِنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "va albatta"
         },
         {
           "w": "صَاحِبَ الْحَاجَةِ",
           "r": "ism inna",
           "rc": "tm",
-          "e": "Ehtiyoj egasi"
+          "e": "صَاحِبَ الْحَاجَةِ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "uz": "ehtiyoj egasi"
         },
         {
           "w": "يَلِينُ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Yumshaydi"
+          "e": "يَلِينُ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "yumshaydi"
         },
         {
           "w": "وَيَخْضَعُ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va bo'ysunadi"
+          "e": "وَيَخْضَعُ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "bo'ysunadi"
         }
       ]
     },
     {
       "ar": "وَإِنَّ صَاحِبَ الْحَاجَةِ يُطِيعُ وَيَسْمَعُ.",
       "tr": "Va ehtiyoj egasi itoat qiladi va eshitadi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وإن",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وإن gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va albatta"
+        },
+        {
+          "w": "صاحب الحاجة",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "صاحب الحاجة bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "ehtiyoj egasi"
+        },
+        {
+          "w": "يطيع",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يطيع gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "itoat qiladi"
+        },
+        {
+          "w": "ويسمع",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "ويسمع gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va eshitadi"
+        }
+      ]
     },
     {
       "ar": "فَلَوْ قُلْتُ لَهُمَا شَيْئًا لَسَمِعَا وَسَمِعَ أَهْلُ السِّجْنِ.",
       "tr": "Agar ularga biror narsa aytsam, ikkalasi ham eshitadi va zindon ahli ham eshitadi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "فلو",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "فلو gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "agar"
+        },
+        {
+          "w": "قلت",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "قلت gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "aytsam"
+        },
+        {
+          "w": "لهما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasiga"
+        },
+        {
+          "w": "شيئا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "شيئا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "biror narsa"
+        },
+        {
+          "w": "لسمعا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "لسمعا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasi albatta eshitardi"
+        },
+        {
+          "w": "وسمع",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وسمع gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va eshitdi"
+        },
+        {
+          "w": "أهل السجن",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "أهل السجن bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "zindon ahli"
+        }
+      ]
     },
     {
       "ar": "وَلَكِنَّ يُوسُفَ لَمْ يَسْتَعْجِلْ.",
       "tr": "Lekin Yusuf shoshilmadi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "ولكن",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "ولكن gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "lekin"
+        },
+        {
+          "w": "يوسف",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "لم يستعجل",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "لم يستعجل bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "shoshilmadi"
+        }
+      ]
     },
     {
       "ar": "بَلْ قَالَ لَهُمَا:",
       "tr": "Balki ularga dedi:",
-      "parts": []
+      "parts": [
+        {
+          "w": "بل",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "بل gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "balki"
+        },
+        {
+          "w": "قال",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "قال gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "dedi"
+        },
+        {
+          "w": "لهما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasiga"
+        }
+      ]
     },
     {
       "ar": "أَنَا أُخْبِرُكُمَا بِتَأْوِيلِ الرُّؤْيَا قَبْلَ أَنْ يَأْتِيَكُمَا طَعَامُكُمَا.",
       "tr": "Men sizlarga taomingiz kelishidan oldin tushingiz ta'birini aytib beraman.",
-      "parts": []
+      "parts": [
+        {
+          "w": "أنا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أنا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "men"
+        },
+        {
+          "w": "أخبركما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أخبركما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalangizga xabar beraman"
+        },
+        {
+          "w": "بتأويل الرؤيا",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "بتأويل الرؤيا bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "tush ta'biri haqida"
+        },
+        {
+          "w": "قبل",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "قبل gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "oldin"
+        },
+        {
+          "w": "أن",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أن gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "-ki, -ishni"
+        },
+        {
+          "w": "يأتيكما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يأتيكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalangizga keladi"
+        },
+        {
+          "w": "طعامكما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "طعامكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalangizning taomingiz"
+        }
+      ]
     },
     {
       "ar": "فَجَلَسَا وَاطْمَأَنَّا.",
       "tr": "Ikkalasi o'tirib, xotirjam bo'ldi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "فجلسا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "فجلسا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasi o'tirdi"
+        },
+        {
+          "w": "واطمأنا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "واطمأنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va xotirjam bo'ldi"
+        }
+      ]
     },
     {
       "ar": "ثُمَّ قَالَ لَهُمَا يُوسُفُ:",
       "tr": "So'ng Yusuf ularga dedi:",
-      "parts": []
+      "parts": [
+        {
+          "w": "ثم",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "ثم gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "قال",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "قال gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "dedi"
+        },
+        {
+          "w": "لهما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasiga"
+        },
+        {
+          "w": "يوسف",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusuf"
+        }
+      ]
     },
     {
       "ar": "أَنَا عَالِمٌ بِتَأْوِيلِ الرُّؤْيَا، ﴿ذَلِكُمَا مِمَّا عَلَّمَنِي رَبِّي﴾.",
       "tr": "Men tush ta'birini biluvchiman, bu Rabbim menga o'rgatgan narsalardandir.",
-      "parts": []
+      "parts": [
+        {
+          "w": "أنا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أنا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "men"
+        },
+        {
+          "w": "عالم",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "عالم gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "biluvchi"
+        },
+        {
+          "w": "بتأويل الرؤيا",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "بتأويل الرؤيا bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "tush ta'biri haqida"
+        },
+        {
+          "w": "ذلكما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "ذلكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "bu ikkovingizga"
+        },
+        {
+          "w": "مما",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "مما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "narsalardan"
+        },
+        {
+          "w": "علمني ربي",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "علمني ربي bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "uz": "Rabbim menga o'rgatdi"
+        }
+      ]
     },
     {
       "ar": "فَفَرِحَا وَاطْمَأَنَّا.",
       "tr": "Ikkalasi xursand bo'lib, xotirjam bo'ldi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "ففرحا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "ففرحا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ikkalasi xursand bo'ldi"
+        },
+        {
+          "w": "واطمأنا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "واطمأنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va xotirjam bo'ldi"
+        }
+      ]
     },
     {
       "ar": "وَهُنَا وَجَدَ يُوسُفُ الْفُرْصَةَ فَبَدَأَ مَوْعِظَتَهُ.",
       "tr": "Shu yerda Yusuf imkoniyatni topdi va nasihatini boshladi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وهنا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وهنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va shu yerda"
+        },
+        {
+          "w": "وجد",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وجد gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va topdi"
+        },
+        {
+          "w": "يوسف",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "الفرصة",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "الفرصة gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "imkoniyat"
+        },
+        {
+          "w": "فبدأ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "فبدأ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "bas boshladi"
+        },
+        {
+          "w": "موعظته",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "موعظته gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "nasihati"
+        }
+      ]
     }
   ],
   "bookId": "qisas"

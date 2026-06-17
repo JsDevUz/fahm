@@ -1,102 +1,116 @@
 {
   "title": "١٣ ـ بِئْرُ زَمْزَمَ",
-  "tuz": "Zamzam qudug‘i",
+  "tuz": "Zamzam qudug'i",
   "sub": "Zamzam suvining kelishi va Hojarning yugurishi",
   "page": 22,
   "sentences": [
     {
       "ar": "وَعَطِشَ إِسْمَاعِيلُ مَرَّةً، وَأَرَادَتْ أُمُّهُ أَنْ تَسْقِيَهُ مَاءً وَلَكِنْ أَيْنَ الْمَاءُ؟.",
-      "tr": "Ismoil bir marta chanqadi, onasi unga suv bermoqchi bo‘ldi, lekin suv qayerda?",
+      "tr": "Ismoil bir marta chanqadi, onasi unga suv bermoqchi bo'ldi, lekin suv qayerda?",
       "parts": [
         {
           "w": "وَعَطِشَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Chanqadi"
+          "e": "وَعَطِشَ o'tgan zamon fe'li bo'lib, «chanqadi» ma'nosini bildiradi. «وَ» harfi atf bog'lovchisi sifatida gapni oldingi kontekstga ulaydi. Bu fe'l فِعل مَاضٍ vazifasida kelgan va undan keyingi فَاعِل — إِسْمَاعِيلُ — shu harakatning bajaruvchisi hisoblanadi.",
+          "uz": "chanqadi"
         },
         {
           "w": "إِسْمَاعِيلُ",
-          "r": "fo'il (وَعَطِشَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ismoil"
+          "e": "إِسْمَاعِيلُ فَاعِل vazifasida kelgan: «chanqash» harakatini bajaruvchi shaxs. Arab grammatikasida فَاعِل marfuʼ holda (damma bilan) keladi; bu yerda tanvin-damma bilan رَفع holati ko'rinib turibdi. Bu so'z gapda kim chanqaganini aniqlashtiradi.",
+          "uz": "Ismoil"
         },
         {
           "w": "مَرَّةً",
-          "r": "maf'ul mutlaq (وَأَرَادَتْ)",
+          "r": "مَفعُول مُطلَق",
           "rc": "tb",
-          "e": "Bir marta"
+          "e": "مَرَّةً مَفعُول مُطلَق — aniqrog'i عَدَدِي (son bildiruvchi) turi bo'lib, harakatning necha marta sodir bo'lganini ko'rsatadi. Mansub holda (tanvin-fatha) keladi va «bir marta» ma'nosini berib, وَعَطِشَ fe'lini miqdor jihatdan izohlab, uning takrorlanmaganligini ta'kidlaydi.",
+          "uz": "bir marta"
         },
         {
           "w": "وَأَرَادَتْ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "وَأَرَادَتْ o'tgan zamon fe'li bo'lib, «xohladi» ma'nosini bildiradi. «تْ» qo'shimchasi shu fe'lning muannas (urg'ochi) fo'ilga nisbatan ekanligini ko'rsatadi. Bu fe'l أُمُّهُ bilan birgalikda Ismoilning onasi harakatini bayon etuvchi yangi fe'l-tarkibni boshlamoqda.",
+          "uz": "xohladi"
         },
         {
           "w": "أُمُّهُ",
-          "r": "fo'il (وَأَرَادَتْ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Onasi"
+          "e": "أُمُّهُ فَاعِل vazifasida kelgan: «xohlash» harakatining bajaruvchisi — onasi. «هُ» biriktirilgan zamiri Ismoilga qaytib, «uning onasi» ma'nosini beradi. Marfuʼ holatda kelishi وَأَرَادَتْ fe'liga grammatik muvofiqligini ta'minlaydi.",
+          "uz": "onasi"
         },
         {
           "w": "أَنْ تَسْقِيَهُ",
-          "r": "fe'l (mansub)",
+          "r": "مَصدَر مُؤَوَّل (مَفعُول بِه)",
           "rc": "tf",
-          "e": "Unga suv bermoqchi"
+          "e": "أَنْ تَسْقِيَهُ tarkibi أَنْ + مُضَارِع mansub shaklidan iborat bo'lib, مَصدَر مُؤَوَّل — ya'ni ta'wiliy masdarga teng keladi. Butun tarkib وَأَرَادَتْ fe'lining مَفعُول بِه vazifasini bajaradi: «ona neni xohladi?» — «unga suv berishni». «هُ» Ismoilga qaytadi.",
+          "uz": "unga suv bermoqchi"
         },
         {
           "w": "مَاءً",
-          "r": "maf'ul bih (أَنْ تَسْقِيَهُ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Suv"
+          "e": "مَاءً تَسْقِيَ fe'lining مَفعُول بِه vazifasida kelgan: «suv» — berish harakatining bevosita ob'ekti. Mansub holda tanvin-fatha bilan keladi. Bu so'z gapning muammosini ko'rsatadi: ona suv bermoqchi, lekin suv topilmaydi.",
+          "uz": "Suv"
         },
         {
           "w": "وَلَكِنْ",
-          "r": "harf",
+          "r": "حَرف عَطف (اِستِدرَاك)",
           "rc": "tb",
-          "e": "Lekin"
+          "e": "وَلَكِنْ istidrok (qarama-qarshilik) harfi bo'lib, oldingi fikrni inkor emas, balki cheklaydi: «xohladi, ammo...». «وَ» bilan birikib, gap mantiqan oldingi jumlaga ulanadi. Bu harf gap ritmida to'satdan muammo paydo bo'lishini ta'kidlaydi.",
+          "uz": "lekin"
         },
         {
           "w": "أَيْنَ",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام (ظَرف مَكَان)",
           "rc": "tb",
-          "e": "Qayerda"
+          "e": "أَيْنَ joy so'raydigan istifhom ismi bo'lib, bu yerda «quduq qayerda?» ma'nosida ritorik savol hosil qiladi. Grammatik jihatdan ظَرف مَكَان vazifasida xabar o'rnida keladi. Bu savol holat og'irligini va suvning yo'qligini ta'kidlab ko'rsatadi.",
+          "uz": "qani"
         },
         {
           "w": "الْمَاءُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Suv"
+          "e": "الْمَاءُ ismiy gapning مُبتَدَأ — egasi bo'lib, marfuʼ holda (damma) keladi. أَيْنَ xabar vazifasida oldin kelgan, الْمَاءُ esa shu xabarning egasi hisoblanadi: «Suv qayerda?» Aniq artikl «الـ» bilan kelganligi avval tilga olingan «مَاء»ga ishora qiladi.",
+          "uz": "suv"
         }
       ]
     },
     {
       "ar": "وَمَكَّةُ لَيْسَ فِيهَا بِئْرٌ، وَمَكَّةُ لَيْسَ فِيهَا نَهَرٌ!.",
-      "tr": "Makkada quduq yo‘q, Makkada daryo ham yo‘q!",
+      "tr": "Makkada quduq yo'q, Makkada daryo ham yo'q!",
       "parts": [
         {
           "w": "وَمَكَّةُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Makka"
+          "e": "وَمَكَّةُ ismiy gapning مُبتَدَأ — egasi bo'lib, marfuʼ holda (damma) keladi. «وَ» bog'lovchi oldingi gapga ulaydi. Bu tarkib Makkaning suvdan quruqligini ta'riflovchi ikki parallel gap qatoridan birinchisini boshlamoqda.",
+          "uz": "Makka esa"
         },
         {
           "w": "لَيْسَ فِيهَا بِئْرٌ",
-          "r": "xabar",
+          "r": "خَبَر (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Unda quduq yo'q"
+          "e": "لَيْسَ فِيهَا بِئْرٌ tarkibi مُبتَدَأ bo'lgan مَكَّةُ ning خَبَر — xabari. لَيْسَ inkor noqis fe'li bo'lib, «yo'q» ma'nosini beradi; فِيهَا uning xabari, بِئْرٌ ism-kana. Butun tarkib «Makkada quduq yo'q» deb Makkadagi tanqislikni ko'rsatadi.",
+          "uz": "unda quduq yo'q"
         },
         {
           "w": "وَمَكَّةُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Makka"
+          "e": "وَمَكَّةُ takroriy مُبتَدَأ bo'lib, birinchi gap tuzilishini parallel tarzda qaytaradi. Bu uslubiy takror — تَكرَار — Makkaning suvdagi muammosini ikkita alohida dalil bilan ta'kidlash uchun qo'llanilgan.",
+          "uz": "Makka esa"
         },
         {
           "w": "لَيْسَ فِيهَا نَهَرٌ",
-          "r": "xabar",
+          "r": "خَبَر (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Unda daryo yo'q"
+          "e": "لَيْسَ فِيهَا نَهَرٌ ikkinchi مُبتَدَأning خَبَر vazifasidagi tarkib. Birinchi xabardan farq shundaki, bu safar بِئْرٌ o'rniga نَهَرٌ — daryo — istifoda etilgan. Ikki parallel inkor tuzilmasi Makkada na quduq, na daryo borligini ta'kidlaydi.",
+          "uz": "unda daryo yo'q"
         }
       ]
     },
@@ -106,57 +120,66 @@
       "parts": [
         {
           "w": "وَكَانَتْ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَتْ noqis (noto'liq) o'tgan zamon fe'li bo'lib, o'zidan keyin اسم كَان va خَبَر كَان talab qiladi. «تْ» Hojarning muannas ekanligiga muvofiqdir. Bu fe'l harakatning muayyan vaqtda doimiy yoki takroriy davom etganini bildiradi: «yugurardi» — o'tmishdagi odatiy holat.",
+          "uz": "edi"
         },
         {
           "w": "هَاجَرُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Hojar"
+          "e": "هَاجَرُ كَانَ noqis fe'lining اسم — ismi bo'lib, marfuʼ holda keladi. Grammatikada كَانَ o'z ismini رَفع, xabarini نَصب holatiga qo'yadi. Bu yerda هَاجَرُ harakatni bajarayotgan shaxs sifatida gapning mavzusi hisoblanadi.",
+          "uz": "Hojar"
         },
         {
           "w": "تَطْلُبُ",
-          "r": "xabar",
+          "r": "خَبَر كَان (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Izlardi"
+          "e": "تَطْلُبُ كَانَ noqis fe'lining خَبَر — xabari bo'lib, fe'l jumlasi ko'rinishida kelgan. كَانَ + جُملَة فِعلِيَّة تَطْلُبُ tuzilmasi arabchada «davomiy o'tgan zamon» ma'nosini hosil qiladi: Hojar muntazam suv izlab yurardi.",
+          "uz": "izlaydi"
         },
         {
           "w": "الْمَاءَ",
-          "r": "maf'ul bih (وَكَانَتْ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Suv"
+          "e": "الْمَاءَ تَطْلُبُ fe'lining مَفعُول بِه — bevosita to'ldiruvchisi. Mansub holda (fatha) keladi. Aniq artikl «الـ» mavjudligi avval tilga olingan suvga — Hojar izlayotgan ob'ektga — ishora qiladi.",
+          "uz": "suv"
         },
         {
           "w": "وَتَجْرِي",
-          "r": "ma'tuf",
+          "r": "فِعل مُضَارِع مَعطُوف",
           "rc": "tb",
-          "e": "Va yugurardi"
+          "e": "وَتَجْرِي «وَ» harfi atf orqali تَطْلُبُ fe'liga ma'tuf — ulangan fe'l. Ikki fe'l birgalikda خَبَر كَانَ ni tashkil etadi: «suv izlar va yugurardi». مُضَارِع shakli bu yerda o'tmishdagi takroriy harakatni ifodalab, Hojarning masʼiy harakatini ko'rsatadi.",
+          "uz": "yuguradi"
         },
         {
           "w": "مِنَ الصَّفَا",
-          "r": "mutaalliq (وَكَانَتْ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
           "rc": "tmt",
-          "e": "Safodan"
+          "e": "مِنَ الصَّفَا «مِن» harf jarr + مَجرُور tarkibi bo'lib, تَجْرِي fe'liga mutaalliq — bog'liq keladi. «Safodan» ma'nosida harakat boshlanish nuqtasini bildiruvchi ظَرف مَكَان vazifasini bajaradi. Safo — Makkadagi muqaddas tepalik nomi.",
+          "uz": "Safodan"
         },
         {
           "w": "إِلَى الْمَرْوَةِ",
-          "r": "mutaalliq (وَكَانَتْ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
           "rc": "tmt",
-          "e": "Marvaga"
+          "e": "إِلَى الْمَرْوَةِ «إِلَى» harf jarr + مَجرُور tarkibi, تَجْرِي fe'liga mutaalliq. «Marvaga» ma'nosida harakatning yo'nalishi va borib yetadigan nuqtasini ko'rsatadi. مِنَ الصَّفَا bilan birgalikda to'liq yo'nalish tarkibini hosil qiladi.",
+          "uz": "Marvaga"
         },
         {
           "w": "وَمِنَ الْمَرْوَةِ",
-          "r": "ma'tuf",
+          "r": "جَار وَمَجرُور مَعطُوف",
           "rc": "tb",
-          "e": "Va Marvadan"
+          "e": "وَمِنَ الْمَرْوَةِ «وَ» harfi atf orqali مِنَ الصَّفَا tarkibiga ma'tuf — ulangan jor-majrur. Qaytish yo'nalishini — Marvadan Safoga — ifodalab, Hojarning ikki tepalik orasidagi orqaga-oldinga yuguruvini tasvirlaydi.",
+          "uz": "Marvadan"
         },
         {
           "w": "إِلَى الصَّفَا",
-          "r": "mutaalliq (وَكَانَتْ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
           "rc": "tmt",
-          "e": "Safoga"
+          "e": "إِلَى الصَّفَا «إِلَى» harf jarr + مَجرُور tarkibi, وَمِنَ الْمَرْوَةِ bilan birgalikda qaytish marshrutini to'ldiradi. Hojarning Safoga qaytishi bilan bir aylanma — shular yetti marta takrorlangan — tamom bo'lishini ko'rsatadi.",
+          "uz": "Safoga"
         }
       ]
     },
@@ -166,123 +189,142 @@
       "parts": [
         {
           "w": "وَنَصَرَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yordam berdi"
+          "e": "وَنَصَرَ o'tgan zamon fe'li bo'lib, «yordam berdi» ma'nosini bildiradi. «وَ» bog'lovchisi oldingi kontekstga ulaydi. Bu fe'l butun gapning markaziy harakatini ifodalaydi: Allohning Hojarga yordami — muammoning hal bo'lish nuqtasi.",
+          "uz": "va yordam berdi"
         },
         {
           "w": "اللَّهُ",
-          "r": "fo'il (وَنَصَرَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ وَنَصَرَ fe'lining فَاعِل — harakatni bajaruvchisi. Marfuʼ holda (damma) keladi. Bu so'z gapda eng muhim axborotni beradi: yordam berayotgan zot — Alloh, insoniy kuchlar emas. Grammatik va ma'noviy jihatdan gapning og'irlik markazi shu so'zdadir.",
+          "uz": "Alloh"
         },
         {
           "w": "هَاجَرَ",
-          "r": "maf'ul bih (وَنَصَرَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Hojarga"
+          "e": "هَاجَرَ وَنَصَرَ fe'lining مَفعُول بِه — bevosita to'ldiruvchisi. Mansub holda (fatha) keladi. Hojar yordamni qabul qiluvchi, ya'ni harakatning ta'siri tushadigan shaxs sifatida gapda ikkinchi o'rinda keladi.",
+          "uz": "Hojar"
         },
         {
           "w": "وَنَصَرَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Yordam berdi"
+          "e": "وَنَصَرَ takroriy fe'l bo'lib, «وَ» harfi atf orqali birinchi وَنَصَرَ ga ma'tuf — ulangan. Bir xil fe'lning ikki marta kelishi uslubiy ta'kid — تَكرَار — bo'lib, Hojar va Ismoilga alohida-alohida yordam berilganini ta'kidlaydi.",
+          "uz": "va yordam berdi"
         },
         {
           "w": "إِسْمَاعِيلَ",
-          "r": "maf'ul bih (وَنَصَرَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ismoilga"
+          "e": "إِسْمَاعِيلَ ikkinchi وَنَصَرَ fe'lining مَفعُول بِه — bevosita to'ldiruvchisi. Mansub holda (fatha) keladi. Ismoil — Hojar bilan birgalikda yordamga muhtoj ikkinchi shaxs, va Alloh har ikkalasiga alohida yordam ko'rsatgani grammatik takror orqali ta'kidlangan.",
+          "uz": "Ismoil"
         },
         {
           "w": "فَخَلَقَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yaratdi"
+          "e": "فَخَلَقَ «فَ» natija bog'lovchisi + o'tgan zamon fe'li. «فَ» — yordamdan keyin natija sifatida suv yaratilganini ko'rsatadi. Bu fe'l hikoyaning kulminatsion nuqtasi — mo'jizaning boshlanishi — bo'lib, Allohning qudratini ko'rsatadi.",
+          "uz": "va yaratdi"
         },
         {
           "w": "لَهُمَا",
-          "r": "mutaalliq (فَخَلَقَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Ikkalasi uchun"
+          "e": "لَهُمَا «لَ» harf jarr + مُثَنَّى zamiri «هُمَا» tarkibi, فَخَلَقَ fe'liga mutaalliq. «Ikkalasi uchun» ma'nosida suv yaratishning manfaatdorlari — Hojar va Ismoil ikkalasi — ekanligini ko'rsatadi. مُثَنَّى shakli ular ikkoviga birga yordam berilganini ta'kidlaydi.",
+          "uz": "ikkalasi uchun"
         },
         {
           "w": "مَاءً",
-          "r": "maf'ul bih (وَخَرَجَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Suv"
+          "e": "مَاءً فَخَلَقَ fe'lining مَفعُول بِه — yaratish harakatining ob'ekti. Mansub holda tanvin-fatha bilan keladi. Noaniq artikl bilan kelganligi («bir suv») bu suvning ilohiy kuch bilan to'satdan paydo bo'lgan yangi narsa ekanligini ta'kidlaydi.",
+          "uz": "Suv"
         },
         {
           "w": "وَخَرَجَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Chiqdi"
+          "e": "وَخَرَجَ «وَ» bog'lovchi + o'tgan zamon fe'li. Bu fe'l suv yaratilishi natijasida yuz bergan ko'rinadigan hodisani — suvning yerdan chiqishini — ifodalaydi. فَخَلَقَ bilan وَخَرَجَ — ichki sabab va tashqi natija munosabatini ko'rsatadi.",
+          "uz": "chiqdi"
         },
         {
           "w": "الْمَاءُ",
-          "r": "fo'il (وَخَرَجَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Suv"
+          "e": "الْمَاءُ وَخَرَجَ fe'lining فَاعِل — harakatni bajaruvchisi. Marfuʼ holda (damma) keladi. Aniq artikl «الـ» avval tilga olingan مَاءً ga qaytib, «o'sha yaratilgan suv» ma'nosini beradi. Suvning o'zi «chiqish» harakatining مَفعُول emas, مُسَبَّب tomonidan باجرувчиси.",
+          "uz": "suv"
         },
         {
           "w": "مِنَ الْأَرْضِ",
-          "r": "mutaalliq (وَخَرَجَ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
           "rc": "tmt",
-          "e": "Yerdan"
+          "e": "مِنَ الْأَرْضِ «مِن» harf jarr + مَجرُور tarkibi, وَخَرَجَ fe'liga mutaalliq. «Yerdan» ma'nosida harakatning chiqish manbai — yerning ostidan — ko'rsatiladi. Bu tarkib Zamzam suvining to'g'ridan-to'g'ri yerdan muʼjizaviy tarzda otilb chiqishini tasvirlaydi.",
+          "uz": "yerdan"
         }
       ]
     },
     {
       "ar": "وَشَرِبَ إِسْمَاعِيلُ وَشَرِبَتْ هَاجَرُ وَبَقِيَ الْمَاءُ فَكَانَ بِئْرَ زَمْزَمَ.",
-      "tr": "Ismoil ichdi va Hojar ichdi. Suv qoldi va Zamzam qudug‘i bo‘ldi.",
+      "tr": "Ismoil ichdi va Hojar ichdi. Suv qoldi va Zamzam qudug'i bo'ldi.",
       "parts": [
         {
           "w": "وَشَرِبَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ichdi"
+          "e": "وَشَرِبَ o'tgan zamon fe'li bo'lib, «ichdi» ma'nosini bildiradi. «وَ» bog'lovchi oldingi kontekstdagi suvning paydo bo'lishi bilan bu harakatni bog'laydi. Bu fe'l mo'jizaning to'g'ridan-to'g'ri natijasi — Ismoilning suv ichishi — ekanligini ko'rsatadi.",
+          "uz": "ichdi"
         },
         {
           "w": "إِسْمَاعِيلُ",
-          "r": "fo'il (وَشَرِبَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ismoil"
+          "e": "إِسْمَاعِيلُ وَشَرِبَ fe'lining فَاعِل — ichish harakatini bajaruvchi. Marfuʼ holda (tanvin-damma) keladi. Gap boshida tilga olingan chanqagan Ismoil nihoyat suv ichmoqda — bu hikoyaning yechim qismining birinchi elementi.",
+          "uz": "Ismoil"
         },
         {
           "w": "وَشَرِبَتْ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Ichdi"
+          "e": "وَشَرِبَتْ «وَ» harfi atf + muannas o'tgan zamon fe'li. «تْ» qo'shimchasi shu fe'lning urg'ochi fo'ilga nisbatan ekanligini ko'rsatadi. Bu fe'l وَشَرِبَ ga ma'tuf bo'lib, Hojarning ham suv ichganini parallel tarzda ifodalaydi.",
+          "uz": "ichdi"
         },
         {
           "w": "هَاجَرُ",
-          "r": "fo'il (وَشَرِبَتْ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Hojar"
+          "e": "هَاجَرُ وَشَرِبَتْ fe'lining فَاعِل — ichish harakatini bajaruvchi. Marfuʼ holda (damma) keladi. Hojar — suvni izlab chanqab qolgan ona — nihoyat maqsadiga erishib suv ichmoqda. Bu gapda ikkala قَهرَمَان — qahramon — maqsadiga yetishi bayon etilgan.",
+          "uz": "Hojar"
         },
         {
           "w": "وَبَقِيَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Qoldi"
+          "e": "وَبَقِيَ «وَ» bog'lovchi + o'tgan zamon fe'li. «Qoldi, davom etdi» ma'nosini bildiradi. Bu fe'l hikoyada muhim ma'no yuki ko'taradi: suv iste'mol qilinib tugamadi, balki qoldi — bu kelajakda Zamzam qudug'iga aylanishining asosi.",
+          "uz": "davom etdi"
         },
         {
           "w": "الْمَاءُ",
-          "r": "fo'il (وَبَقِيَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Suv"
+          "e": "الْمَاءُ وَبَقِيَ fe'lining فَاعِل — qolish harakatining «bajaruvchisi». Marfuʼ holda (damma) keladi. Aniq artikl «الـ» avval tilga olingan suv ekanligini ko'rsatadi. Suvning qolishi — Zamzam qudug'ining shakllanishi uchun zarur shart.",
+          "uz": "suv"
         },
         {
           "w": "فَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Va bo'ldi"
+          "e": "فَكَانَ «فَ» natija bog'lovchisi + noqis o'tgan zamon fe'li. «فَ» suvning qolishi va Zamzam bo'lishi orasidagi sabab-natija munosabatini ko'rsatadi. كَانَ o'zidan keyin اسم (suv — gapda ma'nan tushuniladi) va خَبَر بِئْرَ زَمْزَمَ ni boshqaradi.",
+          "uz": "va bo'ldi"
         },
         {
           "w": "بِئْرَ زَمْزَمَ",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Zamzam qudug'i"
+          "e": "بِئْرَ زَمْزَمَ كَانَ noqis fe'lining خَبَر — xabari bo'lib, mansub holda (fatha) keladi. «Zamzam qudug'i» — bu ma'lumot butun hikoyaning xulosasi va maqsadi: oddiy yerdan chiqgan suv muqaddas Zamzam qudug'iga aylandi. زَمْزَمَ مُضَاف إِلَيه vazifasida مَجرُور.",
+          "uz": "Zamzam qudug'i"
         }
       ]
     },
@@ -292,69 +334,80 @@
       "parts": [
         {
           "w": "فَبَارَكَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Baraka berdi"
+          "e": "فَبَارَكَ «فَ» natija bog'lovchisi + o'tgan zamon fe'li. «فَ» Zamzamning quduqqa aylanishi va unga baraka berilishi orasidagi mantiqiy izchillikni ko'rsatadi. بَارَكَ — «baraka berdi» — Allohning bu qudoqqa qo'shgan ilohiy quvvat va faydasini bildiradi.",
+          "uz": "baraka berdi"
         },
         {
           "w": "اللَّهُ",
-          "r": "fo'il (فَبَارَكَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ فَبَارَكَ fe'lining فَاعِل — baraka berish harakatini bajaruvchi. Marfuʼ holda (damma) keladi. Bu so'z gapda ma'noviy og'irlik markazidir: Zamzamning baraka manbayi — Allohning O'zi. Hikoya shu nuqtada ilohiy tasdiqqа yetadi.",
+          "uz": "Alloh"
         },
         {
           "w": "فِي زَمْزَمَ",
-          "r": "mutaalliq (فَبَارَكَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Zamzamga"
+          "e": "فِي زَمْزَمَ «فِي» harf jarr + مَجرُور tarkibi, فَبَارَكَ fe'liga mutaalliq. «Zamzamda, Zamzamga» ma'nosida barakalantirilgan narsa — Zamzam suvi — ko'rsatiladi. «فِي» zarfiyat ma'nosida baraka shu quduqda joylashganligini bildiradi.",
+          "uz": "Zamzamga"
         },
         {
           "w": "وَهَذِهِ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Va bu"
+          "e": "وَهَذِهِ «وَ» bog'lovchi + muannas ishora olmoshi. Ismiy gapning مُبتَدَأ — egasi vazifasida kelgan. «هَذِهِ» yaqin narsaga — avval tilga olingan Zamzam qudug'iga — ishora qiladi. Bu tarkib yangi ismiy gapni boshlab, quduqni ta'riflashga o'tadi.",
+          "uz": "va bu"
         },
         {
           "w": "هِيَ",
-          "r": "fasl",
+          "r": "ضَمِير فَصل",
           "rc": "tb",
-          "e": "O'sha"
+          "e": "هِيَ bu yerda ضَمِير فَصل — ajratish (fasl) zamiri vazifasida kelgan. مُبتَدَأ va خَبَر orasida turadi, grammatik jihatdan i'rob olmaydi. Bu zamirning asosiy vazifasi خَبَر ni sifat yoki badal'dan ajratib, uning خَبَر ekanligini aniqlashtirish va jumla ma'nosini ta'kidlashdir.",
+          "uz": "u"
         },
         {
           "w": "الْبِئْرُ",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Quduqdir"
+          "e": "الْبِئْرُ ismiy gapning خَبَر — xabari bo'lib, marfuʼ holda (damma) keladi. «Bu (Zamzam) — quduqdur» ma'nosini beradi. Aniq artikl «الـ» bilan kelganligi va undan keyin الَّتِي nisbiy jumlasi kelishi bu quduqni boshqalardan farqlovchi xususiyatga ega ekanligini ko'rsatadi.",
+          "uz": "quduq"
         },
         {
           "w": "الَّتِي",
-          "r": "ism mavsul",
+          "r": "اسم مَوصُول",
           "rc": "tb",
-          "e": "Unda"
+          "e": "الَّتِي muannas اسم مَوصُول — nisbiy olmosh bo'lib, الْبِئْرُ ni ta'riflovchi صِلَة الْمَوصُول jumlasini boshlab beradi. Bu olmosh الْبِئْرُ bilan kelishadi (muannas + ma'rifat) va undan keyingi fe'l jumlasini — يَشْرَبُ مِنْهَا النَّاسُ — shu quduqning sifati sifatida bog'laydi.",
+          "uz": "unda"
         },
         {
           "w": "يَشْرَبُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Ichadi"
+          "e": "يَشْرَبُ hozirgi-kelasi zamon fe'li bo'lib, صِلَة الْمَوصُول — الَّتِي ning jumlasidagi asosiy fe'l. مُضَارِع shakli bu ichish harakatining har yili hajda takroran sodir bo'lishini — odatiy holat ekanligini — ifodalaydi. Bu fe'l quduqni doimiy manfaat manbai sifatida tavsiflamoqda.",
+          "uz": "ichadi"
         },
         {
           "w": "مِنْهَا",
-          "r": "mutaalliq (يَشْرَبُ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Undan"
+          "e": "مِنْهَا «مِن» harf jarr + «هَا» zamiri tarkibi, يَشْرَبُ fe'liga mutaalliq. «Undan» — ya'ni quduqdan ichish ma'nosini beradi. «هَا» zamiri الَّتِي orqali الْبِئْرُ ga qaytadi. Bu tarkib صِلَة الْمَوصُول ichida quduq bilan ichish harakati orasidagi bog'liqlikni ko'rsatadi.",
+          "uz": "undan"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (يَشْرَبُ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ يَشْرَبُ fe'lining فَاعِل — ichish harakatini bajaruvchi. Marfuʼ holda (damma) keladi. «Odamlar» — aniq artikl bilan kelganligi ma'lum bir guruh, ya'ni haj ziyoratchilarini nazarda tutadi. Bu so'z quduqning umumiy — barcha hojilarga xizmat qiluvchi — ekanligini ta'kidlaydi.",
+          "uz": "odamlar"
         },
         {
           "w": "فِي الْحَجِّ",
-          "r": "zarf (يَشْرَبُ)",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "Hajda"
+          "e": "فِي الْحَجِّ «فِي» harf jarr + مَجرُور tarkibi, يَشْرَبُ fe'liga mutaalliq. Bu yerda zamon ma'nosida — «haj vaqtida» — kelgan ظَرف زَمَان. Ichish harakatining muayyan vaqti — haj mavsumi — ko'rsatilib, Zamzam suvining haj ibodati bilan bog'liqligi ta'kidlangan.",
+          "uz": "hajda"
         }
       ]
     },
@@ -364,21 +417,24 @@
       "parts": [
         {
           "w": "وَيَأْتُونَ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Keladilar"
+          "e": "وَيَأْتُونَ «وَ» bog'lovchi + hozirgi-kelasi zamon fe'li, جَمع مُذَكَّر سَالِم ko'rinishida (و+ن). مُضَارِع shakli bu harakatning har yil takrorlanib turadigan odatiy holat ekanligini bildiradi: hojlar haj tugagach o'z yurtlariga Zamzam suvi bilan qaytadilar.",
+          "uz": "keladilar"
         },
         {
           "w": "بِمَاءِ زَمْزَمَ",
-          "r": "mutaalliq (وَيَأْتُونَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Zamzam suvi bilan"
+          "e": "بِمَاءِ زَمْزَمَ «بَاء» harf jarr + مَجرُور tarkibi. «بَاء» bu yerda مُصَاحَبَة — birga olib yurish ma'nosini bildiradi. مَاءِ زَمْزَمَ — مُضَاف + مُضَاف إِلَيه tuzilmasi bo'lib, مَاءِ مَجرُور, زَمْزَمَ esa مُضَاف إِلَيه vazifasida kelgan.",
+          "uz": "Zamzam suvi bilan"
         },
         {
           "w": "إِلَى بَلَدِهِمْ",
-          "r": "mutaalliq (وَيَأْتُونَ)",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
           "rc": "tmt",
-          "e": "O'z yurtlariga"
+          "e": "إِلَى بَلَدِهِمْ «إِلَى» harf jarr + مَجرُور tarkibi, يَأْتُونَ fe'liga mutaalliq. «O'z yurtlariga» ma'nosida harakatning yo'nalishi — qaytish manzili — ko'rsatiladi. «هِمْ» ko'plik zamiri وَيَأْتُونَ dagi ko'plik fe'liga qaytadi va مُضَاف إِلَيه vazifasida مَجرُور.",
+          "uz": "o'z yurtlariga"
         }
       ]
     },
@@ -388,21 +444,24 @@
       "parts": [
         {
           "w": "هَلْ",
-          "r": "harf istifhom",
+          "r": "حَرف اسْتِفهَام",
           "rc": "tb",
-          "e": "Mi"
+          "e": "هَلْ arabchaning asosiy so'roq harflaridan biri bo'lib, ha/yo'q javobini kutadigan savol hosil qiladi. Bu yerda o'quvchiga to'g'ridan-to'g'ri murojaat qilib, uni Zamzam suvini ichganmi yoki yo'qligini so'rash orqali hikoyani shaxsiy tajribaga bog'laydi.",
+          "uz": "mi"
         },
         {
           "w": "شَرِبْتَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ichding"
+          "e": "شَرِبْتَ o'tgan zamon fe'li bo'lib, «تَ» qo'shimchasi murojaat qilinayotgan shaxs — ikkinchi shaxs mufradi muzakkar ekanligini ko'rsatadi. Bu fe'l gapda asosiy predikativni tashkil etib, «sen ichdingmi?» savol tuzilmasining markazida turadi.",
+          "uz": "ichding"
         },
         {
           "w": "مَاءَ زَمْزَمَ",
-          "r": "maf'ul bih (شَرِبْتَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Zamzam suvini"
+          "e": "مَاءَ زَمْزَمَ شَرِبْتَ fe'lining مَفعُول بِه — bevosita to'ldiruvchisi. مَاءَ mansub holda (fatha), زَمْزَمَ esa مُضَاف إِلَيه vazifasida مَجرُور. «Zamzam suvi» — butun hikoyaning bosh mavzusi bo'lib, bu savol o'quvchini o'sha muqaddas suv bilan shaxsiy aloqaga chorlaydi.",
+          "uz": "Zamzam suvini"
         }
       ]
     }

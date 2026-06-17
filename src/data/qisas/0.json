@@ -10,27 +10,31 @@
       "parts": [
         {
           "w": "قَبْلَ",
-          "r": "hol",
+          "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "Vaqt holi"
+          "e": "قَبْلَ bu yerda vaqt zarfi (ظَرف زَمَان) bo'lib, keyingi أَيَّامٍ bilan izofa tarkibini hosil qiladi va voqealar nutq vaqtidan ancha ilgari sodir bo'lganini bildiradi. U mansub bo'lib (فَتحة bilan), mahall jihatidan fe'lga ta'luqli holda keladi. Hikoya boshidagi bu vaqt belgisi o'quvchini uzoq o'tgan zamonning ruhiga kiritadi.",
+          "uz": "oldin"
         },
         {
           "w": "أَيَّامٍ",
-          "r": "mutaalliq",
+          "r": "مُضَاف إِلَيه",
           "rc": "tmt",
-          "e": "Jar-majrur"
+          "e": "أَيَّامٍ قَبْلَ zarfiga izofa orqali bog'langan مُضَاف إِلَيه bo'lib, jarr holatida (كَسرَة bilan) keladi. Bu so'z 'qancha oldin' degan savolga o'lchovli javob beradi va vaqt zarfini aniqlashtiradi. Tanvinsiz emas, balki tanvinli kelishi aniqsizlikni — kunlar noma'lum, lekin ko'p ekanini — ifodalaydi.",
+          "uz": "kunlar"
         },
         {
           "w": "كَثِيرَةٍ",
-          "r": "sifat",
+          "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "Ayyam sifati"
+          "e": "كَثِيرَةٍ أَيَّامٍ so'ziga ergashgan sifat (نَعت) bo'lib, ma'nuf bilan son (جمع), jins (مؤنث) va kelishik (مجرور) jihatidan muvofiq keladi. Bu sifat voqealarning qanchalik uzoq o'tganini ta'kidlab, ertakona uslubni kuchaytiradi. Sifat va mavsuf o'rtasidagi bunday to'liq moslik arab grammatikasining asosiy talabi hisoblanadi.",
+          "uz": "ko'p"
         },
         {
           "w": "جِدًّا",
-          "r": "hol",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
           "rc": "th",
-          "e": "Miqdor holi"
+          "e": "جِدًّا oldingi كَثِيرَةٍ sifatini kuchaytiruvchi miqdar zarfi bo'lib, grammatikada ba'zan مَفعُول مُطلَق yoki mustaqil hol sifatida tahlil qilinadi. U mansub (فَتحة + تَنوين) holda keladi va 'juda ko'p' ma'nosini beradi. Bu so'z qo'shilishi hikoya bo'rttirib aytish uslubini — mubolag'ani — yaqqol ko'rsatadi.",
+          "uz": "juda"
         }
       ]
     },
@@ -40,33 +44,38 @@
       "parts": [
         {
           "w": "كَانَ",
-          "r": "fe'l (noqus)",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Kona fe'li — edi"
+          "e": "كَانَ — o'tgan zamon noqis fe'li bo'lib, isim va xabar talab qiladi: ismni raf' (ضَمَّة), xabarni nasb (فَتحة) holatiga o'tkazadi. Bu gapda رَجُلٌ uning ismi, فِي قَرْيَةٍ esa xabari (mahall jihatidan mansub) hisoblanadi. كَانَ mavjudlikning o'tgan zamonda davomiy bo'lganini ifodalab, qissa sahifasini ochadi.",
+          "uz": "edi"
         },
         {
           "w": "فِي قَرْيَةٍ",
-          "r": "mutaalliq (xabar) (كَانَ)",
+          "r": "خَبَر كَانَ (جَار وَمَجرُور)",
           "rc": "tmt",
-          "e": "Kechiktirilgan xabar"
+          "e": "فِي قَرْيَةٍ — jar va majrur tarkibi bo'lib, كَانَ ning xabari vazifasida keladi; mahall jihatidan mansub holatda taqdirlangan (مَنصُوب مَحَلًّا). Bu tarkib رَجُلٌ ning qayerda bo'lganini ko'rsatadi. Xabarning fe'ldan oldin kelishi arab tilida mazmunan ta'kidlash (خَبَر مُقَدَّم) uslubini ifodalaydi.",
+          "uz": "bir qishloqda"
         },
         {
           "w": "رَجُلٌ",
-          "r": "mubtado",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Kechiktirilgan mubtado"
+          "e": "رَجُلٌ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة + تَنوين) keladi. U gapning asosiy mavzusi bo'lib, 'qishloqda kim bor edi?' savoliga javob beradi. Tanvinsiz emas, balki tanvinli kelishi o'sha kishining avvaldan ma'lum emas, yangi shaxs ekanini bildiradi — ertakonaviy 'bir kishi bor edi' uslubi.",
+          "uz": "kishi"
         },
         {
           "w": "مَشْهُورٌ",
-          "r": "sifat",
+          "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "Sifat"
+          "e": "مَشْهُورٌ رَجُلٌ ning nati (sifati) bo'lib, u bilan son (مفرد), jins (مذكر) va kelishik (مرفوع) jihatidan to'liq muvofiq keladi. Bu sifat o'sha kishining jamoat ichida tanilgan, e'tiborli shaxs ekanini bildiradi. Syujet uchun muhim: mashhurlik uning butlar sotuvchisi ekanligidan kelib chiqadi.",
+          "uz": "mashhur"
         },
         {
           "w": "جِدًّا",
-          "r": "hol (كَانَ)",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
           "rc": "th",
-          "e": "Miqdor holi"
+          "e": "جِدًّا مَشْهُورٌ sifatini kuchaytiruvchi miqdar zarfi bo'lib, mansub holda (تَنوين فَتح) keladi. U mashhurlikning oddiy emas, balki yuqori darajada ekanini ta'kidlaydi. Grammatik jihatdan u sifatning mutaalliqi — sifatni miqdor jihatidan izohlovchi mustaqil unsur hisoblanadi.",
+          "uz": "juda"
         }
       ]
     },
@@ -75,22 +84,32 @@
       "tr": "Bu kishining ismi Ozar edi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi harf (حَرف عَطف) bo'lib, oldingi gapni bu gapga ulaydi va voqealar davomini bildiradi. كَانَ esa o'tgan zamon noqis fe'li sifatida اسْمُ ni ism, آزَرَ ni xabar qilib oladi. Bu ikki unsurning birikuvi qissa syujetini uzluksiz rivojlantirib, shaxsni nomlash bosqichiga o'tkazadi.",
+          "uz": "va edi"
+        },
+        {
           "w": "اسْمُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "اسْمُ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة) keladi va هَذَا الرَّجُلِ ga izofa tarkibida muzof sifatida bog'langan. Gap 'ism nima edi?' tuzilmasida bo'lib, keyingi xabar aynan shu ismning mazmunini ochadi. Izofada muzof aniqlamasiz (بِدُون تَعرِيف) kelishi grammatik qoidaga muvofiq.",
+          "uz": "ismi"
         },
         {
           "w": "هَذَا الرَّجُلِ",
-          "r": "mutaalliq",
+          "r": "مُضَاف إِلَيه",
           "rc": "tmt",
-          "e": "Izofiy birikma"
+          "e": "هَذَا الرَّجُلِ — اسْمُ ga izofa orqali bog'langan مُضَاف إِلَيه bo'lib, jarr holatida (كَسرَة) keladi. Bu tarkib ismning kimga tegishli ekanini aniqlashtiradi: 'bu odamning ismi'. هَذَا — ishora olmoshi, الرَّجُلِ uning badali yoki sifati sifatida kelib, gap ma'nosini oldingi gapga bog'laydi.",
+          "uz": "bu odamning"
         },
         {
           "w": "آزَرَ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "Xabar"
+          "e": "آزَرَ — كَانَ ning xabari bo'lib, mansub holatda (فَتحة) keladi; bu shaxs ismi g'ayri munsarif (مَمنُوع مِن الصَّرف) bo'lgani uchun tanvin olmaydi. Xabar اسْمُ haqidagi hukm — ya'ni ismning aynan Ozar ekanini bayon qiladi. Shaxs nomining birinchi marta aytilishi qissada dramatik bir lahzani belgilaydi.",
+          "uz": "Ozar"
         }
       ]
     },
@@ -99,22 +118,32 @@
       "tr": "Va Ozar butlarni sotardi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — matn bog'lovchisi sifatida oldingi ma'lumotga yangi lavha qo'shadi. كَانَ esa noqis fe'l bo'lib, o'tgan zamondagi davomiy odatni ifodalaydi. Bu tuzilma arab tilining tasvir uslubida ('edi + mudori' fe'l) odatiy amalni o'tgan zamonda ko'rsatish uchun qo'llaniladi.",
+          "uz": "va edi"
+        },
+        {
           "w": "آزَرُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "آزَرُ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة) keladi. G'ayri munsarif ism sifatida tanvin olmaydi, lekin raf' kasrasi emas, damma bilan ko'rsatiladi. Bu gapda Ozar nomi xabarning subyekti — ya'ni butlar sotish amali kim tomonidan bajarilib kelinganini belgilaydi.",
+          "uz": "Ozar"
         },
         {
           "w": "يَبِيعُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَانَ (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Sotadi"
+          "e": "يَبِيعُ — mudori' fe'l bo'lib, كَانَ ning xabari sifatida fe'liy jumlani tashkil qiladi; mahall jihatidan mansub holatda (مَنصُوب مَحَلًّا). كَانَ + mudori' birikmasi arab tilida o'tgan zamondagi takrorlanuvchi odatni ifodalashning klassik usuli — Ozar doimiy ravishda butlar sotar edi.",
+          "uz": "sotadi"
         },
         {
           "w": "الأَصْنَامَ",
-          "r": "maf'ul bih",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "To'ldiruvchi"
+          "e": "الأَصْنَامَ — يَبِيعُ fe'lining to'g'ri to'ldiruvchisi (مَفعُول بِه) bo'lib, mansub holatda (فَتحة) keladi. Bu so'z sotish harakati qaratilgan narsani — butlarni — aniq ko'rsatadi. Ma'rifalik (ال bilan) kelishi o'sha ma'lum butlarni — avval tilga olingan аصنам ni — nazarda tutadi.",
+          "uz": "butlarni"
         }
       ]
     },
@@ -123,58 +152,80 @@
       "tr": "Bu qishloqda juda katta bir uy bor edi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — voqealar tavsifini davom ettirib, yangi mukashshafotni ulaydi. كَانَ noqis fe'l bo'lib, bu yerda mavjudlik ma'nosida qo'llaniladi: 'bor edi'. Gap tuzilishi خَبَر مُقَدَّم — اسم مُؤَخَّر shaklida bo'lib, joy birinchi, unda bor narsa keyinroq aytiladi.",
+          "uz": "va edi"
+        },
+        {
           "w": "فِي هَذِهِ الْقَرْيَةِ",
-          "r": "mutaalliq (xabar)",
+          "r": "خَبَر كَانَ (جَار وَمَجرُور)",
           "rc": "tmt",
-          "e": "Kechiktirilgan xabar"
+          "e": "فِي هَذِهِ الْقَرْيَةِ — jar va majrur tarkibi bo'lib, كَانَ ning taqdimiy xabari (خَبَر مُقَدَّم) sifatida mahall jihatidan mansub holatda taqdirlangan. هَذِهِ — muannas ishora olmoshi, الْقَرْيَةِ uning sifati yoki badali. Bu tarkib uyning qayerda joylashganini ko'rsatib, o'quvchi diqqatini geografik sahna — qishloq — ga qaratadi.",
+          "uz": "bu qishloqda"
         },
         {
           "w": "بَيْتٌ",
-          "r": "mubtado",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "بَيْتٌ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة + تَنوين) keladi. Tanvinli (noaniq) kelishi bu uyning o'quvchi uchun yangi, avval tilga olinmagan ob'ekt ekanini bildiradi. Gap strukturasi 'qishloqda bir uy bor edi' ma'nosini hosil qiladi va keyingi tavsifga zamin yaratadi.",
+          "uz": "uy"
         },
         {
           "w": "كَبِيرٌ",
-          "r": "sifat",
+          "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "Sifat"
+          "e": "كَبِيرٌ — بَيْتٌ ning nati (sifati) bo'lib, u bilan mufrad, muzakkar va raf' jihatidan muvofiq keladi. Bu sifat uyning oddiy turar joy emas, alohida e'tiborga loyiq, hajman ulkan bino ekanini bildiradi. Bunday tavsif o'quvchida uy ichida muqaddas joy yoki maxsus maqom borligini sezdiradi.",
+          "uz": "katta"
         },
         {
           "w": "جِدًّا",
-          "r": "hol",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
           "rc": "th",
-          "e": "Miqdor holi"
+          "e": "جِدًّا — كَبِيرٌ sifatini kuchaytiruvchi miqdar zarfi bo'lib, mansub holda (فَتحة tanvini) keladi. U uyning kattaligini mubolag'a darajasiga olib chiqib, 'juda katta' — ya'ni odatdagi uylardan keskin farq qiluvchi — ekanini ta'kidlaydi. Bu ta'kid keyingi gapda unda ko'plab butlar borligini mantiqan tayyorlaydi.",
+          "uz": "juda"
         }
       ]
     },
     {
       "ar": "وَكَانَ فِي هَذَا الْبَيْتِ أَصْنَامٌ، أَصْنَامٌ كَثِيرَةٌ جِدًّا.",
-      "tr": "Bu uyda butlar, juda ko‘p butlar bor edi.",
+      "tr": "Bu uyda butlar, juda ko'p butlar bor edi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — oldingi uy tavsifiga uning ichidagi narsa haqida ma'lumot ulaydi. كَانَ mavjudlik fe'li sifatida gap tuzilmasini خَبَر مُقَدَّم — اسم مُؤَخَّر tartibida qurib, avval joy, keyin unda bor narsa zikr qilinadi. Bu usul arab tilida joyni ta'kidlash uchun qo'llaniladi.",
+          "uz": "va edi"
+        },
+        {
           "w": "فِي هَذَا الْبَيْتِ",
-          "r": "mutaalliq (xabar)",
+          "r": "خَبَر كَانَ (جَار وَمَجرُور)",
           "rc": "tmt",
-          "e": "Kechiktirilgan xabar"
+          "e": "فِي هَذَا الْبَيْتِ — jar va majrur tarkibi كَانَ ning taqdimiy xabari (خَبَر مُقَدَّم) sifatida mahall jihatidan mansub holatda taqdirlangan. هَذَا muzakkar ishora olmoshi, الْبَيْتِ esa avval tilga olingan aniq uy — oldingi gapda tavsif qilingan الْبَيْت. Bu bog'lanish matnning izchilligini ta'minlaydi.",
+          "uz": "bu uyda"
         },
         {
           "w": "أَصْنَامٌ",
-          "r": "mubtado",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "أَصْنَامٌ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة + تَنوين) keladi. Tanvinli (noaniq) kelishi butlarning avval zikr qilinmaganini bildiradi — bu yangi ma'lumot. So'zning darhol takrorlanishi (أَصْنَامٌ كَثِيرَةٌ) arab tilining ta'kid uslubi bo'lib, o'quvchi diqqatini butlarga qaratadi.",
+          "uz": "butlar"
         },
         {
           "w": "كَثِيرَةٌ",
-          "r": "sifat",
+          "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "Sifat"
+          "e": "كَثِيرَةٌ — takrorlangan أَصْنَامٌ ning nati (sifati) bo'lib, jamhur muannas va raf' jihatidan mavsufiga muvofiq keladi. Bu sifat butlarning soni ko'p ekanini bildiradi va ta'kid (تَكرَار + نَعت) uslubini to'ldiradi. Butxonada ko'plab but borligini ta'kidlash keyingi savollarga zamin yaratadi.",
+          "uz": "ko'p"
         },
         {
           "w": "جِدًّا",
-          "r": "hol",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
           "rc": "th",
-          "e": "Miqdor holi"
+          "e": "جِدًّا — كَثِيرَةٌ sifatini kuchaytiruvchi miqdar zarfi bo'lib, mansub holda keladi. U butlar sonining haddan tashqari ko'p ekanini ifodalab, uyning asl vazifasini — ko'pxudolik ibodatxonasi ekanini — yaqqol ko'rsatadi. Bu ta'kid hikoyaning muammoli sahifasini ochadi.",
+          "uz": "juda"
         }
       ]
     },
@@ -183,22 +234,32 @@
       "tr": "Odamlar bu butlarga sajda qilishar edi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — matn bog'lovchisi bo'lib, oldingi butxona tavsifidan odamlarning amali haqida ma'lumotga o'tishni ta'minlaydi. كَانَ + mudori' fe'l birikmasi o'tgan zamondagi takrorlanuvchi odatni ifodalaydi — odamlar muttasil ravishda sajda qilib kelganlar. Bu grammatik tuzilma arab tilida عَادَة maqsadi uchun klassik qolip hisoblanadi.",
+          "uz": "va edi"
+        },
+        {
           "w": "النَّاسُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "النَّاسُ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة) keladi. Ma'rifalik (ال) bilan kelishi 'odamlar umuman' emas, balki 'o'sha qishloqdagi odamlar' — kontekstda ma'lum guruh — ekanini bildiradi. Bu so'z gapning subyekti bo'lib, butlarga sajda qilish amali umlarga qaratilgan.",
+          "uz": "odamlar"
         },
         {
           "w": "يَسْجُدُونَ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَانَ (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Sajda qiladilar"
+          "e": "يَسْجُدُونَ — mudori' fe'l bo'lib, كَانَ ning fe'liy xabari sifatida mahall jihatidan mansub holatda taqdirlangan. Jamhur muzakkar sog'im shakli النَّاسُ ning ko'pchilik erkak kishilardan iboratligini ko'rsatadi. كَانَ bilan birga o'tgan zamondagi odatiy sajda amali ifodalanib, bu an'anaviy kufr holati qalamga olinadi.",
+          "uz": "sajda qiladilar"
         },
         {
           "w": "لِهَذِهِ الْأَصْنَامِ",
-          "r": "mutaalliq",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Bu butlarga"
+          "e": "لِهَذِهِ الْأَصْنَامِ — لِ jar harfi va هَذِهِ الْأَصْنَامِ majrurdan tashkil topgan tarkib bo'lib, يَسْجُدُونَ fe'liga ta'luqli (mutaalliq). لِ harfi bu yerda maqsad yoki yo'nalish (لِلتَّعلِيل / لِلإِخلَاص) ma'nosini beradi: sajda aynan shu butlarga — muayyan, avval tilga olingan butlarga — qaratilgan.",
+          "uz": "bu butlarga"
         }
       ]
     },
@@ -207,22 +268,32 @@
       "tr": "Ozar ham bu butlarga sajda qilardi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — oldingi gapda odamlar haqida aytilganni Ozarga ham tadbiq qiluvchi bog'lovchi. كَانَ + mudori' birikmasi Ozarning ham sajda qilish odatini o'tgan zamonda tasvirlaydi. Bu takroriy tuzilma hikoyachining Ozarni avval umumiy odamlar qatorida, so'ngra alohida ajratib ko'rsatish uslubini ifodalaydi.",
+          "uz": "va edi"
+        },
+        {
           "w": "آزَرُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "آزَرُ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة) keladi. G'ayri munsarif ism sifatida tanvin va jarr kasrasini olmaydi. Bu gapda Ozarning nomini alohida zikr qilish unga e'tiborni tortib, u shaxsan ham o'sha odamlar safida sajda qilganini ta'kidlaydi.",
+          "uz": "Ozar"
         },
         {
           "w": "يَسْجُدُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَانَ (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Sajda qiladi"
+          "e": "يَسْجُدُ — mufrad muzakkar mudori' fe'l bo'lib, كَانَ ning xabari sifatida mahall jihatidan mansub holatda taqdirlangan. Oldingi gapda jamhur يَسْجُدُونَ ishlatilgan bo'lsa, bu yerda mufrad يَسْجُدُ Ozarning individual amali sifatida alohida ta'kidlanadi. Bu o'tish — ommadan shaxsga — hikoyaviy uslubning mohir qo'llanilishini ko'rsatadi.",
+          "uz": "sajda qiladi"
         },
         {
           "w": "لِهَذِهِ الْأَصْنَامِ",
-          "r": "mutaalliq",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Bu butlarga"
+          "e": "لِهَذِهِ الْأَصْنَامِ — يَسْجُدُ fe'liga ta'luqli jar-majrur tarkibi bo'lib, Ozarning sajdasi qaratilgan ob'ektni ko'rsatadi. Oldingi gapda aynan shu ibora takrorlanishi (izofor) ikkala gap orasidagi parallel tuzilmani hosil qilib, Ozar va odamlarning bir xil amalini ta'kidlaydi.",
+          "uz": "bu butlarga"
         }
       ]
     },
@@ -231,22 +302,32 @@
       "tr": "Ozar bu butlarga ibodat qilardi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَ — oldingi sajda haqidagi gapga ibodat ma'lumotini qo'shadigan bog'lovchi. كَانَ + mudori' birikmasi Ozarning ibodatini ham o'tgan zamondagi davomiy odat sifatida tasvirlaydi. Sajdadan ibodatga o'tish — ikkita turli fe'l bilan — Ozarning but bilan munosabatini kengroq va to'liqroq ko'rsatadi.",
+          "uz": "va edi"
+        },
+        {
           "w": "آزَرُ",
-          "r": "mubtado (ism kana)",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Ega"
+          "e": "آزَرُ — كَانَ ning ismi bo'lib, raf' holatida (ضَمَّة) keladi, g'ayri munsarif ism sifatida tanvinsiz. Bu gapda Ozarning ismi yana takrorlanib, uning amali yanada chuqurroq — sajdadan ibodatga — tavsiflanadi. Isming takrorlanishi arab tili nasrida davomiylik va urg'u vositasi hisoblanadi.",
+          "uz": "Ozar"
         },
         {
           "w": "يَعْبُدُ",
-          "r": "xabar (xabar kana)",
+          "r": "خَبَر كَانَ (فِعل مُضَارِع)",
           "rc": "tx",
-          "e": "Ibodat qiladi"
+          "e": "يَعْبُدُ — mufrad muzakkar mudori' fe'l bo'lib, كَانَ ning xabari sifatida mahall jihatidan mansub holatda taqdirlangan. عَبَدَ fe'li يَسْجُدَ dan farqli o'laroq, faqat jismoniy emas, balki umumiy sig'inish — diniy e'tiqod va yaxlit ibodat amalini — ifodalaydi. Bu fe'l Ozarning but bilan munosabatini yuzaki emas, qalbiy darajada ko'rsatadi.",
+          "uz": "ibodat qiladi"
         },
         {
           "w": "هَذِهِ الْأَصْنَامَ",
-          "r": "maf'ul bih",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "To'ldiruvchi"
+          "e": "هَذِهِ الْأَصْنَامَ — يَعْبُدُ fe'lining to'g'ri to'ldiruvchisi (مَفعُول بِه) bo'lib, mansub holatda (فَتحة) keladi. Oldingi gapda لِهَذِهِ الْأَصْنَامِ jar-majrur sifatida kelgan bo'lsa, bu yerda to'g'ridan-to'g'ri maf'ul sifatida — jar harfisiz — kelishi يَعْبُدَ fe'lining ikki tomonlama o'tish xususiyatini ko'rsatib, ibodatning to'liq bevosita ekanini ta'kidlaydi.",
+          "uz": "bu butlarni"
         }
       ]
     }

@@ -10,33 +10,38 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ — arabcha ‘afol noqisa’ (الأفعال الناقصة) guruhiga kiruvchi fe’l bo’lib, o’z ismi va xabarini talab qiladi. Bu gapda لِإِبْرَاهِيمَ xabar sifatida oldinga chiqarilgan (خبر مقدم), زَوْجٌ أُخْرَى esa ism sifatida kechiktirib keltirilgan (اسم مؤخر) — bu arabcha inversiya (taqdim va ta’xir) holati. وَ boshidagi harf oldingi hikoya bilan ulanishni ta’minlaydi.",
+          "uz": "edi"
         },
         {
           "w": "لِإِبْرَاهِيمَ",
-          "r": "mutaalliq (وَكَانَ)",
+          "r": "خَبَر كَانَ مُقَدَّم",
           "rc": "tmt",
-          "e": "Ibrohimning"
+          "e": "لِإِبْرَاهِيمَ — كانَ fe’lining oldinga chiqarilgan xabari (خبر مقدم), jar (لِ) va majrur (إِبْرَاهِيمَ) tarkibidan iborat. Xabar odatda ismdan keyin keladi, lekin bu yerda ismdan oldin chiqqan — ‘kim egasi’ ekanligini ta’kidlash uchun. إِبْرَاهِيمَ diptot (ممنوع من الصرف) — سَبَب العجمة va سَبَب العلمية tufayli jar holida kasra o’rniga fatha bilan kelgan.",
+          "uz": "Ibrohimga"
         },
         {
           "w": "زَوْجٌ أُخْرَى",
-          "r": "ism kana",
+          "r": "اسم كَانَ مُؤَخَّر",
           "rc": "tm",
-          "e": "Boshqa bir xotin"
+          "e": "زَوْجٌ أُخْرَى — كانэning kechiktirilgan ismi (اسم مؤخر), raf’ holida tanvin bilan. أُخْرَى — nati (صفة) bo’lib, bu xotinning Hojardan boshqa ekanligini aniqlab, hikoyaning rivojiga zamin hozirlaydi. Isming xabardan keyin kelishi gapda informatsiyon og’irlikni xabar (kim egasi) tomonga siljitadi.",
+          "uz": "boshqa bir xotin"
         },
         {
           "w": "اسْمُهَا",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Uning ismi"
+          "e": "اسْمُهَا — yangi ismiy gapning mubtadosi (مبتدأ). اسم so’zi مُضَاف, -هَا zamiri esa مُضَاف إِلَيه bo’lib, oldingi زَوْجٌ أُخْرَىga qaytadi. Bu tuzilma arabcha hikoyada shaxsni tanitishning klassik usuli: avval shaxsning mavjudligi, so’ng ismi alohida gap bilan beriladi.",
+          "uz": "uning ismi"
         },
         {
           "w": "سَارَةُ",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Sara"
+          "e": "سَارَةُ — اسْمُهَا mubtadosining xabari (خبر), raf’ holida damma bilan. Sara ismi ajamiy alem bo’lib diptot, lekin marfu’ holda damma ko’rinadi. Gap shu xotinning shaxsiy ismini aniq va to’liq bayon etib yakunlanadi va keyingi Ishoq haqidagi rivoyatga zamin tayyorlaydi.",
+          "uz": "Sara"
         }
       ]
     },
@@ -46,39 +51,45 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ noqis fe’l, ism va xabarini boshqaradi. Bu gapda ham xabar (لِإِبْرَاهِيمَ) oldinga chiqarilgan, ism (وَلَدٌ آخَرُ) esa kechikkan — avvalgi كانَ لِإِبْرَاهِيمَ زَوْجٌ tuzilmasi bilan bir xil grammatik qolip qaytarilishi hikoya davomiyligini va qiyosni ta’minlaydi.",
+          "uz": "edi"
         },
         {
           "w": "لِإِبْرَاهِيمَ",
-          "r": "mutaalliq (وَكَانَ)",
+          "r": "خَبَر كَانَ مُقَدَّم",
           "rc": "tmt",
-          "e": "Ibrohimning"
+          "e": "لِإِبْرَاهِيمَ — كانэning oldinga chiqarilgan xabari (خبر مقدم), jar-majrur tarkibida. Egalik munosabatini bildiradi: o’g’il Ibrohimga mansub. إِبْرَاهِيمَ diptot holida — مجرور holda ham fatha oladi (ممنوع من الصرف qoidasi).",
+          "uz": "Ibrohimga"
         },
         {
           "w": "وَلَدٌ آخَرُ",
-          "r": "ism kana",
+          "r": "اسم كَانَ مُؤَخَّر",
           "rc": "tm",
-          "e": "Boshqa bir o'g'il"
+          "e": "وَلَدٌ آخَرُ — كانэning kechikkan ismi (اسم مؤخر), raf’ holida. آخَرُ — وزن أَفعَل التفضيل bilan ummul-vasf sababli diptot (ممنوع من الصرف), tanvinsiz damma bilan kelgan. Sifat وَلَدٌni aniqlab, bu o’g’ilning Ismoildan boshqa ekanligini bildiradi.",
+          "uz": "boshqa o’g’il"
         },
         {
           "w": "مِنْ سَارَةَ",
-          "r": "mutaalliq (وَكَانَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِمَحذُوف صِفَة لِوَلَد)",
           "rc": "tmt",
-          "e": "Saradan"
+          "e": "مِنْ سَارَةَ — jar-majrur tarkibi, وَلَدٌning mahzuf sifatiga bog’langan (متعلق بمحذوف صفة). مِنْ bu yerda ibtidoiya (بيان الأصل والنشأة) ma’nosida — o’g’ilning onasini ko’rsatadi. سَارَةَ diptot (ajamiy alem), jar holida fatha bilan kelgan.",
+          "uz": "Saradan"
         },
         {
           "w": "اسْمُهُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Uning ismi"
+          "e": "اسْمُهُ — ichki ismiy gapning mubtadosi (مبتدأ). اسم مُضَاف, -هُ esa مُضَاف إِلَيه bo’lib وَلَدٌga qaytadi. Bu arabcha aniqlov uslubida shaxsni to’liq tanitishning qolip usuli — birinchi shaxsni zikr qilish, so’ng ismini alohida gap bilan bayon etish.",
+          "uz": "uning ismi"
         },
         {
           "w": "إِسْحَاقُ",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Ishoq"
+          "e": "إِسْحَاقُ — اسْمُهُ mubtadosining xabari (خبر), raf’ holida damma bilan. إِسْحَاقُ ajamiy alem, diptot, lekin marfu’ holda damma ko’rinadi. O’g’ilning ismi Ishoq ekanligini bayon qilib, keyingi avlod silsilasining tayanch nuqtasini belgilaydi.",
+          "uz": "Ishoq"
         }
       ]
     },
@@ -88,33 +99,38 @@
       "parts": [
         {
           "w": "وَسَكَنَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yashadi"
+          "e": "سَكَنَ — to’liq o’tgan zamon fe’li (فعل ماضٍ تام), yashash va joylashish ma’nosini bildiradi. وَ boshidagi harf isti’nofiya sifatida yangi xabarni ulaydi. Fe’l-fo’il-zarf tartibida kelgan bu gap klassik arab nasr uslubiga xos bo’lib, keyingi Ishoq haqidagi parallel gapga zamin hozirlaydi.",
+          "uz": "yashadi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَسَكَنَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ — سَكَنَ fe’lining fo’ili (فاعل), raf’ holida damma bilan. Arab grammatikasida fe’ldan so’ng keluvchi ism fo’il hisoblanadi va marfu’ bo’ladi. Bu yerda Shomda yashagan shaxsning kim ekanligini aniq ko’rsatib, keyingi Ishoq bilan qiyos uchun zamin tayyorlaydi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "فِي الشَّامِ",
-          "r": "mutaalliq (وَسَكَنَ)",
+          "r": "ظَرف مَكَان (مُتَعَلِّق بِسَكَنَ)",
           "rc": "tmt",
-          "e": "Shomda"
+          "e": "فِي الشَّامِ — مكانiy zarf ma’nosidagi jar-majrur, سَكَنَ fe’liga bog’langan. الشَّامِ muarraf, jar holida kasra bilan. Ibrohimning yashash joyi Shom ekanligini aniqlab, qiyos jumlasidagi ‘Makka’ bilan geografik ziddiyatni ko’rsatadi.",
+          "uz": "Shomda"
         },
         {
           "w": "وَسَكَنَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Yashadi"
+          "e": "Ikkinchi وَسَكَنَ — وَ atf bog’lovchisi orqali birinchi جملة فعليةga ma’tuf (معطوف على الجملة الأولى). Ishoqning ham shu fe’l bilan ifodalangan holati bo’lganligini bildiradi. Joy zikr qilinmagan — kontekstdan tushunilishi aniq bo’lgani uchun mahzuf (محذوف لدلالة السياق).",
+          "uz": "yashadi"
         },
         {
           "w": "إِسْحَاقُ",
-          "r": "fo'il (وَسَكَنَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ishoq"
+          "e": "إِسْحَاقُ — ikkinchi سَكَنَ fe’lining fo’ili, raf’ holida. Ikki fo’ilning (Ibrohim va Ishoq) ketma-ket kelishi ularning ikkalasi ham yer yuzi turli qismlarida joylashganligini parallel tarzda ifodalaydi va matnning qiyos mantiqini quradi.",
+          "uz": "Ishoq"
         }
       ]
     },
@@ -124,75 +140,87 @@
       "parts": [
         {
           "w": "وَبَنَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Qurdi"
+          "e": "بَنَى — o’tgan zamon fe’li, qurilish ma’nosida. ى harfi aslida alif maqsura (alif maqsura — و yoki ي aslidan). وَ boshidagi harf bayoniy ulanish bo’lib, avvalgi yashash ma’lumotiga qurilish ma’lumotini qo’shadi. Fe’l-fo’il-maf’ul tartibida kelgan jumla arab grammatikasining asosiy gap tartibiga (الترتيب الأصلي) mos keladi.",
+          "uz": "qurdi"
         },
         {
           "w": "إِسْحَاقُ",
-          "r": "fo'il (وَبَنَى)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ishoq"
+          "e": "إِسْحَاقُ — بَنَى fe’lining fo’ili (فاعل), raf’ holida. Hikoyaning bosh qahramoni sifatida Ishoq bu gapda Baytul-Maqdisni quruvchi shaxs sifatida birinchi marta to’g’ridan-to’g’ri zikr qilinadi — bu bobning asosiy mavzusini ochadi.",
+          "uz": "Ishoq"
         },
         {
           "w": "بَيْتًا",
-          "r": "maf'ul bih (وَبَنَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Uy"
+          "e": "بَيْتًا — بَنَى fe’lining maf’ul bihi (مفعول به), nasb holida tanvin bilan. Qurilgan obyektni bildiradi. Tanvin noma’lumlik (نكرة) belgisi bo’lib, bu baytning birinchi marta tilga olinayotganini ko’rsatadi. Keyinchalik الَّذِي بَنَاهُ jumlasida ma’lum qilinib الْمَسْجِدُ الْأَقْصَى ekanligi aytiladi.",
+          "uz": "uy"
         },
         {
           "w": "لِلَّهِ",
-          "r": "mutaalliq (وَبَنَى)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِمَحذُوف صِفَة لِبَيت)",
           "rc": "tmt",
-          "e": "Alloh uchun"
+          "e": "لِلَّهِ — jar (لِ ixtisoslik ma’nosida — لام الاختصاص) va majrur (اللَّه) tarkibi. Bu jar-majrur بَيْتًاning mahzuf sifatiga bog’langan bo’lib, uyning Allohga xosligini, ya’ni ibodat joyi ekanligini bildiradi. Ikkala jumlada لِلَّهِning bir xil takrorlanishi ikkala muqaddas joyning teng maqomini ta’kidlaydi.",
+          "uz": "Allohniki"
         },
         {
           "w": "فِي الشَّامِ",
-          "r": "mutaalliq (بَنَى)",
+          "r": "ظَرف مَكَان (مُتَعَلِّق بِبَنَى)",
           "rc": "tmt",
-          "e": "Shomda"
+          "e": "فِي الشَّامِ — мکانий zarf vazifasidagi jar-majrur, بَنَى fe’liga bog’langan. Qurilish joyi Shom ekanligini aniqlab, qiyos jumlasidagi فِي مَكَّةَ bilan parallel geografik tuzilma hosil qiladi — ikkala muqaddas joy bir-biri bilan qiyoslanadi.",
+          "uz": "Shomda"
         },
         {
           "w": "كَمَا",
-          "r": "harf",
+          "r": "حَرف تَشبِيه وَمَصدَرِيَّة",
           "rc": "tb",
-          "e": "Xuddi"
+          "e": "كَمَا — كَ (tashbih harfi) va مَا (masdariyya) tarkibidan iborat. Keyingi جملة فعليةni masdar ta’viliga o’girib, qiyos jumlasini hosil qiladi: ‘xuddi [otasi va akasining qurganlari] kabi’. Bu tuzilma ikki muqaddas joyning qurilishi o’rtasidagi ma’naviy va tarixiy parallel rishta tutadi.",
+          "uz": "xuddi"
         },
         {
           "w": "بَنَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (فِي جُملَة التَّشبِيه)",
           "rc": "tf",
-          "e": "Qurgan"
+          "e": "بَنَى — qiyos jumlasidagi o’tgan zamon fe’li. كَمَاdan so’ng kelib, Ibrohim va Ismoilning Makkada uy qurishini bayon qiladi. Fe’lning takrorlanishi (وَبَنَى ... كَمَا بَنَى) stilistik muqobil (مقابلة) san’atini hosil qilib, ikkala qurilishning bir xil qimmatini ta’kidlaydi.",
+          "uz": "qurdi"
         },
         {
           "w": "أَبُوهُ",
-          "r": "fo'il (بَنَى)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Otasi"
+          "e": "أَبُوهُ — qiyos jumlasidagi بَنَى fe’lining fo’ili, raf’ holida. أَب — asmaul xamsadan (الأسماء الخمسة) bo’lib, raf’ holida و bilan keladi: أَبُو. -هُ zamiri Ishoqqa qaytib, uning otasi Ibrohimni bildiradi. Bu so’z Ishoqning qurilishi bevosita otasining an’anasini davom ettirishini ko’rsatadi.",
+          "uz": "otasi"
         },
         {
           "w": "وَأَخُوهُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى الفَاعِل",
           "rc": "tb",
-          "e": "Va ukasi"
+          "e": "وَأَخُوهُ — أَبُوهُga وَ atf harfi orqali ma’tuf fo’il (معطوف على الفاعل). أَخ ham asmaul xamsadan bo’lib, raf’ holida و bilan keladi: أَخُو. -هُ zamiri Ishoqqa qaytib, akasi Ismoilni bildiradi. Ota va aka ikkalasining fo’il sifatida birga kelishi — bobning qurilishi bir oilaviy missionning davomi ekanligini ko’rsatadi.",
+          "uz": "ukasi"
         },
         {
           "w": "بَيْتًا",
-          "r": "maf'ul bih (بَنَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Uy"
+          "e": "بَيْتًا — qiyos jumlasidagi بَنَى fe’lining maf’ul bihi, nasb holida tanvin bilan. Bu Makkada qurilgan uyni — Ka’bani bildiradi. Birinchi بَيْتًا (Shomda) va bu ikkinchi بَيْتًا (Makkada) bir xil so’zning takrorlanishi ikkala ibodat joyining bir xil tabiatda ekanligini ta’kidlaydi.",
+          "uz": "uy"
         },
         {
           "w": "لِلَّهِ",
-          "r": "mutaalliq (بَنَى)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِمَحذُوف صِفَة لِبَيت)",
           "rc": "tmt",
-          "e": "Alloh uchun"
+          "e": "لِلَّهِ — qiyos jumlasidagi xoslik jar-majruri (لام الاختصاص). Makkadagi uy ham xuddi Shumdagi kabi Allohga xos ekanligini bildiradi. Ikkala jumlada لِلَّهِning takrorlanishi ikkala muqaddas joyning teng maqomini kuchaytiradi.",
+          "uz": "Allohniki"
         },
         {
           "w": "فِي مَكَّةَ",
-          "r": "mutaalliq (بَنَى)",
+          "r": "ظَرف مَكَان (مُتَعَلِّق بِبَنَى)",
           "rc": "tmt",
-          "e": "Makkada"
+          "e": "فِي مَكَّةَ — jar-majrur, мکانий zarf sifatida بَنَى fe’liga bog’langan. مَكَّةَ diptot (alem + ta’nis), shuning uchun jar holida fatha bilan kelgan. Shom va Makka parallel geografik nuqtalar sifatida gapning eng muhim qiyos elementini tashkil etadi.",
+          "uz": "Makkada"
         }
       ]
     },
@@ -201,40 +229,46 @@
       "tr": "Ishoq Shomda qurgan bu masjid — Baytul-Maqdisdir.",
       "parts": [
         {
-          "w": "وَهَذَا",
-          "r": "mubtado",
-          "rc": "tm",
-          "e": "Va bu"
+          “w”: “وَهَذَا”,
+          “r”: “مُبتَدَأ”,
+          “rc”: “tm”,
+          “e”: “وَهَذَا — mubtado vazifasidagi ishora olmoshi (اسم إشارة). هَذَا — yaqin narsa uchun mufradi muzakkar ishora olmoshi. Bu yerda avvalgi gapda qurilgan بَيْتًاga ishora qilib, uni الْمَسْجِدُ bilan aniqlab, keyingi mavsul jumlasiga yo’l ochadi. وَ boshidagi harf oldingi gap bilan mantiqiy ulanishni ta’minlaydi.”,
+          “uz”: “va bu”
         },
         {
-          "w": "الْمَسْجِدُ",
-          "r": "xabar",
-          "rc": "tx",
-          "e": "Masjiddir"
+          “w”: “الْمَسْجِدُ”,
+          “r”: “بَدَل أَو عَطف بَيَان”,
+          “rc”: “tx”,
+          “e”: “الْمَسْجِدُ — هَذَاning badali (بدل) yoki atf bayoni (عطف بيان) bo’lib, ishora qilinayotgan narsaning masjid ekanligini aniqlab beradi. Muarraf ism raf’ holida kelgan. Bu so’z mavsul jumlasi (الَّذِي بَنَاهُ) uchun mansublik asosi bo’lib, butun murakkab mubtadoning bosh qismi hisoblanadi.”,
+          “uz”: “masjid”
         },
         {
-          "w": "الَّذِي بَنَاهُ إِسْحَاقُ",
-          "r": "sifat",
-          "rc": "ts",
-          "e": "Ishoq qurgan"
+          “w”: “الَّذِي بَنَاهُ إِسْحَاقُ”,
+          “r”: “نَعت (صِفَة لِلمَسجِد)”,
+          “rc”: “ts”,
+          “e”: “الَّذِي بَنَاهُ إِسْحَاقُ — الْمَسْجِدُni sifatlovchi mavsul jumla (جملة صلة الموصول). الَّذِي — ism mavsul, بَنَاهُ — sila jumlasi, -هُ zamiri (عائد) الْمَسْجِدُga qaytadi, إِسْحَاقُ fe’lning fo’ili. Bu sifat masjidni boshqa masjidlardan ajratib, aynan Ishoq qurganini ta’kidlaydi.”,
+          “uz”: “Ishoq qurgan”
         },
         {
-          "w": "فِي الشَّامِ",
-          "r": "mutaalliq",
-          "rc": "tmt",
-          "e": "Shomda"
+          “w”: “فِي الشَّامِ”,
+          “r”: “ظَرف مَكَان (مُتَعَلِّق بِبَنَى فِي الصِّلَة)”,
+          “rc”: “tmt”,
+          “e”: “فِي الشَّامِ — sila jumlasidagi بَنَاهُ fe’liga bog’langan мکانiy zarf. Masjid qayerda qurilganini aniqlab, uni geografik jihatdan joylaydi. Bu joy ta’rif (تعريف — kimligini aniqlash) vazifasidagi sifat tarkibining bir qismi hisoblanadi.”,
+          “uz”: “Shomda”
         },
         {
-          "w": "هُوَ",
-          "r": "fasl",
-          "rc": "tb",
-          "e": "O'sha"
+          “w”: “هُوَ”,
+          “r”: “ضَمِير الفَصل”,
+          “rc”: “tb”,
+          “e”: “هُوَ — fasl zamiri (ضمير الفصل), na mubtado, na xabar, grammatik i’robdan ozod. Uning vazifalari: (1) mubtado bilan xabarni ajratish, (2) xabar sifat yoki badal emasligini ko’rsatish, (3) jumlaga ta’kid va hasr ma’nosi berish — ‘aynan uning o’zi’. Bu ضمير فصلning klassik qo’llanishi bo’lib, arabcha ta’rif jumlalarida keng ishlatiladi.”,
+          “uz”: “u”
         },
         {
-          "w": "بَيْتُ الْمَقْدِسِ",
-          "r": "xabar",
-          "rc": "tx",
-          "e": "Baytul-Maqdisdir"
+          “w”: “بَيْتُ الْمَقْدِسِ”,
+          “r”: “خَبَر”,
+          “rc”: “tx”,
+          “e”: “بَيْتُ الْمَقْدِسِ — mubtadoning (هَذَا الْمَسْجِدُ) xabari, raf’ holida. بَيْت مُضَاف, الْمَقْدِس мُضَاف إِلَيه. Bu yerda Ishoq qurgan masjidning aynan Baytul-Maqdis — musulmonlarning uchta muqaddas joyidan biri — ekanligi aniq ta’riflanib, bobning asosiy xulosasi beriladi.”,
+          “uz”: “Baytul-Maqdis”
         }
       ]
     },
@@ -244,39 +278,45 @@
       "parts": [
         {
           "w": "وَهُوَ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Va bu"
+          "e": "وَهُوَ — mubtado vazifasidagi shaxs zamiri (ضمير منفصل مرفوع). هُوَ mufradi muzakkar uchun ishlatiladi va oldingi gapda aniqlangan Baytul-Maqdisga qaytadi. Bu yerda zamir gap zanjirini davom ettiradi va endi uning yangi sifati — Masjidul-Aqso ekanligi xabar qilinadi.",
+          "uz": "va bu"
         },
         {
           "w": "الْمَسْجِدُ الْأَقْصَى",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Masjidul-Aqsodir"
+          "e": "الْمَسْجِدُ الْأَقْصَى — هُوَ mubtadosining xabari, raf’ holida. الْأَقْصَى — وزن أَفعَل bo’yicha ism tafzil, ‘eng uzoq’ ma’nosida, الْمَسْجِدُning nati. Bu nom masjidning Makkadan أقصى (eng uzoq) joyda ekanligini bildiruvchi islomiy nom sifatida tanilgan.",
+          "uz": "Masjidul-Aqso"
         },
         {
           "w": "الَّذِي",
-          "r": "ism mavsul",
+          "r": "اسم مَوصُول (نَعت لِلمَسجِد)",
           "rc": "tb",
-          "e": "U —"
+          "e": "الَّذِي — mufradi muzakkar ism mavsul (اسم موصول), الْمَسْجِدُ الْأَقْصَىni sifatlovchi. Sila jumlasini (بَارَكَ اللَّهُ حَوْلَهُ) o’ziga biriktiradi. Ism mavsul grammatikada عائد (qaytuvchi) zamir talab qiladi — bu yerda -هُ (في حَوْلَهُ) ushbu zamir vazifasini o’taydi.",
+          "uz": "u —"
         },
         {
           "w": "بَارَكَ اللَّهُ حَوْلَهُ",
-          "r": "fe'l",
+          "r": "جُملَة الصِّلَة",
           "rc": "tf",
-          "e": "Alloh atrofini barakali qildi"
+          "e": "بَارَكَ اللَّهُ حَوْلَهُ — الَّذِyning sila jumlasi (جملة الصلة). بَارَكَ fe’li, اللَّهُ fo’il, حَوْلَهُ — zarf + qaytuvchi zamir (-هُ masjidga qaytadi). حَوْلَهُ ‘atrofi’ ma’nosida мکانiy zarf. Bu Allohning Masjidul-Aqso atrofiga bergan barakasini ta’riflaydi — Qur’onning Isro surasi boshidagi ta’rifga (بَارَكْنَا حَوْلَهُ) ishora.",
+          "uz": "Alloh atrofini barakali qildi"
         },
         {
           "w": "وَبَارَكَ اللَّهُ فِي أَوْلَادِ إِسْحَاقَ",
-          "r": "fe'l",
+          "r": "جُملَة فِعلِيَّة مَعطُوفَة",
           "rc": "tf",
-          "e": "Va Ishoq avlodiga baraka berdi"
+          "e": "وَبَارَكَ اللَّهُ فِي أَوْلَادِ إِسْحَاقَ — وَ atf bog’lovchisi orqali avvalgi sila jumlasiga ma’tuf yangi jumla. فِي أَوْلَادِ إِسْحَاقَ jar-majrur, بَارَكَ fe’liga bog’langan. إِسْحَاقَ diptot, jar holida fatha. Baraka makon (atrofi) dan shaxslarga (avlodlarga) ko’chirib bayon qilinadi.",
+          "uz": "va Ishoq avlodiga baraka berdi"
         },
         {
           "w": "كَمَا بَارَكَ فِي أَوْلَادِ إِسْمَاعِيلَ",
-          "r": "fe'l",
+          "r": "جُملَة تَشبِيهِيَّة",
           "rc": "tf",
-          "e": "Xuddi Ismoil avlodiga bergani kabi"
+          "e": "كَمَا بَارَكَ فِي أَوْلَادِ إِسْمَاعِيلَ — كَمَا (tashbih-masdariyya) orqali qiyos jumlasi. Fe’ldagi yashirin fo’il (هو = الله). فِي أَوْلَادِ إِسْمَاعِيلَ jar-majrur, إِسْمَاعِيلَ diptot (fatha bilan). Bu qiyos Ishoq va Ismoil nasllariga berilgan ilohiy barakaning tengligini va Allohning barcha ibrohimiy naslga bir xil marhamatini bayon qiladi.",
+          "uz": "xuddi Ismoil avlodiga bergani kabi"
         }
       ]
     },
@@ -286,27 +326,31 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ — noqis fe’l bo’lib, ismi va xabarini talab qiladi. Bu gapda xabar (فِيهِمْ) oldinga chiqarilgan, ism (أَنْبِيَاءُ وَمُلُوكٌ) esa keyinga qoldirilgan — bu Ishoq avlodlari orasida payg’ambarlar va podshohlar bo’lganligini ma’lum qiluvchi ob’ektiv xabar berish uslubi. Inversiya ta’kid emas, tabiiy naql maqsadida.",
+          "uz": "edi"
         },
         {
           "w": "فِيهِمْ",
-          "r": "zarf (وَكَانَ)",
+          "r": "خَبَر كَانَ مُقَدَّم",
           "rc": "th",
-          "e": "Ularning orasida"
+          "e": "فِيهِمْ — كانэning oldinga chiqarilgan xabari (خبر مقدم), jar-majrur tarkibida. -هِمْ zamiri ‘Ishoq avlodlari’ga qaytadi. فِي — мКанiy ma’noda ‘ichida, orasida’. Xabarning oldinga chiqarilishi payg’ambarlar va podshohlarning aynan kim orasida bo’lganligi ta’kidlanishi kerakligini ko’rsatadi.",
+          "uz": "ularning orasida"
         },
         {
           "w": "أَنْبِيَاءُ",
-          "r": "ism kana",
+          "r": "اسم كَانَ مُؤَخَّر",
           "rc": "tm",
-          "e": "Payg'ambarlar"
+          "e": "أَنْبِيَاءُ — كانэning kechikkan ismi (اسم مؤخر), raf’ holida. أَنْبِيَاءُ — نَبِيٌّ so’zining kasra plyurali (جمع تكسير), tanvin bilan marfu’. Ishoq naslida payg’ambarlar bo’lganligini bayon qilib, ularning ma’naviy ulug’ligini bildiradi.",
+          "uz": "payg’ambarlar"
         },
         {
           "w": "وَمُلُوكٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى اسم كَانَ",
           "rc": "tb",
-          "e": "Va podshohlar"
+          "e": "وَمُلُوكٌ — وَ atf harfi orqali أَنْبِيَاءُga ma’tuf (معطوف على اسم كان), raf’ holida tanvin bilan. مُلُوكٌ — مَلِكٌ so’zining kasra plyurali. Avlodlar orasida faqat diniy emas, balki siyosiy rahbarlar ham bo’lganligini qo’shib, Ishoq naslining keng ta’sir doirasini bildiradi.",
+          "uz": "va podshohlar"
         }
       ]
     },
@@ -316,45 +360,52 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ — noqis fe’l bo’lib, xabari (لِإِسْحَاقَ) oldinga, ismi (وَلَدٌ) esa keyinga qoldirilgan. Bu tuzilma avvalgi كانَ لِإِبْرَاهِيمَ jumlasi bilan to’liq parallel — hikoya avloddan avlodga o’tib bir xil grammatik qolip bilan ifodalanayotganini ko’rsatadi va o’quvchida ma’lum kutish hosil qiladi.",
+          "uz": "edi"
         },
         {
           "w": "لِإِسْحَاقَ",
-          "r": "mutaalliq (وَكَانَ)",
+          "r": "خَبَر كَانَ مُقَدَّم",
           "rc": "tmt",
-          "e": "Ishoqning"
+          "e": "لِإِسْحَاقَ — كانэning oldinga chiqarilgan xabari (خبر مقدم), jar-majrur tarkibida. Egalik ma’nosida — o’g’il Ishoqqa mansub. إِسْحَاقَ diptot (ajamiy + alem), jar holida fatha bilan kelgan (ممنوع من الصرف). Ishoqdan Ya’qubga avlod silsilasini ulash uchun grammatik ko’prik.",
+          "uz": "Ishoqning"
         },
         {
           "w": "وَلَدٌ",
-          "r": "ism kana",
+          "r": "اسم كَانَ مُؤَخَّر",
           "rc": "tm",
-          "e": "O'g'il"
+          "e": "وَلَدٌ — كانэning kechikkan ismi (اسم مؤخر), raf’ holida tanvin bilan. وَلَد — jins ismi bo’lib, muzokar yoki muannas uchun ishlatilishi mumkin, lekin kontekst (يَعْقُوبُ ismi) buni muzokar ekanligini ko’rsatadi. Ishoqning farzandi borligini bildiradi.",
+          "uz": "o’g’il"
         },
         {
           "w": "اسْمُهُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ (فِي جُملَة وَصفِيَّة)",
           "rc": "tm",
-          "e": "Uning ismi"
+          "e": "اسْمُهُ — mubtado bo’lib, ichki ismiy gapni boshlaydi. Bu jumla وَلَدٌning sifat jumlasi (جملة وصفية) sifatida kelgan. اسم мُضَاف, -هُ мُضَاف إِلَيه, وَلَدٌga qaytadi. Bu tuzilma avvalgi اسْمُهَا سَارَةُ bilan bir xil — arab hikoya uslubida shaxsni tanitishning tipik qolipi.",
+          "uz": "uning ismi"
         },
         {
           "w": "يَعْقُوبُ",
-          "r": "xabar",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "Ya'qub"
+          "e": "يَعْقُوبُ — اسْمُهُ mubtadosining xabari (خبر), raf’ holida. يَعْقُوبُ — ajamiy alem, diptot, lekin marfu’ holda damma ko’rinadi. O’g’ilning ismi aynan Ya’qub ekanligini bayon qilib, keyingi rivoyatning bosh qahramonini tanitadi.",
+          "uz": "Ya’qub"
         },
         {
           "w": "وَكَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص (الاسم مُستَتِر)",
           "rc": "tf",
-          "e": "Va edi"
+          "e": "Ikkinchi وَكَانَ — yashirin ismi (الضمير المستتر هو) Ya’qubga qaytgan noqis fe’l. وَ bu yerda atfiya (عاطفة) bo’lib, oldingi ismiy gapga yangi xabar qo’shadi. Fe’l Ya’qubning payg’ambar ekanligini alohida ta’kidlab bayon qilish uchun ishlatilgan — bu uning shaxsini nasliy va diniy jihatdan bir vaqtda ta’riflaydi.",
+          "uz": "edi"
         },
         {
           "w": "نَبِيًّا",
-          "r": "xabar",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "Payg'ambar"
+          "e": "نَبِيًّا — ikkinchi كانэning xabari (خبر كان), nasb holida tanvin bilan (كان xabari mansub bo’ladi). نَبِيٌّ — мushaddad (tashdidli) so’z, asl формаси نَبِيءٌ. Ya’qubning payg’ambarlik maqomini bayon qilib, u avvalgi jumlada zikr qilingan أَنْبِيَاءُ toifasiga mansub ekanligini tasdiqlaydi.",
+          "uz": "payg’ambar"
         }
       ]
     },
@@ -366,43 +417,50 @@
           "w": "وَكَانَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَ Ya’qubning farzandlari haqidagi mavjudlik jumlasini boshlaydi; لَهُ egalik xabari, وَلَدًا sanalgan ism-xabar tarkibida kelgan.",
+          "uz": "edi"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "ism kana",
           "rc": "tm",
-          "e": "Ya'qub"
+          "e": "يَعْقُوبُ كانَning ismi; keyingi لَهُ va son tarkibi uning farzandlari borligini bildiradi.",
+          "uz": "Ya'qub"
         },
         {
           "w": "لَهُ",
           "r": "mutaalliq (وَكَانَ)",
           "rc": "tmt",
-          "e": "Uning"
+          "e": "لَهُ xabar ma’nosidagi jar-majrur; -هُ zamiri Ya’qubga qaytib, o‘g‘illar unga mansub ekanini bildiradi.",
+          "uz": "uning"
         },
         {
           "w": "اثْنَا عَشَرَ",
           "r": "ma'dud",
           "rc": "tm",
-          "e": "O'n ikki"
+          "e": "اثْنَا عَشَرَ son tarkibi bo‘lib, وَلَدًا ma’dudining miqdorini bildiradi; ikki qismli son birlik sifatida kelgan.",
+          "uz": "o'n ikki"
         },
         {
           "w": "وَلَدًا",
           "r": "xabar",
           "rc": "tx",
-          "e": "O'g'il"
+          "e": "وَلَدًا اثْنَا عَشَرَ sonining ma’dudi; Ya’qubga nisbatlangan farzandlar jinsini bildiradi.",
+          "uz": "o'g'il"
         },
         {
           "w": "مِنْهُمْ",
           "r": "mutaalliq (وَكَانَ)",
           "rc": "tmt",
-          "e": "Ulardan"
+          "e": "مِنْهُمْ oldinga chiqqan xabar; -هُمْ zamiri o‘n ikki o‘g‘ilga qaytib, Yusuf ulardan biri ekanini bildiradi.",
+          "uz": "ulardan"
         },
         {
           "w": "يُوسُفُ بْنُ يَعْقُوبَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Yusuf ibn Ya'qub"
+          "e": "يُوسُفُ بْنُ يَعْقُوبَ kechikkan mubtado; مِنْهُمْ xabari bilan “ulardan Yusuf ibn Ya’qub bor” ma’nosini beradi.",
+          "uz": "Yusuf ibn Ya'qub"
         }
       ]
     },
@@ -414,32 +472,51 @@
           "w": "وَيُوسُفُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Va Yusuf"
+          "e": "وَيُوسُفُ mubtado; gapning mavzusi Yusufga ko‘chib, uning Qur’ondagi qissasi haqida xabar beradi.",
+          "uz": "va Yusuf"
         },
         {
           "w": "لَهُ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Uning"
+          "e": "لَهُ xabar ma’nosidagi jar-majrur; -هُ zamiri Yusufga qaytib, qissa unga mansub ekanini bildiradi.",
+          "uz": "uning"
         },
         {
           "w": "قِصَّةٌ عَجِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Ajoyib bir qissasi bor"
+          "e": "قِصَّةٌ عَجِيبَةٌ mubtadoga bog‘langan mazmuniy xabar; عَجِيبَةٌ sifati qissaning alohida ekanini bildiradi.",
+          "uz": "ajoyib bir qissa"
         },
         {
           "w": "فِي الْقُرْآنِ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Qur'onda"
+          "e": "فِي الْقُرْآنِ قِصَّةٌga bog‘langan joy/masdar tarkibi; qissa qayerda kelganini bildiradi.",
+          "uz": "Qur'onda"
         }
       ]
     },
     {
       "ar": "وَإِلَيْكَ هَذِهِ الْقِصَّةَ!",
       "tr": "Mana senga bu qissa!",
-      "parts": []
+      "parts": [
+        {
+          "w": "وإليك",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وإليك taqdim iborasi; jar-majrur oldinga chiqib, qissa tinglovchiga taqdim etilayotganini bildiradi.",
+          "uz": "mana senga"
+        },
+        {
+          "w": "هذه القصة",
+          "r": "ibora",
+          "rc": "tmt",
+          "e": "هذه القصة ishora va mushorun ilayh tarkibi; taqdim etilayotgan matn aynan shu qissa ekanini bildiradi.",
+          "uz": "bu qissa"
+        }
+      ]
     }
   ],
   "bookId": "qisas"

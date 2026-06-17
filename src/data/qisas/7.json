@@ -6,91 +6,103 @@
   "sentences": [
     {
       "ar": "وَعَرَفَ إِبْرَاهِيمُ أَنَّ اللَّهَ رَبُّهُ.",
-      "tr": "Ibrohim Allohning o‘zining Robbisi ekanini bildi.",
+      "tr": "Ibrohim Allohning o'zining Robbisi ekanini bildi.",
       "parts": [
         {
           "w": "وَعَرَفَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Bildi"
+          "e": "وَعَرَفَ o'tgan zamon fe'li bo'lib, gapning asosiy predikatini tashkil etadi. وَ bog'lovchi harfi orqali oldingi gapga ulanib, Ibrohimning anglash va idrok etish harakati bu fe'l orqali ifodalangan. Fe'ldan keyin keluvchi فَاعِل va مَفعُول bih unga grammatik jihatdan bo'ysunadi.",
+          "uz": "bildi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَعَرَفَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ فَاعِل bo'lib, عَرَفَ fe'lining harakatini amalga oshiruvchi shaxsni bildiradi. U مَرفُوع holatida (damma bilan) turadi, chunki arab grammatikasida فَاعِل doim رَفع holatida bo'ladi. Bu gapda bilish harakatining egasi Ibrohim ekanligi aniq belgilangan.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنَّ اللَّهَ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف مُشَبَّهة بِالفِعل مَعَ اسمِها",
           "rc": "tb",
-          "e": "Deb Alloh"
+          "e": "أَنَّ — harfi mushabbaha bo'lib, o'zidan keyingi ismni نَصب holatiga o'tkazadi va bir butun جُملة أَنَّ tarkibini hosil qiladi. Bu tarkib butun holda عَرَفَ fe'lining مَفعُول بِه vazifasini bajaradi. اللَّهَ esa أَنَّ ning اسم si bo'lib, نَصب holatida turadi.",
+          "uz": "Alloh"
         },
         {
           "w": "رَبُّهُ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "Uning Robbisi"
+          "e": "رَبُّهُ أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida turadi. Bu so'z اللَّهَ ismiga nisbatan hukm bildiradi: Allohning Ibrohim uchun Rabb ekanligi. هُ zamiri اسم أَنَّ bo'lgan اللَّهَ ga qaytmaydi, balki Ibrohimga, ya'ni egalik munosabatini ko'rsatadi — 'Uning Rabbisi'.",
+          "uz": "Rabbisi"
         }
       ]
     },
     {
       "ar": "لِأَنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
-      "tr": "Chunki Alloh tirikdir, o‘lmaydi.",
+      "tr": "Chunki Alloh tirikdir, o'lmaydi.",
       "parts": [
         {
           "w": "لِأَنَّ",
-          "r": "harf",
+          "r": "حَرف تَعلِيل مَعَ حَرف مُشَبَّهة",
           "rc": "tb",
-          "e": "chunki"
+          "e": "لِ — sabab bildiruvchi حَرف جَر bo'lib, أَنَّ harfi mushabbahasi bilan birga kelgan. Bu tarkib 'chunki' ma'nosini berib, oldingi gapda aytilgan hukm — Alloh Rabb ekanligi — ning sababini tushuntiradi. Butun لِأَنَّ + jumla tarkibi sabab zamiridagi izoh vazifasini bajaradi.",
+          "uz": "chunki"
         },
         {
           "w": "اللَّهَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهَ أَنَّ ning اسم i bo'lib, نَصب holatida (fatha bilan) turadi. Bu grammatik qoida bo'yicha حُرُوف مُشَبَّهة بِالفِعل o'zidan keyingi ismni مَنصُوب holatiga o'tkazadi. Bu gapda Allohning tiriqligi haqidagi ta'kidlangan hukm Uning nomidan boshlanadi.",
+          "uz": "Alloh"
         },
         {
           "w": "حَيٌّ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "tirik"
+          "e": "حَيٌّ أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida (tanvin damma bilan) turadi. Bu so'z Allohning asosiy sifatini — abadiy tirikligini — bildiradi va gapning asosiy hukmini tashkil etadi. Undan keyingi لَا يَمُوتُ jumlasi ushbu xabarni mustahkamlaydi.",
+          "uz": "tirik"
         },
         {
           "w": "لَا يَمُوتُ",
-          "r": "jumla fiʼliyya",
+          "r": "جُملة فِعلِيَّة فِي مَحَلِّ نَصب حَال",
           "rc": "tf",
-          "e": "o‘lmaydi"
+          "e": "لَا يَمُوتُ — لَا nafi harfi va مُضَارِع fe'lidan tashkil topgan fe'lli jumla bo'lib, حَيٌّ xabarini izohlab, holatni tasvirlaydi. Bu jumla حَال vazifasida kelgan: Allohning tiriqligi qanday ekanligini — o'lim yo'q, abadiy — deb aniqlashtiradi. فِعل مُضَارِع bu yerda doimiy, o'zgarmas holat ma'nosini beradi.",
+          "uz": "o'lmagan"
         }
       ]
     },
     {
       "ar": "وَأَنَّ اللَّهَ بَاقٍ لَا يَغِيبُ.",
-      "tr": "Va Alloh barqarordir, yo‘qolmaydi.",
+      "tr": "Va Alloh barqarordir, yo'qolmaydi.",
       "parts": [
         {
           "w": "وَأَنَّ",
-          "r": "harf mushabbaha",
+          "r": "حَرف عَطف مَعَ حَرف مُشَبَّهة",
           "rc": "tb",
-          "e": "va albatta"
+          "e": "وَ — حَرف عَطف bo'lib, bu jumlani oldingi أَنَّ tarkibiga ulaydi va ma'no jihatdan ham, grammatik jihatdan ham unga ma'tuf qiladi. أَنَّ esa harfi mushabbaha bo'lib, gapning asosiy hukmini ta'kidlaydi. Butun tarkib Ibrohimning Alloh haqidagi bilimlarining davomini ifodalaydi.",
+          "uz": "va albatta"
         },
         {
           "w": "اللَّهَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهَ أَنَّ ning اسم i bo'lib, نَصب holatida turadi. Ushbu gapda ham Allohning yangi bir sifati — boqiyligi — haqida hukm bildirilyapti va bu hukm aynan Alloh nomidan boshlanadi. Harfi mushabbaha قاعداси bo'yicha اسم har doim مَنصُوب bo'ladi.",
+          "uz": "Alloh"
         },
         {
           "w": "بَاقٍ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "boqiy"
+          "e": "بَاقٍ أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida turadi. Bu اسم مَنقُوص — ya'ni اسم فَاعِل ning يَبقَى fe'lidan yasalgan shakli — bo'lib, oxirgi harfi يَاء o'chirilgan va tanvin kasra qo'llanilgan. Allohning boqiyligi, doimiyligi va hech qachon o'zgarmasligini bildiradi.",
+          "uz": "qoluvchi, boqiy"
         },
         {
           "w": "لَا يَغِيبُ",
-          "r": "jumla fiʼliyya",
+          "r": "جُملة فِعلِيَّة فِي مَحَلِّ نَصب حَال",
           "rc": "tf",
-          "e": "g‘oyib bo‘lmaydi"
+          "e": "لَا يَغِيبُ — نَفي harfi va فِعل مُضَارِع dan iborat fe'lli jumla bo'lib, بَاقٍ xabarini izohlaydi. Allohning boqiyligini aniqlashtiradi: U g'oyib bo'lmaydi, yo'qolmaydi, doimo mavjud. Bu جُملة حَالِيَّة bo'lib, xabarning ma'nosini to'ldiruvchi va kuchaytiruvchi vazifada kelgan.",
+          "uz": "yo'qolmaydi, g'oyib bo'lmaydi"
         }
       ]
     },
@@ -100,27 +112,31 @@
       "parts": [
         {
           "w": "وَأَنَّ",
-          "r": "harf mushabbaha",
+          "r": "حَرف عَطف مَعَ حَرف مُشَبَّهة",
           "rc": "tb",
-          "e": "va albatta"
+          "e": "وَ — حَرف عَطف bo'lib, bu tarkibni oldingi أَنَّ jumlalariga ulaydi. أَنَّ esa ta'kid bildiruvchi harfi mushabbaha bo'lib, gapning hukmini kuchaytiradi. Ushbu gapda Allohning kuchi va hech narsa tomonidan yengilmasligi ta'kidlanmoqda.",
+          "uz": "va albatta"
         },
         {
           "w": "اللَّهَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهَ أَنَّ ning اسم i bo'lib, حُرُوف مُشَبَّهة قاعداси asosida نَصب holatida (fatha bilan) turadi. Bu gapda Allohning qudrati va tengsizligi haqida hukm bildirilib, bu hukm Uning nomidan boshlanishi hukmning Allohga nisbatligi jihatdan muhim grammatik belgidir.",
+          "uz": "Alloh"
         },
         {
           "w": "قَوِيٌّ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "kuchli"
+          "e": "قَوِيٌّ أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida tanvin damma bilan turadi. Bu اسم صِفَة bo'lib, Allohning kuch-qudratini bildiradi. Undan keyingi لَا يَعْلِيهُ شَيءٌ fe'lli jumlasi ushbu xabarni yanada tushuntirib, kuchning mutlaqligi va cheksizligini ifodalaydi.",
+          "uz": "kuchli"
         },
         {
           "w": "لَا يَعْلِيهُ شَيْءٌ",
-          "r": "jumla fiʼliyya",
+          "r": "جُملة فِعلِيَّة فِي مَحَلِّ نَصب حَال",
           "rc": "tf",
-          "e": "hech narsa undan ustun bo‘lmaydi"
+          "e": "لَا يَعْلِيهُ شَيءٌ — fe'lli jumla bo'lib, قَوِيٌّ xabarini izohlovchi حَال vazifasida kelgan. يَعلِيهُ — فِعل مُضَارِع, هُ — مَفعُول بِه zamiri (Allohga ishora), شَيءٌ esa fe'lning فَاعِل i. Hech bir narsa Allohdan ustun bo'la olmasligi ta'kidlanib, Uning qudratining tengsizligi ko'rsatilmoqda.",
+          "uz": "hech narsa undan ustun bo'lmaydi"
         }
       ]
     },
@@ -130,27 +146,31 @@
       "parts": [
         {
           "w": "وَعَرَفَ",
-          "r": "feʼl",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "bildi"
+          "e": "وَعَرَفَ o'tgan zamon fe'li bo'lib, Ibrohimning koinot sirlarini idrok etish jarayonini ifodalaydi. وَ bog'lovchi orqali oldingi gaplarga ulanib, hikoyaning davomini ko'rsatadi. Bu fe'l gapning asosiy predikatini tashkil etib, undan keyingi أَنَّ tarkibi uning مَفعُول i vazifasini bajaradi.",
+          "uz": "bildi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "foʼil",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ عَرَفَ fe'lining فَاعِل i bo'lib, مَرفُوع holatida turadi. Bu gapda Ibrohimning yulduz, oy, quyosh kabi kosmik jismlar ustida Allohning Robb ekanligini anglab yetish jarayoni tasvirlanmoqda. فَاعِل sifatida u bilish harakatining egasi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنَّ اللَّهَ",
-          "r": "mafʼul jumlasi",
+          "r": "أَنَّ مَعَ اسمِها — فِي مَحَلِّ نَصب مَفعُول بِه",
           "rc": "tb",
-          "e": "Alloh ekanini"
+          "e": "أَنَّ + اللَّهَ tarkibi butun holda عَرَفَ fe'lining مَفعُول بِه vazifasini bajaradi. أَنَّ — harfi mushabbaha bo'lib, جُملة أَنَّ ni ta'kidli مَصدَر معنويّ ga aylantiradi. اللَّهَ esa أَنَّ ning اسم i bo'lib نَصب holatida turadi.",
+          "uz": "Alloh"
         },
         {
           "w": "رَبُّ الْكَوْكَبِ",
-          "r": "xabar",
+          "r": "خَبَر أَنَّ — مُضَاف وَمُضَاف إِلَيه",
           "rc": "tx",
-          "e": "yulduzning Robbisi"
+          "e": "رَبُّ الْكَوْكَبِ — أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida turadi. Bu مُركَّب إِضَافِيّ (izofa tarkibi): رَبُّ — مُضَاف, الكَوكَبِ — مُضَاف إِلَيه, مَجرُور holatida. Allohning yulduz ustidan ham Rabb ekanligi, ya'ni koinotdagi har bir jism ustidan hukmronligi ifodalanmoqda.",
+          "uz": "yulduzning Robbisi"
         }
       ]
     },
@@ -160,15 +180,17 @@
       "parts": [
         {
           "w": "وَأَنَّ اللَّهَ",
-          "r": "mafʼul jumlasi",
+          "r": "حَرف عَطف مَعَ أَنَّ وَاسمِها — مَعطُوف عَلَى مَفعُول بِه سَابِق",
           "rc": "tb",
-          "e": "va Alloh ekanini"
+          "e": "وَ — حَرف عَطف bo'lib, bu جُملة أَنَّ tarkibini oldingi عَرَفَ fe'lining مَفعُول bihiga ma'tuf qiladi. Demak, Ibrohim bir vaqtning o'zida bir necha narsani bildi: yulduzning ham, oyning ham, quyoshning ham Alloh Rabb ekanligini. اللَّهَ — اسم أَنَّ, نَصب holatida.",
+          "uz": "va Alloh ekanini"
         },
         {
           "w": "رَبُّ الْقَمَرِ",
-          "r": "xabar",
+          "r": "خَبَر أَنَّ — مُضَاف وَمُضَاف إِلَيه",
           "rc": "tx",
-          "e": "oyning Robbisi"
+          "e": "رَبُّ الْقَمَرِ — أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida turadi. Izofa tarkibida رَبُّ — مُضَاف, الْقَمَرِ — مُضَاف إِلَيه مَجرُور. Oy — kechasi osmonni yorituvchi, qadimgi xalqlar tomonidan iloh sifatida ulug'langan jism — ham Allohning tasarrufida ekanligi ta'kidlanmoqda.",
+          "uz": "oyning Robbisi"
         }
       ]
     },
@@ -178,15 +200,17 @@
       "parts": [
         {
           "w": "وَأَنَّ اللَّهَ",
-          "r": "mafʼul jumlasi",
+          "r": "حَرف عَطف مَعَ أَنَّ وَاسمِها — مَعطُوف عَلَى مَفعُول بِه سَابِق",
           "rc": "tb",
-          "e": "va Alloh ekanini"
+          "e": "وَ — حَرف عَطف bo'lib, bu tarkibni oldingi أَنَّ jumlalariga ulaydi va عَرَفَ fe'lining مَفعُول bihlariga ma'tuf qiladi. Quyosh — yulduz, oy kabi — Allohning Robligi ta'kidlangan uchinchi kosmik jism. اللَّهَ — اسم أَنَّ, نَصب holatida turadi.",
+          "uz": "va Alloh ekanini"
         },
         {
           "w": "رَبُّ الشَّمْسِ",
-          "r": "xabar",
+          "r": "خَبَر أَنَّ — مُضَاف وَمُضَاف إِلَيه",
           "rc": "tx",
-          "e": "quyoshning Robbisi"
+          "e": "رَبُّ الشَّمْسِ — أَنَّ tarkibining xabari bo'lib, مَرفُوع holatida turadi. Izofa tarkibida رَبُّ — مُضَاف, الشَّمسِ — مُضَاف إِلَيه مَجرُور. Quyosh — kun nursiz tasavvur qilib bo'lmaydigan ulkan jism — ham Allohning mulki va tasarrufida ekanligi bildirilmoqda. Bu uch jism (yulduz, oy, quyosh) Qur'onda Ibrohim qissasida tilga olinadi.",
+          "uz": "quyoshning Robbisi"
         }
       ]
     },
@@ -196,105 +220,120 @@
       "parts": [
         {
           "w": "وَأَنَّ اللَّهَ",
-          "r": "harf mushabbaha",
+          "r": "حَرف عَطف مَعَ حَرف مُشَبَّهة وَاسمِها",
           "rc": "tb",
-          "e": "va albatta Alloh"
+          "e": "وَ — حَرف عَطف bo'lib, bu yakuniy أَنَّ tarkibini oldingilarga ulaydi. أَنَّ — ta'kid harfi bo'lib, umumiy xulosa hukmi ifodalanmoqda. Bu gapda yulduz, oy, quyoshdan — barcha olamlarning Rabb ekanligi bilan yakunlanadi: bu kuchayib boruvchi xulosa tuzilishi (تَدَرُّج mantiqiy). اللَّهَ — اسم أَنَّ.",
+          "uz": "va albatta Alloh"
         },
         {
           "w": "رَبُّ الْعَالَمِينَ",
-          "r": "xabar",
+          "r": "خَبَر أَنَّ — مُضَاف وَمُضَاف إِلَيه",
           "rc": "tx",
-          "e": "olamlarning Robbisi"
+          "e": "رَبُّ الْعَالَمِينَ — أَنَّ tarkibining xabari, مَرفُوع holatida. رَبُّ — مُضَاف, الْعَالَمِينَ — جَمع مُذَكَّر سَالِم bo'lib, مُضَاف إِلَيه مَجرُور (يَاء bilan). 'Olamlar' — barcha mavjudotni o'z ichiga oluvchi umumiy atama. Bu yakuniy xabar Allohning nafaqat biror jism, balki butun borliq ustidan Rabb ekanligini ta'kidlab, Ibrohim qissasining teologik xulosasini bildiradi.",
+          "uz": "olamlarning Robbisi"
         }
       ]
     },
     {
       "ar": "وَهَدَى اللَّهُ إِبْرَاهِيمَ وَجَعَلَهُ نَبِيًّا وَخَلِيلًا.",
-      "tr": "Alloh Ibrohimni hidoyat qildi va uni payg‘ambar hamda xalil qildi.",
+      "tr": "Alloh Ibrohimni hidoyat qildi va uni payg'ambar hamda xalil qildi.",
       "parts": [
         {
           "w": "وَهَدَى",
-          "r": "feʼl",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "hidoyat qildi"
+          "e": "وَهَدَى — o'tgan zamon fe'li bo'lib, Allohning Ibrohimga ko'rsatgan ilohiy hidoyatini ifodalaydi. هَدَى — نَاقِص fe'l bo'lib, oxirgi harfi أَلِف maqsura (ى) bilan tugaydi. وَ bog'lovchi orqali oldingi voqealarga ulanib, Ibrohimning yagona Allohni tanib olishi natijasida erishgan hidoyatini ko'rsatadi.",
+          "uz": "hidoyat qildi"
         },
         {
           "w": "اللَّهُ",
-          "r": "foʼil",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ هَدَى fe'lining فَاعِل i bo'lib, مَرفُوع holatida (damma bilan) turadi. Bu gapda hidoyat beruvchi — Alloh, hidoyat oluvchi — Ibrohim: grammatik jihatdan فَاعِل va مَفعُول bih orasidagi munosabat aynan shu ilohiy ta'sir va insoniy qabul qilish munosabatini aks ettiradi.",
+          "uz": "Alloh"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "mafʼul bih",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ibrohimni"
+          "e": "إِبْرَاهِيمَ هَدَى fe'lining مَفعُول بِه i bo'lib, نَصب holatida turadi (fatha bilan). U غَيرُ مُنصَرِف — ya'ni اسم أَعجَمِيّ bo'lgani uchun tanvin qabul qilmaydi, faqat fatha bilan مَنصُوب bo'ladi. Hidoyatning bevosita manzilini bildiradi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "وَجَعَلَهُ",
-          "r": "maʼtuf feʼl",
+          "r": "فِعل مَاضٍ مَعطُوف — مَعَ ضَمِير مَفعُول بِه",
           "rc": "tf",
-          "e": "va uni qildi"
+          "e": "وَجَعَلَهُ — وَ حَرف عَطف orqali هَدَى ga ma'tuf قِيل فِعل مَاضٍ. جَعَلَ — ikki مَفعُول talab qiladigan fe'l (فِعل مِن أَفعَال القُلُوب va تَحوِيل) bo'lib, 'qilmoq, aylantirmoq' ma'nosini beradi. هُ zamiri birinchi مَفعُول bih bo'lib, Ibrohimga ishora qiladi.",
+          "uz": "va uni qildi"
         },
         {
           "w": "نَبِيًّا",
-          "r": "mafʼul bih ikkinchi",
+          "r": "مَفعُول بِه ثَانٍ",
           "rc": "tb",
-          "e": "payg‘ambar"
+          "e": "نَبِيًّا جَعَلَ fe'lining ikkinchi مَفعُول bih i bo'lib, نَصب holatida tanvin fatha bilan turadi. جَعَلَ fe'li ikki مَفعُول talab qilgani uchun birinchisi (هُ — Ibrohim), ikkinchisi (نَبِيًّا — payg'ambar) bo'ladi. Bu gapda Allohning Ibrohimni hidoyat qilgandan so'ng unga payg'ambarlik martabasini berganini bildiradi.",
+          "uz": "payg'ambar"
         },
         {
           "w": "وَخَلِيلًا",
-          "r": "maʼtuf",
+          "r": "مَعطُوف عَلَى مَفعُول بِه ثَانٍ",
           "rc": "tb",
-          "e": "va do‘st"
+          "e": "وَخَلِيلًا — وَ حَرف عَطف orqali نَبِيًّا ga ma'tuf bo'lib, uning bilan bir xil grammatik holatda — نَصب — turadi. خَلِيل — 'do'st, yaqin' ma'nosida bo'lib, خَلِيل الله — Allohning do'sti — degan oliy unvonni ifodalaydi. Bu so'z nabi'dan keyingi ikkinchi ulug'lanish bo'lib, Ibrohimning Alloh oldidagi maxsus maqomini ko'rsatadi.",
+          "uz": "va do'st"
         }
       ]
     },
     {
       "ar": "وَأَمَرَ اللَّهُ إِبْرَاهِيمَ أَنْ يَدْعُوَ قَوْمَهُ وَيَمْنَعَهُمْ مِنْ عِبَادَةِ الْأَصْنَامِ.",
-      "tr": "Alloh Ibrohimga qavmini da’vat qilishni va ularni butlarga ibodat qilishdan qaytarishni buyurdi.",
+      "tr": "Alloh Ibrohimga qavmini da'vat qilishni va ularni butlarga ibodat qilishdan qaytarishni buyurdi.",
       "parts": [
         {
           "w": "وَأَمَرَ",
-          "r": "feʼl",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "buyurdi"
+          "e": "وَأَمَرَ — o'tgan zamon fe'li bo'lib, Allohning Ibrohimga bergan buyrug'ini ifodalaydi. أَمَرَ fe'li odatda ikki مَفعُول yoki مَفعُول + أَنْ + فِعل tarkibi bilan keladi: 'kimgadir biror narsa qilishni buyurmoq'. وَ oldingi gapdagi hidoyat va nubuvvat berilgandan keyingi vazifani ko'rsatadi.",
+          "uz": "buyurdi"
         },
         {
           "w": "اللَّهُ",
-          "r": "foʼil",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ أَمَرَ fe'lining فَاعِل i bo'lib, مَرفُوع holatida turadi. Buyruq beruvchi — Alloh, buyruq oluvchi — Ibrohim: bu grammatik munosabat ilohiy amr va payg'ambarlik vazifasini o'z ichiga olgan. فَاعِل ning Alloh bo'lishi buyruqning muqaddasligini ta'kidlaydi.",
+          "uz": "Alloh"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "mafʼul bih",
+          "r": "مَفعُول بِه أَوَّل",
           "rc": "tb",
-          "e": "Ibrohimga"
+          "e": "إِبْرَاهِيمَ أَمَرَ fe'lining birinchi مَفعُول bih i bo'lib, نَصب holatida turadi. أَمَرَ — 'buyurmoq' fe'li ikki maf'ul talab qiladi: kimga buyurildi (Ibrohim) va nima qilishni (أَنْ يَدْعُوَ). Ibrohim payg'ambarlik qabul qilgach, unga da'vat vazifasi ham yuklatilmoqda.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنْ يَدْعُوَ",
-          "r": "masdar muʼawwal",
+          "r": "مَصدَر مُؤَوَّل فِي مَحَلِّ نَصب مَفعُول بِه ثَانٍ",
           "rc": "tb",
-          "e": "daʼvat qilishni"
+          "e": "أَنْ + فِعل مُضَارِع مَنصُوب tarkibi مَصدَر مُؤَوَّل hosil qiladi, ya'ni 'da'vat qilmoq' ma'nosidagi ta'vil qilingan مَصدَر ga teng. Bu tarkib أَمَرَ fe'lining ikkinchi مَفعُول bih vazifasini bajaradi. يَدعُوَ — نَاقِص فِعل مُضَارِع, أَنْ ta'sirida مَنصُوب holatida (fatha bilan), oxirgi وَاو ko'rinadi.",
+          "uz": "daʼvat qilishni"
         },
         {
           "w": "قَوْمَهُ",
-          "r": "mafʼul bih",
+          "r": "مَفعُول بِه لِـ يَدعُوَ",
           "rc": "tb",
-          "e": "qavmini"
+          "e": "قَوْمَهُ — يَدعُوَ fe'lining مَفعُول bih i bo'lib, نَصب holatida turadi. قَوم — qavm, xalq; هُ — egalik zamiri, Ibrohimning o'z qavmiga ishora qiladi. Da'vatning manzilini bildiradi: Ibrohim begona xalqqa emas, o'z qavmiga — butparastlarga — da'vat qilishga buyurildi.",
+          "uz": "qavmini"
         },
         {
           "w": "وَيَمْنَعَهُمْ",
-          "r": "maʼtuf feʼl",
+          "r": "فِعل مُضَارِع مَعطُوف مَنصُوب",
           "rc": "tf",
-          "e": "va ularni qaytarishni"
+          "e": "وَيَمْنَعَهُمْ — وَ حَرف عَطف orqali يَدعُوَ ga ma'tuf bo'lib, أَنْ ning ta'sirida مَنصُوب holatida turadi. يَمنَعَ — 'qaytarmoq, man etmoq' ma'nosidagi فِعل مُضَارِع; هُمْ — مَفعُول بِه zamiri, qavmga ishora qiladi. Da'vat bilan birga man etish — ikki tomonlama vazifa — ifodalanmoqda.",
+          "uz": "ularni qaytarishni"
         },
         {
           "w": "مِنْ عِبَادَةِ الْأَصْنَامِ",
-          "r": "jar-majrur",
+          "r": "جَار وَمَجرُور مُتَعَلِّق بِـ يَمنَعَهُمْ",
           "rc": "tmt",
-          "e": "butlarga ibodat qilishdan"
+          "e": "مِنْ — حَرف جَر bo'lib, يَمنَعَ fe'liga ta'alluqli. عِبَادَةِ — مُضَاف, مَجرُور; الأَصنَامِ — جَمع تَكسِير, مُضَاف إِلَيه مَجرُور. Butlar ibodasidan qaytarish — bu tarkib man etishning ob'ektini aniqlashtiradi. مِن harfi 'nima(dan) qaytarildi' savolini javoblaydi va fe'lning ma'nosini to'ldiradi.",
+          "uz": "butlarga ibodat qilishdan"
         }
       ]
     }

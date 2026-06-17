@@ -79,7 +79,6 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
                 }}
               >
                 <span className="arabic-word">{phraseRaw}</span>
-                <span className="word-translation-mobile">{uz}</span>
               </span>
             );
             i = peek;
@@ -108,7 +107,6 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
             }}
           >
             <span className="arabic-word">{raw}</span>
-            <span className="word-translation-mobile">{lookupWord(raw) || '...'}</span>
           </span>
         );
         i++;

@@ -7,92 +7,831 @@
     {
       "ar": "كَانَ فِي الْمَدِينَةِ مَلِكٌ كَبِيرٌ جِدًّا، وَظَالِمٌ جِدًّا.",
       "tr": "Shaharda juda katta va juda zolim bir podshoh bor edi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "كان",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — bu yerda «ноqis» fe'l bo'lib, gapda xabarni (مَلِكٌ) mubtadoga (ism كان ga) bog'laydi. U to'liq ma'no bermay, «bor edi» shaklidagi o'tgan zamon davomiyligini ifodalaydi va o'zi yolg'iz gap tuzolmaydi — ismi va xabari bilan birga kelib gapni to'ldiradi.",
+          "uz": "edi"
+        },
+        {
+          "w": "في",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "في — jar harfi bo'lib, «içida, ichida» ma'nosini beradi va undan keyingi «المدينة» ismini majrur holatga tushiradi. Bu «في المدينة» jar-majrur birikmasi gapda zarf ma'nosidagi xabar (shebh jumla) vazifasini o'taydi, chunki كَانَ ning ismi hali kelgani yo'q.",
+          "uz": "ichida"
+        },
+        {
+          "w": "المدينة",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْمَدِينَةِ — في jar harfidan keyin kelgan majrur ism. Bu so'z «في المدينة» jar-majrur birikmasining bir qismi bo'lib, podshohning joylashuv o'rnini bildiradi va gapga «u shahar ichida edi» degan ma'no qo'shadi.",
+          "uz": "shahar"
+        },
+        {
+          "w": "ملك",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "مَلِكٌ — كَانَ ning ismi (اسم كان) bo'lib, raf' holatida (tanvin bilan) kelgan. كَانَ fe'li o'ziga ismi va xabari kerakligidan, bu so'z كَانَ ga grammatik jihatdan bog'liq subyekt vazifasini bajaradi. «Bir podshoh bor edi» deganda asosiy mavzu shu.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "كبير",
+          "r": "خَبَر كَان (نَعت أَوَّل)",
+          "rc": "tb",
+          "e": "كَبِيرٌ — كَانَ ning xabari sifatida yoki مَلِكٌ ga sifat (نَعت) sifatida kelgan; ko'pchilik nahvchilar bu o'rinda uni مَلِكٌ ning birinchi sifati deb hisoblaydi. مَلِكٌ mubtado vazifasida bo'lgani uchun كَبِيرٌ ham raf' holatida kelgan. Bu so'z podshohning ulug'ligini ta'riflaydi.",
+          "uz": "katta"
+        },
+        {
+          "w": "جدا",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
+          "rc": "tb",
+          "e": "جِدًّا — «juda, o'ta darajada» ma'nosini beruvchi maf'ul mutlaq vazifasidagi so'z. U oldidagi sifatni (كَبِيرٌ) kuchaytirish uchun keladi va gapda har doim mansub (nasb) holatida bo'ladi. Bu so'z podshohning kattaligi mubolag'ali darajada ekanligini ta'kidlaydi.",
+          "uz": "juda"
+        },
+        {
+          "w": "وظالم",
+          "r": "مَعطُوف",
+          "rc": "tb",
+          "e": "وَظَالِمٌ — «وَ» atf harfi bilan كَبِيرٌ ga ma'tuf (bog'liq) sifat bo'lib kelgan. Atf qoidasi bo'yicha ma'tuf ma'tuf alayh bilan bir xil holatda bo'ladi — bu yerda ham raf' holatida. Podshoh nafaqat katta, balki zolim ham ekanligi qo'shimcha sifat orqali ifodalanmoqda.",
+          "uz": "va zolim"
+        },
+        {
+          "w": "جدا",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
+          "rc": "tb",
+          "e": "جِدًّا — bu safar وَظَالِمٌ sifatini kuchaytirish uchun kelgan maf'ul mutlaq. Birinchi جِدًّا ning اعاده (takrori) bo'lib, podshohning zulmi ham uning kattaligi kabi mubolag'ali darajada ekanligini alohida ta'kidlab o'tadi.",
+          "uz": "juda"
+        }
+      ]
     },
     {
       "ar": "وَكَانَ النَّاسُ يَسْجُدُونَ لِلْمَلِكِ.",
       "tr": "Odamlar podshohga sajda qilar edilar.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وكان",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ — boshidagi «وَ» oldingi gapga bog'lash harfi (atf), «كَانَ» esa naqis o'tgan zamon fe'li. Bu so'z «odamlar sajda qilar edilar» degan davomiy o'tgan zamon ma'nosini kiritib, hikoyatni davom ettiradi.",
+          "uz": "va edi"
+        },
+        {
+          "w": "الناس",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "النَّاسُ — كَانَ ning ismi bo'lib, raf' holatida kelgan. Bu so'z «odamlar» ma'nosini beradi va gapning grammatik subyekti hisoblanadi. Uning raf' holati كَانَ tomonidan boshqariladi.",
+          "uz": "odamlarni"
+        },
+        {
+          "w": "يسجدون",
+          "r": "خَبَر كَان (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "يَسْجُدُونَ — كَانَ ning xabari bo'lgan hozirgi zamon fe'li. كَانَ + mudori' fe'li kombinatsiyasi arabchada o'tgan zamondagi «davomiy harakat» ni ifodalaydi: «sajda qilar edilar». Fe'l جمع مذكر سالم صیغه sida kelgan.",
+          "uz": "sajda qiladilar"
+        },
+        {
+          "w": "للملك",
+          "r": "جَار وَمَجرُور",
+          "rc": "tb",
+          "e": "لِلْمَلِكِ — «لِ» jar harfi va «الْمَلِكِ» majrur ismidan tashkil topgan jar-majrur birikmasi. Bu birikmada «لِ» harfi «kimga/nima uchun» ma'nosini beradi va sajdaning ob'ektini — podshohni — ko'rsatadi. Fe'l يَسْجُدُونَ ga mutaalliq (bog'liq).",
+          "uz": "podshohga"
+        }
+      ]
     },
     {
       "ar": "وَسَمِعَ الْمَلِكُ أَنَّ إِبْرَاهِيمَ يَسْجُدُ لِلَّهِ وَلَا يَسْجُدُ لِأَحَدٍ.",
       "tr": "Podshoh Ibrohim Allohga sajda qilib, hech kimga sajda qilmasligini eshitdi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وسمع",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَسَمِعَ — «وَ» atf harfi bilan oldingi gaplarga bog'langan taam fe'li (o'tgan zamon). سَمِعَ «eshitdi» ma'nosini beradi va gapda asosiy xabar vazifasini o'taydi. Podshohning Ibrohim haqida ma'lumot olish voqeasini boshlaydi.",
+          "uz": "eshitdi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — سَمِعَ fe'lining foili (grammatik subyekti) bo'lib, raf' holatida kelgan. Arabchada fe'l gapda birinchi kelganida, foil undan keyin raf' holatida keladi. «Podshoh» eshitish harakatini bajaruvchi shaxs sifatida taqdim etilmoqda.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "أن",
+          "r": "حَرف مُشَبَّهَة بِالفِعل",
+          "rc": "tb",
+          "e": "أَنَّ — «إنَّ va akhavotiha» dan bo'lgan bu harf ismini mansub (nasb) holatiga, xabarini raf' holatiga tushiradi. Bu yerda أَنَّ va uning جملة اسمية si birgalikda سَمِعَ fe'lining maf'ul bih (to'ldiruvchi) vazifasini o'taydi — ya'ni podshoh «nimani» eshitgani shu jumla.",
+          "uz": "-ni, -ishni"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "اسم أَن",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ — أَنَّ ning ismi bo'lib, mansub (nasb) holatida kelgan. إِبْرَاهِيمَ arab tilida gayr munsarif ism hisoblanadi (alif-tanvin olmaydi, kasra o'rniga fatha bilan majrur bo'ladi). Bu yerda أَنَّ tomonidan nasb holatiga tushirilgan.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "يسجد لله",
+          "r": "خَبَر أَن (جُملَة فِعلِيَّة)",
+          "rc": "tmt",
+          "e": "يَسْجُدُ لِلَّهِ — أَنَّ ning xabari bo'lgan fe'l gapi. يَسْجُدُ hozirgi zamon fe'li, لِلَّهِ esa jar-majrur bo'lib fe'lga bog'liq. Bu ibora podshoh eshitgan xabarning mohiyatini ochadi: Ibrohim faqat Allohga sajda qiladi.",
+          "uz": "Allohga sajda qiladi"
+        },
+        {
+          "w": "ولا",
+          "r": "حَرف عَطف + حَرف نَفي",
+          "rc": "tb",
+          "e": "وَلَا — «وَ» atf harfi va «لَا» nafi (inkor) harfidan tashkil topgan. Bu birikmada «لَا» hozirgi zamon fe'lini inkor qiladi. Oldingi ijobiy xabar (يَسْجُدُ لِلَّهِ) ga zid bo'lgan inkor gap boshlanyapti: u hech kimga sajda qilmaydi.",
+          "uz": "va yo'q"
+        },
+        {
+          "w": "يسجد",
+          "r": "فِعل مُضَارِع مَنفِي",
+          "rc": "tb",
+          "e": "يَسْجُدُ — لَا nafi harfi bilan inkorda kelgan hozirgi zamon fe'li. Bu fe'l oldidagi «يَسْجُدُ لِلَّهِ» bilan atf qilinib kelgan va «لِأَحَدٍ» unga bog'liq jar-majrur bo'lib, «hech kimga sajda qilmaydi» degan ma'noni to'ldiradi.",
+          "uz": "sajda qiladi"
+        },
+        {
+          "w": "لأحد",
+          "r": "جَار وَمَجرُور",
+          "rc": "tb",
+          "e": "لِأَحَدٍ — «لِ» jar harfi va نَكِرَة (tanvin bilan) majrur «أَحَدٍ» ismidan tashkil topgan jar-majrur birikmasi. «Biror kishi» ma'nosidagi bu umumiy inkor Ibrohimning monoteistik e'tiqodini yaqqol ko'rsatadi: u Allohdan boshqa hech kimga sajda qilmaydi.",
+          "uz": "biror kishiga"
+        }
+      ]
     },
     {
       "ar": "فَغَضِبَ الْمَلِكُ وَطَلَبَ إِبْرَاهِيمَ.",
-      "tr": "Podshoh g‘azablandi va Ibrohimni chaqirtirdi.",
-      "parts": []
+      "tr": "Podshoh g'azablandi va Ibrohimni chaqirtirdi.",
+      "parts": [
+        {
+          "w": "فغضب",
+          "r": "حَرف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "فَغَضِبَ — «فَ» natija-bog'lovchi harfi («bas, shunda») va «غَضِبَ» o'tgan zamon fe'lidan tashkil topgan. فَ harfi sabab-natija munosabatini ko'rsatadi: Ibrohim haqidagi xabar sababli podshoh g'azablandi. Fe'l gapda asosiy harakatni ifodalaydi.",
+          "uz": "g'azablandi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — غَضِبَ fe'lining foili bo'lib, raf' holatida kelgan. G'azablanish harakatini bajaruvchi shaxs sifatida podshoh bu yerda ikkinchi marta takrorlanmoqda, bu hikoyatda uning asosiy qahramon ekanligini ta'kidlaydi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "وطلب",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَطَلَبَ — «وَ» atf harfi bilan غَضِبَ ga bog'langan ikkinchi o'tgan zamon fe'li. طَلَبَ bu kontekstda «chaqirtirdi, talabga ko'ra keltirtirdi» ma'nosini beradi. Podshohning ketma-ket ikkita harakati — g'azablanish va chaqirtirish — «وَ» orqali bog'lanmoqda.",
+          "uz": "chaqirtirdi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ — طَلَبَ fe'lining maf'ul bihi (to'g'ri to'ldiruvchisi). Gayr munsarif ism sifatida fatha bilan mansub holatda kelgan (tanvin olmaydi). Podshohning chaqirtirish harakati aynan Ibrohimga qaratilganligi shu maf'ul bih orqali ifodalanmoqda.",
+          "uz": "Ibrohimni"
+        }
+      ]
     },
     {
       "ar": "وَجَاءَ إِبْرَاهِيمُ، وَكَانَ إِبْرَاهِيمُ لَا يَخَافُ أَحَدًا، إِلَّا اللَّهَ.",
-      "tr": "Ibrohim keldi; Ibrohim Allohdan boshqa hech kimdan qo‘rqmas edi.",
-      "parts": []
+      "tr": "Ibrohim keldi; Ibrohim Allohdan boshqa hech kimdan qo'rqmas edi.",
+      "parts": [
+        {
+          "w": "وجاء",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَجَاءَ — «وَ» atf harfi va «جَاءَ» o'tgan zamon fe'li. جَاءَ «keldi» ma'nosini beradi va avvalgi gap (podshoh chaqirtirdi) ga natija sifatida bog'langan. Ibrohimning tashrif buyurishi voqeani yangi bosqichga — to'g'ridan-to'g'ri muloqotga olib chiqadi.",
+          "uz": "va keldi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — جَاءَ fe'lining foili bo'lib, raf' holatida kelgan. Gayr munsarif ism bo'lgani uchun kasra o'rniga damma (raf' alomati) bilan kelgan. Ibrohim «kelish» harakatini bajaruvchi subyekt sifatida taqdim etilmoqda.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "وكان",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ — «وَ» atf harfi va كَانَ naqis fe'li. Bu jumla Ibrohimning shaxsiyatini tavsiflash uchun bir chetga kirib ketgan (جملة اعتراضية / hal jumlasi) bo'lib, keyingi gapga — podshoh bilan suhbatga — zamin hozirlaydi.",
+          "uz": "va edi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — bu safar كَانَ ning ismi sifatida raf' holatida kelgan. Ibrohim ismi takrorlanishi uning shaxsiga alohida urg'u beradi. كَانَ ning xabari «لَا يَخَافُ أَحَدًا» jumlasi bo'lib, bu Ibrohimning botirlik xususiyatini o'tgan zamonda davomiy hol sifatida ifodalaydi.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "لا يخاف",
+          "r": "خَبَر كَان (جُملَة فِعلِيَّة مَنفِيَّة)",
+          "rc": "tmt",
+          "e": "لَا يَخَافُ — «لَا» inkor harfi va «يَخَافُ» hozirgi zamon fe'lidan tashkil topgan inkor jumlasi. كَانَ ning xabari sifatida u o'tgan zamondagi davomiy qo'rqmaslikni ifodalaydi: «qo'rqmas edi». Bu Ibrohimning qahramonlik xarakteri — irodasi va Allohga tayanishi — ni to'g'ridan-to'g'ri ochib beradi.",
+          "uz": "qo'rqmaydi"
+        },
+        {
+          "w": "أحدا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "أَحَدًا — يَخَافُ fe'lining maf'ul bihi bo'lib, nasb holatida (tanvin bilan) kelgan. «Biror kishi» ma'nosidagi bu umumiy inkor (مَا ... أَحَد tarkibida) Ibrohimning qo'rqmasligining kengligini ko'rsatadi — u umuman hech kimdan qo'rqmaydi.",
+          "uz": "biror kishini"
+        },
+        {
+          "w": "إلا الله",
+          "r": "مُستَثنَى",
+          "rc": "tmt",
+          "e": "إِلَّا اللَّهَ — «إِلَّا» istisno asbati va «اللَّهَ» mustasno (istisno qilingan ism) dan tashkil topgan istisno birikmasi. اللَّهَ nasb holatida kelgan, chunki u manfi (inkorli) gapda mustasno bo'lgan. Bu ibora Ibrohimning tawhid e'tiqodini eng ixcham shaklda ifodalaydi: u faqat Allohdan qo'rqadi.",
+          "uz": "Allohdan boshqa"
+        }
+      ]
     },
     {
       "ar": "قَالَ الْمَلِكُ: مَنْ رَبُّكَ يَا إِبْرَاهِيمُ؟",
       "tr": "Podshoh dedi: Ey Ibrohim, Robbing kim?",
-      "parts": []
+      "parts": [
+        {
+          "w": "قال",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "قَالَ — o'tgan zamon fe'li bo'lib, «dedi» ma'nosini beradi. Bu so'z muloqot sahnasini boshlaydigan asosiy fe'l. Arab hikoyat uslubida muloqotlar aynan قَالَ fe'li orqali kiritiladi va fe'ldan so'ng foil, foildan so'ng esa to'g'ridan-to'g'ri nutq (jumla maqul) keladi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — قَالَ fe'lining foili bo'lib, raf' holatida kelgan. Gapda kimning gapirganini ko'rsatadi. «Ma'rifat» ism (muarraf) sifatida kelgani, bu podshohning hikoyatda taniqli, avval tilga olingan shaxs ekanligini ko'rsatadi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "من ربك",
+          "r": "جُملَة استِفهَامِيَّة (مُبتَدَأ + خَبَر)",
+          "rc": "tmt",
+          "e": "مَنْ رَبُّكَ — so'roq jumla bo'lib, «مَنْ» so'roq olmoshi mubtado, «رَبُّكَ» esa xabar vazifasini o'taydi. رَبُّكَ so'zida «ك» mulkiyat zamiri «sening» ma'nosini beradi. Bu podshohning Ibrohimning Rabbiga hayrat va inkor bilan qaratilgan savoli — «Robbing kim?»",
+          "uz": "Robbing kim"
+        },
+        {
+          "w": "يا",
+          "r": "حَرف نِدَاء",
+          "rc": "tb",
+          "e": "يَا — nido (chaqiriq) harfi bo'lib, «ey» ma'nosini beradi. Arabchada nido harflari (يَا, أَيَا, هَيَا) undan keyingi ismni mansub yoki marfu' holatda keltirib, murojaat qilingan shaxsni ko'rsatadi. Bu yerda podshoh Ibrohimga to'g'ridan-to'g'ri murojaat qilmoqda.",
+          "uz": "ey"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "مُنَادَى",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — يَا nido harfidan keyin kelgan munoda (chaqirilgan shaxs). Gayr munsarif ism bo'lgani uchun damma bilan kelgan (munoda mufrad marifa qoidasi). Podshohning savolida Ibrohimning ismi tilga olinishi suhbatning shaxsiy va bevosita xarakterini ko'rsatadi.",
+          "uz": "Ibrohimni"
+        }
+      ]
     },
     {
       "ar": "قَالَ إِبْرَاهِيمُ: رَبِّيَ اللَّهُ!",
       "tr": "Ibrohim dedi: Robbim Alloh!",
-      "parts": []
+      "parts": [
+        {
+          "w": "قال",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "قَالَ — muloqotni kirituvchi o'tgan zamon fe'li. Bu yerda Ibrohimning javobi boshlanmoqda. قَالَ fe'li arab adabiy nutqida dialog markeri sifatida ishlatiladi va undan keyingi foil qaysi tomoning gapirganini belgilaydi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — قَالَ fe'lining foili bo'lib, raf' holatida damma bilan kelgan. Bu yerda Ibrohim gapiruvchi sifatida kiritilmoqda. Avvalgi gapda podshoh gapirdi, endi muloqot almashdi va Ibrohim javob bermoqda.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "ربي الله",
+          "r": "جُملَة اسمِيَّة (مُبتَدَأ + خَبَر)",
+          "rc": "tmt",
+          "e": "رَبِّيَ اللَّهُ — ismi gap bo'lib, «رَبِّيَ» mubtado (مُضَاف + مُضَاف إِلَيه), «اللَّهُ» esa xabar. رَبِّيَ da «يَ» birinchi shaxs zamiri «mening» ma'nosini beradi. Bu Ibrohimning qisqa lekin qat'iy e'lon qilgan aqidasi: «Mening Robbim — Alloh!»",
+          "uz": "Robbim Alloh"
+        }
+      ]
     },
     {
       "ar": "قَالَ الْمَلِكُ: مَنِ اللَّهُ يَا إِبْرَاهِيمُ؟",
       "tr": "Podshoh dedi: Ey Ibrohim, Alloh kim?",
-      "parts": []
+      "parts": [
+        {
+          "w": "قال",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "قَالَ — dialog markeri sifatida ishlatilgan o'tgan zamon fe'li. Muloqot yana podshoh tomonga o'tdi: u Ibrohimning javobidan qoniqmagan holda yangi savol bilan qaytmoqda. Fe'l foilidan oldin kelgani arab fe'l gapining standart tartibi (VSO).",
+          "uz": "dedi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — قَالَ fe'lining foili, raf' holatida. Podshoh yana savol beruvchi sifatida sahnaga qaytmoqda. Uning takroriy savollari uning Ibrohimning javobini tushunmasligini va o'z hokimiyatini tasdiqlamoqchi bo'lishini ko'rsatadi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "من الله",
+          "r": "جُملَة استِفهَامِيَّة (مُبتَدَأ + خَبَر)",
+          "rc": "tmt",
+          "e": "مَنِ اللَّهُ — so'roq jumla: «مَنِ» so'roq olmoshi mubtado, «اللَّهُ» xabar. مَنِ dagi kasra kasriy وصل (iltiqo' sakinayn) qoidasi bilan paydo bo'lgan. Podshoh Alloh kimligini bilmaydi va bu savol uning jaholatini ochib beradi.",
+          "uz": "Alloh kim"
+        },
+        {
+          "w": "يا",
+          "r": "حَرف نِدَاء",
+          "rc": "tb",
+          "e": "يَا — nido harfi, «ey» ma'nosida. Podshoh yana Ibrohimga to'g'ridan-to'g'ri murojaat qilmoqda. Nido harfining takrorlanishi suhbatning jonli va bevosita xarakterini ta'kidlaydi.",
+          "uz": "ey"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "مُنَادَى",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — يَا nido harfidan keyin munoda sifatida kelgan gayr munsarif ism. Damma bilan kelgan. Podshoh har savolida Ibrohimning ismini tilga olishi muloqotning ikki o'rtasida bo'lganligini va dialogning shaxsiy xarakter kasb etganligini ko'rsatadi.",
+          "uz": "Ibrohimni"
+        }
+      ]
     },
     {
       "ar": "قَالَ إِبْرَاهِيمُ: الَّذِي يُحْيِي وَيُمِيتُ.",
-      "tr": "Ibrohim dedi: Tiriltiradigan va o‘ldiradigan Zot.",
-      "parts": []
+      "tr": "Ibrohim dedi: Tiriltiradigan va o'ldiradigan Zot.",
+      "parts": [
+        {
+          "w": "قال",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "قَالَ — muloqot markeri. Ibrohim podshohning «Alloh kim?» savoliga javob berayapti. Bu o'tgan zamon fe'li hikoyatda dialogni almashtiruvchi asosiy vosita bo'lib xizmat qiladi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — قَالَ ning foili, raf' holatida. Ibrohim javob beruvchi sifatida qaytmoqda. Uning javobi qisqa lekin chuqur: Allohni sifatlash uchun u qodir bo'lgan ишlarni — hayot berish va o'ldirish — ning misol keltirishni tanlaydi.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "الذي",
+          "r": "اسم مَوصُول",
+          "rc": "tb",
+          "e": "الَّذِي — mufradi muzakkar uchun islatiluvchi ismi mavsul (nisbiy olmosh). U avvalgi gapda «اللَّهُ» ga ishora qilib, Allohni ta'riflash uchun sila jumlasini boshlamoqda. Bu qurilma arabchada ta'rif-tavsiflashning klassik usuli.",
+          "uz": "u zotki"
+        },
+        {
+          "w": "يحيي",
+          "r": "فِعل مُضَارِع (صِلَة الَمَوصُول)",
+          "rc": "tb",
+          "e": "يُحْيِي — ismi mavsul «الَّذِي» ning silasi (ta'riflovchi jumlasi) bo'lgan hozirgi zamon fe'li. «Tiriltiradi, hayot beradi» ma'nosini beradi. Bu Allohning qodirligi — hayot berish — ning birinchi dalili sifatida keltirilmoqda.",
+          "uz": "tiriltiradi"
+        },
+        {
+          "w": "ويميت",
+          "r": "مَعطُوف (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "وَيُمِيتُ — «وَ» atf harfi bilan يُحْيِي ga ma'tuf bo'lgan hozirgi zamon fe'li. «O'ldiradi» ma'nosini beradi. Ibrohim hayot berish va o'ldirish qudratini birgalikda keltirishi bilan Allohning mutlaq ixtiyori — hayot va mamotga — ishora qilmoqda.",
+          "uz": "va o'ldiradi"
+        }
+      ]
     },
     {
       "ar": "قَالَ الْمَلِكُ: أَنَا أُحْيِي وَأُمِيتُ.",
-      "tr": "Podshoh dedi: Men tiriltiraman va o‘ldiraman.",
-      "parts": []
+      "tr": "Podshoh dedi: Men tiriltiraman va o'ldiraman.",
+      "parts": [
+        {
+          "w": "قال",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "قَالَ — o'tgan zamon fe'li, dialog markeri. Podshoh Ibrohimning «tiriltiradigan va o'ldiruvchi» ta'rifiga o'z da'vosi bilan javob bermoqda. Bu yerda قَالَ voqeani davom ettirib, ziddiyatli nuqtani boshlamoqda.",
+          "uz": "dedi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — قَالَ ning foili, raf' holatida. Podshoh o'z hokimiyatini Allohning sifatlariga tenglashtirmoqchi bo'lmoqda — bu uning johilligi va kibr-havosining namoyon bo'lishi. Foilning «الملك» sifatida kelishi uning podshohlik maqomiga ishora qiladi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "أنا",
+          "r": "ضَمِير مُنفَصِل (مُبتَدَأ)",
+          "rc": "tb",
+          "e": "أَنَا — ajratilgan birinchi shaxs zamiri, mubtado vazifasida. Arabchada ajratilgan zamir alohida ta'kidlash uchun ishlatiladi: «Men (o'zim)». Podshoh «أَنَا» ni qo'llashi orqali o'zini alohida ajratib, o'ziga diqqatni qaratmoqda — bu kibr belgisi.",
+          "uz": "men"
+        },
+        {
+          "w": "أحيي",
+          "r": "فِعل مُضَارِع (خَبَر المُبتَدَأ)",
+          "rc": "tb",
+          "e": "أُحْيِي — birinchi shaxs hozirgi zamon fe'li, «أَنَا» mubtadosining xabari. «Tiriltiraman» ma'nosini beradi. Podshoh Ibrohim Alloh sifatida ta'riflagan «يُحْيِي» ni o'z ustiga olmoqchi bo'lmoqda — ammo keyingi sahna uning da'vosining qanchalik asossiz ekanini ko'rsatadi.",
+          "uz": "tiriltiraman"
+        },
+        {
+          "w": "وأميت",
+          "r": "مَعطُوف (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "وَأُمِيتُ — «وَ» atf harfi bilan أُحْيِي ga ma'tuf bo'lgan hozirgi zamon fe'li. «O'ldiraman» ma'nosini beradi. Podshoh Ibrohimning «وَيُمِيتُ» iborasini aynan takrorlab, Allohning sifatlarini o'ziga da'vo qilmoqda. Bu uning sofistik mantiqqa murojaat qilishi.",
+          "uz": "va o'ldiraman"
+        }
+      ]
     },
     {
       "ar": "وَدَعَا الْمَلِكُ رَجُلًا وَقَتَلَهُ.",
-      "tr": "Podshoh bir kishini chaqirdi va uni o‘ldirdi.",
-      "parts": []
+      "tr": "Podshoh bir kishini chaqirdi va uni o'ldirdi.",
+      "parts": [
+        {
+          "w": "ودعا",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَدَعَا — «وَ» atf harfi va دَعَا o'tgan zamon fe'li. «Chaqirdi» ma'nosini beradi. Podshoh so'zida qolmay, darhol isbotlashga o'tdi: u kimnidir chaqirdi. دَعَا so'zi alif maksura bilan tugaydigan (ناقص واوي) fe'l.",
+          "uz": "va chaqirdi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — دَعَا fe'lining foili, raf' holatida. Podshoh harakatni bajaruvchi sifatida. U «tiriltiraman va o'ldiraman» da'vosini isbotlash uchun soxta namoyish o'tkazmoqchi bo'lyapti — bu uning jaholatini yanada ochib beradi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "رجلا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "رَجُلًا — دَعَا fe'lining maf'ul bihi, nasb holatida tanvin bilan. «Bir kishi» ma'nosidagi nаkira ism. Shaxsning nomalumligi (نَكِرَة) u oddiy fuqaro ekanligini ko'rsatadi — podshoh o'z manfaati uchun begunoh odamlarning hayoti bilan o'ynaydi.",
+          "uz": "bir kishi"
+        },
+        {
+          "w": "وقتله",
+          "r": "حَرف عَطف + فِعل مَاضٍ + ضَمِير مَفعُول",
+          "rc": "tb",
+          "e": "وَقَتَلَهُ — «وَ» atf harfi, «قَتَلَ» o'tgan zamon fe'li va «هُ» maf'ul bihi zamiri (uni). Bu birikma podshohning birinchi harakatini — o'ldirish — ko'rsatadi. Zamir «هُ» avvalgi رَجُلًا ga qaytadi: o'sha chaqirilgan kishini o'ldirdi.",
+          "uz": "uni o'ldirdi"
+        }
+      ]
     },
     {
       "ar": "وَدَعَا رَجُلًا آخَرَ وَتَرَكَهُ.",
-      "tr": "Yana boshqa bir kishini chaqirdi va uni qo‘yib yubordi.",
-      "parts": []
+      "tr": "Yana boshqa bir kishini chaqirdi va uni qo'yib yubordi.",
+      "parts": [
+        {
+          "w": "ودعا",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَدَعَا — «وَ» atf harfi va دَعَا fe'li. Bu oldingi وَدَعَا bilan parallel qurilishda kelgan bo'lib, qiyoslash effektini yaratadi: birinchi kishini chaqirdi va o'ldirdi, ikkinchisini chaqirdi va qo'yib yubordi. Foil zikr qilinmagan — avvalgi gapdan ma'lum bo'lgani uchun tushirib qoldirilgan (ضمير مستتر).",
+          "uz": "va chaqirdi"
+        },
+        {
+          "w": "رجلا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "رَجُلًا — دَعَا fe'lining maf'ul bihi, nasb holatida. Yana نَكِرَة (nomalum) ism sifatida kelgan. Bu ikkinchi oddiy kishi ham podshohning o'z da'vosini isbotlash uchun ishlatgan qurbon. Ikki رَجُلًا ning parallel kelishi syujеtdagi ikki harakatni simmetrik qilib ifodalaydi.",
+          "uz": "bir kishi"
+        },
+        {
+          "w": "آخر",
+          "r": "نَعت",
+          "rc": "tb",
+          "e": "آخَرَ — رَجُلًا ga sifat (نَعت) bo'lib, nasb holatida kelgan. «Boshqa» ma'nosini beradi. آخَر gayr munsarif ism (وزن أفعل) bo'lgani uchun tanvin olmaydi va kasra o'rniga fatha bilan majrur bo'ladi. Bu sifat birinchi kishidan farqli, ikkinchi bir shaxs ekanligini ko'rsatadi.",
+          "uz": "boshqa"
+        },
+        {
+          "w": "وتركه",
+          "r": "حَرف عَطف + فِعل مَاضٍ + ضَمِير مَفعُول",
+          "rc": "tb",
+          "e": "وَتَرَكَهُ — «وَ» atf harfi, «تَرَكَ» o'tgan zamon fe'li va «هُ» maf'ul bihi zamiri. «Uni qo'yib yubordi» ma'nosini beradi. Zamir «هُ» ikkinchi رَجُلًا ga qaytadi. Bu harakatlar juftligi — o'ldirish va qo'yib yuborish — podshohning Allohning qudratiga nisbatan mensimaslik da'vosining asosi.",
+          "uz": "uni qo'yib yubordi"
+        }
+      ]
     },
     {
       "ar": "وَقَالَ: أَنَا أُحْيِي وَأُمِيتُ، قَتَلْتُ رَجُلًا وَتَرَكْتُ رَجُلًا.",
-      "tr": "U dedi: Men tiriltiraman va o‘ldiraman: bir kishini o‘ldirdim, bir kishini qo‘yib yubordim.",
-      "parts": []
+      "tr": "U dedi: Men tiriltiraman va o'ldiraman: bir kishini o'ldirdim, bir kishini qo'yib yubordim.",
+      "parts": [
+        {
+          "w": "وقال",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَقَالَ — «وَ» atf harfi va قَالَ o'tgan zamon fe'li. Foil (الْمَلِكُ) o'tgan gapdan ma'lum bo'lgani uchun tushirilgan (ضمير مستتر هو). Podshoh harakatidan so'ng darhol gapirdi — bu uning o'zini haqlantirmoqchi bo'lishini ko'rsatadi.",
+          "uz": "va dedi"
+        },
+        {
+          "w": "أنا",
+          "r": "ضَمِير مُنفَصِل (مُبتَدَأ)",
+          "rc": "tb",
+          "e": "أَنَا — ajratilgan birinchi shaxs zamiri, ta'kidlash uchun mubtado sifatida. Podshoh yana «أَنَا» ni ishlatishi bilan o'zini markazga qo'ymoqda. Bu takror urg'u podshohning ego muammosini — o'zini Allohga tenglashtirishga urinishini — ko'rsatadi.",
+          "uz": "men"
+        },
+        {
+          "w": "أحيي",
+          "r": "فِعل مُضَارِع (خَبَر المُبتَدَأ)",
+          "rc": "tb",
+          "e": "أُحْيِي — أَنَا mubtadosining xabari bo'lgan hozirgi zamon fe'li. «Tiriltiraman» da'vosi avvalgi gapda ham aytilgan edi (قَالَ الْمَلِكُ: أَنَا أُحْيِي), bu takrorlanish uning da'vosini yanada qat'iy qilib ko'rsatadi.",
+          "uz": "tiriltiraman"
+        },
+        {
+          "w": "وأميت",
+          "r": "مَعطُوف (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "وَأُمِيتُ — «وَ» bilan أُحْيِي ga ma'tuf hozirgi zamon fe'li. Podshoh «o'ldiraman» da'vosini ham yana takrorlab, o'zining «isbot»ini ko'rsatishga kirishmoqda. Bu ikkinchi da'vo birinchi da'vodan so'ng darhol «isbotlovchi» gap (قَتَلْتُ رَجُلًا...) bilan davom etadi.",
+          "uz": "va o'ldiraman"
+        },
+        {
+          "w": "قتلت",
+          "r": "فِعل مَاضٍ (مُتَكَلِّم)",
+          "rc": "tb",
+          "e": "قَتَلْتُ — birinchi shaxs o'tgan zamon fe'li, «Men o'ldirdim». «تُ» zamiri foil vazifasida. Bu da'voning «isboti» — podshoh amaldagi harakatni ko'rsatmoqda. Lekin haqiqiy o'ldirish tirikni o'ldirish, tiriltirish esa o'likni tiriltirish — bu podshoh tushunmaydigan farq.",
+          "uz": "o'ldirdim"
+        },
+        {
+          "w": "رجلا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "رَجُلًا — قَتَلْتُ fe'lining maf'ul bihi, nasb holatida. Uch marta رَجُلًا ning nakira sifatida kelishi ushbu kishilarning Ibrohim haqidagi hikoyatda nomahkum, beixtiyor qurbon ekanliklarini ko'rsatadi.",
+          "uz": "bir kishi"
+        },
+        {
+          "w": "وتركت",
+          "r": "حَرف عَطف + فِعل مَاضٍ (مُتَكَلِّم)",
+          "rc": "tb",
+          "e": "وَتَرَكْتُ — «وَ» atf harfi va تَرَكْتُ birinchi shaxs o'tgan zamon fe'li. «تُ» zamiri foil. «Men qo'yib yubordim» ma'nosida. Bu harakatni podshoh «tiriltirish» deb taqdim etmoqda — ammo bu uning soxtakorligini ko'rsatadi, chunki «tiriltirish» asl ma'noda o'likni jonlantirish.",
+          "uz": "va tark qildim"
+        },
+        {
+          "w": "رجلا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "رَجُلًا — وَتَرَكْتُ fe'lining maf'ul bihi, nasb holatida. Bu ikkinchi رَجُلًا birinchisi bilan simmetrik kelishi qurilishga ritmik muvozanat beradi. Podshohning da'vosi — qo'yib yuborish = tiriltirishdan iborat — Ibrohimning keyingi hujjati (quyosh) bilan bekor qilinadi.",
+          "uz": "bir kishi"
+        }
+      ]
     },
     {
       "ar": "وَكَانَ الْمَلِكُ بَلِيدًا جِدًّا، وَكَذَلِكَ كُلُّ مُشْرِكٍ.",
       "tr": "Podshoh juda nodon edi; har bir mushrik shundaydir.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وكان",
+          "r": "حَرف عَطف + فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ — «وَ» atf harfi va كَانَ naqis fe'li. Bu jumla muallif tomonidan qo'shilgan baholash jumlasi — voqea tavsifidan hodisaning ma'nosini chiqarib beradigan xulosa. كَانَ + ism + xabar qurilmasi podshohning nodonligini o'tgan zamonning doimiy holati sifatida taqdim etadi.",
+          "uz": "va edi"
+        },
+        {
+          "w": "الملك",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "الْمَلِكُ — كَانَ ning ismi, raf' holatida. Podshoh endi shaxsiy ism emas, balki «الملك» (u podshoh) sifatida umumlashtirilmoqda. Bu umumlashtirish xulosa jumlasiga mos: u individual voqea emas, balki mushriklarning umumiy holati haqida gap bormoqda.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "بليدا",
+          "r": "خَبَر كَان",
+          "rc": "tb",
+          "e": "بَلِيدًا — كَانَ ning xabari, nasb holatida tanvin bilan. «Nodon, ahmoq» ma'nosini beradi. Bu so'z podshohning Ibrohim bilan bahsidagi mantiqsiz da'vosiga (hayotga emas, balsam kishini o'ldirish = tiriltirish) muallif tomonidan berilgan aniq baho.",
+          "uz": "nodon"
+        },
+        {
+          "w": "جدا",
+          "r": "مَفعُول مُطلَق (تَوكِيد)",
+          "rc": "tb",
+          "e": "جِدًّا — maf'ul mutlaq sifatida بَلِيدًا xabarini kuchaytiruvchi so'z. «Juda nodon edi» — muallif podshohning jaholatiga o'ta kuchli baho bermoqda. Hikoyat boshida ham شaharning podshohiga «كَبِيرٌ جِدًّا وَظَالِمٌ جِدًّا» deyilgandi, endi esa uchinchi «جِدًّا» uning nodonligini ta'kidlaydi.",
+          "uz": "juda"
+        },
+        {
+          "w": "وكذلك",
+          "r": "حَرف عَطف + اسم إِشَارَة + حَرف جَر",
+          "rc": "tb",
+          "e": "وَكَذَلِكَ — «وَ» atf harfi, «كَ» tashbih (o'xshatish) harfi va «ذَلِكَ» uzoq ishora olmoshi. «Va shuningdek, xuddi shunday» ma'nosini beradi. Bu ibora gapni umumlashtirib, podshoh haqidagi baholashni barcha mushriklarga tatbiq etadi.",
+          "uz": "va shuningdek"
+        },
+        {
+          "w": "كل",
+          "r": "مُبتَدَأ (مُضَاف)",
+          "rc": "tb",
+          "e": "كُلُّ — «barcha, har bir» ma'nosidagi ismi jami bo'lib, mubtado sifatida raf' holatida kelgan. Bu so'z doimo mudofiga (مُضَاف) bo'ladi va undan keyin مُضَاف إِلَيه keladi. «كُلُّ مُشْرِكٍ» birikmasi «har bir mushrik» degan umumiy hukm uchun grammatik asos yaratadi.",
+          "uz": "har bir"
+        },
+        {
+          "w": "مشرك",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "مُشْرِكٍ — كُلُّ ning mudofun ilayhi bo'lib, jar holatida (kasra bilan) kelgan. نَكِرَة sifatida kelishi «istalgan mushrik» degan umumiy ma'noni beradi. Bu so'z hikoyatning asosiy axloqiy xulosasini tashkil etadi: Allohni inkor qilib unga tengdosh qo'shganlar doimo jaholat va adashuvda bo'ladi.",
+          "uz": "mushrik"
+        }
+      ]
     },
     {
       "ar": "وَأَرَادَ إِبْرَاهِيمُ أَنْ يُفْهِمَ الْمَلِكَ، وَيُفْهِمَ قَوْمَهُ.",
-      "tr": "Ibrohim podshohni va qavmini tushuntirmoqchi bo‘ldi.",
-      "parts": []
+      "tr": "Ibrohim podshohni va qavmini tushuntirmoqchi bo'ldi.",
+      "parts": [
+        {
+          "w": "وأراد",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَأَرَادَ — «وَ» atf harfi va أَرَادَ o'tgan zamon fe'li. «Xohladi, istadi» ma'nosini beradi. Bu fe'l keyingi «أَنْ + mudori'» bilan birgalikda «qilishni xohladi» konstruksiyasini hosil qiladi. Ibrohimning harakat niyati shu fe'l orqali ifodalanmoqda.",
+          "uz": "va xohladi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — أَرَادَ fe'lining foili, raf' holatida damma bilan. Ibrohim istemol qilgan da'vo (podshoh tiriltirib-o'ldiraman dedi) ga qarshi yangi strategiyani ishga tushirmoqda — bu safar quyosh argumentini. Uning xohlash harakati uning taktik o'ylaganligi va sabr-bardoshini ko'rsatadi.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "أن",
+          "r": "حَرف مَصدَرِيَّة (نَاصِب)",
+          "rc": "tb",
+          "e": "أَنْ — masdariyya harfi bo'lib, undan keyin kelgan hozirgi zamon fe'lini mansub (nasb) holatiga tushiradi va fe'l bilan birga masdar ta'vilini (مصدر مؤول) hosil qiladi. «أَنْ يُفْهِمَ» = «tushuntirish»; bu «tushuntirish» أَرَادَ fe'lining maf'ul bihi (ob'ekti) vazifasini bajaradi.",
+          "uz": "-ni, -ishni"
+        },
+        {
+          "w": "يفهم",
+          "r": "فِعل مُضَارِع مَنصُوب",
+          "rc": "tb",
+          "e": "يُفْهِمَ — أَنْ harfidan keyin nasb holatiga tushgan hozirgi zamon fe'li. «Tushuntirsin, anglatsin» ma'nosini beradi. يُفْهِمُ ning أَنْ bilan mansub kelishi klassikal arab grammatikasidagi مصدر مؤول qurilmasining standart ko'rinishi.",
+          "uz": "tushuntirishni"
+        },
+        {
+          "w": "الملك",
+          "r": "مَفعُول بِه أَوَّل",
+          "rc": "tb",
+          "e": "الْمَلِكَ — يُفْهِمَ fe'lining birinchi maf'ul bihi, nasb holatida fatha bilan. يُفْهِمَ — «anglatdi/tushuntirdi» fe'li ikki maf'ul bih oladi: biri tushuntiriladigan shaxs (الْمَلِكَ), ikkinchisi esa gapda zikr qilinmagan tushuntirilgan narsa (haqiqat). Bu yerda asosiy maqsad podshoh.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "ويفهم",
+          "r": "حَرف عَطف + فِعل مُضَارِع مَنصُوب",
+          "rc": "tb",
+          "e": "وَيُفْهِمَ — «وَ» atf harfi bilan يُفْهِمَ ga ma'tuf bo'lgan ikkinchi mansub hozirgi zamon fe'li. Ibrohimning maqsadi faqat podshohni emas, balki butun qavmni ham haqiqatga chorlash ekanligini ko'rsatadi. Bu Ibrohimning da'vatchi (paygambar) rolini ta'kidlaydi.",
+          "uz": "va tushuntirishni"
+        },
+        {
+          "w": "قومه",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "قَوْمَهُ — وَيُفْهِمَ fe'lining maf'ul bihi, nasb holatida fatha bilan. «هُ» zamiri «uning» ma'nosida podshohga emas, Ibrohimga qaytadi: Ibrohimning qavmi. Bu so'z Ibrohimning missiyasining kengligi — bir podshoh emas, butun jamiyat — ni ochib beradi.",
+          "uz": "qavmiga"
+        }
+      ]
     },
     {
       "ar": "فَقَالَ إِبْرَاهِيمُ لِلْمَلِكِ: فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ.",
-      "tr": "Ibrohim podshohga dedi: Alloh quyoshni sharqdan chiqaradi, sen uni g‘arbdan chiqarib ko‘r.",
-      "parts": []
+      "tr": "Ibrohim podshohga dedi: Alloh quyoshni sharqdan chiqaradi, sen uni g'arbdan chiqarib ko'r.",
+      "parts": [
+        {
+          "w": "فقال",
+          "r": "حَرف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "فَقَالَ — «فَ» natija-bog'lovchi harfi va قَالَ o'tgan zamon fe'li. «فَ» bu yerda «bas, unda» ma'nosida avvalgi niyat (أَرَادَ أَنْ يُفْهِمَ) ga natija sifatida bog'lanmoqda: xohlagani uchun gapirdi. Bu hikoyatning kulminatsion dalili — quyosh argumenti — boshlanmoqda.",
+          "uz": "bas dedi"
+        },
+        {
+          "w": "إبراهيم",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ — قَالَ ning foili, raf' holatida damma bilan. Ibrohim bu safar eng kuchli dalilini — kosmik hodisani — ishlata boshlayapti. Foilning صريح (aniq) kelishi bu lahzaning ahamiyatini ta'kidlaydi.",
+          "uz": "Ibrohimni"
+        },
+        {
+          "w": "للملك",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِقَال)",
+          "rc": "tb",
+          "e": "لِلْمَلِكِ — «لِ» jar harfi va «الْمَلِكِ» majrur ismidan tashkil topgan jar-majrur birikmasi. قَالَ fe'liga bog'liq bo'lib, kimga gapirilganini ko'rsatadi. Ibrohim podshohga to'g'ridan-to'g'ri murojaat qilmoqda — bu suhbatning bevositaligi va ochiqligini aks ettiradi.",
+          "uz": "podshohga"
+        },
+        {
+          "w": "فإن",
+          "r": "حَرف + حَرف مُشَبَّهَة بِالفِعل",
+          "rc": "tb",
+          "e": "فَإِنَّ — «فَ» sabab/natija harfi va «إِنَّ» ta'kid harfi. Bu birikmada «فَ» oldingi so'roqqa (Alloh kim?) javob berilayotganini ko'rsatadi; «إِنَّ» esa bu javobning qat'iy haqiqat ekanligini ta'kidlaydi. «إِنَّ» undan keyingi ismni nasb holatiga tushiradi.",
+          "uz": "bas albatta"
+        },
+        {
+          "w": "الله",
+          "r": "اسم إِن",
+          "rc": "tb",
+          "e": "اللَّهَ — إِنَّ ning ismi bo'lib, nasb holatida fatha bilan kelgan. Allohning ismi bu dalil jumlasining subyekti. إِنَّ ning ishlatilishi bilan Allohning qudrati — quyoshni sharqdan chiqarish — qat'iy va shubhasiz haqiqat sifatida taqdim etilmoqda.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "يأتي",
+          "r": "خَبَر إِن (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "يَأْتِي — إِنَّ ning xabari bo'lgan hozirgi zamon fe'li. «Olib keladi, keltiradi» ma'nosini beradi. Hozirgi zamon fe'lining ishlatilishi bu hodisaning takroriy va doimiy ekanligini ko'rsatadi: Alloh har kuni quyoshni sharqdan chiqaradi — bu o'zgarmas kosmik qonun.",
+          "uz": "olib keladi, chiqaradi"
+        },
+        {
+          "w": "بالشمس",
+          "r": "جَار وَمَجرُور (مَفعُول بِه)",
+          "rc": "tb",
+          "e": "بِالشَّمْسِ — «بِ» jar harfi va «الشَّمْسِ» majrur ismidan tashkil topgan jar-majrur birikmasi. «بِ» harfi bu yerda «bilan» ma'nosida maf'ul bihi o'rnida kelgan (يَأْتِي بِـ = keltiradi). Quyosh Allohning irodasi bilan harakatlanuvchi kosmik jism sifatida taqdim etilmoqda.",
+          "uz": "quyoshni"
+        },
+        {
+          "w": "من المشرق",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
+          "rc": "tmt",
+          "e": "مِنَ الْمَشْرِقِ — «مِنَ» jar harfi va «الْمَشْرِقِ» majrur ismidan tashkil topgan yer ifodalovchi jar-majrur birikmasi. «Sharqdan» ma'nosida quyoshning chiqish yo'nalishini ko'rsatadi. مِنَ da «نَ» الْمَشْرِق ning «مْ» bilan iltiqo' sakinayn qoidasi bo'yicha «مِنَ» bo'lib talaffuz qilinadi.",
+          "uz": "sharqdan"
+        },
+        {
+          "w": "فأت",
+          "r": "فِعل أَمر (مَبنِي عَلَى حَذف حَرف العِلَّة)",
+          "rc": "tb",
+          "e": "فَأْتِ — «فَ» va أْتِ amir (buyruq) fe'li. «Keltir, olib kel» ma'nosida podshohga murojaat. أَتَى fe'lining امر صيغه si oxirgi harfi (alif) tushirib qo'yilishi bilan «أْتِ» shaklida keladi. Ibrohim podshohning da'vosini sinaydi: agar tiriltirasangu o'ldirsang, quyoshni ham boshqara oling.",
+          "uz": "keltir"
+        },
+        {
+          "w": "بها",
+          "r": "جَار وَمَجرُور (مَفعُول بِه)",
+          "rc": "tb",
+          "e": "بِهَا — «بِ» jar harfi va «هَا» mufrad muannas zamiri. «Uni» ma'nosida الشَّمْسِ (quyosh) ga qaytadi. أْتِ fe'lining maf'ul bihi vazifasidagi jar-majrur birikmasi. «Quyoshni olib kel» degan buyruqda zamir avvalgi الشَّمْسِ ni aniq ko'rsatadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "من المغرب",
+          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
+          "rc": "tmt",
+          "e": "مِنَ الْمَغْرِبِ — «مِنَ» jar harfi va «الْمَغْرِبِ» majrur ismidan tashkil topgan yer ifodalovchi jar-majrur birikmasi. «G'arbdan» ma'nosida. مِنَ الْمَشْرِقِ (sharqdan) bilan zid holda kelishi Ibrohimning mantiqiy dalilini to'ldiradi: Alloh quyoshni sharqdan chiqaradi, sen esa g'arbdan chiqara olasanmi?",
+          "uz": "g'arbdan"
+        }
+      ]
     },
     {
       "ar": "فَتَحَيَّرَ الْمَلِكُ وَسَكَتَ.",
-      "tr": "Podshoh hayron qoldi va jim bo‘ldi.",
-      "parts": []
+      "tr": "Podshoh hayron qoldi va jim bo'ldi.",
+      "parts": [
+        {
+          "w": "فتحير",
+          "r": "حَرف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "فَتَحَيَّرَ — «فَ» natija-bog'lovchi harfi va تَحَيَّرَ o'tgan zamon fe'li. «Hayron qoldi, dovdirab qoldi» ma'nosini beradi. «فَ» harfi Ibrohimning quyosh argumentiga podshohning javob bera olmaganligini — natijani — ko'rsatadi. تَحَيَّرَ فَعَّلَ وَزن da bo'lib, harakatning intensivligini bildiradi.",
+          "uz": "hayron qoldi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — تَحَيَّرَ fe'lining foili, raf' holatida. Butun hikoyat davomida qudratli bo'lib ko'ringan podshoh endi «hayron qoluvchi» sifatida tavsiflanmoqda — bu uning mag'lubiyatini nozik va ta'sirchan tarzda ko'rsatadi.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "وسكت",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَسَكَتَ — «وَ» atf harfi va سَكَتَ o'tgan zamon fe'li. «Jim bo'ldi, sukut saqladi» ma'nosini beradi. Foil (الملك) تَحَيَّرَ dan ma'lum bo'lgani uchun tushirilgan. Hayron qolish va jim bo'lish — ikki holat birgalikda podshohning intelektual mag'lubiyatini to'liq ifodalaydi.",
+          "uz": "jim bo'ldi"
+        }
+      ]
     },
     {
       "ar": "وَخَجِلَ الْمَلِكُ، وَمَا وَجَدَ جَوَابًا.",
       "tr": "Podshoh uyaldi va javob topa olmadi.",
-      "parts": []
+      "parts": [
+        {
+          "w": "وخجل",
+          "r": "حَرف عَطف + فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَخَجِلَ — «وَ» atf harfi va خَجِلَ o'tgan zamon fe'li. «Uyaldi, sharmanda bo'ldi» ma'nosini beradi. Bu fe'l podshohning hayron qolishidan keyingi hissiy holatini — uyalishini — ko'rsatadi. Hikoyat mag'lubiyatni qo'shib uyat bilan tugallanishi axloqiy darsni ta'kidlaydi.",
+          "uz": "uyaldi"
+        },
+        {
+          "w": "الملك",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "الْمَلِكُ — خَجِلَ fe'lining foili, raf' holatida. Podshoh endi «uyaladigan» sifatida tavsiflanmoqda. Hikoyat boshida «كَبِيرٌ جِدًّا وَظَالِمٌ جِدًّا» deb ta'riflangan bu podshoh oxirida uyalib, jim bo'lib qoldi — bu xulosa o'quvchiga ibrat berish uchun mo'ljallangan.",
+          "uz": "podshoh"
+        },
+        {
+          "w": "وما",
+          "r": "حَرف عَطف + حَرف نَفي",
+          "rc": "tb",
+          "e": "وَمَا — «وَ» atf harfi va «مَا» nafi (inkor) harfi. «مَا» bu yerda fe'lni inkor qiluvchi harf sifatida وَجَدَ ni inkor qilmoqda: «topa olmadi». مَا نافية bilan inkor qilingan o'tgan zamon fe'li arabchada «amalga oshmagan harakat»ni ifodalaydi.",
+          "uz": "va nima"
+        },
+        {
+          "w": "وجد",
+          "r": "فِعل مَاضٍ مَنفِي",
+          "rc": "tb",
+          "e": "وَجَدَ — مَا inkor harfi bilan inkorda kelgan o'tgan zamon fe'li. «Topdi» asosiy ma'nosi مَا bilan «topa olmadi» ma'nosiga o'tgan. Foil (الملك) tushirilgan. Bu fe'l podshohning Ibrohimning quyosh argumentiga هеч qanday mantiqiy javob topa olmaganligini qat'iy ifodalaydi.",
+          "uz": "va topdi"
+        },
+        {
+          "w": "جوابا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "جَوَابًا — وَجَدَ fe'lining maf'ul bihi, nasb holatida tanvin bilan. «Javob» ma'nosidagi нَкира ism. نَكِرَة sifatida kelishi «hech qanday javob» degan umumiy inkorni kuchaytiradi. Hikoyatning yakuniy so'zi «жавоб» — podshoh bir so'z ham ayta olmadi — bu Ibrohimning mutlaq g'alabasini anglatadi.",
+          "uz": "javob"
+        }
+      ]
     }
   ],
   "bookId": "qisas"

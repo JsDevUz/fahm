@@ -12,43 +12,50 @@
           "w": "وَدَخَلَ يُوسُفُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Yusuf kirdi"
+          "e": "وَدَخَلَ يُوسُفُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "Va Yusuf kirdi"
         },
         {
           "w": "السَّجْنَ",
           "r": "maf'ul bih (وَدَخَلَ يُوسُفُ)",
           "rc": "tb",
-          "e": "Zindonga"
+          "e": "السَّجْنَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Zindonga"
         },
         {
           "w": "وَعَرَفَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Bilishdi"
+          "e": "وَعَرَفَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "bildi"
         },
         {
           "w": "أَهْلُ السَّجْنِ",
           "r": "fo'il (وَعَرَفَ)",
           "rc": "tm",
-          "e": "Zindon ahli"
+          "e": "أَهْلُ السَّجْنِ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "zindon ahli"
         },
         {
           "w": "جَمِيعًا",
           "r": "hol (وَعَرَفَ)",
           "rc": "th",
-          "e": "Hammasi"
+          "e": "جَمِيعًا hol bo‘lib, fe’l sodir bo‘layotgan paytdagi holat, tarz yoki miqdorni izohlaydi.",
+          "uz": "birga"
         },
         {
           "w": "أَنَّ يُوسُفَ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Yusuf"
+          "e": "أَنَّ يُوسُفَ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "Albatta Yusuf"
         },
         {
           "w": "شَابٌ كَرِيمٌ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Karim yigit"
+          "e": "شَابٌ كَرِيمٌ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "karim yigit"
         }
       ]
     },
@@ -60,25 +67,29 @@
           "w": "وَأَنَّ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Va albatta"
+          "e": "وَأَنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "Va albatta"
         },
         {
           "w": "يُوسُفَ",
           "r": "ism inna",
           "rc": "tm",
-          "e": "Yusuf"
+          "e": "يُوسُفَ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "uz": "Yusufni"
         },
         {
           "w": "عِنْدَهُ",
           "r": "zarf",
           "rc": "th",
-          "e": "Uning oldida"
+          "e": "عِنْدَهُ zarf bo‘lib, ish-harakatning vaqtini yoki joyini bildiradi.",
+          "uz": "uning oldida"
         },
         {
           "w": "عَظِيمٌ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Buyukdir"
+          "e": "عَظِيمٌ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "buyuk"
         }
       ]
     },
@@ -90,25 +101,29 @@
           "w": "وَأَنَّ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Va albatta"
+          "e": "وَأَنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "Va albatta"
         },
         {
           "w": "يُوسُفَ",
           "r": "ism inna",
           "rc": "tm",
-          "e": "Yusuf"
+          "e": "يُوسُفَ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "uz": "Yusufni"
         },
         {
           "w": "فِي صَدْرِهِ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Uning ko'kragida"
+          "e": "فِي صَدْرِهِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "Uning ko'kragida"
         },
         {
           "w": "قَلْبٌ رَحِيمٌ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Rahmli qalb bor"
+          "e": "قَلْبٌ رَحِيمٌ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "rahmli qalb"
         }
       ]
     },
@@ -120,25 +135,29 @@
           "w": "وَأَحَبَّ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Sevdi"
+          "e": "وَأَحَبَّ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "sevdi"
         },
         {
           "w": "أَهْلُ السَّجْنِ",
           "r": "fo'il (وَأَحَبَّ)",
           "rc": "tm",
-          "e": "Zindon ahli"
+          "e": "أَهْلُ السَّجْنِ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "zindon ahli"
         },
         {
           "w": "يُوسُفَ",
           "r": "maf'ul bih (وَأَكْرَمُوهُ)",
           "rc": "tb",
-          "e": "Yusufni"
+          "e": "يُوسُفَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Yusufni"
         },
         {
           "w": "وَأَكْرَمُوهُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Izzat qildilar"
+          "e": "وَأَكْرَمُوهُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "izzat qildilar"
         }
       ]
     },
@@ -150,25 +169,29 @@
           "w": "وَفَرِحَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Xursand bo'ldi"
+          "e": "وَفَرِحَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "xursand bo'ldi"
         },
         {
           "w": "النَّاسُ",
           "r": "fo'il (وَفَرِحَ)",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "odamlar"
         },
         {
           "w": "بِيُوسُفَ",
           "r": "mutaalliq (وَعَظَّمُوهُ)",
           "rc": "tmt",
-          "e": "Yusufdan"
+          "e": "بِيُوسُفَ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "Yusufdan"
         },
         {
           "w": "وَعَظَّمُوهُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Uni ulug'ladilar"
+          "e": "وَعَظَّمُوهُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "ulug'ladilar"
         }
       ]
     },
@@ -180,43 +203,50 @@
           "w": "وَدَخَلَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Kirdi"
+          "e": "وَدَخَلَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "kirdi"
         },
         {
           "w": "مَعَهُ",
           "r": "zarf (وَدَخَلَ)",
           "rc": "th",
-          "e": "U bilan"
+          "e": "مَعَهُ zarf bo‘lib, ish-harakatning vaqtini yoki joyini bildiradi.",
+          "uz": "o'zi bilan"
         },
         {
           "w": "السَّجْنَ",
           "r": "maf'ul bih (وَدَخَلَ)",
           "rc": "tb",
-          "e": "Zindonga"
+          "e": "السَّجْنَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Zindonga"
         },
         {
           "w": "رَجُلَانِ",
           "r": "fo'il (وَقَصَّا)",
           "rc": "tm",
-          "e": "Ikki kishi"
+          "e": "رَجُلَانِ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "ikki kishi"
         },
         {
           "w": "وَقَصَّا",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Aytib berishdi"
+          "e": "وَقَصَّا fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "aytib berishdi"
         },
         {
           "w": "عَلَيْهِ",
           "r": "mutaalliq (وَقَصَّا)",
           "rc": "tmt",
-          "e": "Unga"
+          "e": "عَلَيْهِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "uning uchun"
         },
         {
           "w": "رُؤْيَاهُمَا",
           "r": "maf'ul bih (وَقَصَّا)",
           "rc": "tb",
-          "e": "O'z tushlarini"
+          "e": "رُؤْيَاهُمَا maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "o'z tushlarini"
         }
       ]
     },
@@ -228,37 +258,43 @@
           "w": "قَالَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "dedi"
         },
         {
           "w": "أَحَدُهُمَا",
           "r": "fo'il (قَالَ)",
           "rc": "tm",
-          "e": "Ulardan biri"
+          "e": "أَحَدُهُمَا fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "Uning ikkisidan biri"
         },
         {
           "w": "إِنِّي",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Albatta men"
+          "e": "إِنِّي harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "albatta men"
         },
         {
           "w": "أَرَانِي",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "O'zimni ko'ryapman"
+          "e": "أَرَانِي inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "o'zimni ko'ryapman"
         },
         {
           "w": "أَعْصِرُ",
           "r": "fe'l (hol)",
           "rc": "tf",
-          "e": "Siqayotgan"
+          "e": "أَعْصِرُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "siqayotgan"
         },
         {
           "w": "خَمْرًا",
           "r": "maf'ul bih (أَعْصِرُ)",
           "rc": "tb",
-          "e": "Sharob"
+          "e": "خَمْرًا maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "sharob"
         }
       ]
     },
@@ -270,49 +306,57 @@
           "w": "وَقَالَ الْآخَرُ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Va ikkinchisi dedi"
+          "e": "وَقَالَ الْآخَرُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "Va boshqasi dedi"
         },
         {
           "w": "إِنِّي أَرَانِي",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Albatta men o'zimni ko'ryapman"
+          "e": "إِنِّي أَرَانِي harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "Albatta men o'zimni ko'ryapman"
         },
         {
           "w": "أَحْمِلُ",
           "r": "fe'l (hol)",
           "rc": "tf",
-          "e": "Ko'tarayotgan"
+          "e": "أَحْمِلُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "ko'tarayotgan"
         },
         {
           "w": "فَوْقَ رَأْسِي",
           "r": "zarf (أَحْمِلُ)",
           "rc": "th",
-          "e": "Boshim ustida"
+          "e": "فَوْقَ رَأْسِي zarf bo‘lib, ish-harakatning vaqtini yoki joyini bildiradi.",
+          "uz": "boshim ustida"
         },
         {
           "w": "خُبْزًا",
           "r": "maf'ul bih (تَأْكُلُ)",
           "rc": "tb",
-          "e": "Non"
+          "e": "خُبْزًا maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "non"
         },
         {
           "w": "تَأْكُلُ",
           "r": "fe'l (sifat)",
           "rc": "tf",
-          "e": "Yeyapti"
+          "e": "تَأْكُلُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi. Qavsdagi sifat qaydi bu bo‘lak oldingi ismni aniqlash vazifasiga ham ega ekanini bildiradi.",
+          "uz": "yeyapti"
         },
         {
           "w": "الطَّيْرُ",
           "r": "fo'il (تَأْكُلُ)",
           "rc": "tm",
-          "e": "Qushlar"
+          "e": "الطَّيْرُ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "qushlar"
         },
         {
           "w": "مِنْهُ",
           "r": "mutaalliq (تَأْكُلُ)",
           "rc": "tmt",
-          "e": "Undan"
+          "e": "مِنْهُ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "undan"
         }
       ]
     },
@@ -324,19 +368,22 @@
           "w": "وَسَأَلَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "So'radilar"
+          "e": "وَسَأَلَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "so'radilar"
         },
         {
           "w": "يُوسُفَ",
           "r": "maf'ul bih (وَسَأَلَ)",
           "rc": "tb",
-          "e": "Yusufdan"
+          "e": "يُوسُفَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Yusufni"
         },
         {
           "w": "عَنِ التَّأْوِيلِ",
           "r": "mutaalliq (وَسَأَلَ)",
           "rc": "tmt",
-          "e": "Ta'bir haqida"
+          "e": "عَنِ التَّأْوِيلِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "ta'bir haqida"
         }
       ]
     },
@@ -348,19 +395,22 @@
           "w": "وَكَانَ يُوسُفُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Yusuf edi"
+          "e": "وَكَانَ يُوسُفُ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "Va Yusuf edi"
         },
         {
           "w": "عَالِمًا",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Biluvchi"
+          "e": "عَالِمًا kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "biluvchi"
         },
         {
           "w": "بِتَأْوِيلِ الرُّؤْيَا",
           "r": "mutaalliq (وَكَانَ يُوسُفُ)",
           "rc": "tmt",
-          "e": "Tush ta'birini"
+          "e": "بِتَأْوِيلِ الرُّؤْيَا mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "tush ta'birini"
         }
       ]
     },
@@ -372,13 +422,29 @@
           "w": "نَبِيًّا",
           "r": "xabar",
           "rc": "tx",
-          "e": "Payg'ambar"
+          "e": "نَبِيًّا xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "payg'ambar"
         },
         {
           "w": "مِنَ الْأَنْبِيَاءِ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Payg'ambarlardan"
+          "e": "مِنَ الْأَنْبِيَاءِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "payg'ambarlardan"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَكَانَ gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "وَكَانَ"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يُوسُفُ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusufni"
         }
       ]
     },
@@ -390,19 +456,36 @@
           "w": "وَكَانَ النَّاسُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Odamlar edi"
+          "e": "وَكَانَ النَّاسُ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "Va odamlar edilar"
         },
         {
           "w": "يَعْبُدُونَ",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Ibodat qilishardi"
+          "e": "يَعْبُدُونَ kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "ibodat qiladilar"
         },
         {
           "w": "غَيْرَ اللَّهِ",
           "r": "maf'ul bih (وَكَانَ النَّاسُ)",
           "rc": "tb",
-          "e": "Allohdan boshqasiga"
+          "e": "غَيْرَ اللَّهِ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Allohdan boshqasiga"
+        },
+        {
+          "w": "فِي",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "فِي gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "ichida"
+        },
+        {
+          "w": "زَمَانِهِ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "زَمَانِهِ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "uning zamonida"
         }
       ]
     },
@@ -414,19 +497,22 @@
           "w": "وَضَعُوا",
           "r": "fe'l",
           "rc": "tf",
-          "e": "O'ylab topdilar"
+          "e": "وَضَعُوا fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "o'ylab topdilar"
         },
         {
           "w": "أَرْبَابًا كَثِيرَةً",
           "r": "maf'ul bih (وَضَعُوا)",
           "rc": "tb",
-          "e": "Ko'p xudolar"
+          "e": "أَرْبَابًا كَثِيرَةً maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "ko'p xudolar"
         },
         {
           "w": "مِنْ عِنْدِ أَنْفُسِهِمْ",
           "r": "mutaalliq (وَضَعُوا)",
           "rc": "tmt",
-          "e": "O'zlaridan"
+          "e": "مِنْ عِنْدِ أَنْفُسِهِمْ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "o'zlaridan"
         }
       ]
     },
@@ -438,31 +524,43 @@
           "w": "هَذَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu"
+          "e": "هَذَا mubtado bo‘lib, ismiy gapning boshlang‘ich egasi vazifasida kelgan; undan keyingi xabar shu ega haqida ma’lumot beradi.",
+          "uz": "bu"
         },
         {
           "w": "رَبُّ الْبَرِّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Quruqlikning Robbisi"
+          "e": "رَبُّ الْبَرِّ xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "quruqlikning Robbisi"
         },
         {
           "w": "وَهَذَا رَبُّ الْبَحْرِ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va bu dengizning Robbisi"
+          "e": "وَهَذَا رَبُّ الْبَحْرِ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "Va bu dengiz Robbisi"
         },
         {
           "w": "وَهَذَا رَبُّ الرِّزْقِ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va bu rizqning Robbisi"
+          "e": "وَهَذَا رَبُّ الرِّزْقِ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "Va bu rizq Robbisi"
         },
         {
           "w": "وَهَذَا رَبُّ الْمَطَرِ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va bu yomg'irning Robbisi"
+          "e": "وَهَذَا رَبُّ الْمَطَرِ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "Va bu yomg'ir Robbisi"
+        },
+        {
+          "w": "وَقَالُوا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَقَالُوا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "va dedilar"
         }
       ]
     },
@@ -474,19 +572,36 @@
           "w": "يَرَى",
           "r": "xabar",
           "rc": "tx",
-          "e": "Ko'radi"
+          "e": "يَرَى xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "ko'radi"
         },
         {
           "w": "كُلَّ ذَلِكَ",
           "r": "maf'ul bih",
           "rc": "tb",
-          "e": "Bularning hammasini"
+          "e": "كُلَّ ذَلِكَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Buning barchasini"
         },
         {
           "w": "وَيَضْحَكُ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va kulardi"
+          "e": "وَيَضْحَكُ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "kulardi"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَكَانَ gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "وَكَانَ"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يُوسُفُ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusufni"
         }
       ]
     },
@@ -498,25 +613,29 @@
           "w": "وَكَانَ يُوسُفُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Yusuf edi"
+          "e": "وَكَانَ يُوسُفُ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "Va Yusuf edi"
         },
         {
           "w": "يَعْلَمُ",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Bilardi"
+          "e": "يَعْلَمُ kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "bilardi"
         },
         {
           "w": "كُلَّ ذَلِكَ",
           "r": "maf'ul bih (وَكَانَ يُوسُفُ)",
           "rc": "tb",
-          "e": "Bularning hammasini"
+          "e": "كُلَّ ذَلِكَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "Buning barchasini"
         },
         {
           "w": "وَيَبْكِي",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va yig'lardi"
+          "e": "وَيَبْكِي ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "uz": "yig'lardi"
         }
       ]
     },
@@ -528,19 +647,36 @@
           "w": "يُرِيدُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xohlardi"
+          "e": "يُرِيدُ xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "xohlardi"
         },
         {
           "w": "أَنْ يَدْعُوَهُمْ",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "Ularni da'vat qilishni"
+          "e": "أَنْ يَدْعُوَهُمْ nasb holatidagi fe’l bo‘lib, oldingi harf yoki tarkib ta’sirida maqsad yoki tobe harakatni bildiradi.",
+          "uz": "Ularni da'vat qilishni"
         },
         {
           "w": "إِلَى اللَّهِ",
           "r": "mutaalliq (أَنْ يَدْعُوَهُمْ)",
           "rc": "tmt",
-          "e": "Allohga"
+          "e": "إِلَى اللَّهِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "وَكَانَ gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "uz": "وَكَانَ"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يُوسُفُ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Yusufni"
         }
       ]
     },
@@ -552,37 +688,43 @@
           "w": "وَقَدْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Va albatta"
+          "e": "وَقَدْ harf bo‘lib, mustaqil predmetni emas, gapdagi so‘zlar orasidagi grammatik munosabatni bildiradi.",
+          "uz": "va albatta"
         },
         {
           "w": "أَرَادَ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "أَرَادَ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "xohladi"
         },
         {
           "w": "اللَّهُ",
           "r": "fo'il (أَرَادَ)",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "Alloh"
         },
         {
           "w": "أَنْ يَكُونَ",
           "r": "fe'l (mansub)",
           "rc": "tf",
-          "e": "Bo'lishni"
+          "e": "أَنْ يَكُونَ nasb holatidagi fe’l bo‘lib, oldingi harf yoki tarkib ta’sirida maqsad yoki tobe harakatni bildiradi.",
+          "uz": "Bo'lishini"
         },
         {
           "w": "ذَلِكَ",
           "r": "ism kana",
           "rc": "tm",
-          "e": "Bu"
+          "e": "ذَلِكَ kana fe’lining ismi bo‘lib, xabar orqali bayon qilinadigan shaxs yoki narsani bildiradi.",
+          "uz": "bu"
         },
         {
           "w": "فِي السَّجْنِ",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Zindonda"
+          "e": "فِي السَّجْنِ kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "Zindonda"
         }
       ]
     },
@@ -594,25 +736,29 @@
           "w": "أَلَا",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Emasmi"
+          "e": "أَلَا so‘roq harfi bo‘lib, gapni savol ma’nosiga o‘tkazadi.",
+          "uz": "emasmi"
         },
         {
           "w": "يَسْتَحِقُّ",
           "r": "fe'l",
           "rc": "tf",
-          "e": "Loyiq"
+          "e": "يَسْتَحِقُّ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "uz": "loyiq"
         },
         {
           "w": "أَهْلُ السَّجْنِ",
           "r": "fo'il (يَسْتَحِقُّ)",
           "rc": "tm",
-          "e": "Zindon ahli"
+          "e": "أَهْلُ السَّجْنِ fo’il bo‘lib, fe’l bildirgan ish-harakatni bajaruvchi shaxs yoki narsani ko‘rsatadi.",
+          "uz": "zindon ahli"
         },
         {
           "w": "الْمَوْعِظَةَ",
           "r": "maf'ul bih (يَسْتَحِقُّ)",
           "rc": "tb",
-          "e": "Va'zga"
+          "e": "الْمَوْعِظَةَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "va'zga"
         }
       ]
     },
@@ -624,7 +770,36 @@
           "w": "الرَّحْمَةَ",
           "r": "maf'ul bih",
           "rc": "tb",
-          "e": "Rahmatga"
+          "e": "الرَّحْمَةَ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "uz": "rahmatga"
+        },
+        {
+          "w": "أَلَا",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أَلَا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "emasmi"
+        },
+        {
+          "w": "يَسْتَحِقُّ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "يَسْتَحِقُّ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "loyiq"
+        },
+        {
+          "w": "أَهْلُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أَهْلُ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "أَهْلُ"
+        },
+        {
+          "w": "السَّجْنِ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "السَّجْنِ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Zindonga"
         }
       ]
     },
@@ -636,19 +811,22 @@
           "w": "أَلَيْسَ",
           "r": "fe'l noqis (istifhom)",
           "rc": "tf",
-          "e": "Emasmi"
+          "e": "أَلَيْسَ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "emasmi"
         },
         {
           "w": "أَهْلُ السَّجْنِ",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "Zindon ahli"
+          "e": "Zindon ahli. Bu bo‘lak gap tarkibida “ism laysa” vazifasida kelgan va shu vazifa orqali atrofidagi so‘zlar bilan bog‘lanadi.. Bu bo‘lak gap tarkibida “ism laysa” vazifasida kelgan va shu vazifa orqali atrofidagi so‘zlar bilan bog‘lanadi.",
+          "uz": "zindon ahli"
         },
         {
           "w": "عِبَادَ اللَّهِ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Allohning bandalari"
+          "e": "عِبَادَ اللَّهِ xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "Allohning bandalari"
         }
       ]
     },
@@ -660,7 +838,29 @@
           "w": "بَنِي آدَمَ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Odam farzandlari"
+          "e": "بَنِي آدَمَ xabar bo‘lib, gapdagi ega yoki ism haqida asosiy ma’lumotni beradi.",
+          "uz": "Odam farzandlari"
+        },
+        {
+          "w": "أَلَيْسَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أَلَيْسَ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "emasmi"
+        },
+        {
+          "w": "أَهْلُ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "أَهْلُ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "أَهْلُ"
+        },
+        {
+          "w": "السَّجْنِ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "السَّجْنِ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "Zindonga"
         }
       ]
     },
@@ -672,31 +872,36 @@
           "w": "كَانَ يُوسُفُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Yusuf edi"
+          "e": "كَانَ يُوسُفُ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "Yusuf edi"
         },
         {
           "w": "فِي السَّجْنِ",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Zindonda"
+          "e": "فِي السَّجْنِ kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "Zindonda"
         },
         {
           "w": "وَلَكِنَّهُ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Lekin u"
+          "e": "وَلَكِنَّهُ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "lekin u"
         },
         {
           "w": "كَانَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "edi"
         },
         {
           "w": "حُرًّا جَرِيئًا",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Ozod va jasur"
+          "e": "حُرًّا جَرِيئًا kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "ozod va jasur"
         }
       ]
     },
@@ -708,31 +913,36 @@
           "w": "كَانَ يُوسُفُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Yusuf edi"
+          "e": "كَانَ يُوسُفُ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "Yusuf edi"
         },
         {
           "w": "فَقِيرًا",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Kambag'al"
+          "e": "فَقِيرًا kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "kambag'al"
         },
         {
           "w": "وَلَكِنَّهُ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Lekin u"
+          "e": "وَلَكِنَّهُ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "lekin u"
         },
         {
           "w": "كَانَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ noqis fe’l bo‘lib, o‘zidan keyingi ism va xabarni bog‘lab, gapga zamon yoki holat ma’nosini beradi.",
+          "uz": "edi"
         },
         {
           "w": "جَوَادًا سَخِيًّا",
           "r": "xabar (xabar kana)",
           "rc": "tx",
-          "e": "Saxiy va karim"
+          "e": "جَوَادًا سَخِيًّا kana tarkibining xabari bo‘lib, ismning o‘sha zamondagi holati yoki sifatini bildiradi. Qavsdagi kana ishorasi bu bo‘lak noqis fe’l tarkibidagi ism-xabar munosabatiga ulanganini bildiradi.",
+          "uz": "saxiy va karim"
         }
       ]
     },
@@ -744,25 +954,29 @@
           "w": "إِنَّ الْأَنْبِيَاءَ",
           "r": "harfi mushabbaha",
           "rc": "tb",
-          "e": "Albatta payg'ambarlar"
+          "e": "إِنَّ الْأَنْبِيَاءَ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "uz": "Albatta payg'ambarlar"
         },
         {
           "w": "يَجْهَرُونَ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Ochiq aytadilar"
+          "e": "يَجْهَرُونَ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "ochiq aytadilar"
         },
         {
           "w": "بِالْحَقِّ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Haq bilan"
+          "e": "بِالْحَقِّ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "haq bilan"
         },
         {
           "w": "فِي كُلِّ مَكَانٍ",
           "r": "zarf",
           "rc": "th",
-          "e": "Har joyda"
+          "e": "فِي كُلِّ مَكَانٍ zarf bo‘lib, ish-harakatning vaqtini yoki joyini bildiradi.",
+          "uz": "har joyda"
         }
       ]
     },
@@ -774,19 +988,36 @@
           "w": "يَجُودُونَ",
           "r": "xabar inna",
           "rc": "tx",
-          "e": "Yaxshilik qiladilar"
+          "e": "يَجُودُونَ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "uz": "yaxshilik qiladilar"
         },
         {
           "w": "بِالْخَيْرِ",
           "r": "mutaalliq",
           "rc": "tmt",
-          "e": "Yaxshilik bilan"
+          "e": "بِالْخَيْرِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "uz": "yaxshilik bilan"
         },
         {
           "w": "فِي كُلِّ زَمَانٍ",
           "r": "zarf",
           "rc": "th",
-          "e": "Har zamonda"
+          "e": "فِي كُلِّ زَمَانٍ zarf bo‘lib, ish-harakatning vaqtini yoki joyini bildiradi.",
+          "uz": "har zamonda"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "إِنَّ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "إِنَّ"
+        },
+        {
+          "w": "الْأَنْبِيَاءَ",
+          "r": "so‘z",
+          "rc": "tb",
+          "e": "الْأَنْبِيَاءَ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "uz": "الْأَنْبِيَاءَ"
         }
       ]
     }

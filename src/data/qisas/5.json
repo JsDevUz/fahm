@@ -6,103 +6,118 @@
   "sentences": [
     {
       "ar": "اجْتَمَعَ النَّاسُ وَقَالُوا: مَاذَا نَفْعَلُ؟ إِنَّ إِبْرَاهِيمَ كَسَرَ الْأَصْنَامَ وَأَهَانَ الْآلِهَةَ!.",
-      "tr": "Odamlar yig‘ildi va: Nima qilamiz? Ibrohim butlarni sindirdi va xudolarni xor qildi! — dedilar.",
+      "tr": "Odamlar yig'ildi va: Nima qilamiz? Ibrohim butlarni sindirdi va xudolarni xor qildi! — dedilar.",
       "parts": [
         {
           "w": "اجْتَمَعَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yig'ildi"
+          "e": "اجْتَمَعَ — مُطَاوَعة وزнида (VIII vazn) o'tgan zamon fe'li bo'lib, bu gapda hukm asosi hisoblanadi. Fe'l النَّاسُ ega bilan birgalikda jumlaning asosiy mustaqil gapini tashkil etadi, va odamlarning bir joyga to'planish voqeasini tasvirlaydi.",
+          "uz": "yig'ildi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (اجْتَمَعَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — اجْتَمَعَ fe'lining فَاعِل (ega)i bo'lib, rafa' holatida turadi. Arab grammatikasida فَاعِل fe'ldan keyin kelib, yig'ilish harakatini bajargan shaxs kim ekanini bildiradi; bu gapda «odamlar» to'planish voqeasining bosh ishtirokchisi.",
+          "uz": "odamlar"
         },
         {
           "w": "وَقَالُوا",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Va dedilar"
+          "e": "وَقَالُوا — oldingi اجْتَمَعَ fe'liga وَ حَرف عَطف orqali bog'langan o'tgan zamon fe'li. Zamiri (واو) النَّاسُ ga qaytadi va ularning so'z gapirish harakatini ifodalaydi; ikki fe'lning bir-biriga ulangan ketma-ketligi voqealar zanjirini hosil qiladi.",
+          "uz": "va dedilar"
         },
         {
           "w": "مَاذَا",
-          "r": "ism istifhom",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "Nima"
+          "e": "مَاذَا — مَا va ذَا dan tarkib topgan murakkab سم اسْتِفهَام bo'lib, نَفْعَلُ fe'lining مَفعُول بِه vazifasida kelgan. So'roq ma'nosini hosil qilib, «Nima qilamiz?» degan hayratli murojaat iborasini shakllantiradi va odamlarning ezgulik yo'lini bilmaslik holatini ko'rsatadi.",
+          "uz": "nimadan"
         },
         {
           "w": "نَفْعَلُ",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "Qilamiz"
+          "e": "نَفْعَلُ — hozirgi va kelasi zamonga dalolat qiluvchi فِعل مُضَارِع bo'lib, نَحن (biz) uchun kelgan. مَاذَا sо'rog'iga javob bo'luvchi gapning kesimini tashkil etadi; bu hol o'sha kishilarning nima qilishni bilmay qolganini tasvirlaydi.",
+          "uz": "qilamiz"
         },
         {
           "w": "إِنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "Albatta"
+          "e": "إِنَّ — ismni nasb, xabarni rafa' holatiga o'tkazuvchi حَرف مُشَبَّهة بِالفِعل. Bu yerda خَبَر (Ibrohim butlarni sindirdi) haqiqati ta'kidlanib, tinglovchilarga kuchli ishonch bilan yetkazilmoqda; odamlarning aybloviga hujjat sifatida keladi.",
+          "uz": "albatta"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "ism inna",
+          "r": "اسم إِنَّ",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمَ — إِنَّ harfidan keyin nasb holatida kelgan اسم إِنَّ. Bu gapda u ta'kidlangan mavzuning egasidur: u haqida ikki fe'lli xabar (كَسَرَ va أَهَانَ) keltiriladi. Sarf jihatidan g'ayri munsarif (triptot emas) bo'lgani uchun «ي» bilan emas, fatha bilan nasblanadi.",
+          "uz": "Ibrohimga"
         },
         {
           "w": "كَسَرَ",
-          "r": "fe'l (xabar)",
+          "r": "فِعل مَاضٍ (خَبَر إِنَّ)",
           "rc": "tf",
-          "e": "Sindirdi"
+          "e": "كَسَرَ — إِنَّ tarkibidagi خَبَر jumlasining fe'li bo'lib, إِبْرَاهِيمَ haqida bayon qiluvchi asosiy hukm hisoblanadi. Fe'l va uning مَفعُول بِه si (الْأَصْنَامَ) birgalikda خَبَر إِنَّ vazifasida kelgan jumla hosil qiladi; shu tarzda Ibrohimning gunohi «dalillanib» ko'rsatiladi.",
+          "uz": "sindirdi"
         },
         {
           "w": "الْأَصْنَامَ",
-          "r": "maf'ul bih (كَسَرَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Butlarni"
+          "e": "الْأَصْنَامَ — كَسَرَ fe'lining مَفعُول بِه i bo'lib, nasb holatida keladi. Fe'l ta'sirini qabul qilgan narsa — «butlar» — bu so'z orqali aniq ko'rsatiladi; الـ tarifli bo'lgani uchun ma'lum butlar nazarda tutiladi, ya'ni Ibrohim o'sha ibodatxonadagi barcha sanamlarni sindirdi.",
+          "uz": "Butlarga"
         },
         {
           "w": "وَأَهَانَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Xor qildi"
+          "e": "وَأَهَانَ — وَ حَرف عَطف orqali كَسَرَ ga bog'langan o'tgan zamon fe'li. IV vazn (أَفعَل) bo'lib, «xor qilish, tahqirlash» ma'nosini ifodalaydi; Ibrohimga qo'yilgan ikkinchi aylov sifatida keladi va birinchi (كَسَرَ) bilan bir قضية ichida ta'kidlanadi.",
+          "uz": "xor qildi"
         },
         {
           "w": "الْآلِهَةَ",
-          "r": "maf'ul bih (وَأَهَانَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Xudolarni"
+          "e": "الْآلِهَةَ — وَأَهَانَ fe'lining مَفعُول بِه i, nasb holatida keladi. الـ tarif artikli bilan ma'lum xudolar — o'sha qavmning ilohlari — nazarda tutiladi; ularni «tahqirlash» Ibrohimga nisbatan qo'yilayotgan eng og'ir ayblovni ifodalaydi.",
+          "uz": "xudolarni"
         }
       ]
     },
     {
       "ar": "وَسَأَلَ النَّاسُ: مَا عِقَابُ إِبْرَاهِيمَ؟ مَا جَزَاءُ إِبْرَاهِيمَ؟.",
-      "tr": "Odamlar so‘radi: Ibrohimning jazosi nima? Ibrohimning mukofoti nima?",
+      "tr": "Odamlar so'radi: Ibrohimning jazosi nima? Ibrohimning mukofoti nima?",
       "parts": [
         {
           "w": "وَسَأَلَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "So'radi"
+          "e": "وَسَأَلَ — oldingi gapga وَ عَطف orqali bog'langan o'tgan zamon fe'li bo'lib, odamlarning savol berish harakatini bildiradi. Fe'l النَّاسُ ega bilan birgalikda voqeani davom ettiradi va keyin keluvchi murojaat jumlalarini kirittiradi.",
+          "uz": "so'radilar"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (وَسَأَلَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — وَسَأَلَ fe'lining فَاعِل i bo'lib, rafa' holatida keladi. Savol berish harakatini amalga oshirgan shaxslar — «odamlar» — shu so'z orqali aniqlanadi; avvalgi gapda yig'ilgan o'sha jamoa ekanini kontekst ko'rsatib turibdi.",
+          "uz": "odamlar"
         },
         {
           "w": "مَا عِقَابُ إِبْرَاهِيمَ",
-          "r": "jumla",
+          "r": "جُملة اسمِيَّة اسْتِفهَامِيَّة",
           "rc": "th",
-          "e": "Ibrohimning jazosi nima"
+          "e": "مَا عِقَابُ إِبْرَاهِيمَ — مَا ismiy so'roq olmoshi مُبتَدَأ, عِقَابُ esa خَبَر vazifasida kelgan مُبتَدَأ. إِبْرَاهِيمَ esa عِقَابُ ga قضافت bog'liq مُضَاف إِلَيه hisoblanadi. Bu tarzda «Ibrohimning jazosi nima?» degan to'liq so'roq jumla hosil bo'ladi.",
+          "uz": "Ibrohimning jazosi nima"
         },
         {
           "w": "مَا جَزَاءُ إِبْرَاهِيمَ",
-          "r": "jumla",
+          "r": "جُملة اسمِيَّة اسْتِفهَامِيَّة مَعطُوفة",
           "rc": "th",
-          "e": "Ibrohimning mukofoti nima"
+          "e": "مَا جَزَاءُ إِبْرَاهِيمَ — avvalgi so'roq jumla tuzilishini takrorlovchi parallel jumla bo'lib, undagi جَزَاءُ (mukofot/haq) so'zi عِقَابُ (jazo) so'ziga ma'nodosh yondosh tushuncha sifatida keladi. Ikki so'roqning ketma-ket kelishi odamlarning hayajon va g'azabini kuchaytiradi.",
+          "uz": "Ibrohimning mukofoti nima"
         }
       ]
     },
@@ -112,243 +127,334 @@
       "parts": [
         {
           "w": "كَانَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَ — ism va xabarni bog'lovchi نَاقِص fe'l bo'lib, o'z-o'zidan to'liq ma'no bermaydi, بَلكِه ismiga xabar qo'shib ma'noni yakunlaydi. Bu yerda «javob» nimadan iboratligi shu fe'l orqali kiritiladi; الْجَوَابُ ismi, xabar esa buyruq jumlasidir.",
+          "uz": "edi"
         },
         {
           "w": "الْجَوَابُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Javob"
+          "e": "الْجَوَابُ — كَانَ fe'lining اسم i bo'lib, rafa' holatida keladi. Bu gapda «javob» so'zi haqida xabar berilmoqda; الـ tarif artikli shu javobning ma'lum, avval savol qo'yilgan muammoga tegishli ekanini ko'rsatadi.",
+          "uz": "javob"
         },
         {
           "w": "حَرِّقُوهُ",
-          "r": "xabar (amr)",
+          "r": "خَبَر كَان (فِعل أَمر)",
           "rc": "tx",
-          "e": "Uni yoqib yuboring"
+          "e": "حَرِّقُوهُ — كَانَ tarkibidagi خَبَر vazifasini bajaruvchi فِعل أَمر jumla. II vazn (تَفعِيل) dan buyruq mayli bo'lib, intensivlik ma'nosini beradi — oddiy yoqish emas, «yaxshilab, to'liq yoqib yuborish» talab qilinmoqda. Zamiri «هُ» إِبْرَاهِيمَ ga ishora qiladi.",
+          "uz": "uni yoqib yuboring"
         },
         {
           "w": "وَانْصُرُوا",
-          "r": "fe'l (amr)",
+          "r": "فِعل أَمر مَعطُوف",
           "rc": "tf",
-          "e": "Yordam bering"
+          "e": "وَانْصُرُوا — وَ عَطف orqali حَرِّقُوهُ ga bog'langan buyruq mayli fe'li. نَصَرَ aslidagi I vazn fe'ldan جَمع مُذَكَّر salmim uchun buyruq shakli. Birinchi buyruq (yoqib yuborish) bilan birgalikda ikki talab ortiqcha bo'lib, odamlarning xudolariga bo'lgan himoya hissi ifodalanadi.",
+          "uz": "yordam bering"
         },
         {
           "w": "آلِهَتَكُمْ",
-          "r": "maf'ul bih (وَانْصُرُوا)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Xudolaringizga"
+          "e": "آلِهَتَكُمْ — وَانْصُرُوا fe'lining مَفعُول بِه i bo'lib, nasb holatida keladi. آلِهَة + كُمْ zamiri tarkibi «sizlarning xudolaringiz» ma'nosini beradi; egalik zamiri «کُم» so'zlovchining tinglovchilarga murojaat qilayotganini ko'rsatib, javobgarlikni ularga yuklaydi.",
+          "uz": "xudolaringizga"
         }
       ]
     },
     {
       "ar": "وَهَكَذَا كَانَ: أُوقِدُوا نَارًا وَأَلْقَوْا فِيهَا إِبْرَاهِيمَ.",
-      "tr": "Shunday bo‘ldi: ular olov yoqdilar va unga Ibrohimni tashladilar.",
+      "tr": "Shunday bo'ldi: ular olov yoqdilar va unga Ibrohimni tashladilar.",
       "parts": [
         {
           "w": "وَهَكَذَا",
-          "r": "zarf (أُوقِدَتْ)",
+          "r": "ظَرف كَيفِيَّة (حَال)",
           "rc": "th",
-          "e": "Shunday"
+          "e": "وَهَكَذَا — «shunday/mana shu tarzda» ma'nosini beruvchi مُرَكَّب إِشَارِي bo'lib, oldingi voqeaning natijasi sifatida muqaddima vazifasini bajaradi. Gapda holat-tarz ma'nosini bildiradi va keyingi tasvirning avvalgi fikr bilan bog'liqligini ta'minlaydi.",
+          "uz": "shunday"
         },
         {
           "w": "أُوقِدَتْ",
-          "r": "fe'l (majhul)",
+          "r": "فِعل مَاضٍ مَبنِي لِلمَجهُول",
           "rc": "tf",
-          "e": "Yoqildi"
+          "e": "أُوقِدَتْ — IV vazndan مَجهُول (majhul nisbat) shaklida kelgan o'tgan zamon fe'li. Harakat bajaruvchisi (odamlar) zikr qilinmay, harakat o'zi — olov yoqilgani — diqqat markaziga olingan. تَاء تَأنِيث نَارٌ ning muannasligiga moslab qo'shilgan.",
+          "uz": "yoqildi"
         },
         {
           "w": "نَارٌ",
-          "r": "noib fo'il (أُوقِدَتْ)",
+          "r": "نَائِب فَاعِل",
           "rc": "tm",
-          "e": "Olov"
+          "e": "نَارٌ — مَجهُول fe'ldan keyin rafa' holatida kelib, فَاعِل o'rnini egallagan نَائِب فَاعِل. Tanvinsiz emas, tanvinli (نَكِرة) kelishi «bir olov» — avval ma'lum bo'lmagan, maqsad uchun maxsus yoqilgan olov ekanini anglatadi.",
+          "uz": "olov"
         },
         {
           "w": "وَأُلْقِيَ",
-          "r": "fe'l (majhul)",
+          "r": "فِعل مَاضٍ مَبنِي لِلمَجهُول مَعطُوف",
           "rc": "tf",
-          "e": "Tashlandi"
+          "e": "وَأُلْقِيَ — أُوقِدَتْ ga وَ عَطف orqali ulangan, IV vazndan مَجهُول shaklida o'tgan zamon fe'li. Harakat bajaruvchi yashirinib, «tashlanish» hodisasining o'zi ta'kidlanadi; bu gapda Ibrohimning qismati passiv shaklda ko'rsatilishi voqeaning shafqatsizligini kuchaytiradi.",
+          "uz": "tashlandi"
         },
         {
           "w": "فِيهَا",
-          "r": "mutaalliq (وَأُلْقِيَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Unga"
+          "e": "فِيهَا — حَرف جَر «فِي» va مُؤَنَّث zamiri «هَا» dan tarkib topgan جَار وَمَجرُور bo'lib, «uning ichiga» ma'nosini beradi. وَأُلْقِيَ fe'liga bog'lanib, tashlash harakatining joyi — ya'ni yoqilgan olov — ko'rsatiladi; zamiri نَارٌ ga qaytadi.",
+          "uz": "unga"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "noib fo'il (وَأُلْقِيَ)",
+          "r": "نَائِب فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ — وَأُلْقِيَ مَجهُول fe'lining نَائِب فَاعِل i bo'lib, rafa' holatida keladi. G'ayri munsarif ism bo'lishiga qaramay, bu o'rinda رَفع holati ضَمَّة bilan ko'rsatiladi; u harakatni «qabul qiluvchi», ya'ni olovga tashlanayotgan shaxs sifatida taqdim etiladi.",
+          "uz": "Ibrohimga"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — وَهَكَذَا كَانَ iborasidagi نَاقِص fe'l bo'lib, «shunday bo'ldi» ma'nosida keladi. Bu yerda خَبَر u ning keyingi ikki jumladan tashkil topgan; fe'l voqealar bog'lovchisi sifatida ishlatilgan.",
+          "uz": "edi"
+        },
+        {
+          "w": "أُوقِدُوا",
+          "r": "فِعل مَاضٍ مَبنِي لِلمَعلُوم",
+          "rc": "tb",
+          "e": "أُوقِدُوا — «ular yoqdilar» ma'nosidagi معلوم (ma'lum nisbat) shaklida o'tgan zamon fe'li. واو جَمَاعَة zamiri harakat bajaruvchilar — odamlar guruhini ko'rsatadi; bu shakl avvalgi أُوقِدَتْ مَجهُول ga qarama-qarshi holda faollik-passivlik o'rtasidagi farqni ko'rsatadi.",
+          "uz": "yoqdilar"
+        },
+        {
+          "w": "نَارًا",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "نَارًا — أُوقِدُوا fe'lining مَفعُول بِه i bo'lib, nasb holatida tanvinli (نَكِرة) keladi. Tanvinsiz emas, tanvinli kelishi «ma'lum bir olov emas, balki (Ibrohim uchun maxsus) bir olov» ma'nosini beradi; harakat ob'ektini aniqlashtiradi.",
+          "uz": "olov"
+        },
+        {
+          "w": "وَأَلْقَوْا",
+          "r": "فِعل مَاضٍ مَعطُوف",
+          "rc": "tb",
+          "e": "وَأَلْقَوْا — وَ عَطف orqali أُوقِدُوا ga bog'langan o'tgan zamon fe'li. واو جَمَاعَة zamiri odamlarning guruhi; IV vazndan «tashladilar» ma'nosida. Olov yoqib, so'ng Ibrohimni tashlash ketma-ketligi gapning dramatik kulminatsiyasini tashkil etadi.",
+          "uz": "va tashladilar"
         }
       ]
     },
     {
       "ar": "وَلَكِنَّ اللَّهَ نَصَرَ إِبْرَاهِيمَ وَقَالَ لِلنَّارِ: ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ﴾.",
-      "tr": "Lekin Alloh Ibrohimga yordam berdi va olovga: Ey olov, Ibrohim uchun sovuq va omon bo‘l — dedi.",
+      "tr": "Lekin Alloh Ibrohimga yordam berdi va olovga: Ey olov, Ibrohim uchun sovuq va omon bo'l — dedi.",
       "parts": [
         {
           "w": "وَلَكِنَّ",
-          "r": "harf",
+          "r": "حَرف اسْتِدرَاك وَتَوكِيد",
           "rc": "tb",
-          "e": "Lekin"
+          "e": "وَلَكِنَّ — oldingi gap mazmuniga qarama-qarshi holat kirituvchi حَرف اسْتِدرَاك. Bu yerda odamlarning Ibrohimni olovga tashlagani va Allohning Unga yordam bergani o'rtasidagi tezis-antitezis munosabatini tashkil etadi; «lekin» zidlik orqali Allohning qudrati ta'kidlanadi.",
+          "uz": "lekin"
         },
         {
           "w": "اللَّهَ",
-          "r": "ism inna",
+          "r": "اسم لَكِنَّ",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهَ — لَكِنَّ harfining اسم i bo'lib, nasb holatida keladi. Bu Allohning ismi gapda ta'kidlangan mavzu sifatida o'rnatilishi, لَكِنَّ ning استدراك ma'nosini kuchaytirib, «ammo Alloh» qarama-qarshiligini keskin ifodalaydi.",
+          "uz": "Alloh"
         },
         {
           "w": "نَصَرَ",
-          "r": "xabar inna",
+          "r": "خَبَر لَكِنَّ (فِعل مَاضٍ)",
           "rc": "tx",
-          "e": "Yordam berdi"
+          "e": "نَصَرَ — لَكِنَّ tarkibidagi خَبَر bo'lgan فِعل مَاضٍ; «yordam berdi» ma'nosida. Xabar fe'l jumla shaklida kelgani uchun fe'l va uning مَفعُول بِه i (إِبْرَاهِيمَ) birgalikda خَبَر ni tashkil etadi; shu tarzda Allohning ishi — yordam berish — ta'kidli ravishda e'lon qilinadi.",
+          "uz": "yordam berdi"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "maf'ul bih (وَقَالَ)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ibrohimga"
+          "e": "إِبْرَاهِيمَ — نَصَرَ fe'lining مَفعُول بِه i bo'lib, nasb holatida keladi. G'ayri munsarif bo'lgani uchun kasra emas, fatha bilan nasblanadi. Allohning yordami bevosita Ibrohimga qaratilgani shu so'z orqali aniq ko'rsatiladi.",
+          "uz": "Ibrohimga"
         },
         {
           "w": "وَقَالَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Va dedi"
+          "e": "وَقَالَ — نَصَرَ ga وَ عَطف orqali bog'langan o'tgan zamon fe'li. Harakat bajaruvchi (Alloh) تَقدِير holatda anglashiladi, chunki oldingi جُملة da اللَّهَ mavzusi o'rnatilgan edi; «dedi» harakati Allohning olovga murojaat qilishini kiritadi.",
+          "uz": "va dedi"
         },
         {
           "w": "لِلنَّارِ",
-          "r": "mutaalliq (وَقَالَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالفِعل)",
           "rc": "tmt",
-          "e": "Olovga"
+          "e": "لِلنَّارِ — حَرف جَر «لِ» va ma'rifali الآ+النَّار dan iborat جَار وَمَجرُور tarkibi. وَقَالَ fe'liga bog'lanib, so'zning kimga qaratilganini — ya'ni olovga murojaat ekanini — ko'rsatadi; bu gapda olovga murojaat Allohning mutlaq hukmronligini ifodalaydi.",
+          "uz": "olovga"
         },
         {
           "w": "يَا نَارُ",
-          "r": "nido",
+          "r": "نِدَاء",
           "rc": "tb",
-          "e": "Ey olov"
+          "e": "يَا نَارُ — حَرف نِدَاء «يَا» va مُنَادَى «نَارُ» dan tarkib topgan نِدَاء tarkibi. نَارُ ma'rifali yoki بَيِّن bo'lmagan holda rafa'da kelishi مُنَادَى مُفرَد قَاصِد qoidasiga asoslanadi. Alloh olovga to'g'ridan-to'g'ri murojaat qilishi Uning barcha yaratilganlar ustidan hukmronligini tasdiqlaydi.",
+          "uz": "ey olov"
         },
         {
           "w": "كُونِي",
-          "r": "fe'l (amr)",
+          "r": "فِعل أَمر (كَان النَّاقِصة)",
           "rc": "tf",
-          "e": "Bo'l"
+          "e": "كُونِي — كَانَ نَاقِصة ning مُؤَنَّث مُفرَد uchun buyruq shakli. فِعل أَمر bo'lib, olovga «bo'l» deb buyruq berilmoqda; fe'lning نَاقِصة tabiatiga ko'ra u ism (النَّارُ) va xabar (بَرْدًا) bilan to'liq ma'no kasb etadi.",
+          "uz": "bo'l"
         },
         {
           "w": "بَرْدًا",
-          "r": "xabar",
+          "r": "خَبَر كُونِي",
           "rc": "tx",
-          "e": "Sovuq"
+          "e": "بَرْدًا — كُونِي نَاقِص fe'lining خَبَر i bo'lib, nasb holatida tanvinli keladi. «Sovuqlik» sifati olovning tabiiy issiqligiga zid; shu orqali mo'jiza ifodalanadi — olov o'z tabiati bilan emas, Alloh amri bilan «sovuq» bo'ladi.",
+          "uz": "sovuq"
         },
         {
           "w": "وَسَلَامًا",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى خَبَر كُونِي",
           "rc": "tb",
-          "e": "Va omon"
+          "e": "وَسَلَامًا — وَ حَرف عَطف orqali بَرْدًا ga bog'langan مَعطُوف, nasb holatida. «Xavfsizlik, omon-amonlik» ma'nosini beruvchi bu so'z بَرْدًا bilan juft holda kelishi orqali «sovuq va zararsiz» ma'nosi to'liqlanadi — Ibrohim na kuyishi, na muzlashi kerak.",
+          "uz": "va omon"
         },
         {
           "w": "عَلَى إِبْرَاهِيمَ",
-          "r": "mutaalliq (كُونِي)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالخَبَر)",
           "rc": "tmt",
-          "e": "Ibrohim uchun"
+          "e": "عَلَى إِبْرَاهِيمَ — حَرف جَر «عَلَى» va مَجرُور «إِبْرَاهِيمَ» dan iborat جَار وَمَجرُور. Bu tarkib بَرْدًا وَسَلَامًا xabarga bog'lanib, sovuqlik va omon-amonlikning aynan Ibrohimga nisbatan bo'lishini cheklaydi — olov boshqalarga emas, faqat Ibrohimga nisbatan bu tarzda bo'lishi amr etilmoqda.",
+          "uz": "Ibrohimga"
         }
       ]
     },
     {
       "ar": "وَهَكَذَا كَانَ: كَانَتِ النَّارُ بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ.",
-      "tr": "Shunday ham bo‘ldi: Olov Ibrohim uchun sovuq va omon bo‘ldi.",
+      "tr": "Shunday ham bo'ldi: Olov Ibrohim uchun sovuq va omon bo'ldi.",
       "parts": [
         {
           "w": "كَانَتِ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "كَانَتِ — النَّارُ muannasligiga mos تَاء تَأنِيث bilan kelgan كَانَ نَاقِص fe'li. Allohning «بَرْدًا وَسَلَامًا كُونِي» amri amalga oshganini tasdiqlovchi voqea sifatida keladi; امر va ijroining mos tushishi mo'jizaning to'liqligini ta'kidlaydi.",
+          "uz": "edi"
         },
         {
           "w": "النَّارُ",
-          "r": "ism kana",
+          "r": "اسم كَان",
           "rc": "tm",
-          "e": "Olov"
+          "e": "النَّارُ — كَانَتِ fe'lining اسم i bo'lib, rafa' holatida keladi. الـ tarif artikli avval tilga olingan ma'lum olov ekanini ko'rsatadi; bu olov endi Alloh amri bilan o'zgarib, «sovuq va omon» bo'ldi — shu o'zgarish shu gapda bayon qilinadi.",
+          "uz": "olov"
         },
         {
           "w": "بَرْدًا",
-          "r": "xabar",
+          "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "Sovuq"
+          "e": "بَرْدًا — كَانَتِ نَاقِص fe'lining خَبَر i bo'lib, nasb holatida keladi. Avvalgi Alloh amridagi «بَرْدًا» so'zini aynan takrorlashi bu gapning amr-ijro munosabatini ta'kidlaydi: buyurilgan narsa aynan shunday bo'ldi.",
+          "uz": "sovuq"
         },
         {
           "w": "وَسَلَامًا",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى خَبَر كَان",
           "rc": "tb",
-          "e": "Va omon"
+          "e": "وَسَلَامًا — وَ عَطف orqali بَرْدًا ga bog'langan مَعطُوف, nasb holatida. Avvalgi amrdagi «وَسَلَامًا» ning so'zma-so'z takrorlanishi Alloh amrining to'liq bajarilganini ko'rsatadi; ikki sifatning juft takrori mo'jizaning kengligini tasdiqlaydi.",
+          "uz": "va omon"
         },
         {
           "w": "عَلَى إِبْرَاهِيمَ",
-          "r": "mutaalliq (كَانَتِ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِالخَبَر)",
           "rc": "tmt",
-          "e": "Ibrohim uchun"
+          "e": "عَلَى إِبْرَاهِيمَ — حَرف جَر «عَلَى» va مَجرُور «إِبْرَاهِيمَ» dan iborat جَار وَمَجرُور. Avvalgi amrdagi عَلَى إِبْرَاهِيمَ ni aynan takrorlaydi; olovning «sovuq va omon» holati faqat Ibrohimga nisbatan ekanini yana bir bor aniqlashtiradi — mo'jiza shaxsga bog'liq.",
+          "uz": "Ibrohimga"
+        },
+        {
+          "w": "وَهَكَذَا",
+          "r": "ظَرف كَيفِيَّة",
+          "rc": "tb",
+          "e": "وَهَكَذَا — «shunday/mana shu tarzda» ma'nosidagi مُرَكَّب إِشَارِي bo'lib, avvalgi buyruqning natijasi ekaniga ishora qiladi. Gapda muqaddima va tasdiqlash vazifasini bajaradi: «va shunday bo'ldi» — ya'ni Alloh amri aynan shu tarzda amalga oshdi degan ma'noni ta'kidlaydi.",
+          "uz": "shunday"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — وَهَكَذَا كَانَ iborasidagi مُستَقِل نَاقِص fe'l bo'lib, «shunday bo'ldi» ma'nosida voqeaning amalga oshganini ifodalaydi. Keyingi كَانَتِ النَّارُ... jumla uning خَبَر i sifatida tushunilishi mumkin, yoki u мустaqil xulosa iborasi sifatida kelgan.",
+          "uz": "edi"
         }
       ]
     },
     {
       "ar": "وَرَأَى النَّاسُ أَنَّ النَّارَ لَا تَضُرُّ إِبْرَاهِيمَ.",
-      "tr": "Odamlar olov Ibrohimga zarar bermayotganini ko‘rdi.",
+      "tr": "Odamlar olov Ibrohimga zarar bermayotganini ko'rdi.",
       "parts": [
         {
           "w": "وَرَأَى",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Ko'rdi"
+          "e": "وَرَأَى — أَجوَف vazndagi (واو bilan) o'tgan zamon fe'li; رَأَى «ko'rmoq, idrok etmoq» ma'nosida. Bu yerda رَأَى ko'z bilan ko'rish emas, بَل أَنَّ orqali kelgan تَحقُّق — «ko'rdi, ya'ni anglab yetdi» ma'nosida. النَّاسُ uchun فَاعِل tushirib qoldirilmagan, keyingi so'z.",
+          "uz": "va ko'rdi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (وَرَأَى)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — وَرَأَى fe'lining فَاعِل i bo'lib, rafa' holatida keladi. Ko'rish va anglash harakatini bajargan shaxslar — o'sha yig'ilgan odamlar; ularning bevosita guvoh bo'lishi hikoya uchun muhim: mo'jiza kuzatuvchilar oldida sodir bo'ldi.",
+          "uz": "odamlar"
         },
         {
           "w": "أَنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "Deb"
+          "e": "أَنَّ — رَأَى fe'lidan keyin kelgan حَرف مُشَبَّهة بِالفِعل bo'lib, u bilan birga مَصدَر تَأوِيل (muavval masdar) tashkil etadi va رَأَى ning مَفعُول بِه i hisoblanadi. «Olovning zarar bermasligi» fakti shu أَنَّ tarkibi orqali رَأَى ning ob'ektiga aylantiriladi.",
+          "uz": "deb"
         },
         {
           "w": "النَّارَ",
-          "r": "ism inna",
+          "r": "اسم أَنَّ",
           "rc": "tm",
-          "e": "Olov"
+          "e": "النَّارَ — أَنَّ harfining اسم i bo'lib, nasb holatida keladi. الـ tarif artikli shu olovning — Ibrohim tashlanuvchi maxsus olov ekanini ko'rsatadi. Bu اسم haqida خَبَر «zarar bermaydi» deb beriladi.",
+          "uz": "olov"
         },
         {
           "w": "لَا تَضُرُّ",
-          "r": "xabar inna",
+          "r": "خَبَر أَنَّ (فِعل مُضَارِع مَنفِي)",
           "rc": "tx",
-          "e": "Zarar bermaydi"
+          "e": "لَا تَضُرُّ — لَا نَافِيَة + فِعل مُضَارِع shaklida أَنَّ tarkibining خَبَر i. «Zarar bermaydi» ma'nosidagi manfiy muzori' shakli hodisaning davomiyligini — olov har vaqt ham zarar bermayotganini — bildiradi; bu faqat bir lahza emas, butun muzokaradagi holat.",
+          "uz": "zarar bermaydi"
         },
         {
           "w": "إِبْرَاهِيمَ",
-          "r": "maf'ul bih (وَرَأَى)",
+          "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "Ibrohimga"
+          "e": "إِبْرَاهِيمَ — لَا تَضُرُّ fe'lining مَفعُول بِه i, nasb holatida (g'ayri munsarif sifatida fatha bilan). «Zarar bermaslik» harakati qaratilgan shaxs — Ibrohim; shu tarzda mo'jizaning markaziy qahramoni yana diqqat markazida qoladi.",
+          "uz": "Ibrohimga"
         }
       ]
     },
     {
       "ar": "وَرَأَى النَّاسُ أَنَّ إِبْرَاهِيمَ مَسْرُورٌ، وَأَنَّ إِبْرَاهِيمَ سَالِمٌ.",
-      "tr": "Odamlar Ibrohimning xursand va sog‘-salom ekanini ko‘rdi.",
+      "tr": "Odamlar Ibrohimning xursand va sog'-salom ekanini ko'rdi.",
       "parts": [
         {
           "w": "أَنَّ إِبْرَاهِيمَ مَسْرُورٌ",
-          "r": "maf'ul bih",
+          "r": "مَفعُول بِه (مُؤَوَّل بِمَصدَر)",
           "rc": "tb",
-          "e": "Ibrohim xursand"
+          "e": "أَنَّ إِبْرَاهِيمَ مَسْرُورٌ — أَنَّ + اسمها + خبرها tarkibi birgalikda مَصدَر مُؤَوَّل hosil qilib, وَرَأَى fe'lining مَفعُول بِه i bo'lib kelgan. «Ibrohimning xursand bo'lganligi» fikri ob'ekt sifatida ifodalanadi; مَسْرُورٌ esa إِبْرَاهِيمَ ga bog'liq ismiy خَبَر.",
+          "uz": "Ibrohim xursand"
         },
         {
           "w": "وَأَنَّ إِبْرَاهِيمَ سَالِمٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى مَفعُول بِه",
           "rc": "tb",
-          "e": "Va Ibrohim sog'-salom"
+          "e": "وَأَنَّ إِبْرَاهِيمَ سَالِمٌ — وَ حَرف عَطف orqali birinchi أَنَّ tarkibiga bog'langan parallel مَعطُوف. Shu tarzda ikkita haqiqat — xursandlik va sog'-salomatlik — bir xil grammatik darajada وَرَأَى ning ikkita ob'ekti sifatida taqdim etiladi; juftlik holat to'liqligini ta'kidlaydi.",
+          "uz": "va Ibrohim sog'-salom"
+        },
+        {
+          "w": "وَرَأَى",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "وَرَأَى — avvalgi gapga وَ عَطف orqali bog'langan o'tgan zamon fe'li. Bu gapda ham رَأَى «ko'rib-anglab yetdi» ma'nosida keladi; النَّاسُ esa yashirin فَاعِل sifatida anglashiladi. Takrorlanishi kuzatuv jarayonini ikki bosqichda tasvirlash effektini beradi.",
+          "uz": "va ko'rdi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "النَّاسُ — وَرَأَى fe'lining فَاعِل i bo'lib, rafa' holatida keladi. Avvalgi gapda ham, bu gapda ham النَّاسُ kuzatuvchi sifatida takrorlanishi voqeaning ularga ta'sirini, ularning ko'zi bilan mo'jizani ko'rishini ta'kidlaydi.",
+          "uz": "odamlar"
         }
       ]
     },
@@ -358,21 +464,24 @@
       "parts": [
         {
           "w": "وَدَهِشَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Hayratda qoldi"
+          "e": "وَدَهِشَ — وَ عَطف orqali avvalgi gapga bog'langan o'tgan zamon fe'li. دَهِشَ «lol qolmoq, hayratga tushmoq» ma'nosida I vazndan kelgan. Bu gap mo'jizaga guvoh bo'lgan odamlarning hissiy reaksiyasini tasvirlaydi; fe'l النَّاسُ ega bilan birgalikda hikoyaning yakunlovchi jumlasini ochadi.",
+          "uz": "hayratda qoldi"
         },
         {
           "w": "النَّاسُ",
-          "r": "fo'il (وَدَهِشَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Odamlar"
+          "e": "النَّاسُ — وَدَهِشَ fe'lining فَاعِل i bo'lib, rafa' holatida keladi. Bu so'z butun hikoya davomida kuzatuvchi jamoa sifatida takroran keldi; oxirgi gapda ularning holati — lol qolish — voqeaning xulosa tasviri hisoblanadi.",
+          "uz": "odamlar"
         },
         {
           "w": "وَتَحَيَّرُوا",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Va lol qoldilar"
+          "e": "وَتَحَيَّرُوا — وَ عَطف orqali وَدَهِشَ ga bog'langan, V vazndan (تَفَعَّل) o'tgan zamon fe'li. V vazn مُطَاوَعة yoki intensivlik ma'nosini beradi — «lol qolish, hayron bo'lib qolish» ma'nosi وَدَهِشَ dan kuchliroq. Ikkala fe'lning juft kelishi odamlarning chuqur hayratlanishini ta'kidlaydi va hikoyani dramatik xulosa bilan yakunlaydi.",
+          "uz": "lol qoldilar"
         }
       ]
     }

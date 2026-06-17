@@ -1,7 +1,7 @@
 {
   "title": "١٢ ـ إِلَى مَكَّةَ",
   "tuz": "Makkaga",
-  "sub": "Ibrohim Makkaga yo‘l oladi",
+  "sub": "Ibrohim Makkaga yo'l oladi",
   "page": 21,
   "sentences": [
     {
@@ -10,207 +10,264 @@
       "parts": [
         {
           "w": "وَأَرَادَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Xohladi"
+          "e": "وَأَرَادَ o'tgan zamon fe'li bo'lib, boshidagi 'و' uni oldingi jumlaga bog'lovchi atkf harfidir. Fe'l Ibrohimning xohish-istagin ifodalab, gapning asosiy predikat vazifasini bajaradi va o'zidan keyingi فَاعِل hamda مَفعُول بِه bo'laklarini boshqaradi.",
+          "uz": "xohladi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَأَرَادَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ فَاعِل vazifasida kelgan, ya'ni أَرَادَ fe'lining ish-harakatini bajaruvchi shaxsdir. U raf' holatida (ضَمَّة bilan) kelgan va fe'ldan keyin zikr qilingan. Gapda Ibrohimning Makkaga safar qilish va Allohga ibodat qilish niyatini ifodalovchi asosiy ega hisoblanadi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنْ يُسَافِرَ",
-          "r": "fe'l (mansub)",
+          "r": "مَفعُول بِه (مَصدَر مُؤَوَّل)",
           "rc": "tf",
-          "e": "Safar qilishni"
+          "e": "أَنْ يُسَافِرَ tarkibi أَنْ + مُضَارِع mansub ko'rinishida bo'lib, ta'wil jihatidan مَصدَر — سَفَرًا ma'nosida keladi. Bu tarkib أَرَادَ fe'lining مَفعُول بِه vazifasini bajaradi, ya'ni Ibrohimning nima xohlayotganini ko'rsatadi. يُسَافِرَ so'zi أَنْ ta'sirida nasb holatiga tushgan.",
+          "uz": "safar qilishni"
         },
         {
           "w": "إِلَى بَلَدٍ آخَرَ",
-          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِيُسَافِرَ)",
           "rc": "tmt",
-          "e": "Boshqa bir yurtga"
+          "e": "إِلَى بَلَدٍ آخَرَ — حَرف جَر إِلَى va مَجرُور بَلَدٍ bilan tashkil topgan جَار وَمَجرُور tarkibidir. Bu tarkib يُسَافِرَ fe'liga مُتَعَلِّق bo'lib, safar yo'nalishini — qaysi shahrga ketayotganini bildiradi. آخَرَ esa بَلَدٍ ga نَعت — sifat bo'lib, qaysi yurt ekanligini aniqlab turadi.",
+          "uz": "boshqa bir yurtga"
         },
         {
           "w": "وَيَعْبُدَ",
-          "r": "ma'tuf",
+          "r": "فِعل مُضَارِع مَعطُوف (مَنصُوب)",
           "rc": "tb",
-          "e": "Va ibodat qilishni"
+          "e": "وَيَعْبُدَ — يُسَافِرَ fe'liga وَ harfi orqali ma'tuf bo'lgan مُضَارِع fe'lidir. U أَنْ ning ta'sirida nasb holatida kelgani uchun maqsad ma'nosini saqlaydi: 'safar qilishni va ibodat qilishni xohladi'. Bu ma'tuf tuzilma Ibrohimning bir nechta parallel maqsadini ifodalaydi.",
+          "uz": "va ibodat qilishni"
         },
         {
           "w": "فِيهِ",
-          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِيَعبُدَ)",
           "rc": "tmt",
-          "e": "U yerda"
+          "e": "فِيهِ — حَرف جَر فِي va ضَمِير مُتَّصِل هِ (u yurt) dan iborat bo'lib, يَعبُدَ fe'liga مُتَعَلِّق dir. Bu tarkib ibodat qilinadigan joyni ko'rsatadi — aynan o'sha boshqa yurtda. Zaminir oldingi بَلَدٍ آخَرَ ga qaytadi va gap ichida mantiqiy bog'liqlikni ta'minlaydi.",
+          "uz": "unda"
         },
         {
           "w": "اللَّهَ",
-          "r": "maf'ul bih (أَنْ يُسَافِرَ)",
+          "r": "مَفعُول بِه (يَعبُدَ)",
           "rc": "tb",
-          "e": "Allohga"
+          "e": "اللَّهَ يَعبُدَ fe'lining مَفعُول بِه i bo'lib, fe'l ta'siri tushgan — ibodat qilinadigan zotni bildiradi. U نَصب holatida فَتحَة bilan kelgan. Ibodat kim uchun ekanligini aniq ko'rsatish orqali gap mazmunini to'ldiradi.",
+          "uz": "Alloh"
         },
         {
           "w": "وَيَدْعُو",
-          "r": "ma'tuf",
+          "r": "فِعل مُضَارِع مَعطُوف (مَنصُوب)",
           "rc": "tb",
-          "e": "Va da'vat qilishni"
+          "e": "وَيَدْعُو — يُسَافِرَ va يَعبُدَ fe'llariga وَ harfi orqali navbatdagi ma'tuf bo'lgan مُضَارِع fe'lidir. أَنْ ning ta'sir doirasida nasb holatini saqlab keladi. Bu uchinchi maqsad — odamlarni Allohga da'vat qilishni — ifodalaydi.",
+          "uz": "duo qiladi"
         },
         {
           "w": "النَّاسَ",
-          "r": "maf'ul bih (أَنْ يُسَافِرَ)",
+          "r": "مَفعُول بِه (يَدعُو)",
           "rc": "tb",
-          "e": "Odamlarni"
+          "e": "النَّاسَ يَدعُو fe'lining مَفعُول بِه i bo'lib, da'vat qilinadigan shaxslarni — odamlarni bildiradi. U نَصب holatida فَتحَة bilan kelgan. Bu da'vatning kimga qaratilganini aniq ko'rsatadi va Ibrohimning payg'ambarlik vazifasini ta'kidlaydi.",
+          "uz": "odamlarni"
         },
         {
           "w": "إِلَى اللَّهِ",
-          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِيَدعُو)",
           "rc": "tmt",
-          "e": "Allohga"
+          "e": "إِلَى اللَّهِ — حَرف جَر إِلَى va مَجرُور اللَّهِ dan iborat جَار وَمَجرُور tarkibi bo'lib, يَدعُو fe'liga مُتَعَلِّق dir. Da'vatning maqsadini — kimi da'vat qilayotganini emas, qayoqqa da'vat qilayotganini ko'rsatadi. Gapda Ibrohimning missiyasini yakunlovchi asosiy ma'lumot hisoblanadi.",
+          "uz": "Allohga"
         }
       ]
     },
     {
       "ar": "وَخَرَجَ إِبْرَاهِيمُ مِنْ بَلَدِهِ وَوَدَّعَ وَالِدَهُ.",
-      "tr": "Ibrohim o‘z yurtidan chiqdi va otasi bilan xayrlashdi.",
+      "tr": "Ibrohim o'z yurtidan chiqdi va otasi bilan xayrlashdi.",
       "parts": [
         {
           "w": "وَخَرَجَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Chiqdi"
+          "e": "وَخَرَجَ o'tgan zamon fe'li bo'lib, boshidagi 'و' uni oldingi jumlaga bog'lagan atkf harfidir. Fe'l Ibrohimning yurtdan chiqish harakatini ifodalaydi va gapning birinchi predikat bo'lagi hisoblanadi. O'zidan keyingi فَاعِل va جَار وَمَجرُور ni boshqaradi.",
+          "uz": "chiqdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَخَرَجَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ خَرَجَ va وَدَّعَ ikkala fe'lining ham فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Bu shaxs gapda amalga oshirilgan ikkala harakatning — yurtdan chiqish va otasi bilan xayrlashishning — bajaruvchisidir.",
+          "uz": "Ibrohim"
         },
         {
           "w": "مِنْ بَلَدِهِ",
-          "r": "mutaalliq (وَوَدَّعَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِخَرَجَ)",
           "rc": "tmt",
-          "e": "O'z yurtidan"
+          "e": "مِنْ بَلَدِهِ — حَرف جَر مِنْ va مَجرُور بَلَدِهِ dan iborat جَار وَمَجرُور tarkibi bo'lib, خَرَجَ fe'liga مُتَعَلِّق dir. Chiqish nuqtasini — qayerdan chiqqanini — ko'rsatadi. بَلَدِهِ da مُضَاف إِلَيه bo'lgan هِ zaminiri Ibrohimning o'z yurtidan chiqqanini ta'kidlaydi.",
+          "uz": "o'z yurtidan"
         },
         {
           "w": "وَوَدَّعَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Xayrlashdi"
+          "e": "وَوَدَّعَ — خَرَجَ fe'liga وَ harfi orqali ma'tuf bo'lgan mustaqil o'tgan zamon fe'lidir. U xayrlashish harakatini ifodalaydi va birinchi fe'l bilan baravarlik munosabatini ko'rsatadi: chiqdi va xayrlashdi. فَاعِل sifatida oldingi إِبْرَاهِيمُ baham ko'riladi.",
+          "uz": "xayrlashdi"
         },
         {
           "w": "وَالِدَهُ",
-          "r": "maf'ul bih (وَوَدَّعَ)",
+          "r": "مَفعُول بِه (وَدَّعَ)",
           "rc": "tb",
-          "e": "Otasi bilan"
+          "e": "وَالِدَهُ وَدَّعَ fe'lining مَفعُول بِه i bo'lib, xayrlashish harakati tushgan shaxsni — otasini — bildiradi. نَصب holatida فَتحَة bilan kelgan. هِ zaminiri Ibrohimga qaytib, bu otaning Ibrohimning o'z otasi ekanligini ko'rsatadi.",
+          "uz": "otasi bilan"
         }
       ]
     },
     {
       "ar": "وَقَصَدَ إِبْرَاهِيمُ مَكَّةَ وَمَعَهُ زَوْجُهُ هَاجَرُ.",
-      "tr": "Ibrohim Makkaga yo‘l oldi va u bilan birga xotini Hojar ham bor edi.",
+      "tr": "Ibrohim Makkaga yo'l oldi va u bilan birga xotini Hojar ham bor edi.",
       "parts": [
         {
           "w": "وَقَصَدَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yo'l oldi"
+          "e": "وَقَصَدَ o'tgan zamon fe'li bo'lib, boshidagi وَ atkf harfi sifatida gapni oldingi voqeaga bog'laydi. Fe'l Ibrohimning Makkaga qasd qilib yo'l olganini ifodalaydi va o'zidan keyingi فَاعِل hamda مَفعُول بِه ni boshqaradi.",
+          "uz": "yo'l oldi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَقَصَدَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ قَصَدَ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Yo'l olish harakatini amalga oshiruvchi shaxsdir. Gapda u ham مَكَّةَ ga boruvchi, ham Hojar bilan birga yo'lga chiqqan shaxs sifatida tasvirlangan.",
+          "uz": "Ibrohim"
         },
         {
           "w": "مَكَّةَ",
-          "r": "maf'ul bih (وَقَصَدَ)",
+          "r": "مَفعُول بِه (قَصَدَ)",
           "rc": "tb",
-          "e": "Makkaga"
+          "e": "مَكَّةَ قَصَدَ fe'lining مَفعُول بِه i bo'lib, yo'l olingan — maqsad qilingan joyni bildiradi. نَصب holatida فَتحَة bilan kelgan; مَكَّة غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz keladi. Bu gapning asosiy geografik maqsadini belgilaydi.",
+          "uz": "Makkaga"
         },
         {
           "w": "وَمَعَهُ",
-          "r": "zarf (وَقَصَدَ)",
+          "r": "ظَرف مَكَان (حَال)",
           "rc": "th",
-          "e": "Va u bilan birga"
+          "e": "وَمَعَهُ — ظَرف مَعَ va ضَمِير هُ dan iborat bo'lib, جُملَة اسمِيَّة ning bir qismidir. Bu jumla — وَمَعَهُ زَوْجُهُ هَاجَرُ — asosiy fe'l gap bilan holat (حَال) munosabatida bog'liq: Ibrohim Makkaga ketayotganida holati qanday edi — xotini birga edi. Raf' holatida kelgan مُبتَدَأ ning zarfiy predikati vazifasini bajaradi.",
+          "uz": "u bilan birga"
         },
         {
           "w": "زَوْجُهُ",
-          "r": "mubtado",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "Xotini"
+          "e": "زَوْجُهُ وَمَعَهُ زَوْجُهُ هَاجَرُ jumlasining مُبتَدَأ i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Bu ism gap haqidagi asosiy mavzuni — kimning birga ekanligini — ko'rsatadi. هُ zaminiri Ibrohimga qaytib, bu xotinning Ibrohimning o'z xotini ekanligini bildiradi.",
+          "uz": "xotini"
         },
         {
           "w": "هَاجَرُ",
-          "r": "xabar",
+          "r": "بَدَل (مِن زَوجِهِ)",
           "rc": "tx",
-          "e": "Hojar"
+          "e": "هَاجَرُ زَوْجُهُ ga بَدَل بَدَل مُطَابِق bo'lib, xotinning ismini aniq ko'rsatadi. Raf' holatida keladi; هَاجَر غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz kelgan. Badal oldingi umumiy so'zni (زَوْجُهُ) shaxsiy ism bilan oydinlashtiradi va o'quvchiga aniq ma'lumot beradi.",
+          "uz": "Hojar"
         }
       ]
     },
     {
       "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا عُشْبٌ وَلَا شَجَرٌ.",
-      "tr": "Makkada o‘t ham, daraxt ham yo‘q edi.",
+      "tr": "Makkada o't ham, daraxt ham yo'q edi.",
       "parts": [
         {
           "w": "وَكَانَتْ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Edi"
+          "e": "وَكَانَتْ noqis o'tgan zamon fe'li bo'lib, مَكَّةُ ismini va uning xabarini bog'laydi. كَانَ fe'li o'zidan keyingi اسم كَانَ ni raf' holatida, خَبَر كَانَ ni esa nasb yoki jumla ko'rinishida talab qiladi. Bu yerda خَبَر — لَيْسَ فِيهَا عُشْبٌ jumlasi Makka holatini o'tmishda tavsiflaydi.",
+          "uz": "edi"
         },
         {
           "w": "مَكَّةُ",
-          "r": "ism kana",
+          "r": "اسم كَانَ",
           "rc": "tm",
-          "e": "Makka"
+          "e": "مَكَّةُ كَانَتْ fe'lining اسم كَانَ i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. كَانَ fe'li o'z ismini raf' holatida boshqaradi. Bu ism xabar orqali tasvirlanadigan asosiy mavzu — Makka shahri — hisoblanadi.",
+          "uz": "Makkaga"
         },
         {
           "w": "لَيْسَ فِيهَا عُشْبٌ",
-          "r": "xabar",
+          "r": "خَبَر كَانَ (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Unda o't yo'q"
+          "e": "لَيْسَ فِيهَا عُشْبٌ — كَانَتْ fe'lining خَبَر i bo'lgan جُملَة فِعلِيَّة dir. لَيْسَ o'zi ham noqis fe'l bo'lib, فِيهَا xabar, عُشْبٌ esa اسم لَيْسَ hisoblanadi. Bu ichma-ich tuzilma Makkada o'tning yo'qligini o'tmishda tasvirlaydi.",
+          "uz": "unda o't yo'q"
         },
         {
           "w": "وَلَا شَجَرٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (عَلَى عُشْبٌ)",
           "rc": "tb",
-          "e": "Va daraxt ham yo'q"
+          "e": "وَلَا شَجَرٌ — وَلَا atkf-nafy tarkibi orqali عُشْبٌ ga ma'tuf bo'lgan ism bo'lib, u ham اسم لَيْسَ vazifasini baham ko'radi. لَا bu yerda nafy kuchaytirishga xizmat qiladi. Daraxtning ham yo'qligi qo'shib zikr qilinib, Makka sahrosi haqidagi tavsif kuchaytiriladi.",
+          "uz": "va daraxt ham yo'q"
         }
       ]
     },
     {
       "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا بِئْرٌ وَلَا نَهْرٌ.",
-      "tr": "Makkada quduq ham, daryo ham yo‘q edi.",
+      "tr": "Makkada quduq ham, daryo ham yo'q edi.",
       "parts": [
         {
+          "w": "وَكَانَتْ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tf",
+          "e": "وَكَانَتْ noqis o'tgan zamon fe'li bo'lib, oldingi gap tuzilmasiga parallel ravishda yana Makka holatini tasvirlaydi. كَانَ o'zidan keyingi اسم va خَبَر ni boshqarib, o'tmishdagi holat ma'nosini beradi. Bu takrorlanuvchi parallel tuzilma Makka sahrosi tavsifini kuchaytiradi.",
+          "uz": "edi"
+        },
+        {
+          "w": "مَكَّةُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "مَكَّةُ كَانَتْ fe'lining اسم كَانَ i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Oldingi jumlaga parallel tuzilmada Makka yana mavzu sifatida keladi — bu safar suvning yo'qligi tavsiflanadi. مَكَّة غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz, lekin raf' holatida keladi.",
+          "uz": "Makkaga"
+        },
+        {
           "w": "لَيْسَ فِيهَا بِئْرٌ",
-          "r": "xabar",
+          "r": "خَبَر كَانَ (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Unda quduq yo'q"
+          "e": "لَيْسَ فِيهَا بِئْرٌ — كَانَتْ fe'lining خَبَر i bo'lgan جُملَة فِعلِيَّة dir. لَيْسَ noqis nafy fe'li bo'lib, فِيهَا uning xabari (مُقَدَّم), بِئْرٌ esa uning ismi (مُؤَخَّر). Bu tuzilma quduqning yo'qligini o'tmishda tasvirlaydi.",
+          "uz": "unda quduq yo'q"
         },
         {
           "w": "وَلَا نَهْرٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (عَلَى بِئْرٌ)",
           "rc": "tb",
-          "e": "Va daryo ham yo'q"
+          "e": "وَلَا نَهْرٌ — وَلَا atkf-nafy tarkibi orqali بِئْرٌ ga ma'tuf bo'lgan ism bo'lib, اسم لَيْسَ vazifasini baham ko'radi. Daryoning ham yo'qligi qo'shib zikr qilinib, Makkada suvning mutlaqo yo'qligi ta'kidlanadi. Bu ikkita parallel ma'tuf tuzilma kuchli ta'sir uyg'otadi.",
+          "uz": "va daryo ham yo'q"
         }
       ]
     },
     {
       "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا حَيَوَانٌ وَلَا بَشَرٌ.",
-      "tr": "Makkada hayvon ham, odam ham yo‘q edi.",
+      "tr": "Makkada hayvon ham, odam ham yo'q edi.",
       "parts": [
         {
+          "w": "وَكَانَتْ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tf",
+          "e": "وَكَانَتْ — uch gapdan iborat parallel tavsif zanjirining uchinchi halkasi bo'lib, كَانَ noqis fe'li yana Makka holatini bayon etadi. Takroran kelishi Makka sahrosi haqidagi tasvir qatlamini boyitadi va uch narsaning — o'simlik, suv va jonzot — yo'qligini bosqichma-bosqich ko'rsatadi.",
+          "uz": "edi"
+        },
+        {
+          "w": "مَكَّةُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "مَكَّةُ كَانَتْ fe'lining اسم كَانَ i bo'lib, raf' holatida kelgan. Uch marta takrorlanuvchi parallel tuzilmaning uchinchi elementi sifatida Makka yana mavzu bo'ladi — bu safar hayvon va odamning yo'qligi tavsiflanadi, Makka xalosiz va odam oyog'i tegmagan joy ekanligi ta'kidlanadi.",
+          "uz": "Makkaga"
+        },
+        {
           "w": "لَيْسَ فِيهَا حَيَوَانٌ",
-          "r": "xabar",
+          "r": "خَبَر كَانَ (جُملَة فِعلِيَّة)",
           "rc": "tx",
-          "e": "Unda hayvon yo'q"
+          "e": "لَيْسَ فِيهَا حَيَوَانٌ — كَانَتْ fe'lining خَبَر i bo'lgan جُملَة فِعلِيَّة dir. لَيْسَ noqis nafy fe'li, فِيهَا uning muqaddam xabari, حَيَوَانٌ esa muaxxar ismidir. Hayvonning yo'qligi Makka hududining inson yashashiga yaroqsizligini yanada kuchaytiradi.",
+          "uz": "unda hayvon yo'q"
         },
         {
           "w": "وَلَا بَشَرٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (عَلَى حَيَوَانٌ)",
           "rc": "tb",
-          "e": "Va odam ham yo'q"
+          "e": "وَلَا بَشَرٌ — وَلَا atkf-nafy tarkibi orqali حَيَوَانٌ ga ma'tuf bo'lgan ism bo'lib, اسم لَيْسَ vazifasini baham ko'radi. Uch juftlik — (o't, daraxt), (quduq, daryo), (hayvon, odam) — dan so'nggi bo'lgan bu ma'tuf Makka sahrosi tavsifini eng yuqori nuqtaga — odamning yo'qligiga — olib keladi.",
+          "uz": "va odam ham yo'q"
         }
       ]
     },
@@ -220,165 +277,197 @@
       "parts": [
         {
           "w": "وَوَصَلَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Yetib keldi"
+          "e": "وَوَصَلَ o'tgan zamon fe'li bo'lib, boshidagi وَ atkf harfi sifatida gapni oldingi voqeaga bog'laydi. Fe'l Ibrohimning Makkaga yetib kelishini ifodalaydi va gapning birinchi predikat bo'lagidir. وَصَلَ إِلَى tarkibi 'biror joyga yetib borish' ma'nosini beradi.",
+          "uz": "yetib keldi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَوَصَلَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ وَصَلَ va نَزَلَ ikkala fe'lining ham umumiy فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Ikkala harakatning — yetib kelish va turish — bajaruvchisidir. Gapda u Makka sahrosi tavsifidan keyin paydo bo'lib, voqea rivojini oldinga siljitadi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "إِلَى مَكَّةَ",
-          "r": "mutaalliq (وَنَزَلَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِوَصَلَ)",
           "rc": "tmt",
-          "e": "Makkaga"
+          "e": "إِلَى مَكَّةَ — حَرف جَر إِلَى va مَجرُور مَكَّةَ dan iborat جَار وَمَجرُور tarkibi bo'lib, وَصَلَ fe'liga مُتَعَلِّق dir. Yetib borilgan joyni — Makkani — ko'rsatadi. مَكَّة غَيرُ مُنصَرِف bo'lgani uchun كَسرَة emas, فَتحَة bilan jarr holatida keladi.",
+          "uz": "Makkaga"
         },
         {
           "w": "وَنَزَلَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "Turdi"
+          "e": "وَنَزَلَ — وَصَلَ fe'liga وَ harfi orqali ma'tuf bo'lgan o'tgan zamon fe'lidir. U Makkada to'xtab qolish, qo'nim topish harakatini ifodalaydi. فَاعِل sifatida إِبْرَاهِيمُ baham ko'riladi. Bu fe'l Ibrohimning Makkaga nafaqat yetib kelganini, balki u yerda qolib ketganini ham ko'rsatadi.",
+          "uz": "turdi"
         },
         {
           "w": "فِيهَا",
-          "r": "mutaalliq (وَنَزَلَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِنَزَلَ)",
           "rc": "tmt",
-          "e": "U yerda"
+          "e": "فِيهَا — حَرف جَر فِي va ضَمِير مُتَّصِل هَا (u yer — Makka) dan iborat جَار وَمَجرُور tarkibi bo'lib, نَزَلَ fe'liga مُتَعَلِّق dir. Zaminir مَكَّةَ ga qaytib, u yerda to'xtab qolish joyini aniqlashtiradi. Qisqa zaminir orqali takrordan qochilgan.",
+          "uz": "unga"
         }
       ]
     },
     {
       "ar": "وَتَرَكَ إِبْرَاهِيمُ زَوْجَهُ هَاجَرَ وَوَلَدَهُ إِسْمَاعِيلَ، وَلَمَّا أَرَادَ إِبْرَاهِيمُ أَنْ يَذْهَبَ قَالَتْ زَوْجُهُ هَاجَرُ: إِلَى أَيْنَ يَا سَيِّدِي؟ أَتَتْرُكُنِي هُنَا؟",
-      "tr": "Ibrohim xotini Hojarni va o‘g‘li Ismoilni qoldirdi. Ibrohim ketmoqchi bo‘lganida, xotini Hojar: Ey xo‘jayinim, qayoqqa? Meni shu yerda tashlab ketasanmi? — dedi.",
+      "tr": "Ibrohim xotini Hojarni va o'g'li Ismoilni qoldirdi. Ibrohim ketmoqchi bo'lganida, xotini Hojar: Ey xo'jayinim, qayoqqa? Meni shu yerda tashlab ketasanmi? — dedi.",
       "parts": [
         {
           "w": "وَتَرَكَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Qoldirdi"
+          "e": "وَتَرَكَ o'tgan zamon fe'li bo'lib, boshidagi وَ atkf harfi voqealar ketma-ketligini saqlaydi. Fe'l Ibrohimning xotini va o'g'lini Makkada qoldirish harakatini ifodalaydi. تَرَكَ fe'li ikki مَفعُول بِه talab qiladi: kim qoldirildi (زَوْجَهُ va وَلَدَهُ).",
+          "uz": "qoldirdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (وَتَرَكَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ تَرَكَ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Qoldirish harakatini amalga oshiruvchi shaxsdir. Gapda u o'z xotini va o'g'lini Makkaning suvsiz, o'tloqsiz sahrosida qoldirib ketayotgan qiyin vaziyatdagi ota va er sifatida ko'rinadi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "زَوْجَهُ",
-          "r": "maf'ul bih (وَتَرَكَ)",
+          "r": "مَفعُول بِه أَوَّل (تَرَكَ)",
           "rc": "tb",
-          "e": "Xotinini"
+          "e": "زَوْجَهُ تَرَكَ fe'lining birinchi مَفعُول بِه i bo'lib, نَصب holatida (فَتحَة bilan) kelgan. Qoldirilgan birinchi shaxsni — xotinini — bildiradi. هُ zaminiri Ibrohimga qaytib, bu xotinning Ibrohimning o'z xotini ekanligini ko'rsatadi.",
+          "uz": "xotini"
         },
         {
           "w": "هَاجَرَ",
-          "r": "badal",
+          "r": "بَدَل (مِن زَوجِهِ)",
           "rc": "tb",
-          "e": "Hojarni"
+          "e": "هَاجَرَ زَوْجَهُ ga بَدَل بَدَل مُطَابِق bo'lib, xotinning shaxsiy ismini zikr etadi. نَصب holatida (فَتحَة bilan) kelgan — بَدَل o'z متبوع ining i'rob holatini baham ko'radi. هَاجَر غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz keladi.",
+          "uz": "Hojar"
         },
         {
           "w": "وَوَلَدَهُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (عَلَى زَوجِهِ، مَفعُول بِه)",
           "rc": "tb",
-          "e": "Va o'g'lini"
+          "e": "وَوَلَدَهُ — زَوْجَهُ ga وَ harfi orqali ma'tuf bo'lgan ikkinchi مَفعُول بِه bo'lib, نَصب holatida (فَتحَة bilan) kelgan. Qoldirilgan ikkinchi shaxsni — o'g'lini — bildiradi. هُ zaminiri Ibrohimga qaytib, bu o'g'lining Ibrohimning o'z farzandi ekanligini ko'rsatadi.",
+          "uz": "va o'g'lini"
         },
         {
           "w": "إِسْمَاعِيلَ",
-          "r": "badal",
+          "r": "بَدَل (مِن وَلَدِهِ)",
           "rc": "tb",
-          "e": "Ismoilni"
+          "e": "إِسْمَاعِيلَ وَوَلَدَهُ ga بَدَل بَدَل مُطَابِق bo'lib, o'g'ilning shaxsiy ismini zikr etadi. نَصب holatida (فَتحَة bilan) kelgan; إِسمَاعِيل غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz keladi. Ism zikri voqeaning tarixiy aniqligini ta'minlaydi.",
+          "uz": "Ismoilni"
         },
         {
           "w": "وَلَمَّا أَرَادَ",
-          "r": "zarf (أَنْ يَذْهَبَ)",
+          "r": "ظَرف زَمَان (أَدَاة شَرط)",
           "rc": "th",
-          "e": "Ketmoqchi bo'lganida"
+          "e": "وَلَمَّا أَرَادَ — لَمَّا shart zarfi bo'lib, 'qachon, ... paytda' ma'nosini beradi va o'zidan keyingi جَواب (قَالَتْ) ni boshqaradi. Bu tuzilma 'Ibrohim ketmoqchi bo'lgan chog'da' degan ma'noni ifodalar ekan, Hojarning so'zlarining sababi bo'lgan aniq vaqt nuqtasini ko'rsatadi.",
+          "uz": "ketmoqchi bo'lganida"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (أَنْ يَذْهَبَ)",
+          "r": "فَاعِل (أَرَادَ)",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ أَرَادَ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. لَمَّا شَرط jumlasining فَاعِل i sifatida ketish niyatini bajaruvchi shaxsni bildiradi. Shu lahzadagi Ibrohimning holati Hojarning so'zlarini tushuntiruvchi kontekst yaratadi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "أَنْ يَذْهَبَ",
-          "r": "fe'l (mansub)",
+          "r": "مَفعُول بِه (أَرَادَ، مَصدَر مُؤَوَّل)",
           "rc": "tf",
-          "e": "Ketishni"
+          "e": "أَنْ يَذْهَبَ — أَنْ + مُضَارِع mansub tarkibi bo'lib, ta'wil jihatidan مَصدَر — ذَهَابًا ma'nosida أَرَادَ fe'lining مَفعُول بِه ini tashkil etadi. يَذْهَبَ so'zi أَنْ ta'sirida nasb holatiga tushgan. Bu tarkib Ibrohimning nima xohlaganini — ketishni — bildiradi.",
+          "uz": "ketishni"
         },
         {
           "w": "قَالَتْ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ (جَوَاب لَمَّا)",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَتْ — لَمَّا شَرط jumlasining جَوَاب i bo'lgan o'tgan zamon fe'lidir. لَمَّا شَرт va جَوَاب tuzilmasida شَرт (Ibrohim ketmoqchi bo'lganda) va uning natijasi (Hojar gapirdi) o'rtasidagi sabab-natija aloqasi aniq ko'rinadi. تَاء مَربُوطَة مُتَكَلِّم muhannasni bildiradi.",
+          "uz": "dedi"
         },
         {
           "w": "زَوْجُهُ",
-          "r": "fo'il (قَالَتْ)",
+          "r": "فَاعِل (قَالَتْ)",
           "rc": "tm",
-          "e": "Xotini"
+          "e": "زَوْجُهُ قَالَتْ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Gapirish harakatini amalga oshiruvchi shaxsdir. هُ zaminiri Ibrohimga qaytib, bu xotinning Ibrohimning o'z xotini ekanligini ko'rsatadi. Keyingi هَاجَرُ uning ismini aniqlab beradi.",
+          "uz": "xotini"
         },
         {
           "w": "هَاجَرُ",
-          "r": "badal",
+          "r": "بَدَل (مِن زَوجِهِ)",
           "rc": "tb",
-          "e": "Hojar"
+          "e": "هَاجَرُ زَوْجُهُ ga بَدَل بَدَل مُطَابِق bo'lib, gapirgan shaxsning shaxsiy ismini zikr etadi. Raf' holatida keladi — متبوع bilan i'rob holatida mos keladi. هَاجَر غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz kelgan. Ism zikri so'zlashuvchining shaxsini aniq belgilaydi.",
+          "uz": "Hojar"
         },
         {
           "w": "إِلَى أَيْنَ",
-          "r": "istifhom",
+          "r": "جَار وَمَجرُور (اسم اسْتِفهَام)",
           "rc": "tb",
-          "e": "Qayoqqa"
+          "e": "إِلَى أَيْنَ — اسم اسْتِفهَام أَيْنَ حَرف جَر إِلَى bilan birikib, yo'nalish so'rog'ini beradi: 'qayoqqa?'. Bu qisqa, emotsional savol Hojarning hayajoni va tashvishini ifodalaydi. Javobsiz to'liqsiz savol gapning dramatik kuchini oshiradi.",
+          "uz": "qayoqqa"
         },
         {
           "w": "يَا سَيِّدِي",
-          "r": "nido",
+          "r": "نِدَاء",
           "rc": "tb",
-          "e": "Ey xo'jayinim"
+          "e": "يَا سَيِّدِي — يَا nido harfi va مُنَادَى سَيِّدِي dan iborat bo'lib, murojaat qilinayotgan shaxsni — 'xo'jayinim'ni — chaqiradi. سَيِّدِي da مُضَاف إِلَيه bo'lgan يَ zaminiri Hojarning Ibrohimga bo'lgan hurmatini ko'rsatadi. Nido Hojarning gapiga yumshoqlik va alm baxsh etadi.",
+          "uz": "ey xo'jayinim"
         },
         {
           "w": "أَتَتْرُكُنِي",
-          "r": "fe'l (istifhom)",
+          "r": "فِعل مُضَارِع (اسْتِفهَام إِنكَارِي)",
           "rc": "tf",
-          "e": "Meni tashlab ketasanmi"
+          "e": "أَتَتْرُكُنِي — boshidagi هَمزَة اسْتِفهَام va مُضَارِع تَتْرُكُ + مَفعُول نِي dan iborat. Bu inkor-so'roq ma'nosida kelgan: 'axir meni tashlab ketasan?!' degan hayrat va e'tirozni ifodalaydi. نِي — maf'ul bo'lib, harakat tushgan shaxsni — Hojarni — bildiradi.",
+          "uz": "meni tashlab ketasanmi"
         },
         {
           "w": "هُنَا",
-          "r": "zarf (أَتَتْرُكُنِي)",
+          "r": "ظَرف مَكَان (مُتَعَلِّق بِتَتْرُكُنِي)",
           "rc": "th",
-          "e": "Bu yerda"
+          "e": "هُنَا ظَرف مَكَان bo'lib, تَتْرُكُنِي fe'liga مُتَعَلِّق dir. Qoldirilayotgan joyni — aynan shu yerda, suv va o't yo'q Makka sahrosi ichida — ko'rsatadi. Bu zarfning ishlatilishi qoldirish holatining og'irligini va joyning xalosizligini ta'kidlaydi.",
+          "uz": "bu yerda"
         }
       ]
     },
     {
       "ar": "أَتَتْرُكُنِي وَلَيْسَ هُنَا مَاءٌ وَلَا طَعَامٌ!.",
-      "tr": "Meni tashlab ketasan-u, bu yerda suv ham, taom ham yo‘q!",
+      "tr": "Meni tashlab ketasan-u, bu yerda suv ham, taom ham yo'q!",
       "parts": [
         {
+          "w": "أَتَتْرُكُنِي",
+          "r": "فِعل مُضَارِع (اسْتِفهَام إِنكَارِي)",
+          "rc": "tb",
+          "e": "أَتَتْرُكُنِي — boshidagi هَمزَة اسْتِفهَام bilan kelgan مُضَارِع fe'li bo'lib, Hojarning oldingi savolini yanada kuchaytirgan holda takrorlaydi. Bu safar so'roq alami الحال jumlasi — 'suv ham, taom ham yo'q-ku!' bilan birlashib, qoldirish harakatining qanchalik zulm ekanligini ko'rsatadi.",
+          "uz": "meni tashlab ketasanmi"
+        },
+        {
           "w": "وَلَيْسَ",
-          "r": "fe'l noqis",
+          "r": "فِعل مَاضٍ نَاقِص (حَال)",
           "rc": "tf",
-          "e": "Yo'q"
+          "e": "وَلَيْسَ — noqis nafy fe'li bo'lib, bu yerda حَال jumlasining boshini bildiradi: 'holbuki, bu yerda suv yo'q'. لَيْسَ o'zidan keyingi اسم va خَبَر ni boshqaradi. Gapda bu holat jumlasi qoldirishning naqadar og'ir va noto'g'ri ekanligini asoslash uchun keltirilgan.",
+          "uz": "va yo'q"
         },
         {
           "w": "هُنَا",
-          "r": "zarf (وَلَيْسَ)",
+          "r": "ظَرف مَكَان (خَبَر لَيسَ مُقَدَّم)",
           "rc": "th",
-          "e": "Bu yerda"
+          "e": "هُنَا ظَرف مَكَان bo'lib, لَيْسَ ning muqaddam xabari vazifasida kelgan. U اسم لَيسَ dan oldin kelishi orqali جوى qoidasiga amal qilingan: xabar muqaddam, ism muaxar. 'Bu yerda' — suvsiz, oziq-ovqatsiz Makka sahrosi — Hojarning ahvolining dramatik o'qi hisoblanadi.",
+          "uz": "bu yerda"
         },
         {
           "w": "مَاءٌ",
-          "r": "ism laysa",
+          "r": "اسم لَيسَ (مُؤَخَّر)",
           "rc": "tm",
-          "e": "Suv"
+          "e": "مَاءٌ لَيْسَ ning muaxar ismi bo'lib, raf' holatida (ضَمَّة va tanvin bilan) kelgan. Xabar (هُنَا) muqaddam kelgani uchun ism keyin zikr qilingan. Suv — insonning asosiy ehtiyoji — yo'qligini ta'kidlab, Hojarning tashvishining asosliligi ko'rsatiladi.",
+          "uz": "suv"
         },
         {
           "w": "وَلَا طَعَامٌ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف (عَلَى مَاءٌ، اسم لَيسَ)",
           "rc": "tb",
-          "e": "Va taom ham yo'q"
+          "e": "وَلَا طَعَامٌ — وَلَا atkf-nafy tarkibi orqali مَاءٌ ga ma'tuf bo'lgan ism bo'lib, اسم لَيسَ vazifasini baham ko'radi va raf' holatida keladi. Suv bilan birga taomning ham yo'qligi zikr qilinishi Hojarning ahvolini to'liq ifodalaydi: na suv, na taom — omon qolishning imkoni yo'q.",
+          "uz": "va taom ham yo'q"
         }
       ]
     },
@@ -388,27 +477,31 @@
       "parts": [
         {
           "w": "هَلْ",
-          "r": "harf istifhom",
+          "r": "حَرف اسْتِفهَام",
           "rc": "tb",
-          "e": "Mi"
+          "e": "هَلْ — خالص so'roq harfi bo'lib, haqiqiy javob — ha yoki yo'q — kutilayotgan savol uchun ishlatiladi. U ma'no harfi sifatida i'robga ta'sir qilmaydi. Hojar bu so'roq bilan Ibrohimning bu harakatini Alloh buyrug'iga asoslanib tekshirmoqda — agar buyruq bo'lsa, u taslim bo'lishga tayyor.",
+          "uz": "mi"
         },
         {
           "w": "أَمَرَكَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ + ضَمِير مَفعُول",
           "rc": "tf",
-          "e": "Buyurdi"
+          "e": "أَمَرَكَ — o'tgan zamon fe'li أَمَرَ va مَفعُول بِه bo'lgan مُتَّصِل ضَمِير كَ ('seni/senga') dan iborat. أَمَرَ fe'li buyruq berish ma'nosini ifodalab, gapning asosiy predikatini tashkil etadi. كَ zaminiri Ibrohimga qaratilgan — ya'ni 'Alloh seni buyurdi/senga amr qildi'.",
+          "uz": "buyurdi"
         },
         {
           "w": "اللَّهُ",
-          "r": "fo'il (أَمَرَكَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Alloh"
+          "e": "اللَّهُ أَمَرَكَ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Buyruq beruvchi — bu harakatning ilohiy asosi bo'lishi mumkin bo'lgan — zotni bildiradi. Hojar aynan Allohni فَاعِل sifatida zikr qilib, Ibrohimning ketishining diniy asosini tushunib etmoqda.",
+          "uz": "Alloh"
         },
         {
           "w": "بِهَذَا",
-          "r": "mutaalliq (أَمَرَكَ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِأَمَرَ)",
           "rc": "tmt",
-          "e": "Buni"
+          "e": "بِهَذَا — حَرف جَر بِ va اسم إِشَارَة هَذَا dan iborat جَار وَمَجرُور tarkibi bo'lib, أَمَرَ fe'liga مُتَعَلِّق dir. بِ harfi bu yerda 'buyruqning mazmuni' ma'nosini bildiradi. هَذَا oldingi kontekstga — xotini va o'g'lini qoldirish harakatiga — ishora qiladi.",
+          "uz": "buni"
         }
       ]
     },
@@ -418,51 +511,58 @@
       "parts": [
         {
           "w": "قَالَ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَ o'tgan zamon fe'li bo'lib, nutq (so'z) fe'li vazifasida kelgan. Bu fe'l o'zidan keyingi مَقُول القَول — Ibrohimning javobini (نَعَمْ) kirittiradi. قَالَ fe'li arab tilida to'g'ri nutqni kirituvchi asosiy fe'l hisoblanadi.",
+          "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
-          "r": "fo'il (قَالَ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Ibrohim"
+          "e": "إِبْرَاهِيمُ قَالَ fe'lining فَاعِل i bo'lib, raf' holatida (ضَمَّة bilan) kelgan. Nutq harakatini bajaruvchi — javob beruvchi shaxsdir. Hojarning savoliga qisqa va aniq javob berish orqali Ibrohim o'z harakatining ilohiy asosini tasdiqlaydi.",
+          "uz": "Ibrohim"
         },
         {
           "w": "نَعَمْ",
-          "r": "harf",
+          "r": "حَرف جَوَاب",
           "rc": "tb",
-          "e": "Ha"
+          "e": "نَعَمْ — tasdiqlash ma'nosini beruvchi جَوَاب harfi bo'lib, 'ha' degan ma'noda Hojarning هَلْ so'rog'iga javob beradi. U هَلْ savoli bilan tug'ri juft hosil qiladi. Ibrohimning bu qisqa, qat'iy javobi o'z harakatining Alloh amriga asoslanganligini tasdiqlab, Hojarni xotirjam qiladi.",
+          "uz": "ha"
         }
       ]
     },
     {
       "ar": "قَالَتْ هَاجَرُ: إِذًا لَا يُضَيِّعُنَا!",
-      "tr": "Hojar dedi: Unda biz zoye bo‘lmaymiz!",
+      "tr": "Hojar dedi: Unda biz zoye bo'lmaymiz!",
       "parts": [
         {
           "w": "قَالَتْ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "Dedi"
+          "e": "قَالَتْ o'tgan zamon fe'li bo'lib, nutq (so'z) fe'li vazifasida kelgan. تَاء مَربُوطَة (تَاء التَّأنِيث السَّاكِنَة) fe'lning muannasligini ko'rsatadi — gapiruvchi ayol (Hojar). Fe'l Hojarning imon kuchidan kelib chiqqan javob jumlasini kiritadi.",
+          "uz": "dedi"
         },
         {
           "w": "هَاجَرُ",
-          "r": "fo'il (قَالَتْ)",
+          "r": "فَاعِل",
           "rc": "tm",
-          "e": "Hojar"
+          "e": "هَاجَرُ قَالَتْ fe'lining فَاعِل i bo'lib, raf' holatida kelgan. هَاجَر غَيرُ مُنصَرِف bo'lgani uchun tanvinsiz keladi, lekin raf' holati saqlanadi. Ibrohimning javobini eshitgan Hojarning imonga asoslangan qat'iy munosabati bu fَاعِل orqali ifodalanadi.",
+          "uz": "Hojar"
         },
         {
           "w": "إِذًا",
-          "r": "harf",
+          "r": "حَرف جَوَاب وَجَزَاء",
           "rc": "tb",
-          "e": "Unda"
+          "e": "إِذًا — javob va natija harfi bo'lib, 'unda, bo'lmasa, xullas' ma'nolarini beradi. U oldingi gapga — Ibrohimning 'ha' javobiga — munosabat bildiradi: 'agar shunday bo'lsa, unda...'. Bu harf Hojarning imon va ishonchining mantiqiy xulosasini kiritadi.",
+          "uz": "unda"
         },
         {
           "w": "لَا يُضَيِّعُنَا",
-          "r": "fe'l",
+          "r": "فِعل مُضَارِع (نَفي + مَفعُول)",
           "rc": "tf",
-          "e": "Bizni zoye qilmaydi"
+          "e": "لَا يُضَيِّعُنَا — nafy harfi لَا va مُضَارِع يُضَيِّعُ (II o'zak ziyoda fe'li) va مَفعُول نَا ('bizni') dan iborat. Fe'l Allohning ularni zoye qilmasligini ifodalaydi. نَا zaminiri Hojar va o'g'li Ismoilni birlashtiradi. Bu gap Hojarning Allohga bo'lgan chuqur imonini namoyon qiladi.",
+          "uz": "bizni zoye qilmaydi"
         }
       ]
     }
