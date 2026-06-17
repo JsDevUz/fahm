@@ -1,0 +1,1317 @@
+{
+  "title": "١٧. الدَّرْسُ السَّابِعُ عَشَرَ",
+  "tuz": "17-dars",
+  "sub": "Masjidlar, ko'chalar va geometrik shakllar",
+  "page": 43,
+  "sentences": [
+    {
+      "ar": "مَسْجِدُ مَحَلَّتِنَا كَبِيرٌ،",
+      "tr": "Mahallamizning masjidi kattadir",
+      "parts": [
+        {
+          "w": "مَسْجِدُ مَحَلَّتِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahallamizning masjidi - ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَسَاجِدُ مَحَلَّاتِ بَلَدِنَا كَبِيرَةٌ،",
+      "tr": "Shahrimiz mahallalarining masjidlari kattadir",
+      "parts": [
+        {
+          "w": "مَسَاجِدُ مَحَلَّاتِ بَلَدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shahrimiz mahallalarining masjidlari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَارَةُ هَذَا الْمَسْجِدِ طَوِيلَةٌ،",
+      "tr": "Bu masjidning minorasi uzundur",
+      "parts": [
+        {
+          "w": "مَنَارَةُ هَذَا الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu masjidning minorasi - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَاوِرُ مَسَاجِدِ الْقُرَى قَصِيرَةٌ،",
+      "tr": "Qishloqlar masjidlarining minoralari qisqadir",
+      "parts": [
+        {
+          "w": "مَنَاوِرُ مَسَاجِدِ الْقُرَى",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishloqlar masjidlarining minoralari - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَاوِرُ مَسَاجِدِ أَكْثَرِ الْبِلَادِ كَبِيرَةٌ،",
+      "tr": "Aksar shaharlar masjidlarining minoralari kattadir",
+      "parts": [
+        {
+          "w": "مَنَاوِرُ مَسَاجِدِ أَكْثَرِ الْبِلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar shaharlar masjidlarining minoralari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَاوِرُ مَسْجِدِ قَرْيَتِكُمْ صَغِيرَةٌ،",
+      "tr": "Qishlog'ingiz masjidi minoralari kichikdir",
+      "parts": [
+        {
+          "w": "مَنَاوِرُ مَسْجِدِ قَرْيَتِكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishlog'ingiz masjidi minoralari - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَلَّةُ هَذَا الْمَسْجِدِ صَغِيرَةٌ،",
+      "tr": "Bu masjidning mahallasi kichikdir",
+      "parts": [
+        {
+          "w": "مَحَلَّةُ هَذَا الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu masjidning mahallasi - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَلَّةُ ذَاكَ الْمَسْجِدِ كَبِيرَةٌ،",
+      "tr": "Anavi masjidning mahallasi kattadir",
+      "parts": [
+        {
+          "w": "مَحَلَّةُ ذَاكَ الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi masjidning mahallasi - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَلَّاتُ بَلَدِنَا كَبِيرَةٌ،",
+      "tr": "Shahrimizning mahallalari kattadir",
+      "parts": [
+        {
+          "w": "مَحَلَّاتُ بَلَدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shahrimizning mahallalari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَلَّاتُ قَرْيَتِكُمْ صَغِيرَةٌ،",
+      "tr": "Qishlog'ingizning mahallalari kichikdir",
+      "parts": [
+        {
+          "w": "مَحَلَّاتُ قَرْيَتِكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishlog'ingizning mahallalari - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَارَةُ مَسْجِدِنَا مُدَوَّرَةٌ،",
+      "tr": "Masjidimizning minorasi yumaloqdir",
+      "parts": [
+        {
+          "w": "مَنَارَةُ مَسْجِدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Masjidimizning minorasi - ega"
+        },
+        {
+          "w": "مُدَوَّرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yumaloq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَنَاوِرُ بَعْضِ الْمَسَاجِدِ مُرَبَّعَةٌ،",
+      "tr": "Ba'zi masjidlarning minoralari to'rtburchakdir",
+      "parts": [
+        {
+          "w": "مَنَاوِرُ بَعْضِ الْمَسَاجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zi masjidlarning minoralari - ega"
+        },
+        {
+          "w": "مُرَبَّعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "To'rtburchak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بُيُوتُ مَحَلَّتِنَا كَثِيرَةٌ،",
+      "tr": "Mahallamizning uylari ko'pdir",
+      "parts": [
+        {
+          "w": "بُيُوتُ مَحَلَّتِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahallamizning uylari - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بُيُوتُ مَحَلَّتِكُمْ قَلِيلَةٌ،",
+      "tr": "Sizlarning mahallangiz uylari ozdir",
+      "parts": [
+        {
+          "w": "بُيُوتُ مَحَلَّتِكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning mahallangiz uylari - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَكَاتِبُ مَحَلَّاتِ هَذِهِ الْقَرْيَةِ ضَيِّقَةٌ،",
+      "tr": "Bu qishloq mahallalarining idoralari tordir",
+      "parts": [
+        {
+          "w": "مَكَاتِبُ مَحَلَّاتِ هَذِهِ الْقَرْيَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qishloq mahallalarining idoralari - ega"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tor - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَكَاتِبُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ وَاسِعَةٌ وَكَبِيرَةٌ،",
+      "tr": "Aksar shaharlar mahallalarining idoralari keng va kattadir",
+      "parts": [
+        {
+          "w": "مَكَاتِبُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar shaharlar mahallalarining idoralari - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        },
+        {
+          "w": "وَكَبِيرَةٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زُقَاقُنَا طَوِيلٌ،",
+      "tr": "Ko'chamiz uzundir",
+      "parts": [
+        {
+          "w": "زُقَاقُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ko'chamiz - ega"
+        },
+        {
+          "w": "طَوِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزِقَّةُ مَحَلَّتِكُمْ قَصِيرَةٌ،",
+      "tr": "Mahallangiz ko'chalari qisqadir",
+      "parts": [
+        {
+          "w": "أَزِقَّةُ مَحَلَّتِكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahallangiz ko'chalari - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزِقَّةُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ طَوِيلَةٌ وَوَاسِعَةٌ،",
+      "tr": "Aksar shaharlar mahallalarining ko'chalari uzun va kengdir",
+      "parts": [
+        {
+          "w": "أَزِقَّةُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar shaharlar mahallalarining ko'chalari - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        },
+        {
+          "w": "وَوَاسِعَةٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزِقَّةُ هَذَا الْبَلَدِ طَوِيلَةٌ،",
+      "tr": "Bu shaharning ko'chalari uzundur",
+      "parts": [
+        {
+          "w": "أَزِقَّةُ هَذَا الْبَلَدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu shaharning ko'chalari - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "سُوقُ بَلَدِنَا كَبِيرٌ،",
+      "tr": "Shahrimizning bozori kattadir",
+      "parts": [
+        {
+          "w": "سُوقُ بَلَدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shahrimizning bozori - ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "سُوقُ قَرْيَتِكُمْ صَغِيرٌ،",
+      "tr": "Qishlog'ingizning bozori kichikdir",
+      "parts": [
+        {
+          "w": "سُوقُ قَرْيَتِكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishlog'ingizning bozori - ega"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَسْوَاقُ الْبِلَادِ كَبِيرَةٌ،",
+      "tr": "Shaharlarning bozorlari kattadir",
+      "parts": [
+        {
+          "w": "أَسْوَاقُ الْبِلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shaharlarning bozorlari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَسْوَاقُ الْقُرَى صَغِيرَةٌ،",
+      "tr": "Qishloqlarning bozorlari kichikdir",
+      "parts": [
+        {
+          "w": "أَسْوَاقُ الْقُرَى",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishloqlarning bozorlari - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "دُكَّانِي مُرَبَّعٌ،",
+      "tr": "Do'konim to'rtburchakdir",
+      "parts": [
+        {
+          "w": "دُكَّانِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Do'konim - ega"
+        },
+        {
+          "w": "مُرَبَّعٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "To'rtburchak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "دَكَاكِينُ هَذَا السُّوقِ كَبِيرَةٌ،",
+      "tr": "Bu bozorning do'konlari kattadir",
+      "parts": [
+        {
+          "w": "دَكَاكِينُ هَذَا السُّوقِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu bozorning do'konlari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَرْصَةُ هَذَا الْبَيْتِ ضَيِّقَةٌ،",
+      "tr": "Bu uyning old sahnasi tordir",
+      "parts": [
+        {
+          "w": "عَرْصَةُ هَذَا الْبَيْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu uyning old sahnasi - ega"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tor - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَرْصَةُ بَيْتِ هَذَا الْغَنِيِّ وَاسِعَةٌ،",
+      "tr": "Bu boy uyining old sahnasi kengdir",
+      "parts": [
+        {
+          "w": "عَرْصَةُ بَيْتِ هَذَا الْغَنِيِّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu boy uyining old sahnasi - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عِرَاصُ أَكْثَرِ الْبُيُوتِ مُرَبَّعَةٌ،",
+      "tr": "Aksar uylarning hovlilari to'rtburchakdir",
+      "parts": [
+        {
+          "w": "عِرَاصُ أَكْثَرِ الْبُيُوتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar uylarning hovlilari - ega"
+        },
+        {
+          "w": "مُرَبَّعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "To'rtburchak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَرْصَةُ هَذَا الْمَسْجِدِ مُثَلَّثَةٌ،",
+      "tr": "Bu masjidning sahnasi uchburchakdir",
+      "parts": [
+        {
+          "w": "عَرْصَةُ هَذَا الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu masjidning sahnasi - ega"
+        },
+        {
+          "w": "مُثَلَّثَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uchburchak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عِرَاصُ بُيُوتِي مُسْتَطِيلَةٌ،",
+      "tr": "Uylarimning hovlilari uzunchoqdir",
+      "parts": [
+        {
+          "w": "عِرَاصُ بُيُوتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uylarimning hovlilari - ega"
+        },
+        {
+          "w": "مُسْتَطِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunchoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُفَّةُ بَيْتِ عَلِيٍّ مُرَبَّعَةٌ،",
+      "tr": "Ali uyining suffasi to'rtburchakdir",
+      "parts": [
+        {
+          "w": "صُفَّةُ بَيْتِ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ali uyining suffasi - ega"
+        },
+        {
+          "w": "مُرَبَّعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "To'rtburchak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُفَّةُ بَيْتِ مَحْمُودٍ مُدَوَّرَةٌ،",
+      "tr": "Mahmud uyining suffasi yumaloqdir",
+      "parts": [
+        {
+          "w": "صُفَّةُ بَيْتِ مَحْمُودٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahmud uyining suffasi - ega"
+        },
+        {
+          "w": "مُدَوَّرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yumaloq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُفَفُ تِلْكَ الْبُيُوتِ مُسْتَطِيلَةٌ،",
+      "tr": "Anavi uylarning suffalari uzunchoqdir",
+      "parts": [
+        {
+          "w": "صُفَفُ تِلْكَ الْبُيُوتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi uylarning suffalari - ega"
+        },
+        {
+          "w": "مُسْتَطِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunchoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حَدِيقَةُ بَيْتِ هَذَا الرَّجُلِ صَغِيرَةٌ،",
+      "tr": "Bu kishi uyining bog'i kichikdir",
+      "parts": [
+        {
+          "w": "حَدِيقَةُ بَيْتِ هَذَا الرَّجُلِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi uyining bog'i - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حَدَائِقُ الْأَغْنِيَاءِ كَبِيرَةٌ،",
+      "tr": "Boylarning bog'lari kattadir",
+      "parts": [
+        {
+          "w": "حَدَائِقُ الْأَغْنِيَاءِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Boylarning bog'lari - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "إِمَامُ هَذَا الْمَسْجِدِ رَجُلٌ عَالِمٌ وَصَالِحٌ،",
+      "tr": "Bu masjidning imomi olim va solih kishidir",
+      "parts": [
+        {
+          "w": "إِمَامُ هَذَا الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu masjidning imomi - ega"
+        },
+        {
+          "w": "رَجُلٌ عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim kishi - xabar"
+        },
+        {
+          "w": "وَصَالِحٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va solih - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَئِمَّةُ مَحَلَّاتِ الْبِلَادِ عُلَمَاءُ وَأَغْنِيَاءُ،",
+      "tr": "Shaharlar mahallalarining imomlari olimlar va boylardir",
+      "parts": [
+        {
+          "w": "أَئِمَّةُ مَحَلَّاتِ الْبِلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shaharlar mahallalarining imomlari - ega"
+        },
+        {
+          "w": "عُلَمَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimlar - xabar"
+        },
+        {
+          "w": "وَأَغْنِيَاءُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va boylar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُؤَذِّنُ ذَاكَ الْمَسْجِدِ شَيْخٌ كَبِيرٌ،",
+      "tr": "Anavi masjidning muazzini katta qariyadir",
+      "parts": [
+        {
+          "w": "مُؤَذِّنُ ذَاكَ الْمَسْجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi masjidning muazzini - ega"
+        },
+        {
+          "w": "شَيْخٌ كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta qariya - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُؤَذِّنُو مَسَاجِدِنَا سِمَانٌ جِدًّا،",
+      "tr": "Masjidlarimiz muazzinlari juda semizdirlar",
+      "parts": [
+        {
+          "w": "مُؤَذِّنُو مَسَاجِدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Masjidlarimiz muazzinlari - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semiz - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "مُعَلِّمُ مَكْتَبِ مَحَلَّةِ هَذِهِ الْقَرْيَةِ شَابٌّ عَزَبٌ،",
+      "tr": "Bu qishloq mahallasi idorasining o'qituvchisi bo'ydoq yigitdir",
+      "parts": [
+        {
+          "w": "مُعَلِّمُ مَكْتَبِ مَحَلَّةِ هَذِهِ الْقَرْيَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qishloq mahallasi idorasining o'qituvchisi - ega"
+        },
+        {
+          "w": "شَابٌّ عَزَبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoq yigit - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُعَلِّمُ مَكْتَبِ تِلْكَ الْقَرْيَةِ رَجُلٌ مُتَأَهِّلٌ،",
+      "tr": "Anavi qishloq idorasining o'qituvchisi oilali kishidir",
+      "parts": [
+        {
+          "w": "مُعَلِّمُ مَكْتَبِ تِلْكَ الْقَرْيَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi qishloq idorasining o'qituvchisi - ega"
+        },
+        {
+          "w": "رَجُلٌ مُتَأَهِّلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilali kishi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "فَرَّاشُ مَسْجِدِنَا شَيْخٌ فَقِيرٌ،",
+      "tr": "Masjidimiz farroshi kambag'al qariyadir",
+      "parts": [
+        {
+          "w": "فَرَّاشُ مَسْجِدِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Masjidimiz farroshi - ega"
+        },
+        {
+          "w": "شَيْخٌ فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al qariya - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "فَرَّاشُو أَكْثَرِ الْمَسَاجِدِ جُهَلَاءُ،",
+      "tr": "Aksar masjidlarning farroshlari nodonlardir",
+      "parts": [
+        {
+          "w": "فَرَّاشُو أَكْثَرِ الْمَسَاجِدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar masjidlarning farroshlari - ega"
+        },
+        {
+          "w": "جُهَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodon - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَلَّتُنَا لَيْسَتْ بِبَعِيدَةٍ، بَلْ هِيَ قَرِيبَةٌ جِدًّا،",
+      "tr": "Mahallamiz uzoq emas, balki u juda yaqindir",
+      "parts": [
+        {
+          "w": "مَحَلَّتُنَا",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Mahallamiz - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِبَعِيدَةٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Uzoq emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "قَرِيبَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yaqin - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "قَرْيَتُكُمْ إِمَّا قَرِيبَةٌ أَوْ بَعِيدَةٌ،",
+      "tr": "Qishlog'ingiz yo yaqin yoki uzoqdir",
+      "parts": [
+        {
+          "w": "قَرْيَتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qishlog'ingiz - ega"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo"
+        },
+        {
+          "w": "قَرِيبَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yaqin - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "بَعِيدَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "دُكَّانِي لَيْسَ بِكَبِيرٍ وَأَمَّا دُكَّانُكَ فَكَبِيرٌ وَوَاسِعٌ جِدًّا،",
+      "tr": "Mening do'konim katta emas, ammo sening do'koning esa juda katta va kengdir",
+      "parts": [
+        {
+          "w": "دُكَّانِي",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Mening do'konim - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِكَبِيرٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Katta emas - xabar"
+        },
+        {
+          "w": "وَأَمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ammo"
+        },
+        {
+          "w": "دُكَّانُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening do'koning - ega"
+        },
+        {
+          "w": "فَكَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        },
+        {
+          "w": "وَوَاسِعٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va keng - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ عَلِيٌّ غَنِيٌّ؟ - نَعَمْ هُوَ غَنِيٌّ جِدًّا،",
+      "tr": "Ali boymi? - Ha, u juda boydir",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "عَلِيٌّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ali - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy - xabar"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha - tasdiq"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ زَيْدٌ مَرِيضٌ ؟ - لَا ، لَيْسَ هُوَ بِمَرِيضٍ، بَلْ صَحِيحٌ،",
+      "tr": "Zayd kasalmi? - Yo'q, u kasal emas, balki sog'lomdir",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "زَيْدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zayd - ega"
+        },
+        {
+          "w": "مَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasal - xabar"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q - inkor"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "هُوَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "بِمَرِيضٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Kasal emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lom - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ هُوَ فَقِيرٌ أَوْ لَا؟ - نَعَمْ هُوَ فَقِيرٌ جِدًّا،",
+      "tr": "U kambag'almi yoki yo'qmi? - Ha, u juda kambag'aldir",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha - tasdiq"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ أَنْتَ مَحْزُونٌ ؟ - لَا ، لَسْتُ أَنَا بِمَحْزُونٍ أَصْلًا،",
+      "tr": "Sen xafasanmi? - Yo'q, men aslo xafa emasman",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "مَحْزُونٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xafa - xabar"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q - inkor"
+        },
+        {
+          "w": "لَسْتُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "أَنَا",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "بِمَحْزُونٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Xafa emas - xabar"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ أَبُوكَ عَالِمٌ أَوْ لَا؟ – نَعَمْ أَبِي عَالِمٌ جِدًّا،",
+      "tr": "Otang olimmi yoki yo'qmi? - Ha, otam juda bilimdondir",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "أَبُوكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otang - ega"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha - tasdiq"
+        },
+        {
+          "w": "أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otam - ega"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ أَخُوكَ طَبِيبٌ ؟ - لَا ، لَيْسَ أَخِي بِطَبِيبٍ بَلْ هُوَ تَاجِرٌ غَنِيٌّ،",
+      "tr": "Akang tabibmi? - Yo'q, akam tabib emas, balki u boy savdogardir",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "أَخُوكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Akang - ega"
+        },
+        {
+          "w": "طَبِيبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tabib - xabar"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q - inkor"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "أَخِي",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Akam - ega"
+        },
+        {
+          "w": "بِطَبِيبٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Tabib emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "تَاجِرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Savdogar - xabar"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Boy - sifat"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

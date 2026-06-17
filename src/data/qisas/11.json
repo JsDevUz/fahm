@@ -1,0 +1,471 @@
+{
+  "title": "١٢ ـ إِلَى مَكَّةَ",
+  "tuz": "Makkaga",
+  "sub": "Ibrohim Makkaga yo‘l oladi",
+  "page": 21,
+  "sentences": [
+    {
+      "ar": "وَأَرَادَ إِبْرَاهِيمُ أَنْ يُسَافِرَ إِلَى بَلَدٍ آخَرَ وَيَعْبُدَ فِيهِ اللَّهَ وَيَدْعُو النَّاسَ إِلَى اللَّهِ.",
+      "tr": "Ibrohim boshqa bir yurtga safar qilishni va u yerda Allohga ibodat qilishni va odamlarni Allohga da'vat qilishni xohladi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَأَرَادَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "أَنْ يُسَافِرَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Safar qilishni"
+        },
+        {
+          "w": "إِلَى بَلَدٍ آخَرَ",
+          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "rc": "tmt",
+          "e": "Boshqa bir yurtga"
+        },
+        {
+          "w": "وَيَعْبُدَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va ibodat qilishni"
+        },
+        {
+          "w": "فِيهِ",
+          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "rc": "tmt",
+          "e": "U yerda"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "maf'ul bih (أَنْ يُسَافِرَ)",
+          "rc": "tb",
+          "e": "Allohga"
+        },
+        {
+          "w": "وَيَدْعُو",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va da'vat qilishni"
+        },
+        {
+          "w": "النَّاسَ",
+          "r": "maf'ul bih (أَنْ يُسَافِرَ)",
+          "rc": "tb",
+          "e": "Odamlarni"
+        },
+        {
+          "w": "إِلَى اللَّهِ",
+          "r": "mutaalliq (أَنْ يُسَافِرَ)",
+          "rc": "tmt",
+          "e": "Allohga"
+        }
+      ]
+    },
+    {
+      "ar": "وَخَرَجَ إِبْرَاهِيمُ مِنْ بَلَدِهِ وَوَدَّعَ وَالِدَهُ.",
+      "tr": "Ibrohim o‘z yurtidan chiqdi va otasi bilan xayrlashdi.",
+      "parts": [
+        {
+          "w": "وَخَرَجَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chiqdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَخَرَجَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "مِنْ بَلَدِهِ",
+          "r": "mutaalliq (وَوَدَّعَ)",
+          "rc": "tmt",
+          "e": "O'z yurtidan"
+        },
+        {
+          "w": "وَوَدَّعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xayrlashdi"
+        },
+        {
+          "w": "وَالِدَهُ",
+          "r": "maf'ul bih (وَوَدَّعَ)",
+          "rc": "tb",
+          "e": "Otasi bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَصَدَ إِبْرَاهِيمُ مَكَّةَ وَمَعَهُ زَوْجُهُ هَاجَرُ.",
+      "tr": "Ibrohim Makkaga yo‘l oldi va u bilan birga xotini Hojar ham bor edi.",
+      "parts": [
+        {
+          "w": "وَقَصَدَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yo'l oldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَقَصَدَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "مَكَّةَ",
+          "r": "maf'ul bih (وَقَصَدَ)",
+          "rc": "tb",
+          "e": "Makkaga"
+        },
+        {
+          "w": "وَمَعَهُ",
+          "r": "zarf (وَقَصَدَ)",
+          "rc": "th",
+          "e": "Va u bilan birga"
+        },
+        {
+          "w": "زَوْجُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xotini"
+        },
+        {
+          "w": "هَاجَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Hojar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا عُشْبٌ وَلَا شَجَرٌ.",
+      "tr": "Makkada o‘t ham, daraxt ham yo‘q edi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "مَكَّةُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Makka"
+        },
+        {
+          "w": "لَيْسَ فِيهَا عُشْبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Unda o't yo'q"
+        },
+        {
+          "w": "وَلَا شَجَرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va daraxt ham yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا بِئْرٌ وَلَا نَهْرٌ.",
+      "tr": "Makkada quduq ham, daryo ham yo‘q edi.",
+      "parts": [
+        {
+          "w": "لَيْسَ فِيهَا بِئْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Unda quduq yo'q"
+        },
+        {
+          "w": "وَلَا نَهْرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va daryo ham yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ مَكَّةُ لَيْسَ فِيهَا حَيَوَانٌ وَلَا بَشَرٌ.",
+      "tr": "Makkada hayvon ham, odam ham yo‘q edi.",
+      "parts": [
+        {
+          "w": "لَيْسَ فِيهَا حَيَوَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Unda hayvon yo'q"
+        },
+        {
+          "w": "وَلَا بَشَرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va odam ham yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "وَوَصَلَ إِبْرَاهِيمُ إِلَى مَكَّةَ وَنَزَلَ فِيهَا.",
+      "tr": "Ibrohim Makkaga yetib keldi va u yerda turdi.",
+      "parts": [
+        {
+          "w": "وَوَصَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yetib keldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَوَصَلَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "إِلَى مَكَّةَ",
+          "r": "mutaalliq (وَنَزَلَ)",
+          "rc": "tmt",
+          "e": "Makkaga"
+        },
+        {
+          "w": "وَنَزَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Turdi"
+        },
+        {
+          "w": "فِيهَا",
+          "r": "mutaalliq (وَنَزَلَ)",
+          "rc": "tmt",
+          "e": "U yerda"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَرَكَ إِبْرَاهِيمُ زَوْجَهُ هَاجَرَ وَوَلَدَهُ إِسْمَاعِيلَ، وَلَمَّا أَرَادَ إِبْرَاهِيمُ أَنْ يَذْهَبَ قَالَتْ زَوْجُهُ هَاجَرُ: إِلَى أَيْنَ يَا سَيِّدِي؟ أَتَتْرُكُنِي هُنَا؟",
+      "tr": "Ibrohim xotini Hojarni va o‘g‘li Ismoilni qoldirdi. Ibrohim ketmoqchi bo‘lganida, xotini Hojar: Ey xo‘jayinim, qayoqqa? Meni shu yerda tashlab ketasanmi? — dedi.",
+      "parts": [
+        {
+          "w": "وَتَرَكَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qoldirdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَتَرَكَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "زَوْجَهُ",
+          "r": "maf'ul bih (وَتَرَكَ)",
+          "rc": "tb",
+          "e": "Xotinini"
+        },
+        {
+          "w": "هَاجَرَ",
+          "r": "badal",
+          "rc": "tb",
+          "e": "Hojarni"
+        },
+        {
+          "w": "وَوَلَدَهُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va o'g'lini"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "badal",
+          "rc": "tb",
+          "e": "Ismoilni"
+        },
+        {
+          "w": "وَلَمَّا أَرَادَ",
+          "r": "zarf (أَنْ يَذْهَبَ)",
+          "rc": "th",
+          "e": "Ketmoqchi bo'lganida"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (أَنْ يَذْهَبَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "أَنْ يَذْهَبَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Ketishni"
+        },
+        {
+          "w": "قَالَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "زَوْجُهُ",
+          "r": "fo'il (قَالَتْ)",
+          "rc": "tm",
+          "e": "Xotini"
+        },
+        {
+          "w": "هَاجَرُ",
+          "r": "badal",
+          "rc": "tb",
+          "e": "Hojar"
+        },
+        {
+          "w": "إِلَى أَيْنَ",
+          "r": "istifhom",
+          "rc": "tb",
+          "e": "Qayoqqa"
+        },
+        {
+          "w": "يَا سَيِّدِي",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Ey xo'jayinim"
+        },
+        {
+          "w": "أَتَتْرُكُنِي",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Meni tashlab ketasanmi"
+        },
+        {
+          "w": "هُنَا",
+          "r": "zarf (أَتَتْرُكُنِي)",
+          "rc": "th",
+          "e": "Bu yerda"
+        }
+      ]
+    },
+    {
+      "ar": "أَتَتْرُكُنِي وَلَيْسَ هُنَا مَاءٌ وَلَا طَعَامٌ!.",
+      "tr": "Meni tashlab ketasan-u, bu yerda suv ham, taom ham yo‘q!",
+      "parts": [
+        {
+          "w": "وَلَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q"
+        },
+        {
+          "w": "هُنَا",
+          "r": "zarf (وَلَيْسَ)",
+          "rc": "th",
+          "e": "Bu yerda"
+        },
+        {
+          "w": "مَاءٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Suv"
+        },
+        {
+          "w": "وَلَا طَعَامٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va taom ham yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ أَمَرَكَ اللَّهُ بِهَذَا؟.",
+      "tr": "Alloh senga buni buyurdimi?",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi"
+        },
+        {
+          "w": "أَمَرَكَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Buyurdi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (أَمَرَكَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "بِهَذَا",
+          "r": "mutaalliq (أَمَرَكَ)",
+          "rc": "tmt",
+          "e": "Buni"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ إِبْرَاهِيمُ: نَعَمْ!.",
+      "tr": "Ibrohim: Ha! — dedi.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَتْ هَاجَرُ: إِذًا لَا يُضَيِّعُنَا!",
+      "tr": "Hojar dedi: Unda biz zoye bo‘lmaymiz!",
+      "parts": [
+        {
+          "w": "قَالَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "هَاجَرُ",
+          "r": "fo'il (قَالَتْ)",
+          "rc": "tm",
+          "e": "Hojar"
+        },
+        {
+          "w": "إِذًا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Unda"
+        },
+        {
+          "w": "لَا يُضَيِّعُنَا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Bizni zoye qilmaydi"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

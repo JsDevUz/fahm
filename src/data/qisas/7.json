@@ -1,0 +1,102 @@
+{
+  "title": "٨ ـ رَبِّيَ اللَّهُ",
+  "tuz": "Mening Rabbim Allohdir",
+  "sub": "Ibrohim yagona Allohni tan oladi",
+  "page": 16,
+  "sentences": [
+    {
+      "ar": "وَعَرَفَ إِبْرَاهِيمُ أَنَّ اللَّهَ رَبُّهُ.",
+      "tr": "Ibrohim Allohning o‘zining Robbisi ekanini bildi.",
+      "parts": [
+        {
+          "w": "وَعَرَفَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Bildi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَعَرَفَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "أَنَّ اللَّهَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Deb Alloh"
+        },
+        {
+          "w": "رَبُّهُ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Uning Robbisi"
+        }
+      ]
+    },
+    {
+      "ar": "لِأَنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
+      "tr": "Chunki Alloh tirikdir, o‘lmaydi."
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ بَاقٍ لَا يَغِيبُ.",
+      "tr": "Va Alloh barqarordir, yo‘qolmaydi."
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ قَوِيٌّ لَا يَعْلِيهُ شَيْءٌ.",
+      "tr": "Va Alloh kuchlidir, Uni hech narsa ustun chiqa olmaydi."
+    },
+    {
+      "ar": "وَعَرَفَ إِبْرَاهِيمُ أَنَّ اللَّهَ رَبُّ الْكَوْكَبِ!.",
+      "tr": "Ibrohim Allohning yulduzning ham Robbisi ekanini bildi!",
+      "parts": [
+        {
+          "w": "رَبُّ الْكَوْكَبِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yulduzning Robbisi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ رَبُّ الْقَمَرِ!.",
+      "tr": "Va Allohning oyning Robbisi ekanini!",
+      "parts": [
+        {
+          "w": "رَبُّ الْقَمَرِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oyning Robbisi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ رَبُّ الشَّمْسِ!.",
+      "tr": "Va Allohning quyoshning Robbisi ekanini!",
+      "parts": [
+        {
+          "w": "رَبُّ الشَّمْسِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Quyoshning Robbisi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ رَبُّ الْعَالَمِينَ!.",
+      "tr": "Va Alloh olamlarning Robbisidir!",
+      "parts": []
+    },
+    {
+      "ar": "وَهَدَى اللَّهُ إِبْرَاهِيمَ وَجَعَلَهُ نَبِيًّا وَخَلِيلًا.",
+      "tr": "Alloh Ibrohimni hidoyat qildi va uni payg‘ambar hamda xalil qildi.",
+      "parts": []
+    },
+    {
+      "ar": "وَأَمَرَ اللَّهُ إِبْرَاهِيمَ أَنْ يَدْعُوَ قَوْمَهُ وَيَمْنَعَهُمْ مِنْ عِبَادَةِ الْأَصْنَامِ.",
+      "tr": "Alloh Ibrohimga qavmini da’vat qilishni va ularni butlarga ibodat qilishdan qaytarishni buyurdi.",
+      "parts": []
+    }
+  ],
+  "bookId": "qisas"
+}

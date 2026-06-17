@@ -1,0 +1,1233 @@
+{
+  "title": "٦. الدَّرْسُ السَّادِسُ",
+  "tuz": "6-dars",
+  "sub": "Egalik olmoshlari va birikmalar",
+  "page": 10,
+  "sentences": [
+    {
+      "ar": "صَدِيقُهُ غَنِيٌّ،",
+      "tr": "Uning do'sti boydir",
+      "parts": [
+        {
+          "w": "صَدِيقُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning do'sti - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَصْدِقَاؤُهُمْ أَغْنِيَاءُ،",
+      "tr": "Ularning do'stlari boylardir",
+      "parts": [
+        {
+          "w": "أَصْدِقَاؤُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning do'stlari - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَتُهَا فَقِيرَةٌ،",
+      "tr": "Uning (ayol) do'sti kambag'aldir",
+      "parts": [
+        {
+          "w": "صَدِيقَتُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning do'sti - ega"
+        },
+        {
+          "w": "فَقِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'aldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَاتُهُنَّ فَقِيرَاتٌ،",
+      "tr": "Ularning (ayollar) do'stlari kambag'allardir",
+      "parts": [
+        {
+          "w": "صَدِيقَاتُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning do'stlari - ega"
+        },
+        {
+          "w": "فَقِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقُكَ شَيْخٌ،",
+      "tr": "Sening do'sting qariyadir",
+      "parts": [
+        {
+          "w": "صَدِيقُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening do'sting - ega"
+        },
+        {
+          "w": "شَيْخٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَصْدِقَاؤُكُمْ شُيُوحٌ،",
+      "tr": "Sizlarning do'stlaringiz qariyalardir",
+      "parts": [
+        {
+          "w": "أَصْدِقَاؤُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning do'stlaringiz - ega"
+        },
+        {
+          "w": "شُيُوحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَتُكِ عَجُوزٌ،",
+      "tr": "Sening (ayol) do'sting kampirdir",
+      "parts": [
+        {
+          "w": "صَدِيقَتُكِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening do'sting - ega"
+        },
+        {
+          "w": "عَجُوزٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَاتُكُنَّ عَجَائِزُ،",
+      "tr": "Sizlarning (ayollar) do'stlaringiz kampirlardir",
+      "parts": [
+        {
+          "w": "صَدِيقَاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning do'stlaringiz - ega"
+        },
+        {
+          "w": "عَجَائِزُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقِي شَابٌّ،",
+      "tr": "Mening do'stim yigitdir",
+      "parts": [
+        {
+          "w": "صَدِيقِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening do'stim - ega"
+        },
+        {
+          "w": "شَابٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigitdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَصْدِقَائِي شُبَّانٌ،",
+      "tr": "Mening do'stlarim yigitlardir",
+      "parts": [
+        {
+          "w": "أَصْدِقَائِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening do'stlarim - ega"
+        },
+        {
+          "w": "شُبَّانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigitlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَتِي شَابَّةٌ،",
+      "tr": "Mening do'stim (ayol) qizdir",
+      "parts": [
+        {
+          "w": "صَدِيقَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening do'stim - ega"
+        },
+        {
+          "w": "شَابَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقَاتُنَا شَابَّاتٌ،",
+      "tr": "Bizning do'stlarimiz qizlardir",
+      "parts": [
+        {
+          "w": "صَدِيقَاتُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning do'stlarimiz - ega"
+        },
+        {
+          "w": "شَابَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizdir o'rnida qizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوُّهُ جَاهِلٌ،",
+      "tr": "Uning dushmanining nodondir",
+      "parts": [
+        {
+          "w": "عَدُوُّهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning dushmani - ega"
+        },
+        {
+          "w": "جَاهِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodondir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَعْدَاؤُهُمْ جُهَلَاءُ،",
+      "tr": "Ularning dushmanlari nodonlardir",
+      "parts": [
+        {
+          "w": "أَعْدَاؤُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning dushmanlari - ega"
+        },
+        {
+          "w": "جُهَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodonlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوَّتُهَا سَفِيهَةٌ،",
+      "tr": "Uning (ayol) dushmani telbadir",
+      "parts": [
+        {
+          "w": "عَدُوَّتُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning dushmani - ega"
+        },
+        {
+          "w": "سَفِيهَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوَّاتُهُنَّ سَفِيهَاتٌ،",
+      "tr": "Ularning (ayollar) dushmanlari telbalardir",
+      "parts": [
+        {
+          "w": "عَدُوَّاتُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning dushmanlari - ega"
+        },
+        {
+          "w": "سَفِيهَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوُّكَ غَبِيٌّ،",
+      "tr": "Sening dushmaning tentakdir",
+      "parts": [
+        {
+          "w": "عَدُوُّكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening dushmaning - ega"
+        },
+        {
+          "w": "غَبِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentakdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَعْدَاؤُكُمْ أَغْبِيَاءُ،",
+      "tr": "Sizlarning dushmanlaringiz tentaklardir",
+      "parts": [
+        {
+          "w": "أَعْدَاؤُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning dushmanlaringiz - ega"
+        },
+        {
+          "w": "أَغْبِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentaklardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوَّتُكَ ضَعِيفَةٌ،",
+      "tr": "Sening dushmaning (ayol) kuchsizdir",
+      "parts": [
+        {
+          "w": "عَدُوَّتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening dushmaning - ega"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوَّاتُكُنَّ ضَعِيفَاتٌ،",
+      "tr": "Sizlarning (ayollar) dushmanlaringiz kuchsizlardir",
+      "parts": [
+        {
+          "w": "عَدُوَّاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning dushmanlaringiz - ega"
+        },
+        {
+          "w": "ضَعِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوِّي مَرِيضٌ،",
+      "tr": "Mening dushmanim kasaldir",
+      "parts": [
+        {
+          "w": "عَدُوِّي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening dushmanim - ega"
+        },
+        {
+          "w": "مَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasaldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَعْدَاؤُنَا مَرْضَى،",
+      "tr": "Bizning dushmanlarim kasallardir",
+      "parts": [
+        {
+          "w": "أَعْدَاؤُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning dushmanlarimiz - ega"
+        },
+        {
+          "w": "مَرْضَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasallardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارُهُ عَاقِلٌ،",
+      "tr": "Uning qo'shnisi aqllidir",
+      "parts": [
+        {
+          "w": "جَارُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning qo'shnisi - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جِيرَانُهُمْ عُقَلَاءُ،",
+      "tr": "Ularning qo'shnilari aqllilardir",
+      "parts": [
+        {
+          "w": "جِيرَانُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning qo'shnilari - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارَتُكَ ذَكِيَّةٌ،",
+      "tr": "Sening qo'shning (ayol) donodir",
+      "parts": [
+        {
+          "w": "جَارَتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening qo'shning - ega"
+        },
+        {
+          "w": "ذَكِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارَاتُكُنَّ ذَكِيَّاتٌ،",
+      "tr": "Sizlarning (ayollar) qo'shnilaringiz donolardir",
+      "parts": [
+        {
+          "w": "جَارَاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning qo'shnilaringiz - ega"
+        },
+        {
+          "w": "ذَكِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارِي مَرِيضٌ،",
+      "tr": "Mening qo'shnim kasaldir",
+      "parts": [
+        {
+          "w": "جَارِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qo'shnim - ega"
+        },
+        {
+          "w": "مَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasaldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جِيرَانُنَا سِمَانٌ،",
+      "tr": "Bizning qo'shnilarimiz semizlardir",
+      "parts": [
+        {
+          "w": "جِيرَانُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning qo'shnilarimiz - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارَتِي سَفِيهَةٌ،",
+      "tr": "Mening qo'shnim (ayol) telbadir",
+      "parts": [
+        {
+          "w": "جَارَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qo'shnim - ega"
+        },
+        {
+          "w": "سَفِيهَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارَاتِي سَفِيهَاتٌ،",
+      "tr": "Mening qo'shnilarim telbalardir",
+      "parts": [
+        {
+          "w": "جَارَاتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qo'shnilarim - ega"
+        },
+        {
+          "w": "سَفِيهَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفُهُ قَوِيٌّ،",
+      "tr": "Uning mehmoni kuchlidir",
+      "parts": [
+        {
+          "w": "ضَيْفُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning mehmoni - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضُيُوفُهُمْ أَقْوِيَاءُ،",
+      "tr": "Ularning mehmonlari kuchlilardir",
+      "parts": [
+        {
+          "w": "ضُيُوفُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning mehmonlari - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفَتُكَ صَحِيحَةٌ،",
+      "tr": "Sening mehmoning (ayol) sog'lomdir",
+      "parts": [
+        {
+          "w": "ضَيْفَتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening mehmoning - ega"
+        },
+        {
+          "w": "صَحِيحَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفَاتُكُمْ صَحِيحَاتٌ،",
+      "tr": "Sizlarning mehmonlaringiz sog'lomlardir",
+      "parts": [
+        {
+          "w": "ضَيْفَاتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning mehmonlaringiz - ega"
+        },
+        {
+          "w": "صَحِيحَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفِي عَالِمٌ،",
+      "tr": "Mening mehmonim olimdir",
+      "parts": [
+        {
+          "w": "ضَيْفِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening mehmonim - ega"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضُيُوفُنَا عُلَمَاءُ،",
+      "tr": "Bizning mehmonlarimiz olimlardir",
+      "parts": [
+        {
+          "w": "ضُيُوفُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning mehmonlarimiz - ega"
+        },
+        {
+          "w": "عُلَمَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفَتِي جَاهِلَةٌ،",
+      "tr": "Mening mehmonim (ayol) nodondir",
+      "parts": [
+        {
+          "w": "ضَيْفَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening mehmonim - ega"
+        },
+        {
+          "w": "جَاهِلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodondir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفَاتِي جَاهِلَاتٌ،",
+      "tr": "Mening mehmonlarim nodonlardir",
+      "parts": [
+        {
+          "w": "ضَيْفَاتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening mehmonlarim - ega"
+        },
+        {
+          "w": "جَاهِلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodonlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَدُهُ ذَكِيٌّ،",
+      "tr": "Uning bolasi donodir",
+      "parts": [
+        {
+          "w": "وَلَدُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning bolasi - ega"
+        },
+        {
+          "w": "ذَكِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْلَادُهُمْ أَذْكِيَاءُ،",
+      "tr": "Ularning bolalari donolardir",
+      "parts": [
+        {
+          "w": "أَوْلَادُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning bolalari - ega"
+        },
+        {
+          "w": "أَذْكِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَدُكَ سَمِينٌ،",
+      "tr": "Sening bolang semizdir",
+      "parts": [
+        {
+          "w": "وَلَدُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening bolang - ega"
+        },
+        {
+          "w": "سَمِينٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْلَادُكُمْ سِمَانٌ،",
+      "tr": "Sizlarning bolalaringiz semizlardir",
+      "parts": [
+        {
+          "w": "أَوْلَادُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning bolalaringiz - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَدِي قَوِيٌّ،",
+      "tr": "Mening bolam kuchlidir",
+      "parts": [
+        {
+          "w": "وَلَدِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening bolam - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْلَادُنَا أَقْوِيَاءُ،",
+      "tr": "Bizning bolalarimiz kuchlilardir",
+      "parts": [
+        {
+          "w": "أَوْلَادُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning bolalarimiz - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمُهُ سَفِيهٌ،",
+      "tr": "Uning xizmatchisi telbadir",
+      "parts": [
+        {
+          "w": "خَادِمُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning xizmatchisi - ega"
+        },
+        {
+          "w": "سَفِيهٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خُدَّامُهُمْ سُفَهَاءُ،",
+      "tr": "Ularning xizmatchilari telbalardir",
+      "parts": [
+        {
+          "w": "خُدَّامُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning xizmatchilari - ega"
+        },
+        {
+          "w": "سُفَهَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَتُهَا ذَكِيَّةٌ،",
+      "tr": "Uning (ayol) xizmatkori donodir",
+      "parts": [
+        {
+          "w": "خَادِمَتُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning xizmatkori - ega"
+        },
+        {
+          "w": "ذَكِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَاتُهُنَّ ذَكِيَّاتٌ،",
+      "tr": "Ularning (ayollar) xizmatkorlari donolardir",
+      "parts": [
+        {
+          "w": "خَادِمَاتُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning xizmatkorlari - ega"
+        },
+        {
+          "w": "ذَكِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمُكَ غَبِيٌّ،",
+      "tr": "Sening xizmatching tentakdir",
+      "parts": [
+        {
+          "w": "خَادِمُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening xizmatching - ega"
+        },
+        {
+          "w": "غَبِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentakdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خُدَّامُكُمْ أَغْبِيَاءُ،",
+      "tr": "Sizlarning xizmatchilaringiz tentaklardir",
+      "parts": [
+        {
+          "w": "خُدَّامُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning xizmatchilaringiz - ega"
+        },
+        {
+          "w": "أَغْبِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentaklardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَتُكِ سَمِينَةٌ،",
+      "tr": "Sening xizmatkor qizing semizdir",
+      "parts": [
+        {
+          "w": "خَادِمَتُكِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening xizmatkor qizing - ega"
+        },
+        {
+          "w": "سَمِينَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَاتُكُنَّ سَمِينَاتٌ،",
+      "tr": "Sizlarning (ayollar) xizmatkor qizlaringiz semizlardir",
+      "parts": [
+        {
+          "w": "خَادِمَاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning xizmatkor qizlaringiz - ega"
+        },
+        {
+          "w": "سَمِينَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمِي قَوِيٌّ،",
+      "tr": "Mening xizmatchim kuchlidir",
+      "parts": [
+        {
+          "w": "خَادِمِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening xizmatchim - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خُدَّامُنَا أَقْوِيَاءُ،",
+      "tr": "Bizning xizmatchilarimiz kuchlilardir",
+      "parts": [
+        {
+          "w": "خُدَّامُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning xizmatchilarimiz - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَتِي عَاقِلَةٌ،",
+      "tr": "Mening xizmatkor qizim aqllidir",
+      "parts": [
+        {
+          "w": "خَادِمَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening xizmatkor qizim - ega"
+        },
+        {
+          "w": "عَاقِلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَاتُنَا عَاقِلَاتٌ،",
+      "tr": "Bizning xizmatkor qizlarimiz aqllilardir",
+      "parts": [
+        {
+          "w": "خَادِمَاتُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning xizmatkor qizlarimiz - ega"
+        },
+        {
+          "w": "عَاقِلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ صَدِيقِي،",
+      "tr": "U mening do'stimdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "صَدِيقِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening do'stimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ أَصْدِقَاؤُنَا،",
+      "tr": "Ular bizning do'stlarimizdir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "أَصْدِقَاؤُنَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bizning do'stlarimizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ عَدُوُّهُ،",
+      "tr": "Sen uning dushmanisan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "عَدُوُّهُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uning dushmanisan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ أَعْدَاؤُهُمْ،",
+      "tr": "Sizlar ularning dushmanlarisiz",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "أَعْدَاؤُهُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ularning dushmanlarisiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا صَدِيقُكَ،",
+      "tr": "Men sening do'stingman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "صَدِيقُكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening do'stingman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ أَصْدِقَاؤُكُمْ،",
+      "tr": "Biz sizlarning do'stlaringizman",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "أَصْدِقَاؤُكُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning do'stlaringizman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ جَارُكَ،",
+      "tr": "U sening qo'shningdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "جَارُكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening qo'shningdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ جِيرَانُكُمْ،",
+      "tr": "Ular sizlarning qo'shnilaringizdir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "جِيرَانُكُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning qo'shnilaringizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ ضَيْفِي،",
+      "tr": "Sen mening mehmonimsan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "ضَيْفِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening mehmonimsan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ ضُيُوفُنَا،",
+      "tr": "Sizlar bizning mehmonlarimizsiz",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "ضُيُوفُنَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bizning mehmonlarimizsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا جَارُكَ،",
+      "tr": "Men sening qo'shningman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "جَارُكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening qo'shningman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ جِيرَانُكُمْ،",
+      "tr": "Biz sizlarning qo'shnilaringizman",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "جِيرَانُكُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning qo'shnilaringizman - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

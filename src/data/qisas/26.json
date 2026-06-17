@@ -1,0 +1,137 @@
+{
+  "title": "٣٤ ـ حِكْمَةُ يُوسُفَ",
+  "tuz": "Yusufning hikmati",
+  "sub": "Yusuf o'z nasihatini davom ettiradi",
+  "page": 38,
+  "sentences": [
+    {
+      "ar": "قَالَ يُوسُفُ فِي نَفْسِهِ: إِنَّ الْحَاجَةَ سَاقَتِ الرَّجُلَيْنِ إِلَيَّ.",
+      "tr": "Yusuf o'zicha: Ehtiyoj ikki odamni menga yetakladi — dedi.",
+      "parts": [
+        {
+          "w": "قَالَ يُوسُفُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yusuf dedi"
+        },
+        {
+          "w": "فِي نَفْسِهِ",
+          "r": "mutaalliq (قَالَ يُوسُفُ)",
+          "rc": "tmt",
+          "e": "O'zicha"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta"
+        },
+        {
+          "w": "الْحَاجَةَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Ehtiyoj"
+        },
+        {
+          "w": "سَاقَتِ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yetakladi"
+        },
+        {
+          "w": "الرَّجُلَيْنِ",
+          "r": "maf'ul bih (قَالَ يُوسُفُ)",
+          "rc": "tb",
+          "e": "Ikki odamni"
+        },
+        {
+          "w": "إِلَيَّ",
+          "r": "mutaalliq (قَالَ يُوسُفُ)",
+          "rc": "tmt",
+          "e": "Menga"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّ صَاحِبَ الْحَاجَةِ يَلِينُ وَيَخْضَعُ.",
+      "tr": "Va ehtiyoj egasi yumshab, bo'ysunadi.",
+      "parts": [
+        {
+          "w": "وَإِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Va albatta"
+        },
+        {
+          "w": "صَاحِبَ الْحَاجَةِ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Ehtiyoj egasi"
+        },
+        {
+          "w": "يَلِينُ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yumshaydi"
+        },
+        {
+          "w": "وَيَخْضَعُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va bo'ysunadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّ صَاحِبَ الْحَاجَةِ يُطِيعُ وَيَسْمَعُ.",
+      "tr": "Va ehtiyoj egasi itoat qiladi va eshitadi.",
+      "parts": []
+    },
+    {
+      "ar": "فَلَوْ قُلْتُ لَهُمَا شَيْئًا لَسَمِعَا وَسَمِعَ أَهْلُ السِّجْنِ.",
+      "tr": "Agar ularga biror narsa aytsam, ikkalasi ham eshitadi va zindon ahli ham eshitadi.",
+      "parts": []
+    },
+    {
+      "ar": "وَلَكِنَّ يُوسُفَ لَمْ يَسْتَعْجِلْ.",
+      "tr": "Lekin Yusuf shoshilmadi.",
+      "parts": []
+    },
+    {
+      "ar": "بَلْ قَالَ لَهُمَا:",
+      "tr": "Balki ularga dedi:",
+      "parts": []
+    },
+    {
+      "ar": "أَنَا أُخْبِرُكُمَا بِتَأْوِيلِ الرُّؤْيَا قَبْلَ أَنْ يَأْتِيَكُمَا طَعَامُكُمَا.",
+      "tr": "Men sizlarga taomingiz kelishidan oldin tushingiz ta'birini aytib beraman.",
+      "parts": []
+    },
+    {
+      "ar": "فَجَلَسَا وَاطْمَأَنَّا.",
+      "tr": "Ikkalasi o'tirib, xotirjam bo'ldi.",
+      "parts": []
+    },
+    {
+      "ar": "ثُمَّ قَالَ لَهُمَا يُوسُفُ:",
+      "tr": "So'ng Yusuf ularga dedi:",
+      "parts": []
+    },
+    {
+      "ar": "أَنَا عَالِمٌ بِتَأْوِيلِ الرُّؤْيَا، ﴿ذَلِكُمَا مِمَّا عَلَّمَنِي رَبِّي﴾.",
+      "tr": "Men tush ta'birini biluvchiman, bu Rabbim menga o'rgatgan narsalardandir.",
+      "parts": []
+    },
+    {
+      "ar": "فَفَرِحَا وَاطْمَأَنَّا.",
+      "tr": "Ikkalasi xursand bo'lib, xotirjam bo'ldi.",
+      "parts": []
+    },
+    {
+      "ar": "وَهُنَا وَجَدَ يُوسُفُ الْفُرْصَةَ فَبَدَأَ مَوْعِظَتَهُ.",
+      "tr": "Shu yerda Yusuf imkoniyatni topdi va nasihatini boshladi.",
+      "parts": []
+    }
+  ],
+  "bookId": "qisas"
+}

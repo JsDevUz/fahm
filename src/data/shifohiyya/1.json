@@ -1,0 +1,225 @@
+{
+  "title": "٢. الدَّرْسُ الثَّانِي (الْمُؤَنَّثُ)",
+  "tuz": "2-dars (Ayol jinsi)",
+  "sub": "Ayol jinsidagi sifatlar va olmoshlar",
+  "page": 4,
+  "sentences": [
+    {
+      "ar": "هِيَ كَبِيرَةٌ،",
+      "tr": "U katta",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ كَبِيرَاتٌ،",
+      "tr": "Ular kattalar",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "كَبِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ صَغِيرَةٌ،",
+      "tr": "Sen kichkinasan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichkinasan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ صَغِيرَاتٌ،",
+      "tr": "Sizlar kichkinasizlar",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "صَغِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichkinasizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا طَوِيلَةٌ،",
+      "tr": "Men uzunman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ طَوِيلَاتٌ،",
+      "tr": "Biz uzunmiz",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "طَوِيلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunmiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ قَصِيرَةٌ،",
+      "tr": "U qisqa",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ قَصِيرَاتٌ،",
+      "tr": "Ular qisqalar",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "قَصِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqalar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ طَوِيلَةٌ،",
+      "tr": "Sen uzunsan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunsan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ طَوِيلَاتٌ،",
+      "tr": "Sizlar uzunsizlar",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "طَوِيلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunsizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا كَبِيرَةٌ،",
+      "tr": "Men kattaman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattaman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ كَبِيرَاتٌ،",
+      "tr": "Biz kattalar",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "كَبِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalar - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

@@ -1,0 +1,549 @@
+{
+  "title": "١٥ ـ الْكَعْبَةُ",
+  "tuz": "Ka’ba",
+  "sub": "Ibrohim va Ismoil Ka’bani qurishadi",
+  "page": 24,
+  "sentences": [
+    {
+      "ar": "وَذَهَبَ إِبْرَاهِيمُ وَعَادَ بَعْدَ ذَلِكَ، وَأَرَادَ أَنْ يَبْنِيَ بَيْتًا لِلَّهِ.",
+      "tr": "Ibrohim ketdi va keyin qaytib keldi. Alloh uchun uy (Ka'ba) qurmoqchi bo'ldi.",
+      "parts": [
+        {
+          "w": "وَذَهَبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ketdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَذَهَبَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "وَعَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qaytdi"
+        },
+        {
+          "w": "بَعْدَ ذَلِكَ",
+          "r": "zarf (وَعَادَ)",
+          "rc": "th",
+          "e": "Undan keyin"
+        },
+        {
+          "w": "وَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "أَنْ يَبْنِيَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Qurishni"
+        },
+        {
+          "w": "بَيْتًا",
+          "r": "maf'ul bih (أَنْ يَبْنِيَ)",
+          "rc": "tb",
+          "e": "Uy"
+        },
+        {
+          "w": "لِلَّهِ",
+          "r": "mutaalliq (أَنْ يَبْنِيَ)",
+          "rc": "tmt",
+          "e": "Alloh uchun"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتِ الْبُيُوتُ كَثِيرَةً وَمَا كَانَ بَيْتٌ لِلَّهِ يَعْبُدُونَ فِيهِ اللَّهَ.",
+      "tr": "Uylar ko'p edi, lekin Alloh uchun (xos) uy yo'q edi — unda Allohga ibodat qilar edilar.",
+      "parts": [
+        {
+          "w": "وَكَانَتِ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "الْبُيُوتُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Uylar"
+        },
+        {
+          "w": "كَثِيرَةً",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p"
+        },
+        {
+          "w": "وَمَا",
+          "r": "harf nafiy",
+          "rc": "tb",
+          "e": "Va yo'q edi"
+        },
+        {
+          "w": "كَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "بَيْتٌ لِلَّهِ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Alloh uchun uy"
+        },
+        {
+          "w": "يَعْبُدُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ibodat qiladilar"
+        },
+        {
+          "w": "فِيهِ",
+          "r": "mutaalliq (كَانَ)",
+          "rc": "tmt",
+          "e": "Unda"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "maf'ul bih (كَانَ)",
+          "rc": "tb",
+          "e": "Allohga"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ إِسْمَاعِيلُ أَنْ يَبْنِيَ بَيْتًا لِلَّهِ مَعَ وَالِدِهِ.",
+      "tr": "Ismoil ham otasi bilan Alloh uchun uy qurishni xohladi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "fo'il (وَأَرَادَ)",
+          "rc": "tm",
+          "e": "Ismoil"
+        },
+        {
+          "w": "أَنْ يَبْنِيَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Qurishni"
+        },
+        {
+          "w": "بَيْتًا",
+          "r": "maf'ul bih (أَنْ يَبْنِيَ)",
+          "rc": "tb",
+          "e": "Uy"
+        },
+        {
+          "w": "لِلَّهِ",
+          "r": "mutaalliq (أَنْ يَبْنِيَ)",
+          "rc": "tmt",
+          "e": "Alloh uchun"
+        },
+        {
+          "w": "مَعَ وَالِدِهِ",
+          "r": "zarf (أَنْ يَبْنِيَ)",
+          "rc": "th",
+          "e": "Otasi bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَنَقَلَ إِبْرَاهِيمُ وَإِسْمَاعِيلُ الْحِجَارَةَ مِنَ الْجِبَالِ.",
+      "tr": "Ibrohim va Ismoil tog‘lardan toshlarni tashidilar.",
+      "parts": [
+        {
+          "w": "وَنَقَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'tarib keldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَتَنَقَّلَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "وَإِسْمَاعِيلُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Ismoil"
+        },
+        {
+          "w": "الْحِجَارَةَ",
+          "r": "maf'ul bih (وَتَنَقَّلَ)",
+          "rc": "tb",
+          "e": "Toshlarni"
+        },
+        {
+          "w": "مِنَ الْجِبَالِ",
+          "r": "mutaalliq (وَتَنَقَّلَ)",
+          "rc": "tmt",
+          "e": "Tog'lardan"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَبْنِي الْكَعْبَةَ بِيَدِهِ وَكَانَ إِسْمَاعِيلُ يَبْنِي الْكَعْبَةَ بِيَدِهِ.",
+      "tr": "Ibrohim Ka'bani o'z qo'li bilan qurardi va Ismoil ham Ka'bani o'z qo'li bilan qurardi.",
+      "parts": [
+        {
+          "w": "يَبْنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qurardi"
+        },
+        {
+          "w": "الْكَعْبَةَ",
+          "r": "maf'ul bih (يَبْنِي)",
+          "rc": "tb",
+          "e": "Ka'bani"
+        },
+        {
+          "w": "بِيَدِهِ",
+          "r": "mutaalliq (يَبْنِي)",
+          "rc": "tmt",
+          "e": "O'z qo'li bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَذْكُرُ اللَّهَ وَيَدْعُو.",
+      "tr": "Ibrohim Allohni zikr qilar va duo qilar edi.",
+      "parts": [
+        {
+          "w": "يَذْكُرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Zikr qilardi"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "maf'ul bih (يَذْكُرُ)",
+          "rc": "tb",
+          "e": "Allohni"
+        },
+        {
+          "w": "وَيَدْعُو",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va duo qilardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِسْمَاعِيلُ يَذْكُرُ اللَّهَ وَيَدْعُو.",
+      "tr": "Ismoil ham Allohni zikr qilar va duo qilar edi.",
+      "parts": [
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "fo'il",
+          "rc": "tm",
+          "e": "Ismoil"
+        }
+      ]
+    },
+    {
+      "ar": "﴿رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ﴾.",
+      "tr": "Rabbimiz, bizdan qabul qil. Albatta Sen Eshitguvchi va Bilguvchisan.",
+      "parts": [
+        {
+          "w": "رَبَّنَا",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Rabbimiz"
+        },
+        {
+          "w": "تَقَبَّلْ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Qabul qil"
+        },
+        {
+          "w": "مِنَّا",
+          "r": "mutaalliq (تَقَبَّلْ)",
+          "rc": "tmt",
+          "e": "Bizdan"
+        },
+        {
+          "w": "إِنَّكَ",
+          "r": "inna",
+          "rc": "tb",
+          "e": "Albatta Sen"
+        },
+        {
+          "w": "أَنتَ",
+          "r": "fa'il (تَقَبَّلْ)",
+          "rc": "tm",
+          "e": "Sen"
+        },
+        {
+          "w": "السَّمِيعُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eshitguvchisan"
+        },
+        {
+          "w": "الْعَلِيمُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Bilguvchisan"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَقَبَّلَ اللَّهُ مِنْ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَبَارَكَ فِي الْكَعْبَةِ.",
+      "tr": "Alloh Ibrohim va Ismoildan qabul qildi va Ka'baga baraka berdi.",
+      "parts": [
+        {
+          "w": "وَتَقَبَّلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qabul qildi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (وَتَقَبَّلَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "مِنْ إِبْرَاهِيمَ",
+          "r": "mutaalliq (وَتَقَبَّلَ)",
+          "rc": "tmt",
+          "e": "Ibrohimdan"
+        },
+        {
+          "w": "وَإِسْمَاعِيلَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Ismoildan"
+        },
+        {
+          "w": "وَبَارَكَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Baraka berdi"
+        },
+        {
+          "w": "فِي الْكَعْبَةِ",
+          "r": "mutaalliq (وَبَارَكَ)",
+          "rc": "tmt",
+          "e": "Ka'baga"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ نَتَوَجَّهُ إِلَى الْكَعْبَةِ فِي كُلِّ صَلَاةٍ.",
+      "tr": "Biz har namozda Ka'baga qarab turamiz.",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz"
+        },
+        {
+          "w": "نَتَوَجَّهُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qarab turamiz"
+        },
+        {
+          "w": "إِلَى الْكَعْبَةِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Ka'baga"
+        },
+        {
+          "w": "فِي كُلِّ صَلَاةٍ",
+          "r": "zarf",
+          "rc": "th",
+          "e": "Har namozda"
+        }
+      ]
+    },
+    {
+      "ar": "وَيُسَافِرُ الْمُسْلِمُونَ إِلَى الْكَعْبَةِ فِي أَيَّامِ الْحَجِّ.",
+      "tr": "Musulmonlar haj kunlarida Ka'baga safar qiladilar.",
+      "parts": [
+        {
+          "w": "وَيُسَافِرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Safar qiladilar"
+        },
+        {
+          "w": "الْمُسْلِمُونَ",
+          "r": "fo'il (وَيُسَافِرُ)",
+          "rc": "tm",
+          "e": "Musulmonlar"
+        },
+        {
+          "w": "إِلَى الْكَعْبَةِ",
+          "r": "mutaalliq (وَيُسَافِرُ)",
+          "rc": "tmt",
+          "e": "Ka'baga"
+        },
+        {
+          "w": "فِي أَيَّامِ الْحَجِّ",
+          "r": "zarf (وَيُسَافِرُ)",
+          "rc": "th",
+          "e": "Haj kunlarida"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَطُوفُونَ بِالْكَعْبَةِ وَيُصَلُّونَ عِنْدَهَا.",
+      "tr": "Va Ka'ba atrofida tavof qiladilar va uning yonida namoz o'qiydilar.",
+      "parts": [
+        {
+          "w": "وَيَطُوفُونَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Tavof qiladilar"
+        },
+        {
+          "w": "بِالْكَعْبَةِ",
+          "r": "mutaalliq (وَيَطُوفُونَ)",
+          "rc": "tmt",
+          "e": "Ka'ba atrofida"
+        },
+        {
+          "w": "وَيُصَلُّونَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Namoz o'qiydilar"
+        },
+        {
+          "w": "عِنْدَهَا",
+          "r": "zarf (وَيُصَلُّونَ)",
+          "rc": "th",
+          "e": "Uning yonida"
+        }
+      ]
+    },
+    {
+      "ar": "بَارَكَ اللَّهُ فِي الْكَعْبَةِ وَتَقَبَّلَ مِنْ إِبْرَاهِيمَ وَإِسْمَاعِيلَ.",
+      "tr": "Alloh Ka'baga baraka berdi va Ibrohim va Ismoildan qabul qildi.",
+      "parts": [
+        {
+          "w": "بَارَكَ اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Alloh baraka berdi"
+        },
+        {
+          "w": "فِي الْكَعْبَةِ",
+          "r": "mutaalliq (بَارَكَ اللَّهُ)",
+          "rc": "tmt",
+          "e": "Ka'baga"
+        },
+        {
+          "w": "وَتَقَبَّلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qabul qildi"
+        },
+        {
+          "w": "مِنْ إِبْرَاهِيمَ",
+          "r": "mutaalliq (وَتَقَبَّلَ)",
+          "rc": "tmt",
+          "e": "Ibrohimdan"
+        },
+        {
+          "w": "وَإِسْمَاعِيلَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Ismoildan"
+        }
+      ]
+    },
+    {
+      "ar": "صَلَّى اللَّهُ عَلَى إِبْرَاهِيمَ وَسَلَّمَ.",
+      "tr": "Allohning salovoti va salomi Ibrohimga bo'lsin.",
+      "parts": [
+        {
+          "w": "صَلَّى اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salovot bo'lsin"
+        },
+        {
+          "w": "عَلَى إِبْرَاهِيمَ",
+          "r": "mutaalliq (صَلَّى اللَّهُ)",
+          "rc": "tmt",
+          "e": "Ibrohimga"
+        },
+        {
+          "w": "وَسَلَّمَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salom bo'lsin"
+        }
+      ]
+    },
+    {
+      "ar": "صَلَّى اللَّهُ عَلَى إِسْمَاعِيلَ وَسَلَّمَ.",
+      "tr": "Allohning salovoti va salomi Ismoilga bo'lsin.",
+      "parts": [
+        {
+          "w": "صَلَّى اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salovot bo'lsin"
+        },
+        {
+          "w": "عَلَى إِسْمَاعِيلَ",
+          "r": "mutaalliq (صَلَّى اللَّهُ)",
+          "rc": "tmt",
+          "e": "Ismoilga"
+        },
+        {
+          "w": "وَسَلَّمَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salom bo'lsin"
+        }
+      ]
+    },
+    {
+      "ar": "وَصَلَّى اللَّهُ عَلَى مُحَمَّدٍ وَسَلَّمَ.",
+      "tr": "Allohning salovoti va salomi Muhammadga bo'lsin.",
+      "parts": [
+        {
+          "w": "وَصَلَّى اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salovot bo'lsin"
+        },
+        {
+          "w": "عَلَى مُحَمَّدٍ",
+          "r": "mutaalliq (وَصَلَّى اللَّهُ)",
+          "rc": "tmt",
+          "e": "Muhammadga"
+        },
+        {
+          "w": "وَسَلَّمَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salom bo'lsin"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

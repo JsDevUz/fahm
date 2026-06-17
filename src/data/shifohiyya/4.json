@@ -1,0 +1,837 @@
+{
+  "title": "٥. الدَّرْسُ الْخَامِسُ",
+  "tuz": "5-dars",
+  "sub": "Jismoniy va aqliy sifatlar",
+  "page": 8,
+  "sentences": [
+    {
+      "ar": "هُوَ عَاقِلٌ،",
+      "tr": "U aqllidir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ عُقَلَاءُ،",
+      "tr": "Ular aqllilardir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ سَفِيهَةٌ،",
+      "tr": "U telba (aqli past)dir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "سَفِيهَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ سَفِيهَاتٌ،",
+      "tr": "Ular telbalardir",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "سَفِيهَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ ذَكِيٌّ،",
+      "tr": "Sen donosan (ziyraksan)",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "ذَكِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donosan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ أَذْكِيَاءُ،",
+      "tr": "Sizlar donolarsiz (ziyraksizlar)",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "أَذْكِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolarsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ غَبِيَّةٌ،",
+      "tr": "Sen tentaksan (fahmsizsan)",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "غَبِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentaksan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ غَبِيَّاتٌ،",
+      "tr": "Sizlar tentaklarsiz",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "غَبِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentaklarsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا سَمِينٌ،",
+      "tr": "Men semizman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "سَمِينٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ سِمَانٌ،",
+      "tr": "Biz semizlarmiz",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlarmiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ سَمِينٌ،",
+      "tr": "Bu kishi semizdir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "سَمِينٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الرِّجَالُ سِمَانٌ،",
+      "tr": "Bu kishilar semizlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishilar - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْمَرْأَةُ نَحِيفَةٌ،",
+      "tr": "Bu ayol oriqdir (ozg'indir)",
+      "parts": [
+        {
+          "w": "هَذِهِ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayol - ega"
+        },
+        {
+          "w": "نَحِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oriqdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ النِّسَاءُ نَحِيفَاتٌ،",
+      "tr": "Bu ayollar oriqlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayollar - ega"
+        },
+        {
+          "w": "نَحِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oriqlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الرَّجُلُ قَوِيٌّ،",
+      "tr": "Anavi kishi kuchlidir",
+      "parts": [
+        {
+          "w": "ذَاكَ الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishi - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولاتِكَ الرِّجَالُ أَقْوِيَاءُ،",
+      "tr": "Anavi kishilar kuchlilardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishilar - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَرْأَةُ ضَعِيفَةٌ،",
+      "tr": "Anavi ayol kuchsizdir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol - ega"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النِّسَاءُ ضَعِيفَاتٌ،",
+      "tr": "Anavi ayollar kuchsizlardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayollar - ega"
+        },
+        {
+          "w": "ضَعِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْإِنْسَانُ صَحِيحٌ،",
+      "tr": "Bu inson sog'lomdir",
+      "parts": [
+        {
+          "w": "هَذَا الْإِنْسَانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu inson - ega"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ النَّاسُ أَصِحَّاءُ،",
+      "tr": "Bu odamlar sog'lomlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ النَّاسُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu odamlar - ega"
+        },
+        {
+          "w": "أَصِحَّاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْإِنْسَانُ مَرِيضٌ،",
+      "tr": "Anavi inson kasaldir (bemordir)",
+      "parts": [
+        {
+          "w": "ذَاكَ الْإِنْسَانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi inson - ega"
+        },
+        {
+          "w": "مَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasaldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النَّاسُ مَرْضَى،",
+      "tr": "Anavi odamlar kasallardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النَّاسُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi odamlar - ega"
+        },
+        {
+          "w": "مَرْضَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasallardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الشَّيْخُ عَاقِلٌ،",
+      "tr": "Bu qariya aqllidir",
+      "parts": [
+        {
+          "w": "هَذَا الشَّيْخُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qariya - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الشُّيُوخُ عُقَلَاءُ،",
+      "tr": "Bu qariyalar aqllilardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الشُّيُوخُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qariyalar - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْعَجُوزُ سَفِيهَةٌ،",
+      "tr": "Anavi kampir telbadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْعَجُوزُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kampir - ega"
+        },
+        {
+          "w": "سَفِيهَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الْعَجَائِزُ سَفِيهَاتٌ،",
+      "tr": "Anavi kampirlar telbalardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الْعَجَائِزُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kampirlar - ega"
+        },
+        {
+          "w": "سَفِيهَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telbalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الشَّابُّ ذَكِيٌّ،",
+      "tr": "Bu yigit donodir",
+      "parts": [
+        {
+          "w": "هَذَا الشَّابُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu yigit - ega"
+        },
+        {
+          "w": "ذَكِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الشُّبَّانُ أَذْكِيَاءُ،",
+      "tr": "Bu yigitlar donolardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الشُّبَّانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu yigitlar - ega"
+        },
+        {
+          "w": "أَذْكِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolarsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الصَّبِيُّ سَمِينٌ،",
+      "tr": "Bu go'dak semizdir",
+      "parts": [
+        {
+          "w": "هَذَا الصَّبِيُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu go'dak - ega"
+        },
+        {
+          "w": "سَمِينٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الصِّبْيَانُ سِمَانٌ،",
+      "tr": "Bu go'daklar semizlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الصِّبْيَانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu go'daklar - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْوَلَدُ قَوِيٌّ،",
+      "tr": "Anavi bola kuchlidir",
+      "parts": [
+        {
+          "w": "ذَاكَ الْوَلَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi bola - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الْأَوْلَادُ أَقْوِيَاءُ،",
+      "tr": "Anavi bolalar kuchlilardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الْأَوْلَادُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi bolalar - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْخَادِمُ صَحِيحٌ،",
+      "tr": "Bu xizmatchi sog'lomdir",
+      "parts": [
+        {
+          "w": "هَذَا الْخَادِمُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu xizmatchi - ega"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْخُدَّامُ أَصِحَّاءُ،",
+      "tr": "Bu xizmatchilar sog'lomlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْخُدَّامُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu xizmatchilar - ega"
+        },
+        {
+          "w": "أَصِحَّاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْخَادِمَةُ مَرِيضَةٌ،",
+      "tr": "Bu xizmatkor qiz kasaldir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْخَادِمَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu xizmatkor qiz - ega"
+        },
+        {
+          "w": "مَرِيضَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasaldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْخَادِمَاتُ مَرِيضَاتٌ،",
+      "tr": "Bu xizmatkor qizlar kasallardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْخَادِمَاتُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu xizmatkor qizlar - ega"
+        },
+        {
+          "w": "مَرِيضَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasallardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ قَوِيٌّ،",
+      "tr": "U kuchlidir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ أَقْوِيَاءُ،",
+      "tr": "Ular kuchlilardir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ ضَعِيفَةٌ،",
+      "tr": "U (ayol) kuchsizdir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ ضَعِيفَاتٌ،",
+      "tr": "Ular (ayollar) kuchsizlardir",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "ضَعِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ صَحِيحٌ،",
+      "tr": "Sen sog'lomsan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomsan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ أَصِحَّاءُ،",
+      "tr": "Sizlar sog'lomlarsiz",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "أَصِحَّاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlarsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ مَرِيضَةٌ،",
+      "tr": "Sen (ayol) kasalsan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "مَرِيضَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasalsan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ مَرِيضَاتٌ،",
+      "tr": "Sizlar (ayollar) kasallarsiz",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "مَرِيضَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasallardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا صَحِيحٌ،",
+      "tr": "Men sog'lomman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ أَصِحَّاءُ،",
+      "tr": "Biz sog'lomlarmiz",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "أَصِحَّاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlarmiz - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

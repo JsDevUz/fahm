@@ -1,0 +1,338 @@
+{
+  "title": "٣ ـ نَصِيحَةُ إِبْرَاهِيمَ",
+  "tuz": "Ibrohimning nasihati",
+  "sub": "Otasiga nasihat qilishi",
+  "page": 11,
+  "sentences": [
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَقُولُ لِوَالِدِهِ: يَا أَبِي، لِمَاذَا تَعْبُدُ هَذِهِ الْأَصْنَامَ؟.",
+      "tr": "Ibrohim otasiga: Otajon, nega bu butlarga ibodat qilasan?",
+      "parts": [
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَقُولُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Aytadi"
+        },
+        {
+          "w": "لِوَالِدِهِ",
+          "r": "mutaalliq (تَعْبُدُ)",
+          "rc": "tmt",
+          "e": "Otasiga"
+        },
+        {
+          "w": "يَا أَبِي",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Chaqiriq"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "تَعْبُدُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ibodat qilasan"
+        },
+        {
+          "w": "هَذِهِ الْأَصْنَامَ",
+          "r": "maf'ul bih (تَعْبُدُ)",
+          "rc": "tb",
+          "e": "Bu butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَا أَبِي لِمَاذَا تَسْجُدُ لِهَذِهِ الْأَصْنَامِ؟.",
+      "tr": "Va otajon nega bu butlarga sajda qilasan?",
+      "parts": [
+        {
+          "w": "يَا أَبِي",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Chaqiriq"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "تَسْجُدُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sajda qilasan"
+        },
+        {
+          "w": "لِهَذِهِ الْأَصْنَامِ",
+          "r": "mutaalliq (تَسْجُدُ)",
+          "rc": "tmt",
+          "e": "Bu butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَا أَبِي لِمَاذَا تَسْأَلُ هَذِهِ الْأَصْنَامَ؟.",
+      "tr": "Va otajon nega bu butlardan so'raysan?",
+      "parts": [
+        {
+          "w": "تَسْأَلُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "So'raysan"
+        },
+        {
+          "w": "هَذِهِ الْأَصْنَامَ",
+          "r": "maf'ul bih (تَسْأَلُ)",
+          "rc": "tb",
+          "e": "Bu butlardan"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ هَذِهِ الْأَصْنَامَ لَا تَتَكَلَّمُ وَلَا تَسْمَعُ!.",
+      "tr": "Bu butlar gapirmaydi va eshitmaydi!",
+      "parts": [
+        {
+          "w": "إِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Muakkad bo'lak"
+        },
+        {
+          "w": "هَذِهِ الْأَصْنَامَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Inna egasi"
+        },
+        {
+          "w": "لَا تَتَكَلَّمُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Gapirmaydi"
+        },
+        {
+          "w": "وَلَا تَسْمَعُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Eshitmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّ هَذِهِ الْأَصْنَامَ لَا تَضُرُّ وَلَا تَنْفَعُ!",
+      "tr": "Va bu butlar zarar ham, foyda ham bermaydi!",
+      "parts": []
+    },
+    {
+      "ar": "وَلِأَيِّ شَيْءٍ تَضَعُ لَهَا الطَّعَامَ وَالشَّرَابَ؟.",
+      "tr": "Va nega ularga taom va ichimlik qo'yasan?",
+      "parts": [
+        {
+          "w": "وَلِأَيِّ شَيْءٍ",
+          "r": "mutaalliq (تَضَعُ)",
+          "rc": "tmt",
+          "e": "Nega"
+        },
+        {
+          "w": "تَضَعُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qo'yasan"
+        },
+        {
+          "w": "لَهَا",
+          "r": "mutaalliq (تَضَعُ)",
+          "rc": "tmt",
+          "e": "Ularga"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "r": "maf'ul bih (تَضَعُ)",
+          "rc": "tb",
+          "e": "Taomni"
+        },
+        {
+          "w": "وَالشَّرَابَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va ichimlikni"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّ هَذِهِ الْأَصْنَامَ يَا أَبِي لَا تَأْكُلُ وَلَا تَشْرَبُ.",
+      "tr": "Va bu butlar, otajon, yemaydi va ichmaydi.",
+      "parts": [
+        {
+          "w": "وَإِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Va albatta"
+        },
+        {
+          "w": "هَذِهِ الْأَصْنَامَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Inna egasi"
+        },
+        {
+          "w": "يَا أَبِي",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Chaqiriq"
+        },
+        {
+          "w": "لَا تَأْكُلُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Yemaydi"
+        },
+        {
+          "w": "وَلَا تَشْرَبُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Ichmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ آزَرُ يَغْضَبُ وَلَا يَفْهَمُ.",
+      "tr": "Ozar g'azablanar va tushunmasdi.",
+      "parts": [
+        {
+          "w": "آزَرُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَغْضَبُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "G'azablanadi"
+        },
+        {
+          "w": "وَلَا يَفْهَمُ",
+          "r": "ma'tuf (nafi)",
+          "rc": "tb",
+          "e": "Tushunmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَنْصَحُ لِقَوْمِهِ، وَكَانَ النَّاسُ يَغْضَبُونَ وَلَا يَفْهَمُونَ.",
+      "tr": "Ibrohim o'z qavmiga nasihat qilar, odamlar esa g'azablanar va tushunmasdilar.",
+      "parts": [
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَنْصَحُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nasihat qiladi"
+        },
+        {
+          "w": "لِقَوْمِهِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "O'z qavmiga"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَغْضَبُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "G'azablanadilar"
+        },
+        {
+          "w": "وَلَا يَفْهَمُونَ",
+          "r": "ma'tuf (nafi)",
+          "rc": "tb",
+          "e": "Tushunmaydilar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ إِبْرَاهِيمُ أَنَا أَكْسِرُ الْأَصْنَامَ إِذَا ذَهَبَ النَّاسُ. وَحِينَئِذٍ يَفْهَمُ النَّاسُ.",
+      "tr": "Ibrohim dedi: Odamlar ketganda butlarni sindiraman. O'shanda odamlar tushunadi.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l mozi",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Fe'l egasi"
+        },
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men — ega"
+        },
+        {
+          "w": "أَكْسِرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sindiraman"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (يَفْهَمُ)",
+          "rc": "tb",
+          "e": "Butlarni"
+        },
+        {
+          "w": "إِذَا ذَهَبَ النَّاسُ",
+          "r": "shart jumlasi",
+          "rc": "th",
+          "e": "Odamlar ketganda"
+        },
+        {
+          "w": "وَحِينَئِذٍ",
+          "r": "zarf (يَفْهَمُ)",
+          "rc": "th",
+          "e": "O'shanda"
+        },
+        {
+          "w": "يَفْهَمُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Tushunadi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (يَفْهَمُ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

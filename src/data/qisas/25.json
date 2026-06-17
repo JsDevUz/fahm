@@ -1,0 +1,795 @@
+{
+  "title": "٣١ ـ مَوْعِظَةُ السَّجْنِ",
+  "tuz": "Zindon va'zi",
+  "sub": "Yusuf zindonda odamlarni Allohga da'vat qiladi",
+  "page": 36,
+  "sentences": [
+    {
+      "ar": "وَدَخَلَ يُوسُفُ السَّجْنَ، وَعَرَفَ أَهْلُ السَّجْنِ جَمِيعًا أَنَّ يُوسُفَ شَابٌ كَرِيمٌ.",
+      "tr": "Yusuf zindonga kirdi va zindon ahli hammasi Yusufning karim bir yigit ekanini bilishdi.",
+      "parts": [
+        {
+          "w": "وَدَخَلَ يُوسُفُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yusuf kirdi"
+        },
+        {
+          "w": "السَّجْنَ",
+          "r": "maf'ul bih (وَدَخَلَ يُوسُفُ)",
+          "rc": "tb",
+          "e": "Zindonga"
+        },
+        {
+          "w": "وَعَرَفَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Bilishdi"
+        },
+        {
+          "w": "أَهْلُ السَّجْنِ",
+          "r": "fo'il (وَعَرَفَ)",
+          "rc": "tm",
+          "e": "Zindon ahli"
+        },
+        {
+          "w": "جَمِيعًا",
+          "r": "hol (وَعَرَفَ)",
+          "rc": "th",
+          "e": "Hammasi"
+        },
+        {
+          "w": "أَنَّ يُوسُفَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Yusuf"
+        },
+        {
+          "w": "شَابٌ كَرِيمٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Karim yigit"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ يُوسُفَ عِنْدَهُ عَظِيمٌ.",
+      "tr": "Va Yusufning (qalbi) buyukdir.",
+      "parts": [
+        {
+          "w": "وَأَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Va albatta"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "عِنْدَهُ",
+          "r": "zarf",
+          "rc": "th",
+          "e": "Uning oldida"
+        },
+        {
+          "w": "عَظِيمٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Buyukdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ يُوسُفَ فِي صَدْرِهِ قَلْبٌ رَحِيمٌ.",
+      "tr": "Va Yusufning ko'kragida rahmli qalb bor.",
+      "parts": [
+        {
+          "w": "وَأَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Va albatta"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "فِي صَدْرِهِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning ko'kragida"
+        },
+        {
+          "w": "قَلْبٌ رَحِيمٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Rahmli qalb bor"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَحَبَّ أَهْلُ السَّجْنِ يُوسُفَ وَأَكْرَمُوهُ.",
+      "tr": "Zindon ahli Yusufni sevdi va izzat qildilar.",
+      "parts": [
+        {
+          "w": "وَأَحَبَّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sevdi"
+        },
+        {
+          "w": "أَهْلُ السَّجْنِ",
+          "r": "fo'il (وَأَحَبَّ)",
+          "rc": "tm",
+          "e": "Zindon ahli"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَأَكْرَمُوهُ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "وَأَكْرَمُوهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Izzat qildilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَفَرِحَ النَّاسُ بِيُوسُفَ وَعَظَّمُوهُ.",
+      "tr": "Odamlar Yusufdan xursand bo'lishdi va uni ulug'ladilar.",
+      "parts": [
+        {
+          "w": "وَفَرِحَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xursand bo'ldi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَفَرِحَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "بِيُوسُفَ",
+          "r": "mutaalliq (وَعَظَّمُوهُ)",
+          "rc": "tmt",
+          "e": "Yusufdan"
+        },
+        {
+          "w": "وَعَظَّمُوهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni ulug'ladilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَدَخَلَ مَعَهُ السَّجْنَ رَجُلَانِ وَقَصَّا عَلَيْهِ رُؤْيَاهُمَا.",
+      "tr": "U bilan birga zindonga ikki kishi kirdi va ular unga o'z tushlarini aytib berishdi.",
+      "parts": [
+        {
+          "w": "وَدَخَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Kirdi"
+        },
+        {
+          "w": "مَعَهُ",
+          "r": "zarf (وَدَخَلَ)",
+          "rc": "th",
+          "e": "U bilan"
+        },
+        {
+          "w": "السَّجْنَ",
+          "r": "maf'ul bih (وَدَخَلَ)",
+          "rc": "tb",
+          "e": "Zindonga"
+        },
+        {
+          "w": "رَجُلَانِ",
+          "r": "fo'il (وَقَصَّا)",
+          "rc": "tm",
+          "e": "Ikki kishi"
+        },
+        {
+          "w": "وَقَصَّا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Aytib berishdi"
+        },
+        {
+          "w": "عَلَيْهِ",
+          "r": "mutaalliq (وَقَصَّا)",
+          "rc": "tmt",
+          "e": "Unga"
+        },
+        {
+          "w": "رُؤْيَاهُمَا",
+          "r": "maf'ul bih (وَقَصَّا)",
+          "rc": "tb",
+          "e": "O'z tushlarini"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا﴾.",
+      "tr": "Ulardan biri: Men o'zimni sharob siqayotgan holda ko'ryapman — dedi.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "أَحَدُهُمَا",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ulardan biri"
+        },
+        {
+          "w": "إِنِّي",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta men"
+        },
+        {
+          "w": "أَرَانِي",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "O'zimni ko'ryapman"
+        },
+        {
+          "w": "أَعْصِرُ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Siqayotgan"
+        },
+        {
+          "w": "خَمْرًا",
+          "r": "maf'ul bih (أَعْصِرُ)",
+          "rc": "tb",
+          "e": "Sharob"
+        }
+      ]
+    },
+    {
+      "ar": "﴿وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ﴾.",
+      "tr": "Va ikkinchisi: Men o'zimni boshimda non ko'targan holda ko'ryapman, qushlar undan yeyapti — dedi.",
+      "parts": [
+        {
+          "w": "وَقَالَ الْآخَرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va ikkinchisi dedi"
+        },
+        {
+          "w": "إِنِّي أَرَانِي",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta men o'zimni ko'ryapman"
+        },
+        {
+          "w": "أَحْمِلُ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Ko'tarayotgan"
+        },
+        {
+          "w": "فَوْقَ رَأْسِي",
+          "r": "zarf (أَحْمِلُ)",
+          "rc": "th",
+          "e": "Boshim ustida"
+        },
+        {
+          "w": "خُبْزًا",
+          "r": "maf'ul bih (تَأْكُلُ)",
+          "rc": "tb",
+          "e": "Non"
+        },
+        {
+          "w": "تَأْكُلُ",
+          "r": "fe'l (sifat)",
+          "rc": "tf",
+          "e": "Yeyapti"
+        },
+        {
+          "w": "الطَّيْرُ",
+          "r": "fo'il (تَأْكُلُ)",
+          "rc": "tm",
+          "e": "Qushlar"
+        },
+        {
+          "w": "مِنْهُ",
+          "r": "mutaalliq (تَأْكُلُ)",
+          "rc": "tmt",
+          "e": "Undan"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَأَلَ يُوسُفَ عَنِ التَّأْوِيلِ.",
+      "tr": "Va Yusufdan ta'bir (tush yormasi) haqida so'radilar.",
+      "parts": [
+        {
+          "w": "وَسَأَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "So'radilar"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَسَأَلَ)",
+          "rc": "tb",
+          "e": "Yusufdan"
+        },
+        {
+          "w": "عَنِ التَّأْوِيلِ",
+          "r": "mutaalliq (وَسَأَلَ)",
+          "rc": "tmt",
+          "e": "Ta'bir haqida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ عَالِمًا بِتَأْوِيلِ الرُّؤْيَا.",
+      "tr": "Yusuf tush ta'birini biluvchi edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "عَالِمًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Biluvchi"
+        },
+        {
+          "w": "بِتَأْوِيلِ الرُّؤْيَا",
+          "r": "mutaalliq (وَكَانَ يُوسُفُ)",
+          "rc": "tmt",
+          "e": "Tush ta'birini"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ نَبِيًّا مِنَ الْأَنْبِيَاءِ.",
+      "tr": "Yusuf payg'ambarlardan bir payg'ambar edi.",
+      "parts": [
+        {
+          "w": "نَبِيًّا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Payg'ambar"
+        },
+        {
+          "w": "مِنَ الْأَنْبِيَاءِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Payg'ambarlardan"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ فِي زَمَانِهِ يَعْبُدُونَ غَيْرَ اللَّهِ.",
+      "tr": "Uning zamonidagi odamlar Allohdan boshqasiga ibodat qilishardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ النَّاسُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Odamlar edi"
+        },
+        {
+          "w": "يَعْبُدُونَ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Ibodat qilishardi"
+        },
+        {
+          "w": "غَيْرَ اللَّهِ",
+          "r": "maf'ul bih (وَكَانَ النَّاسُ)",
+          "rc": "tb",
+          "e": "Allohdan boshqasiga"
+        }
+      ]
+    },
+    {
+      "ar": "وَضَعُوا أَرْبَابًا كَثِيرَةً مِنْ عِنْدِ أَنْفُسِهِمْ.",
+      "tr": "O'zlaridan ko'p xudolar o'ylab topdilar.",
+      "parts": [
+        {
+          "w": "وَضَعُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "O'ylab topdilar"
+        },
+        {
+          "w": "أَرْبَابًا كَثِيرَةً",
+          "r": "maf'ul bih (وَضَعُوا)",
+          "rc": "tb",
+          "e": "Ko'p xudolar"
+        },
+        {
+          "w": "مِنْ عِنْدِ أَنْفُسِهِمْ",
+          "r": "mutaalliq (وَضَعُوا)",
+          "rc": "tmt",
+          "e": "O'zlaridan"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالُوا: هَذَا رَبُّ الْبَرِّ، وَهَذَا رَبُّ الْبَحْرِ، وَهَذَا رَبُّ الرِّزْقِ، وَهَذَا رَبُّ الْمَطَرِ.",
+      "tr": "Va dedilar: Bu quruqlikning Robbisi, bu dengizning Robbisi, bu rizqning Robbisi, bu yomg'irning Robbisi.",
+      "parts": [
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "رَبُّ الْبَرِّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Quruqlikning Robbisi"
+        },
+        {
+          "w": "وَهَذَا رَبُّ الْبَحْرِ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va bu dengizning Robbisi"
+        },
+        {
+          "w": "وَهَذَا رَبُّ الرِّزْقِ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va bu rizqning Robbisi"
+        },
+        {
+          "w": "وَهَذَا رَبُّ الْمَطَرِ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va bu yomg'irning Robbisi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَرَى كُلَّ ذَلِكَ وَيَضْحَكُ.",
+      "tr": "Yusuf bularning hammasini ko'rar va kulardi.",
+      "parts": [
+        {
+          "w": "يَرَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'radi"
+        },
+        {
+          "w": "كُلَّ ذَلِكَ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "Bularning hammasini"
+        },
+        {
+          "w": "وَيَضْحَكُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va kulardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَعْلَمُ كُلَّ ذَلِكَ وَيَبْكِي.",
+      "tr": "Yusuf bularning hammasini bilardi va yig'lardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "يَعْلَمُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Bilardi"
+        },
+        {
+          "w": "كُلَّ ذَلِكَ",
+          "r": "maf'ul bih (وَكَانَ يُوسُفُ)",
+          "rc": "tb",
+          "e": "Bularning hammasini"
+        },
+        {
+          "w": "وَيَبْكِي",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va yig'lardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يُرِيدُ أَنْ يَدْعُوَهُمْ إِلَى اللَّهِ.",
+      "tr": "Yusuf ularni Allohga da'vat qilishni xohlardi.",
+      "parts": [
+        {
+          "w": "يُرِيدُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xohlardi"
+        },
+        {
+          "w": "أَنْ يَدْعُوَهُمْ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Ularni da'vat qilishni"
+        },
+        {
+          "w": "إِلَى اللَّهِ",
+          "r": "mutaalliq (أَنْ يَدْعُوَهُمْ)",
+          "rc": "tmt",
+          "e": "Allohga"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَدْ أَرَادَ اللَّهُ أَنْ يَكُونَ ذَلِكَ فِي السَّجْنِ.",
+      "tr": "Alloh buning zindonda bo'lishini xohladi.",
+      "parts": [
+        {
+          "w": "وَقَدْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Va albatta"
+        },
+        {
+          "w": "أَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (أَرَادَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "أَنْ يَكُونَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Bo'lishni"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "فِي السَّجْنِ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Zindonda"
+        }
+      ]
+    },
+    {
+      "ar": "أَلَا يَسْتَحِقُّ أَهْلُ السَّجْنِ الْمَوْعِظَةَ؟.",
+      "tr": "Zindon ahli va'zga loyiq emasmi?",
+      "parts": [
+        {
+          "w": "أَلَا",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Emasmi"
+        },
+        {
+          "w": "يَسْتَحِقُّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Loyiq"
+        },
+        {
+          "w": "أَهْلُ السَّجْنِ",
+          "r": "fo'il (يَسْتَحِقُّ)",
+          "rc": "tm",
+          "e": "Zindon ahli"
+        },
+        {
+          "w": "الْمَوْعِظَةَ",
+          "r": "maf'ul bih (يَسْتَحِقُّ)",
+          "rc": "tb",
+          "e": "Va'zga"
+        }
+      ]
+    },
+    {
+      "ar": "أَلَا يَسْتَحِقُّ أَهْلُ السَّجْنِ الرَّحْمَةَ؟.",
+      "tr": "Zindon ahli rahmatga loyiq emasmi?",
+      "parts": [
+        {
+          "w": "الرَّحْمَةَ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "Rahmatga"
+        }
+      ]
+    },
+    {
+      "ar": "أَلَيْسَ أَهْلُ السَّجْنِ عِبَادَ اللَّهِ؟.",
+      "tr": "Zindon ahli Allohning bandalari emasmi?",
+      "parts": [
+        {
+          "w": "أَلَيْسَ",
+          "r": "fe'l noqis (istifhom)",
+          "rc": "tf",
+          "e": "Emasmi"
+        },
+        {
+          "w": "أَهْلُ السَّجْنِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Zindon ahli"
+        },
+        {
+          "w": "عِبَادَ اللَّهِ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Allohning bandalari"
+        }
+      ]
+    },
+    {
+      "ar": "أَلَيْسَ أَهْلُ السَّجْنِ بَنِي آدَمَ؟.",
+      "tr": "Zindon ahli Odam farzandlari emasmi?",
+      "parts": [
+        {
+          "w": "بَنِي آدَمَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Odam farzandlari"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ يُوسُفُ فِي السَّجْنِ وَلَكِنَّهُ كَانَ حُرًّا جَرِيئًا.",
+      "tr": "Yusuf zindonda edi, lekin u ozod va jasur edi.",
+      "parts": [
+        {
+          "w": "كَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "فِي السَّجْنِ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Zindonda"
+        },
+        {
+          "w": "وَلَكِنَّهُ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Lekin u"
+        },
+        {
+          "w": "كَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "حُرًّا جَرِيئًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Ozod va jasur"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ يُوسُفُ فَقِيرًا وَلَكِنَّهُ كَانَ جَوَادًا سَخِيًّا.",
+      "tr": "Yusuf kambag'al edi, lekin u saxiy va karim edi.",
+      "parts": [
+        {
+          "w": "كَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "فَقِيرًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Kambag'al"
+        },
+        {
+          "w": "وَلَكِنَّهُ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Lekin u"
+        },
+        {
+          "w": "كَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "جَوَادًا سَخِيًّا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Saxiy va karim"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ الْأَنْبِيَاءَ يَجْهَرُونَ بِالْحَقِّ فِي كُلِّ مَكَانٍ.",
+      "tr": "Payg'ambarlar har joyda haqni ochiq aytadilar.",
+      "parts": [
+        {
+          "w": "إِنَّ الْأَنْبِيَاءَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta payg'ambarlar"
+        },
+        {
+          "w": "يَجْهَرُونَ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Ochiq aytadilar"
+        },
+        {
+          "w": "بِالْحَقِّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Haq bilan"
+        },
+        {
+          "w": "فِي كُلِّ مَكَانٍ",
+          "r": "zarf",
+          "rc": "th",
+          "e": "Har joyda"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ الْأَنْبِيَاءَ يَجُودُونَ بِالْخَيْرِ فِي كُلِّ زَمَانٍ.",
+      "tr": "Payg'ambarlar har zamonda yaxshilik qiladilar.",
+      "parts": [
+        {
+          "w": "يَجُودُونَ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yaxshilik qiladilar"
+        },
+        {
+          "w": "بِالْخَيْرِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Yaxshilik bilan"
+        },
+        {
+          "w": "فِي كُلِّ زَمَانٍ",
+          "r": "zarf",
+          "rc": "th",
+          "e": "Har zamonda"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

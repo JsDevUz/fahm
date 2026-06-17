@@ -12,26 +12,25 @@ function App() {
     qisas: [],
     shifohiyya: []
   });
+  const [activeChapterData, setActiveChapterData] = useState(null);
   const [words, setWords] = useState({});
   const [isLoading, setIsLoading] = useState(true);
+  const [isChapterLoading, setIsChapterLoading] = useState(false);
   
   const [activeBook, setActiveBook] = useState(null);
   const [activeChapterIndex, setActiveChapterIndex] = useState(null);
-
   useEffect(() => {
     const loadData = async () => {
       try {
         setIsLoading(true);
-        const [qisasMod, shifoMod, wordsMod] = await Promise.all([
-          import('./data/qisas_chapters.json'),
-          import('./data/shifohiyya_chapters.json'),
-          import('./data/words.json')
+        const [qisasMod, shifoMod] = await Promise.all([
+          import('./data/qisas/index.json'),
+          import('./data/shifohiyya/index.json')
         ]);
         setChaptersByBook({
           qisas: qisasMod.default || qisasMod,
           shifohiyya: shifoMod.default || shifoMod
         });
-        setWords(wordsMod.default || wordsMod);
       } catch (err) {
         console.error("Failed to load data:", err);
       } finally {
@@ -40,6 +39,22 @@ function App() {
     };
     loadData();
   }, []);
+
+  useEffect(() => {
+    if (currentView === 'chapter' && activeBook && activeChapterIndex !== null) {
+      setIsChapterLoading(true);
+      Promise.all([
+        import(`./data/${activeBook.id}/${activeChapterIndex}.json`),
+        import(`./data/${activeBook.id}/${activeChapterIndex}_words.json`)
+      ])
+      .then(([chapterMod, wordsMod]) => {
+         setActiveChapterData(chapterMod.default || chapterMod);
+         setWords(wordsMod.default || wordsMod);
+      })
+      .catch(console.error)
+      .finally(() => setIsChapterLoading(false));
+    }
+  }, [currentView, activeBook, activeChapterIndex]);
 
   useEffect(() => {
     const handleHashChange = () => {
@@ -114,14 +129,21 @@ function App() {
               />
             )}
             {currentView === 'chapter' && activeChapterIndex !== null && (
-               <ChapterView 
-                chapter={bookChapters[activeChapterIndex]} 
-                words={words} 
-                onBack={() => navigateTo('reader')}
-                chapterIndex={activeChapterIndex}
-                totalChapters={bookChapters.length}
-                onNavigateChapter={(idx) => navigateTo('chapter', idx)}
-              />
+              isChapterLoading || !activeChapterData ? (
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%', color: 'var(--text-secondary)' }}>
+                  <div style={{ width: '40px', height: '40px', border: '3px solid var(--border-color)', borderTop: '3px solid var(--accent-primary)', borderRadius: '50%', animation: 'spin 1s linear infinite', marginBottom: '16px' }}></div>
+                  <p>Mavzu yuklanmoqda...</p>
+                </div>
+              ) : (
+                <ChapterView 
+                  chapter={activeChapterData} 
+                  words={words} 
+                  onBack={() => navigateTo('reader')}
+                  chapterIndex={activeChapterIndex}
+                  totalChapters={bookChapters.length}
+                  onNavigateChapter={(idx) => navigateTo('chapter', idx)}
+                />
+              )
             )}
           </div>
         )}

@@ -1,0 +1,1665 @@
+{
+  "title": "٧. الدَّرْسُ السَّابِعُ",
+  "tuz": "7-dars",
+  "sub": "Oila va qarindoshlik aloqalari",
+  "page": 13,
+  "sentences": [
+    {
+      "ar": "أَبُوهُ غَنِيٌّ،",
+      "tr": "Uning otasi boydir",
+      "parts": [
+        {
+          "w": "أَبُوهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning otasi - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "آبَاؤُهُمْ أَغْنِيَاءُ،",
+      "tr": "Ularning otalari boylardir",
+      "parts": [
+        {
+          "w": "آبَاؤُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning otalari - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبُوهَا عَالِمٌ،",
+      "tr": "Uning (ayol) otasi olimdir",
+      "parts": [
+        {
+          "w": "أَبُوهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning otasi - ega"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "آبَاؤُهُنَّ عُلَمَاءُ،",
+      "tr": "Ularning (ayollar) otalari olimlardir",
+      "parts": [
+        {
+          "w": "آبَاؤُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning otalari - ega"
+        },
+        {
+          "w": "عُلَمَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبُوكَ شَيْخٌ،",
+      "tr": "Sening otang qariyadir",
+      "parts": [
+        {
+          "w": "أَبُوكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening otang - ega"
+        },
+        {
+          "w": "شَيْخٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "آبَاؤُكُمْ شُيُوحٌ،",
+      "tr": "Sizlarning otalaringiz qariyalardir",
+      "parts": [
+        {
+          "w": "آبَاؤُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning otalaringiz - ega"
+        },
+        {
+          "w": "شُيُوحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبُوكَ شَابٌّ،",
+      "tr": "Sening otang yigitdir",
+      "parts": [
+        {
+          "w": "أَبُوكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening otang - ega"
+        },
+        {
+          "w": "شَابٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigitdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "آبَاؤُكُنَّ شُبَّانٌ،",
+      "tr": "Sizlarning (ayollar) otalaringiz yigitlardir",
+      "parts": [
+        {
+          "w": "آبَاؤُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning otalaringiz - ega"
+        },
+        {
+          "w": "شُبَّانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigitlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبِي عَاقِلٌ،",
+      "tr": "Mening otam aqllidir",
+      "parts": [
+        {
+          "w": "أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening otam - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "آبَاؤُنَا عُقَلَاءُ،",
+      "tr": "Bizning otalarimiz aqllilardir",
+      "parts": [
+        {
+          "w": "آبَاؤُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning otalarimiz - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّهُ غَنِيَّةٌ،",
+      "tr": "Uning onasi boydir",
+      "parts": [
+        {
+          "w": "أُمُّهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning onasi - ega"
+        },
+        {
+          "w": "غَنِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمَّهَاتُهُمْ غَنِيَّاتٌ،",
+      "tr": "Ularning onalari boylardir",
+      "parts": [
+        {
+          "w": "أُمَّهَاتُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning onalari - ega"
+        },
+        {
+          "w": "غَنِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّهَا عَالِمَةٌ،",
+      "tr": "Uning (ayol) onasi olimadir",
+      "parts": [
+        {
+          "w": "أُمُّهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning onasi - ega"
+        },
+        {
+          "w": "عَالِمَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمَّهَاتُهُنَّ عَالِمَاتٌ،",
+      "tr": "Ularning (ayollar) onalari olimalardir",
+      "parts": [
+        {
+          "w": "أُمَّهَاتُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning onalari - ega"
+        },
+        {
+          "w": "عَالِمَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّكَ عَجُوزٌ،",
+      "tr": "Sening onang kampirdir",
+      "parts": [
+        {
+          "w": "أُمُّكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening onang - ega"
+        },
+        {
+          "w": "عَجُوزٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمَّهَاتُكُمْ عَجَائِزُ،",
+      "tr": "Sizlarning onalaringiz kampirlardir",
+      "parts": [
+        {
+          "w": "أُمَّهَاتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning onalaringiz - ega"
+        },
+        {
+          "w": "عَجَائِزُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّكَ عَاقِلَةٌ،",
+      "tr": "Sening onang aqllidir",
+      "parts": [
+        {
+          "w": "أُمُّكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening onang - ega"
+        },
+        {
+          "w": "عَاقِلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمَّهَاتُكُنَّ عَاقِلَاتٌ،",
+      "tr": "Sizlarning (ayollar) onalaringiz aqllilardir",
+      "parts": [
+        {
+          "w": "أُمَّهَاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning onalaringiz - ega"
+        },
+        {
+          "w": "عَاقِلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمِّي عَالِمَةٌ،",
+      "tr": "Mening onam olimadir",
+      "parts": [
+        {
+          "w": "أُمِّي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening onam - ega"
+        },
+        {
+          "w": "عَالِمَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمَّهَاتُنَا عَالِمَاتٌ،",
+      "tr": "Bizning onalarimiz olimalardir",
+      "parts": [
+        {
+          "w": "أُمَّهَاتُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning onalarimiz - ega"
+        },
+        {
+          "w": "عَالِمَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنُهُ كَبِيرٌ،",
+      "tr": "Uning o'g'li kattadir",
+      "parts": [
+        {
+          "w": "اِبْنُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning o'g'li - ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاؤُهُمْ كِبَارٌ،",
+      "tr": "Ularning o'g'illari kattalardir",
+      "parts": [
+        {
+          "w": "أَبْنَاؤُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning o'g'illari - ega"
+        },
+        {
+          "w": "كِبَارٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنُكَ صَغِيرٌ،",
+      "tr": "Sening o'g'ling kichikdir",
+      "parts": [
+        {
+          "w": "اِبْنُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening o'g'ling - ega"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichikdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاؤُكُمْ صِغَارٌ،",
+      "tr": "Sizlarning o'g'illaringiz kichiklardir",
+      "parts": [
+        {
+          "w": "أَبْنَاؤُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning o'g'illaringiz - ega"
+        },
+        {
+          "w": "صِغَارٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichiklardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنِي عَاقِلٌ،",
+      "tr": "Mening o'g'lim aqllidir",
+      "parts": [
+        {
+          "w": "اِبْنِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening o'g'lim - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَائِي عُقَلَاءُ،",
+      "tr": "Mening o'g'illarim aqllilardir",
+      "parts": [
+        {
+          "w": "أَبْنَائِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening o'g'illarim - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَتُهَا ذَكِيَّةٌ،",
+      "tr": "Uning (ayol) qizi donodir",
+      "parts": [
+        {
+          "w": "اِبْنَتُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning qizi - ega"
+        },
+        {
+          "w": "ذَكِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَنَاتُهُنَّ ذَكِيَّاتٌ،",
+      "tr": "Ularning (ayollar) qizlari donolardir",
+      "parts": [
+        {
+          "w": "بَنَاتُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning qizlari - ega"
+        },
+        {
+          "w": "ذَكِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَتُكِ سَمِينَةٌ،",
+      "tr": "Sening (ayol) qizing semizdir",
+      "parts": [
+        {
+          "w": "اِبْنَتُكِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening qizing - ega"
+        },
+        {
+          "w": "سَمِينَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَنَاتُكُنَّ سَمِينَاتٌ،",
+      "tr": "Sizlarning (ayollar) qizlaringiz semizlardir",
+      "parts": [
+        {
+          "w": "بَنَاتُكُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning qizlaringiz - ega"
+        },
+        {
+          "w": "سَمِينَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَتِي صَحِيحَةٌ،",
+      "tr": "Mening qizim sog'lomdir",
+      "parts": [
+        {
+          "w": "اِبْنَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qizim - ega"
+        },
+        {
+          "w": "صَحِيحَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَنَاتُنَا صَحِيحَاتٌ،",
+      "tr": "Bizning qizlarimiz sog'lomlardir",
+      "parts": [
+        {
+          "w": "بَنَاتُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning qizlarimiz - ega"
+        },
+        {
+          "w": "صَحِيحَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخُوهُ قَوِيٌّ،",
+      "tr": "Uning akasi (ukasi) kuchlidir",
+      "parts": [
+        {
+          "w": "أَخُوهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning akasi - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "إِخْوَتُهُمْ أَقْوِيَاءُ،",
+      "tr": "Ularning aka-ukalari kuchlilardir",
+      "parts": [
+        {
+          "w": "إِخْوَتُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning aka-ukalari - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُخْتُكَ ضَعِيفَةٌ،",
+      "tr": "Sening opang (singling) kuchsizdir",
+      "parts": [
+        {
+          "w": "أُخْتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening opang - ega"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخَوَاتُكُمْ ضَعِيفَاتٌ،",
+      "tr": "Sizlarning opa-singillaringiz kuchsizlardir",
+      "parts": [
+        {
+          "w": "أَخَوَاتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning opa-singillaringiz - ega"
+        },
+        {
+          "w": "ضَعِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدِّي شَيْخٌ،",
+      "tr": "Mening bobom qariyadir",
+      "parts": [
+        {
+          "w": "جَدِّي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening bobom - ega"
+        },
+        {
+          "w": "شَيْخٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَجْدَادِي شُيُوحٌ،",
+      "tr": "Mening bobolarim qariyalardir",
+      "parts": [
+        {
+          "w": "أَجْدَادِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening bobolarim - ega"
+        },
+        {
+          "w": "شُيُوحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدَّتِي عَجُوزٌ،",
+      "tr": "Mening buvim (momom) kampirdir",
+      "parts": [
+        {
+          "w": "جَدَّتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening buvim - ega"
+        },
+        {
+          "w": "عَجُوزٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدَّاتِي عَجَائِزُ،",
+      "tr": "Mening buvilarim kampirlardir",
+      "parts": [
+        {
+          "w": "جَدَّاتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening buvilarim - ega"
+        },
+        {
+          "w": "عَجَائِزُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَوْجُهَا غَنِيٌّ،",
+      "tr": "Uning eri boydir",
+      "parts": [
+        {
+          "w": "زَوْجُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning eri - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزْوَاجُهُنَّ أَغْنِيَاءُ،",
+      "tr": "Ularning erlari boylardir",
+      "parts": [
+        {
+          "w": "أَزْوَاجُهُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning erlari - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَوْجَتُكَ عَالِمَةٌ،",
+      "tr": "Sening xotining olimadir",
+      "parts": [
+        {
+          "w": "زَوْجَتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening xotining - ega"
+        },
+        {
+          "w": "عَالِمَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَوْجَاتُكُمْ عَالِمَاتٌ،",
+      "tr": "Sizlarning xotinlaringiz olimalardir",
+      "parts": [
+        {
+          "w": "زَوْجَاتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning xotinlaringiz - ega"
+        },
+        {
+          "w": "عَالِمَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَتَنُ عَلِيٍّ فَقِيرٌ،",
+      "tr": "Alining kuyovi kambag'aldir",
+      "parts": [
+        {
+          "w": "خَتَنُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining kuyovi - ega"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'aldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخْتَانُ عَلِيٍّ فُقَرَاءُ،",
+      "tr": "Alining kuyovlari kambag'allardir",
+      "parts": [
+        {
+          "w": "أَخْتَانُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining kuyovlari - ega"
+        },
+        {
+          "w": "فُقَرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "كَنَّةُ عَلِيٍّ جَاهِلَةٌ،",
+      "tr": "Alining kelini nodondir",
+      "parts": [
+        {
+          "w": "كَنَّةُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining kelini - ega"
+        },
+        {
+          "w": "جَاهِلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodondir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "كَنَّاتُ عَلِيٍّ جَاهِلَاتٌ،",
+      "tr": "Alining kelinlari nodonlardir",
+      "parts": [
+        {
+          "w": "كَنَّاتُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining kelinlari - ega"
+        },
+        {
+          "w": "جَاهِلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodonlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبُو مَرْيَمَ عَاقِلٌ،",
+      "tr": "Maryamning otasi aqllidir",
+      "parts": [
+        {
+          "w": "أَبُو مَرْيَمَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Maryamning otasi - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّ زَيْنَبَ عَاقِلَةٌ،",
+      "tr": "Zaynabning onasi aqllidir",
+      "parts": [
+        {
+          "w": "أُمُّ زَيْنَبَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zaynabning onasi - ega"
+        },
+        {
+          "w": "عَاقِلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqllidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنُ خَدِيجَةَ ذَكِيٌّ،",
+      "tr": "Xadijaning o'g'li donodir",
+      "parts": [
+        {
+          "w": "اِبْنُ خَدِيجَةَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xadijaning o'g'li - ega"
+        },
+        {
+          "w": "ذَكِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donodir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاءُ خَدِيجَةَ أَذْكِيَاءُ،",
+      "tr": "Xadijaning o'g'illari donolardir",
+      "parts": [
+        {
+          "w": "أَبْنَاءُ خَدِيجَةَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xadijaning o'g'illari - ega"
+        },
+        {
+          "w": "أَذْكِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Donolardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَةُ عَائِشَةَ غَبِيَّةٌ،",
+      "tr": "Oishaning qizi tentakdir",
+      "parts": [
+        {
+          "w": "اِبْنَةُ عَائِشَةَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Oishaning qizi - ega"
+        },
+        {
+          "w": "غَبِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentakdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَنَاتُ عَائِشَةَ غَبِيَّاتٌ،",
+      "tr": "Oishaning qizlari tentaklarsiz",
+      "parts": [
+        {
+          "w": "بَنَاتُ عَائِشَةَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Oishaning qizlari - ega"
+        },
+        {
+          "w": "غَبِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentaklarsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخِي سَمِينٌ،",
+      "tr": "Mening akam (imim) semizdir",
+      "parts": [
+        {
+          "w": "أَخِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening akam - ega"
+        },
+        {
+          "w": "سَمِينٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "إِخْوَتُنَا سِمَانٌ،",
+      "tr": "Bizning aka-ukalarimiz semizlardir",
+      "parts": [
+        {
+          "w": "إِخْوَتُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning aka-ukalarimiz - ega"
+        },
+        {
+          "w": "سِمَانٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Semizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُخْتُ عَلِيٍّ نَحِيفَةٌ،",
+      "tr": "Alining opasi (singlisi) oriqdir",
+      "parts": [
+        {
+          "w": "أُخْتُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining opasi - ega"
+        },
+        {
+          "w": "نَحِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oriqdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخَوَاتُ عَلِيٍّ نَحِيفَاتٌ،",
+      "tr": "Alining opa-singillari oriqlardir",
+      "parts": [
+        {
+          "w": "أَخَوَاتُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining opa-singillari - ega"
+        },
+        {
+          "w": "نَحِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oriqlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدُّ مُحَمَّدٍ قَوِيٌّ،",
+      "tr": "Muhammadning bobosi kuchlidir",
+      "parts": [
+        {
+          "w": "جَدُّ مُحَمَّدٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Muhammadning bobosi - ega"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَجْدَادُ مُحَمَّدٍ أَقْوِيَاءُ،",
+      "tr": "Muhammadning bobolari kuchlilardir",
+      "parts": [
+        {
+          "w": "أَجْدَادُ مُحَمَّدٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Muhammadning bobolari - ega"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlilardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدَّةُ مُحَمَّدٍ ضَعِيفَةٌ،",
+      "tr": "Muhammadning buvisi kuchsizdir",
+      "parts": [
+        {
+          "w": "جَدَّةُ مُحَمَّدٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Muhammadning buvisi - ega"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَدَّاتُ مَحْمُودٍ ضَعِيفَاتٌ،",
+      "tr": "Mahmudning buvilari kuchsizlardir",
+      "parts": [
+        {
+          "w": "جَدَّاتُ مَحْمُودٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahmudning buvilari - ega"
+        },
+        {
+          "w": "ضَعِيفَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsizlardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَوْجُ فَاطِمَةٌ صَحِيحٌ،",
+      "tr": "Fotimaning eri sog'lomdir",
+      "parts": [
+        {
+          "w": "زَوْجُ فَاطِمَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Fotimaning eri - ega"
+        },
+        {
+          "w": "صَحِيحٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَوْجَةُ شَرِيفٍ مَرِيضَةٌ،",
+      "tr": "Sharifning xotini kasaldir",
+      "parts": [
+        {
+          "w": "زَوْجَةُ شَرِيفٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sharifning xotini - ega"
+        },
+        {
+          "w": "مَرِيضَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasaldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَتَنُ عَارِفٍ غَنِيٌّ،",
+      "tr": "Orifning kuyovi boydir",
+      "parts": [
+        {
+          "w": "خَتَنُ عَارِفٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Orifning kuyovi - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخْتَانُ عَارِفٍ أَغْنِيَاءُ،",
+      "tr": "Orifning kuyovlari boylardir",
+      "parts": [
+        {
+          "w": "أَخْتَانُ عَارِفٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Orifning kuyovlari - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "كَنَّةُ ظَرِيفٍ فَقِيرَةٌ،",
+      "tr": "Zarifning kelini kambag'aldir",
+      "parts": [
+        {
+          "w": "كَنَّةُ ظَرِيفٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zarifning kelini - ega"
+        },
+        {
+          "w": "فَقِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'aldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "كَنَّاتُ ظَرِيفٍ فَقِيرَاتٌ،",
+      "tr": "Zarifning kelinlari kambag'allardir",
+      "parts": [
+        {
+          "w": "كَنَّاتُ ظَرِيفٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zarifning kelinlari - ega"
+        },
+        {
+          "w": "فَقِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ أَبُوكَ،",
+      "tr": "U sening otangdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "أَبُوكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening otangdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ آبَاؤُكُمْ،",
+      "tr": "Ular sizlarning otalaringizdir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "آبَاؤُكُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning otalaringizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ أُمُّكِ،",
+      "tr": "U sening (ayol) onangdir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "أُمُّكِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening onangdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ أُمَّهَاتُكُنَّ،",
+      "tr": "Ular sizlarning (ayollar) onalaringizdir",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "أُمَّهَاتُكُنَّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning onalaringizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْبَتَ اِبْنُهُ،",
+      "tr": "Sen uning o'g'lisan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "اِبْنُهُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uning o'g'lisan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ أَبْنَاؤُهُمْ،",
+      "tr": "Sizlar ularning o'g'illarisiz",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "أَبْنَاؤُهُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ularning o'g'illarisiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ اِبْنَتُهَا،",
+      "tr": "Sen uning (ayol) qizisan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "اِبْنَتُهَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uning qizisan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ بَنَاتُهُنَّ،",
+      "tr": "Sizlar ularning qizlarisiz",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "بَنَاتُهُنَّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ularning qizlarisiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا أَخُوكَ،",
+      "tr": "Men sening akangman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "أخُوكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening akangman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ إِخْوَتُكُمْ،",
+      "tr": "Biz sizlarning aka-ukalaringizman",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "إِخْوَتُكُمْ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sizlarning aka-ukalaringizman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ أُخْتِي،",
+      "tr": "U mening opamdir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "أُخْتِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening opamdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ أَخَوَاتِي،",
+      "tr": "Ular mening opa-singillarimdir",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "أَخَوَاتِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening opa-singillarimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ جَدِّي،",
+      "tr": "U mening bobomdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "جَدِّي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening bobomdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ أَجْدَادِي،",
+      "tr": "Ular mening bobolarimdir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "أَجْدَادِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening bobolarimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ جَدَّتِي،",
+      "tr": "U mening buvimdir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "جَدَّتِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening buvimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ جَدَّاتُنَا،",
+      "tr": "Ular bizning buvilarimizdir",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "جَدَّاتُنَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bizning buvilarimizdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "زَيْدُ بْنُ بَكْرٍ صَدِيقِي،",
+      "tr": "Bakr o'g'li Zayd mening do'stimdir",
+      "parts": [
+        {
+          "w": "زَيْدُ بْنُ بَكْرٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bakr o'g'li Zayd - ega"
+        },
+        {
+          "w": "صَدِيقِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening do'stimdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبِي عَلِيُّ بْنُ مَحْمُودٍ،",
+      "tr": "Mening otam Mahmud o'g'li Alidir",
+      "parts": [
+        {
+          "w": "أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening otam - ega"
+        },
+        {
+          "w": "عَلِيُّ بْنُ مَحْمُودٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mahmud o'g'li Alidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ اِبْنُ خَالِدِ بْنِ عَارِفٍ،",
+      "tr": "Sen Orif o'g'li Xolidning o'g'lisan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "اِبْنُ خَالِدِ بْنِ عَارِفٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Orif o'g'li Xolidning o'g'lisan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا اِبْنُ شَاكِرِ بْنِ ذَاكِرٍ،",
+      "tr": "Men Zokir o'g'li Shokirning o'g'liman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "اِبْنُ شَاكِرِ بْنِ ذَاكِرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zokir o'g'li Shokirning o'g'liman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ اِبْنَةُ عَلِيِّ بْنِ مَحْمُودٍ،",
+      "tr": "U Mahmud o'g'li Alining qizidir",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "اِبْنَةُ عَلِيِّ بْنِ مَحْمُودٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mahmud o'g'li Alining qizidir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ اِبْنَةُ زَيْدِ بْنِ بَكْرٍ،",
+      "tr": "Sen Bakr o'g'li Zaydning qizisan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "اِبْنَةُ زَيْدِ بْنِ بَكْرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bakr o'g'li Zaydning qizisan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا اِبْنَةُ مَحْمُودِ بْنِ حَمَّادٍ،",
+      "tr": "Men Hammad o'g'li Mahmudning qiziman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "اِبْنَةُ مَحْمُودِ بْنِ حَمَّادٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Hammad o'g'li Mahmudning qiziman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا أَحْمَدُ بْنُ نِظَامِ بْنِ عَيْنِ بْنِ مَقْصُودٍ،",
+      "tr": "Men Maqsud o'g'li Ayn o'g'li Nizom o'g'li Ahmadman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "أَحْمَدُ بْنُ نِظَامِ بْنِ عَيْنِ بْنِ مَقْصُودٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ism shajarasi - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

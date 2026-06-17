@@ -1,0 +1,315 @@
+{
+  "title": "٢٥ ـ يُوسُفُ فِي الْبِئْرِ",
+  "tuz": "Yusuf quduqda",
+  "sub": "Yusuf quduqda yolg'iz qoladi",
+  "page": 33,
+  "sentences": [
+    {
+      "ar": "وَرَجَعَ الْإِخْوَةُ إِلَى الْبَيْتِ، وَتَرَكُوا يُوسُفَ فِي الْبِئْرِ.",
+      "tr": "Aka-ukalar uyga qaytishdi va Yusufni quduqda qoldirishdi.",
+      "parts": [
+        {
+          "w": "وَرَجَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qaytdi"
+        },
+        {
+          "w": "الْإِخْوَةُ",
+          "r": "fo'il (وَرَجَعَ)",
+          "rc": "tm",
+          "e": "Aka-ukalar"
+        },
+        {
+          "w": "إِلَى الْبَيْتِ",
+          "r": "mutaalliq (وَتَرَكُوا)",
+          "rc": "tmt",
+          "e": "Uyga"
+        },
+        {
+          "w": "وَتَرَكُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qoldirishdi"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَتَرَكُوا)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "فِي الْبِئْرِ",
+          "r": "mutaalliq (وَتَرَكُوا)",
+          "rc": "tmt",
+          "e": "Quduqda"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَكَلَ الْإِخْوَةُ الطَّعَامَ، وَنَامُوا عَلَى الْفِرَاشِ.",
+      "tr": "Aka-ukalar taom yeyishdi va to'shakda uxlashdi.",
+      "parts": [
+        {
+          "w": "وَأَكَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yedilar"
+        },
+        {
+          "w": "الْإِخْوَةُ",
+          "r": "fo'il (وَأَكَلَ)",
+          "rc": "tm",
+          "e": "Aka-ukalar"
+        },
+        {
+          "w": "الطَّعَامَ",
+          "r": "maf'ul bih (وَنَامُوا)",
+          "rc": "tb",
+          "e": "Taomni"
+        },
+        {
+          "w": "وَنَامُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uxlashdi"
+        },
+        {
+          "w": "عَلَى الْفِرَاشِ",
+          "r": "mutaalliq (وَنَامُوا)",
+          "rc": "tmt",
+          "e": "To'shakda"
+        }
+      ]
+    },
+    {
+      "ar": "وَيُوسُفُ فِي الْبِئْرِ، لَا فِرَاشَ وَلَا طَعَامَ.",
+      "tr": "Yusuf esa quduqda — na to'shak, na taom.",
+      "parts": [
+        {
+          "w": "وَيُوسُفُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yusuf esa"
+        },
+        {
+          "w": "فِي الْبِئْرِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Quduqda"
+        },
+        {
+          "w": "لَا",
+          "r": "harf nafiy",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "فِرَاشَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "To'shak"
+        },
+        {
+          "w": "وَلَا",
+          "r": "harf nafiy",
+          "rc": "tb",
+          "e": "Va yo'q"
+        },
+        {
+          "w": "طَعَامَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Taom"
+        }
+      ]
+    },
+    {
+      "ar": "وَنَسِيَ الْإِخْوَانُ يُوسُفَ، وَنَامُوا.",
+      "tr": "Aka-ukalar Yusufni unutdilar va uxlashdi.",
+      "parts": [
+        {
+          "w": "وَنَسِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Unutdilar"
+        },
+        {
+          "w": "الْإِخْوَانُ",
+          "r": "fo'il (وَنَسِيَ)",
+          "rc": "tm",
+          "e": "Aka-ukalar"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَنَامُوا)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "وَنَامُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uxlashdi"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَا نَامَ يُوسُفُ، وَمَا نَسِيَ أَحَدًا.",
+      "tr": "Yusuf uxlamadi va hech kimni unutmadi.",
+      "parts": [
+        {
+          "w": "وَمَا نَامَ",
+          "r": "fe'l (nafi)",
+          "rc": "tf",
+          "e": "Uxlamadi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "fo'il (وَمَا نَامَ)",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "وَمَا نَسِيَ",
+          "r": "fe'l (nafi)",
+          "rc": "tf",
+          "e": "Unutmadi"
+        },
+        {
+          "w": "أَحَدًا",
+          "r": "maf'ul bih (وَمَا نَسِيَ)",
+          "rc": "tb",
+          "e": "Hech kimni"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَقِيَ يَعْقُوبُ يَذْكُرُ يُوسُفَ، وَبَقِيَ يُوسُفُ يَذْكُرُ يَعْقُوبَ.",
+      "tr": "Ya'qub Yusufni eslayverdi va Yusuf ham Ya'qubni eslayverdi.",
+      "parts": [
+        {
+          "w": "وَبَقِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Davom etdi"
+        },
+        {
+          "w": "يَعْقُوبُ",
+          "r": "fo'il (وَبَقِيَ)",
+          "rc": "tm",
+          "e": "Ya'qub"
+        },
+        {
+          "w": "يَذْكُرُ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Eslab"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (يَذْكُرُ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "وَبَقِيَ يُوسُفُ يَذْكُرُ يَعْقُوبَ",
+          "r": "jumla",
+          "rc": "th",
+          "e": "Yusuf esa Ya'qubni eslab turdi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ فِي الْبِئْرِ وَكَانَتِ الْبِئْرُ عَمِيقَةً.",
+      "tr": "Yusuf quduqda edi va quduq chuqur edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "فِي الْبِئْرِ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Quduqda"
+        },
+        {
+          "w": "وَكَانَتِ الْبِئْرُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Quduq edi"
+        },
+        {
+          "w": "عَمِيقَةً",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Chuqur"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتِ الْبِئْرُ فِي الْغَابَةِ، وَكَانَتِ الْغَابَةُ مُوحِشَةً.",
+      "tr": "Quduq o'rmonda edi va o'rmon vahimali edi.",
+      "parts": [
+        {
+          "w": "وَكَانَتِ الْبِئْرُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Quduq edi"
+        },
+        {
+          "w": "فِي الْغَابَةِ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "O'rmonda"
+        },
+        {
+          "w": "وَكَانَتِ الْغَابَةُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "O'rmon edi"
+        },
+        {
+          "w": "مُوحِشَةً",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Vahimali"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ ذَلِكَ فِي اللَّيْلِ، وَكَانَ اللَّيْلُ مُظْلِمًا.",
+      "tr": "Bu kechasi edi va kecha qorong'i edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ ذَلِكَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Bu edi"
+        },
+        {
+          "w": "فِي اللَّيْلِ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Kechasi"
+        },
+        {
+          "w": "وَكَانَ اللَّيْلُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Kecha edi"
+        },
+        {
+          "w": "مُظْلِمًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Qorong'i"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

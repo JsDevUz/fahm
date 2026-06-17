@@ -1,0 +1,210 @@
+[
+  {
+    "id": "shifohiyya-0",
+    "title": "١. الدَّرْسُ الْأَوَّلُ (الْمُذَكَّرُ)",
+    "tuz": "1-dars (Erkak jinsi)",
+    "sub": "Erkak jinsidagi sifatlar va olmoshlar",
+    "page": 3,
+    "sentenceCount": 12
+  },
+  {
+    "id": "shifohiyya-1",
+    "title": "٢. الدَّرْسُ الثَّانِي (الْمُؤَنَّثُ)",
+    "tuz": "2-dars (Ayol jinsi)",
+    "sub": "Ayol jinsidagi sifatlar va olmoshlar",
+    "page": 4,
+    "sentenceCount": 12
+  },
+  {
+    "id": "shifohiyya-2",
+    "title": "٣. الدَّرْسُ الثَّالِثُ",
+    "tuz": "3-dars",
+    "sub": "Ko'rsatish olmoshlari va ijtimoiy sifatlar",
+    "page": 5,
+    "sentenceCount": 16
+  },
+  {
+    "id": "shifohiyya-3",
+    "title": "٤. الدَّرْسُ الرَّابِعُ",
+    "tuz": "4-dars",
+    "sub": "Insonlar, yoshlar va unvonlar",
+    "page": 6,
+    "sentenceCount": 40
+  },
+  {
+    "id": "shifohiyya-4",
+    "title": "٥. الدَّرْسُ الْخَامِسُ",
+    "tuz": "5-dars",
+    "sub": "Jismoniy va aqliy sifatlar",
+    "page": 8,
+    "sentenceCount": 46
+  },
+  {
+    "id": "shifohiyya-5",
+    "title": "٦. الدَّرْسُ السَّادِسُ",
+    "tuz": "6-dars",
+    "sub": "Egalik olmoshlari va birikmalar",
+    "page": 10,
+    "sentenceCount": 68
+  },
+  {
+    "id": "shifohiyya-6",
+    "title": "٧. الدَّرْسُ السَّابِعُ",
+    "tuz": "7-dars",
+    "sub": "Oila va qarindoshlik aloqalari",
+    "page": 13,
+    "sentenceCount": 92
+  },
+  {
+    "id": "shifohiyya-7",
+    "title": "٨. الدَّرْسُ الثَّامِنُ",
+    "tuz": "8-dars",
+    "sub": "Ustozlar, shogirdlar va kasb-hunarlar",
+    "page": 16,
+    "sentenceCount": 70
+  },
+  {
+    "id": "shifohiyya-8",
+    "title": "٩. الدَّرْسُ التَّاسِعُ",
+    "tuz": "9-dars",
+    "sub": "Sifat va unvondagi moslashuvlar",
+    "page": 19,
+    "sentenceCount": 78
+  },
+  {
+    "id": "shifohiyya-9",
+    "title": "١٠. الدَّرْسُ الْعَاشِرُ",
+    "tuz": "10-dars",
+    "sub": "Hunarmandlar va jamiyat a'zolari",
+    "page": 22,
+    "sentenceCount": 108
+  },
+  {
+    "id": "shifohiyya-10",
+    "title": "١١. الدَّرْسُ الْحَادِيَ عَشَرَ",
+    "tuz": "11-dars",
+    "sub": "Ranglar va jismoniy nuqsonlar",
+    "page": 25,
+    "sentenceCount": 75
+  },
+  {
+    "id": "shifohiyya-11",
+    "title": "١٢. الدَّرْسُ الثَّانِي عَشَرَ",
+    "tuz": "12-dars",
+    "sub": "لَيْسَ va مَا (Emas) orqali inkor gaplar",
+    "page": 27,
+    "sentenceCount": 76
+  },
+  {
+    "id": "shifohiyya-12",
+    "title": "١٣. الدَّرْسُ الثَّالِثُ عَشَرَ",
+    "tuz": "13-dars",
+    "sub": "فَعُولٌ vaznidagi sifatlar va ijtimoiy koʻrsatkichlar",
+    "page": 30,
+    "sentenceCount": 87
+  },
+  {
+    "id": "shifohiyya-13",
+    "title": "١٤. الدَّرْسُ الرَّابِعُ عَشَرَ",
+    "tuz": "14-dars",
+    "sub": "Sifatdoshlar va qarindoshlik birikmalari",
+    "page": 34,
+    "sentenceCount": 76
+  },
+  {
+    "id": "shifohiyya-14",
+    "title": "١٥. الدَّرْسُ الْخَامِسُ عَشَرَ",
+    "tuz": "15-dars",
+    "sub": "Balki, ammo va bog'lovchilar tahlili",
+    "page": 37,
+    "sentenceCount": 62
+  },
+  {
+    "id": "shifohiyya-15",
+    "title": "١٦. الدَّرْسُ السَّادِسُ عَشَرَ",
+    "tuz": "16-dars",
+    "sub": "Joylar, binolar va makon sifatlari",
+    "page": 41,
+    "sentenceCount": 72
+  },
+  {
+    "id": "shifohiyya-16",
+    "title": "١٧. الدَّرْسُ السَّابِعُ عَشَرَ",
+    "tuz": "17-dars",
+    "sub": "Masjidlar, ko'chalar va geometrik shakllar",
+    "page": 43,
+    "sentenceCount": 53
+  },
+  {
+    "id": "shifohiyya-17",
+    "title": "١٨. الدَّرْسُ الثَّامِنَ عَشَرَ",
+    "tuz": "18-dars",
+    "sub": "O'quv qurollari, egalik daxldorligi va 'Bor' ma'nosi",
+    "page": 46,
+    "sentenceCount": 70
+  },
+  {
+    "id": "shifohiyya-18",
+    "title": "١٩. الدَّرْسُ التَّاسِعُ عَشَرَ",
+    "tuz": "19-dars",
+    "sub": "Tabiiy ashyolar, jismoniy holatlar va moddalar",
+    "page": 50,
+    "sentenceCount": 68
+  },
+  {
+    "id": "shifohiyya-19",
+    "title": "٢٠. الدَّرْسُ الْعِشْرُونَ",
+    "tuz": "20-dars",
+    "sub": "Botanika elementlari, ranglar va sifatlar moslashuvi",
+    "page": 54,
+    "sentenceCount": 62
+  },
+  {
+    "id": "shifohiyya-20",
+    "title": "٢١. الدَّرْسُ الْحَادِي وَالْعِشْرُونَ",
+    "tuz": "21-dars",
+    "sub": "O'tgan zamon fe'li (Fe'li moziy ma'lum va majhul) tahlili",
+    "page": 59,
+    "sentenceCount": 81
+  },
+  {
+    "id": "shifohiyya-21",
+    "title": "٢٢. الدَّرْسُ الثَّانِي وَالْعِشْرُونَ",
+    "tuz": "22-dars",
+    "sub": "Fe'llar bilan to'ldiruvchilar birikuvi va o'quv faoliyati",
+    "page": 63,
+    "sentenceCount": 81
+  },
+  {
+    "id": "shifohiyya-22",
+    "title": "٢٣. الدَّرْسُ الثَّالِثُ وَالْعِشْرُونَ",
+    "tuz": "23-dars",
+    "sub": "Predloglar (Xarfi jarlar) va makon-zamon nisbatlari",
+    "page": 67,
+    "sentenceCount": 68
+  },
+  {
+    "id": "shifohiyya-23",
+    "title": "٢٤. الدَّرْسُ الرَّابِعُ وَالْعِشْرُونَ",
+    "tuz": "24-dars",
+    "sub": "Kundalik harakatlar, namoz vaqtlarining almashinuvi",
+    "page": 69,
+    "sentenceCount": 56
+  },
+  {
+    "id": "shifohiyya-24",
+    "title": "٢٥. الدَّرْسُ الْخَامِسُ وَالْعِشْرُونَ",
+    "tuz": "25-dars",
+    "sub": "Zamon va kunlar nomlanishi bilan bog'liq gaplar tahlili",
+    "page": 73,
+    "sentenceCount": 46
+  },
+  {
+    "id": "shifohiyya-25",
+    "title": "٢٦. الدَّرْسُ السَّادِسُ وَالْعِشْرُونَ",
+    "tuz": "26-dars",
+    "sub": "So'roq olmoshlari va ko'rsatkichlar",
+    "page": 76,
+    "sentenceCount": 38
+  }
+]

@@ -150,21 +150,24 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
         </h2>
 
         <div className="arabic-text sentence-text-container" style={{ color: 'var(--text-primary)', direction: 'rtl', textAlign: 'right', lineHeight: '2.5' }}>
-          {chapter.sentences.map((s, si) => (
-            <span
-              key={`card-${si}`}
-              onClick={() => {
-                setModalSentence(s);
-                handleMouseLeave();
-              }}
-              style={{
-                cursor: 'pointer',
-                transition: 'var(--transition)'
-              }}
-            >
-              {renderTokenized(s.ar)}{' '}
-            </span>
-          ))}
+          {(Array.isArray(chapter.sentences) ? chapter.sentences : Object.values(chapter.sentences)).map((s, si) => {
+            const arText = s.ar || (Array.isArray(s.parts) && typeof s.parts[0] === 'string' ? s.parts.join(' ') : '');
+            return (
+              <span
+                key={`card-${si}`}
+                onClick={() => {
+                  setModalSentence(s);
+                  handleMouseLeave();
+                }}
+                style={{
+                  cursor: 'pointer',
+                  transition: 'var(--transition)'
+                }}
+              >
+                {renderTokenized(arText)}{' '}
+              </span>
+            );
+          })}
         </div>
       </div>
 

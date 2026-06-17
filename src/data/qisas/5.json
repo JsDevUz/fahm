@@ -1,0 +1,381 @@
+{
+  "title": "٦ ـ نَارُ إِبْرَاهِيمَ",
+  "tuz": "Ibrohimning olovi",
+  "sub": "Ibrohim (a.s.) olovga tashlanadi",
+  "page": 14,
+  "sentences": [
+    {
+      "ar": "اجْتَمَعَ النَّاسُ وَقَالُوا: مَاذَا نَفْعَلُ؟ إِنَّ إِبْرَاهِيمَ كَسَرَ الْأَصْنَامَ وَأَهَانَ الْآلِهَةَ!.",
+      "tr": "Odamlar yig‘ildi va: Nima qilamiz? Ibrohim butlarni sindirdi va xudolarni xor qildi! — dedilar.",
+      "parts": [
+        {
+          "w": "اجْتَمَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yig'ildi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (اجْتَمَعَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَقَالُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedilar"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nima"
+        },
+        {
+          "w": "نَفْعَلُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qilamiz"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "كَسَرَ",
+          "r": "fe'l (xabar)",
+          "rc": "tf",
+          "e": "Sindirdi"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (كَسَرَ)",
+          "rc": "tb",
+          "e": "Butlarni"
+        },
+        {
+          "w": "وَأَهَانَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xor qildi"
+        },
+        {
+          "w": "الْآلِهَةَ",
+          "r": "maf'ul bih (وَأَهَانَ)",
+          "rc": "tb",
+          "e": "Xudolarni"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَأَلَ النَّاسُ: مَا عِقَابُ إِبْرَاهِيمَ؟ مَا جَزَاءُ إِبْرَاهِيمَ؟.",
+      "tr": "Odamlar so‘radi: Ibrohimning jazosi nima? Ibrohimning mukofoti nima?",
+      "parts": [
+        {
+          "w": "وَسَأَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "So'radi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَسَأَلَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "مَا عِقَابُ إِبْرَاهِيمَ",
+          "r": "jumla",
+          "rc": "th",
+          "e": "Ibrohimning jazosi nima"
+        },
+        {
+          "w": "مَا جَزَاءُ إِبْرَاهِيمَ",
+          "r": "jumla",
+          "rc": "th",
+          "e": "Ibrohimning mukofoti nima"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ الْجَوَابُ: حَرِّقُوهُ وَانْصُرُوا آلِهَتَكُمْ.",
+      "tr": "Javob: Uni yoqib yuboring va xudolaringizga yordam bering.",
+      "parts": [
+        {
+          "w": "كَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "الْجَوَابُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Javob"
+        },
+        {
+          "w": "حَرِّقُوهُ",
+          "r": "xabar (amr)",
+          "rc": "tx",
+          "e": "Uni yoqib yuboring"
+        },
+        {
+          "w": "وَانْصُرُوا",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Yordam bering"
+        },
+        {
+          "w": "آلِهَتَكُمْ",
+          "r": "maf'ul bih (وَانْصُرُوا)",
+          "rc": "tb",
+          "e": "Xudolaringizga"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَكَذَا كَانَ: أُوقِدُوا نَارًا وَأَلْقَوْا فِيهَا إِبْرَاهِيمَ.",
+      "tr": "Shunday bo‘ldi: ular olov yoqdilar va unga Ibrohimni tashladilar.",
+      "parts": [
+        {
+          "w": "وَهَكَذَا",
+          "r": "zarf (أُوقِدَتْ)",
+          "rc": "th",
+          "e": "Shunday"
+        },
+        {
+          "w": "أُوقِدَتْ",
+          "r": "fe'l (majhul)",
+          "rc": "tf",
+          "e": "Yoqildi"
+        },
+        {
+          "w": "نَارٌ",
+          "r": "noib fo'il (أُوقِدَتْ)",
+          "rc": "tm",
+          "e": "Olov"
+        },
+        {
+          "w": "وَأُلْقِيَ",
+          "r": "fe'l (majhul)",
+          "rc": "tf",
+          "e": "Tashlandi"
+        },
+        {
+          "w": "فِيهَا",
+          "r": "mutaalliq (وَأُلْقِيَ)",
+          "rc": "tmt",
+          "e": "Unga"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "noib fo'il (وَأُلْقِيَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ اللَّهَ نَصَرَ إِبْرَاهِيمَ وَقَالَ لِلنَّارِ: ﴿يَا نَارُ كُونِي بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ﴾.",
+      "tr": "Lekin Alloh Ibrohimga yordam berdi va olovga: Ey olov, Ibrohim uchun sovuq va omon bo‘l — dedi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Lekin"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "نَصَرَ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yordam berdi"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "maf'ul bih (وَقَالَ)",
+          "rc": "tb",
+          "e": "Ibrohimga"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "لِلنَّارِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Olovga"
+        },
+        {
+          "w": "يَا نَارُ",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Ey olov"
+        },
+        {
+          "w": "كُونِي",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Bo'l"
+        },
+        {
+          "w": "بَرْدًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sovuq"
+        },
+        {
+          "w": "وَسَلَامًا",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va omon"
+        },
+        {
+          "w": "عَلَى إِبْرَاهِيمَ",
+          "r": "mutaalliq (كُونِي)",
+          "rc": "tmt",
+          "e": "Ibrohim uchun"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَكَذَا كَانَ: كَانَتِ النَّارُ بَرْدًا وَسَلَامًا عَلَى إِبْرَاهِيمَ.",
+      "tr": "Shunday ham bo‘ldi: Olov Ibrohim uchun sovuq va omon bo‘ldi.",
+      "parts": [
+        {
+          "w": "كَانَتِ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "النَّارُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Olov"
+        },
+        {
+          "w": "بَرْدًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sovuq"
+        },
+        {
+          "w": "وَسَلَامًا",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va omon"
+        },
+        {
+          "w": "عَلَى إِبْرَاهِيمَ",
+          "r": "mutaalliq (كَانَتِ)",
+          "rc": "tmt",
+          "e": "Ibrohim uchun"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَأَى النَّاسُ أَنَّ النَّارَ لَا تَضُرُّ إِبْرَاهِيمَ.",
+      "tr": "Odamlar olov Ibrohimga zarar bermayotganini ko‘rdi.",
+      "parts": [
+        {
+          "w": "وَرَأَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَرَأَى)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Deb"
+        },
+        {
+          "w": "النَّارَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Olov"
+        },
+        {
+          "w": "لَا تَضُرُّ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Zarar bermaydi"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "maf'ul bih (وَرَأَى)",
+          "rc": "tb",
+          "e": "Ibrohimga"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَأَى النَّاسُ أَنَّ إِبْرَاهِيمَ مَسْرُورٌ، وَأَنَّ إِبْرَاهِيمَ سَالِمٌ.",
+      "tr": "Odamlar Ibrohimning xursand va sog‘-salom ekanini ko‘rdi.",
+      "parts": [
+        {
+          "w": "أَنَّ إِبْرَاهِيمَ مَسْرُورٌ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "Ibrohim xursand"
+        },
+        {
+          "w": "وَأَنَّ إِبْرَاهِيمَ سَالِمٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Ibrohim sog'-salom"
+        }
+      ]
+    },
+    {
+      "ar": "وَدَهِشَ النَّاسُ وَتَحَيَّرُوا.",
+      "tr": "Odamlar hayratda qoldi va lol qoldilar.",
+      "parts": [
+        {
+          "w": "وَدَهِشَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Hayratda qoldi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَدَهِشَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَتَحَيَّرُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va lol qoldilar"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

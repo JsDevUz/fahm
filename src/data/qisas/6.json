@@ -1,0 +1,489 @@
+{
+  "title": "٧ ـ رَأَى إِبْرَاهِيمُ الْكَوْكَبَ وَالْقَمَرَ وَالشَّمْسَ",
+  "tuz": "Ibrohim yulduz, oy va quyoshni ko'rdi",
+  "sub": "Ibrohimning yagona Allohni izlashi",
+  "page": 15,
+  "sentences": [
+    {
+      "ar": "وَذَاتَ لَيْلَةٍ رَأَى إِبْرَاهِيمُ كَوْكَبًا، فَقَالَ: هَذَا رَبِّي!.",
+      "tr": "Bir kechada Ibrohim bir yulduzni ko‘rdi va: Bu mening Robbim! — dedi.",
+      "parts": [
+        {
+          "w": "وَذَاتَ لَيْلَةٍ",
+          "r": "zarf (رَأَى)",
+          "rc": "th",
+          "e": "Bir kechada"
+        },
+        {
+          "w": "رَأَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (رَأَى)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "كَوْكَبًا",
+          "r": "maf'ul bih (فَقَالَ)",
+          "rc": "tb",
+          "e": "Yulduzni"
+        },
+        {
+          "w": "فَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "رَبِّي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening Robbim"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا غَابَ الْكَوْكَبُ، قَالَ إِبْرَاهِيمُ: لَا! هَذَا لَيْسَ بِرَبِّي!.",
+      "tr": "Yulduz botganda, Ibrohim dedi: Yo‘q! Bu mening Robbim emas!",
+      "parts": [
+        {
+          "w": "وَلَمَّا",
+          "r": "zarf (غَابَ)",
+          "rc": "th",
+          "e": "Qachonki"
+        },
+        {
+          "w": "غَابَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Botdi"
+        },
+        {
+          "w": "الْكَوْكَبُ",
+          "r": "fo'il (غَابَ)",
+          "rc": "tm",
+          "e": "Yulduz"
+        },
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas"
+        },
+        {
+          "w": "بِرَبِّي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening Robbim"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَأَى إِبْرَاهِيمُ الْقَمَرَ فَقَالَ: هَذَا رَبِّي.",
+      "tr": "Ibrohim oyni ko‘rdi va: Bu mening Robbim — dedi.",
+      "parts": [
+        {
+          "w": "وَرَأَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdi"
+        },
+        {
+          "w": "الْقَمَرَ",
+          "r": "maf'ul bih (وَرَأَى)",
+          "rc": "tb",
+          "e": "Oyni"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا غَابَ الْقَمَرُ، قَالَ إِبْرَاهِيمُ: لَا! هَذَا لَيْسَ بِرَبِّي!.",
+      "tr": "Oy botganda, Ibrohim: Yo‘q! Bu mening Robbim emas! — dedi.",
+      "parts": [
+        {
+          "w": "غَابَ الْقَمَرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Oy botdi"
+        }
+      ]
+    },
+    {
+      "ar": "وَطَلَعَتِ الشَّمْسُ، فَقَالَ إِبْرَاهِيمُ: هَذَا رَبِّي هَذَا أَكْبَرُ!.",
+      "tr": "Quyosh chiqdi va Ibrohim: Bu mening Robbim, bu kattaroq! — dedi.",
+      "parts": [
+        {
+          "w": "وَطَلَعَتِ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chiqdi"
+        },
+        {
+          "w": "الشَّمْسُ",
+          "r": "fo'il (وَطَلَعَتِ)",
+          "rc": "tm",
+          "e": "Quyosh"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "رَبِّي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening Robbim"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "أَكْبَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattaroq"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا غَابَتِ الشَّمْسُ فِي اللَّيْلِ قَالَ إِبْرَاهِيمُ: لَا! هَذَا لَيْسَ بِرَبِّي.",
+      "tr": "Quyosh kechasi botganda, Ibrohim: Yo‘q! Bu mening Robbim emas — dedi.",
+      "parts": [
+        {
+          "w": "غَابَتِ الشَّمْسُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Quyosh botdi"
+        },
+        {
+          "w": "فِي اللَّيْلِ",
+          "r": "zarf (غَابَتِ الشَّمْسُ)",
+          "rc": "th",
+          "e": "Kechasi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
+      "tr": "Albatta Alloh tirikdir, o‘lmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ اللَّهَ",
+          "r": "inna",
+          "rc": "tb",
+          "e": "Albatta Alloh"
+        },
+        {
+          "w": "حَيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tirikdir"
+        },
+        {
+          "w": "لَا يَمُوتُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "O'lmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ بَاقٍ لَا يَغِيبُ.",
+      "tr": "Albatta Alloh barqarordir, yo‘qolmaydi.",
+      "parts": [
+        {
+          "w": "بَاقٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Barqarordir"
+        },
+        {
+          "w": "لَا يَغِيبُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Yo'qolmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ قَوِيٌّ لَا يَعْلُوهُ شَيْءٌ.",
+      "tr": "Albatta Alloh kuchlidir, Uni hech narsa ustun chiqa olmaydi.",
+      "parts": [
+        {
+          "w": "قَوِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchlidir"
+        },
+        {
+          "w": "لَا يَعْلُوهُ شَيْءٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Uni hech narsa ustun chiqa olmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَالْكَوْكَبُ ضَعِيفٌ يَعْلُوهُ الصُّبْحُ.",
+      "tr": "Yulduz zaifdir, ertalab uni (nur) ustun chiqadi.",
+      "parts": [
+        {
+          "w": "وَالْكَوْكَبُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yulduz esa"
+        },
+        {
+          "w": "ضَعِيفٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zaifdir"
+        },
+        {
+          "w": "يَعْلُوهُ الصُّبْحُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Ertalab uni ustun chiqadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَالْقَمَرُ ضَعِيفٌ تَعْلُوهُ الشَّمْسُ.",
+      "tr": "Oy zaifdir, quyosh uni ustun chiqadi.",
+      "parts": [
+        {
+          "w": "وَالْقَمَرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Oy esa"
+        },
+        {
+          "w": "ضَعِيفٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zaifdir"
+        },
+        {
+          "w": "تَعْلُوهُ الشَّمْسُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Quyosh uni ustun chiqadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَالشَّمْسُ ضَعِيفَةٌ يَعْلِيهَا اللَّيْلُ وَيَعْلِيهَا الْغَيْمُ.",
+      "tr": "Quyosh zaifdir, uni tun va bulut ustun chiqadi.",
+      "parts": [
+        {
+          "w": "وَالشَّمْسُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Quyosh esa"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zaifdir"
+        },
+        {
+          "w": "يَعْلِيهَا اللَّيْلُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Tun uni ustun chiqadi"
+        },
+        {
+          "w": "وَيَعْلِيهَا الْغَيْمُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va bulut uni ustun chiqadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَا يَنْصُرُنِي الْكَوْكَبُ لِأَنَّهُ ضَعِيفٌ.",
+      "tr": "Yulduz menga yordam bermaydi, chunki u zaifdir.",
+      "parts": [
+        {
+          "w": "وَلَا يَنْصُرُنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Menga yordam bermaydi"
+        },
+        {
+          "w": "الْكَوْكَبُ",
+          "r": "fo'il (وَلَا يَنْصُرُنِي)",
+          "rc": "tm",
+          "e": "Yulduz"
+        },
+        {
+          "w": "لِأَنَّهُ",
+          "r": "ta'lil",
+          "rc": "th",
+          "e": "Chunki u"
+        },
+        {
+          "w": "ضَعِيفٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Zaifdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَا يَنْصُرُنِي الْقَمَرُ لِأَنَّهُ ضَعِيفٌ.",
+      "tr": "Oy menga yordam bermaydi, chunki u zaifdir.",
+      "parts": [
+        {
+          "w": "الْقَمَرُ",
+          "r": "fo'il",
+          "rc": "tm",
+          "e": "Oy"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَا تَنْصُرُنِي الشَّمْسُ لِأَنَّهَا ضَعِيفَةٌ.",
+      "tr": "Quyosh menga yordam bermaydi, chunki u zaifdir.",
+      "parts": [
+        {
+          "w": "وَلَا تَنْصُرُنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Menga yordam bermaydi"
+        },
+        {
+          "w": "الشَّمْسُ",
+          "r": "fo'il (وَلَا تَنْصُرُنِي)",
+          "rc": "tm",
+          "e": "Quyosh"
+        },
+        {
+          "w": "لِأَنَّهَا ضَعِيفَةٌ",
+          "r": "ta'lil",
+          "rc": "th",
+          "e": "Chunki u zaifdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَنْصُرُنِي اللَّهُ.",
+      "tr": "Menga Alloh yordam beradi.",
+      "parts": [
+        {
+          "w": "وَيَنْصُرُنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Menga yordam beradi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (وَيَنْصُرُنِي)",
+          "rc": "tm",
+          "e": "Alloh"
+        }
+      ]
+    },
+    {
+      "ar": "لِأَنَّ اللَّهَ حَيٌّ لَا يَمُوتُ.",
+      "tr": "Chunki Alloh tirikdir, o‘lmaydi.",
+      "parts": [
+        {
+          "w": "لِأَنَّ اللَّهَ",
+          "r": "ta'lil",
+          "rc": "th",
+          "e": "Chunki Alloh"
+        },
+        {
+          "w": "حَيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tirikdir"
+        },
+        {
+          "w": "لَا يَمُوتُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "O'lmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَاقٍ لَا يَغِيبُ.",
+      "tr": "Va barqarordir, yo‘qolmaydi.",
+      "parts": [
+        {
+          "w": "وَبَاقٍ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va barqarordir"
+        },
+        {
+          "w": "لَا يَغِيبُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Yo'qolmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَوِيٌّ لَا يَعْلِيهُ شَيْءٌ.",
+      "tr": "Va kuchlidir, Uni hech narsa ustun chiqa olmaydi.",
+      "parts": [
+        {
+          "w": "وَقَوِيٌّ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va kuchlidir"
+        },
+        {
+          "w": "لَا يَعْلِيهُ شَيْءٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Uni hech narsa ustun chiqa olmaydi"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

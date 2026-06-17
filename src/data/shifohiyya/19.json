@@ -1,0 +1,1467 @@
+{
+  "title": "٢٠. الدَّرْسُ الْعِشْرُونَ",
+  "tuz": "20-dars",
+  "sub": "Botanika elementlari, ranglar va sifatlar moslashuvi",
+  "page": 54,
+  "sentences": [
+    {
+      "ar": "عِرْقُ هَذِهِ الشَّجَرَةِ طَوِيلٌ،",
+      "tr": "Bu daraxtning ildizi uzundur",
+      "parts": [
+        {
+          "w": "عِرْقُ هَذِهِ الشَّجَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu daraxtning ildizi - ega"
+        },
+        {
+          "w": "طَوِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عُرُوقُ الْأَشْجَارِ كَثِيرَةٌ،",
+      "tr": "Daraxtlarning ildizlari ko'pdir",
+      "parts": [
+        {
+          "w": "عُرُوقُ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Daraxtlarning ildizlari - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "غُصُونُ تِلْكَ الشَّجَرَةِ مُعْوَجَّةٌ،",
+      "tr": "Anavi daraxtning shoxlari qiyshiqdir",
+      "parts": [
+        {
+          "w": "غُصُونُ تِلْكَ الشَّجَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi daraxtning shoxlari - ega"
+        },
+        {
+          "w": "مُعْوَجَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qiyshiq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْغُصُونُ الْمُسْتَقِيمَةُ قَلِيلَةٌ،",
+      "tr": "To'g'ri shoxlar ozdir",
+      "parts": [
+        {
+          "w": "الْغُصُونُ الْمُسْتَقِيمَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "To'g'ri shoxlar - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْرَاقُ أَكْثَرِ الْأَشْجَارِ خُضْرٌ،",
+      "tr": "Aksar daraxtlarning barglari yashildir",
+      "parts": [
+        {
+          "w": "أَوْرَاقُ أَكْثَرِ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aksar daraxtlarning barglari - ega"
+        },
+        {
+          "w": "خُضْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yashil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْوَرَقَةُ خَضْرَاءُ وَتِلْكَ الْوَرَقَةُ حَمْرَاءُ،",
+      "tr": "Bu barg yashildir va anavi barg qizildir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْوَرَقَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu barg - ega"
+        },
+        {
+          "w": "خَضْرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yashil - xabar"
+        },
+        {
+          "w": "تِلْكَ الْوَرَقَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi barg - ega"
+        },
+        {
+          "w": "حَمْرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْرَاقُ بَعْضِ الْأَشْجَارِ زُرْقٌ،",
+      "tr": "Ba'zi daraxtlarning barglari ko'kdir",
+      "parts": [
+        {
+          "w": "أَوْرَاقُ بَعْضِ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zi daraxtlarning barglari - ega"
+        },
+        {
+          "w": "زُرْقٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'k - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الزَّهْرَةُ حَمْرَاءُ وَتِلْكَ الزَّهْرَةُ بَيْضَاءُ،",
+      "tr": "Bu gul qizildir va anavi gul oqdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الزَّهْرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu gul - ega"
+        },
+        {
+          "w": "حَمْرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizil - xabar"
+        },
+        {
+          "w": "تِلْكَ الزَّهْرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi gul - ega"
+        },
+        {
+          "w": "بَيْضَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزْهَارُ بَعْضِ الْأَشْجَارِ بِيضٌ،",
+      "tr": "Ba'zi daraxtlarning gullari oqdirlar",
+      "parts": [
+        {
+          "w": "أَزْهَارُ بَعْضِ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zi daraxtlarning gullari - ega"
+        },
+        {
+          "w": "بِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزْهَارُ هَذِهِ الشَّجَرَةِ صُفْرٌ،",
+      "tr": "Bu daraxtning gullari sarqdirlar",
+      "parts": [
+        {
+          "w": "أَزْهَارُ هَذِهِ الشَّجَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu daraxtning gullari - ega"
+        },
+        {
+          "w": "صُفْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sariq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الزَّهْرَةُ الزَّرْقَاءُ صَغِيرَةٌ وَتِلْكَ الزَّهْرَةُ الرَّقْطَاءُ كَبِيرَةٌ،",
+      "tr": "Bu ko'k gul kichikdir va anavi ola-bula gul kattadir",
+      "parts": [
+        {
+          "w": "هَذِهِ الزَّهْرَةُ الزَّرْقَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ko'k gul - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        },
+        {
+          "w": "تِلْكَ الزَّهْرَةُ الرَّقْطَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ola-bula gul - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَثْمَارُ الْأَشْجَارِ قَلِيلَةٌ،",
+      "tr": "Daraxtlarning mevalari ozdir",
+      "parts": [
+        {
+          "w": "أَثْمَارُ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Daraxtlarning mevalari - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْأَثْمَارُ سُودٌ وَتِلْكَ الْأَثْمَارُ حُمْرٌ،",
+      "tr": "Bu mevalar qoradirlar va anavi mevalar qizildirlar",
+      "parts": [
+        {
+          "w": "هَذِهِ الْأَثْمَارُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu mevalar - ega"
+        },
+        {
+          "w": "سُودٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora - xabar"
+        },
+        {
+          "w": "تِلْكَ الْأَثْمَارُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi mevalar - ega"
+        },
+        {
+          "w": "حُمْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَثْمَارُ بَعْضِ الْأَشْجَارِ صُفْرٌ وَأَثْمَارُ بَعْضِهَا زُرْقٌ،",
+      "tr": "Ba'zi daraxtlarning mevalari sariq va ba'zilarining mevalari ko'kdir",
+      "parts": [
+        {
+          "w": "أَثْمَارُ بَعْضِ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zi daraxtlarning mevalari - ega"
+        },
+        {
+          "w": "صُفْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sariq - xabar"
+        },
+        {
+          "w": "وَأَثْمَارُ بَعْضِهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zilarining mevalari - ega"
+        },
+        {
+          "w": "زُرْقٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'k - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الثَّمَرَةُ الْحَمْرَاءُ مُسْتَطِيلَةٌ،",
+      "tr": "Bu qizil meva uzunchoqdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الثَّمَرَةُ الْحَمْرَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qizil meva - ega"
+        },
+        {
+          "w": "مُسْتَطِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzunchoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الثَّمَرَةُ الزَّرْقَاءُ قَصِيرَةٌ،",
+      "tr": "Anavi ko'k meva qisqadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الثَّمَرَةُ الزَّرْقَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ko'k meva - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قِشْرُ هَذِهِ الثَّمَرَةِ صُلْبٌ،",
+      "tr": "Bu mevaning po'stlog'i qattiqdir",
+      "parts": [
+        {
+          "w": "قِشْرُ هَذِهِ الثَّمَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu mevaning po'stlog'i - ega"
+        },
+        {
+          "w": "صُلْبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qattiq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قُشُورُ الْأَشْجَارِ لَيِّنَةٌ،",
+      "tr": "Daraxtlarning po'stloqlari yumshoqdir",
+      "parts": [
+        {
+          "w": "قُشُورُ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Daraxtlarning po'stloqlari - ega"
+        },
+        {
+          "w": "لَيِّنَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yumshoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قُشُورُ بَعْضِ الْأَثْمَارِ رُقْطٌ،",
+      "tr": "Ba'zi mevalarning po'stloqlari ola-buladir",
+      "parts": [
+        {
+          "w": "قُشُورُ بَعْضِ الْأَثْمَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ba'zi mevalarning po'stloqlari - ega"
+        },
+        {
+          "w": "رُقْطٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ola-bula - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حُبُوبُ هَذِهِ الْأَثْمَارِ كَثِيرَةٌ،",
+      "tr": "Bu mevalarning donlari (urug'lari) ko'pdir",
+      "parts": [
+        {
+          "w": "حُبُوبُ هَذِهِ الْأَثْمَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu mevalarning donlari - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْحَبَّةُ السَّوْدَاءُ صَغِيرَةٌ،",
+      "tr": "Bu qora don (urug') kichikdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْحَبَّةُ السَّوْدَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qora don - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْحُبُوبِ صُلْبَةٌ،",
+      "tr": "Donlarning aksari qattiqdir",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْحُبُوبِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Donlarning aksari - ega"
+        },
+        {
+          "w": "صُلْبَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qattiq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَعْضُ الْحُبُوبِ لَيِّنَةٌ،",
+      "tr": "Donlarning ba'zisi yumshoqdir",
+      "parts": [
+        {
+          "w": "بَعْضُ الْحُبُوبِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Donlarning ba'zisi - ega"
+        },
+        {
+          "w": "لَيِّنَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yumshoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَعْضُ الْأَثْمَارِ جُوفٌ،",
+      "tr": "Mevalarning ba'zisi ichi kovakdir",
+      "parts": [
+        {
+          "w": "بَعْضُ الْأَثْمَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mevalarning ba'zisi - ega"
+        },
+        {
+          "w": "جُوفٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ichi kovak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْأَثْمَارِ لَيْسَتْ بِجُوفٍ،",
+      "tr": "Mevalarning aksari ichi kovak emasdir",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْأَثْمَارِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Mevalarning aksari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِجُوفٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Ichi kovak emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الشَّجَرَةُ جَوْفَاءُ،",
+      "tr": "Bu daraxt ichi kovakdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الشَّجَرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu daraxt - ega"
+        },
+        {
+          "w": "جَوْفَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ichi kovak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قَلَمِي أَجْوَفُ،",
+      "tr": "Mening qalamim ichi kovakdir",
+      "parts": [
+        {
+          "w": "قَلَمِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qalamim - ega"
+        },
+        {
+          "w": "أَجْوَفُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ichi kovak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عُرُوقُ هَذِهِ الشَّجَرَةِ لَيْسَتْ بِصُلْبَةٍ،",
+      "tr": "Bu daraxtning ildizlari qattiq emasdir",
+      "parts": [
+        {
+          "w": "عُرُوقُ هَذِهِ الشَّجَرَةِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Bu daraxtning ildizlari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِصُلْبَةٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Qattiq emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "غُصُونُ تِلْكَ الْأَشْجَارِ لَيْسَتْ بِمُسْتَقِيمَةٍ،",
+      "tr": "Anavi daraxtlarning shoxlari to'g'ri emasdir",
+      "parts": [
+        {
+          "w": "غُصُونُ تِلْكَ الْأَشْجَارِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Anavi daraxtlarning shoxlari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمُسْتَقِيمَةٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "To'g'ri emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَوْرَاقُ أَكْثَرِ الْأَشْجَارِ لَيْسَتْ بِزُرْقٍ،",
+      "tr": "Aksar daraxtlarning barglari ko'k emasdir",
+      "parts": [
+        {
+          "w": "أَوْرَاقُ أَكْثَرِ الْأَشْجَارِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Aksar daraxtlarning barglari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِزُرْقٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Ko'k emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَزْهَارُ بَعْضِ الْأَشْجَارِ لَيْسَتْ بِبِيضٍ،",
+      "tr": "Ba'zi daraxtlarning gullari oq emasdir",
+      "parts": [
+        {
+          "w": "أَزْهَارُ بَعْضِ الْأَشْجَارِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Ba'zi daraxtlarning gullari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِبِيضٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Oq emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَثْمَارُ الْأَشْجَارِ لَيْسَتْ بِكَثِيرَةٍ،",
+      "tr": "Daraxtlarning mevalari ko'p emasdir",
+      "parts": [
+        {
+          "w": "أَثْمَارُ الْأَشْجَارِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Daraxtlarning mevalari - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِكَثِيرَةٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Ko'p emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قُشُورُ هَذِهِ الْأَشْجَارِ غَيْرُ صُلْبَةٍ،",
+      "tr": "Bu daraxtlarning po'stloqlari qattiq emasdir",
+      "parts": [
+        {
+          "w": "قُشُورُ هَذِهِ الْأَشْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu daraxtlarning po'stloqlari - ega"
+        },
+        {
+          "w": "غَيْرُ صُلْبَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qattiq emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حُبُوبُ هَذِهِ الْأَثْمَارِ غَيْرُ سُودٍ،",
+      "tr": "Bu mevalarning donlari qora emasdir",
+      "parts": [
+        {
+          "w": "حُبُوبُ هَذِهِ الْأَثْمَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu mevalarning donlari - ega"
+        },
+        {
+          "w": "غَيْرُ سُودٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْوَرَقَةُ لَيْسَتْ بِبَيْضَاءَ،",
+      "tr": "Bu barg oq emasdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْوَرَقَةُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Bu barg - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِبَيْضَاءَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Oq emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الزَّهْرَةُ لَيْسَتْ بِسَوْدَاءَ،",
+      "tr": "Anavi gul qora emasdir",
+      "parts": [
+        {
+          "w": "تِلْكَ الزَّهْرَةُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Anavi gul - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِسَوْدَاءَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Qora emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الثَّمَرَةُ لَيْسَتْ بِرَقْطَاءَ،",
+      "tr": "Bu meva ola-bula emasdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الثَّمَرَةُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Bu meva - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِرَقْطَاءَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Ola-bula emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْحَبَّةُ لَيْسَتْ بِجَوْفَاءَ،",
+      "tr": "Anavi don ichi kovak emasdir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْحَبَّةُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Anavi don - ega"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِجَوْفَاءَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Ichi kovak emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الصَّحِيفَةُ بَيْضَاءُ وَتِلْكَ الصَّحِيفَةُ صَفْرَاءُ،",
+      "tr": "Bu sahifa oqdir va anavi sahifa sariqdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الصَّحِيفَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu sahifa - ega"
+        },
+        {
+          "w": "بَيْضَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq - xabar"
+        },
+        {
+          "w": "تِلْكَ الصَّحِيفَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi sahifa - ega"
+        },
+        {
+          "w": "صَفْرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sariq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "قَلَمِي أَحْمَرُ وَقَلَمُكَ أَخْضَرُ،",
+      "tr": "Mening qalamim qizildir va sening qalaming yashildir",
+      "parts": [
+        {
+          "w": "قَلَمِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qalamim - ega"
+        },
+        {
+          "w": "أَحْمَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizil - xabar"
+        },
+        {
+          "w": "قَلَمُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening qalaming - ega"
+        },
+        {
+          "w": "أَخْضَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yashil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حِبْرُ هَذِهِ الْمِحْبَرَةِ أَسْوَدُ وَحِبْرُ تِلْكَ الْمِحْبَرَةِ أَحْمَرُ،",
+      "tr": "Bu siyohdonning siyohi qoradir va anavi siyohdonning siyohi qizildir",
+      "parts": [
+        {
+          "w": "حِبْرُ هَذِهِ الْمِحْبَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu siyohdonning siyohi - ega"
+        },
+        {
+          "w": "أَسْوَدُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora - xabar"
+        },
+        {
+          "w": "حِبْرُ تِلْكَ الْمِحْبَرَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi siyohdonning siyohi - ega"
+        },
+        {
+          "w": "أَحْمَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qizil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْحِبْرُ الْأَسْوَدُ كَثِيرٌ وَالْحِبْرُ الْأَخْضَرُ قَلِيلٌ،",
+      "tr": "Qora siyoh ko'pdir va yashil siyoh ozdir",
+      "parts": [
+        {
+          "w": "الْحِبْرُ الْأَسْوَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qora siyoh - ega"
+        },
+        {
+          "w": "كَثِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        },
+        {
+          "w": "الْحِبْرُ الْأَخْضَرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yashil siyoh - ega"
+        },
+        {
+          "w": "قَلِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حِبْرُ مِحْبَرَةِ عَلِيٍّ أَخْضَرُ،",
+      "tr": "Ali siyohdonining siyohi yashildir",
+      "parts": [
+        {
+          "w": "حِبْرُ مِحْبَرَةِ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ali siyohdonining siyohi - ega"
+        },
+        {
+          "w": "أَخْضَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yashil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الشَّيْءُ حَجَرٌ أَبْيَضُ،",
+      "tr": "Bu narsa oq toshdir",
+      "parts": [
+        {
+          "w": "هَذَا الشَّيْءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu narsa - ega"
+        },
+        {
+          "w": "حَجَرٌ أَبْيَضُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq tosh - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الشَّيْءُ طِينٌ أَسْوَدُ،",
+      "tr": "Anavi narsa qora loydir",
+      "parts": [
+        {
+          "w": "ذَاكَ الشَّيْءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi narsa - ega"
+        },
+        {
+          "w": "طِينٌ أَسْوَدُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora loy - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْأَحْجَارِ بِيضٌ،",
+      "tr": "Toshlarning aksari oqdirlar",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْأَحْجَارِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Toshlarning aksari - ega"
+        },
+        {
+          "w": "بِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْأَطْيَانِ سُودٌ،",
+      "tr": "Loylarning aksari qoradirlar",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْأَطْيَانِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Loylarning aksari - ega"
+        },
+        {
+          "w": "سُودٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْحَجَرُ إِمَّا أَبْيَضُ أَوْ أَسْوَدُ،",
+      "tr": "Bu tosh yo oq yoki qoradir",
+      "parts": [
+        {
+          "w": "هَذَا الْحَجَرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu tosh - ega"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo"
+        },
+        {
+          "w": "أَبْيَضُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "أَسْوَدُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qora - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْحَجَرُ لَيْسَ بِأَسْوَدَ، بَلْ هُوَ أَخْضَرُ،",
+      "tr": "Bu tosh qora emas, balki u yashildir",
+      "parts": [
+        {
+          "w": "هَذَا الْحَجَرُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Bu tosh - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِأَسْوَدَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Qora emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "أَخْضَرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yashil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْأَحْجَارُ الزُّرْقُ غَيْرُ كَثِيرَةٍ،",
+      "tr": "Ko'k toshlar ko'p emasdir",
+      "parts": [
+        {
+          "w": "الْأَحْجَارُ الزُّرْقُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ko'k toshlar - ega"
+        },
+        {
+          "w": "غَيْرُ كَثِيرَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لِعَلِيٍّ صَحِيفَةٌ بَيْضَاءُ وَغِلَافٌ أَحْمَرُ،",
+      "tr": "Alining oq sahifasi va qizil g'ilofi bor",
+      "parts": [
+        {
+          "w": "لِعَلِيٍّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Alining - jar majruur"
+        },
+        {
+          "w": "صَحِيفَةٌ بَيْضَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Oq sahifa - ega"
+        },
+        {
+          "w": "وَغِلَافٌ أَحْمَرُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va qizil g'ilof - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لِمَحْمُودٍ دَفْتَرٌ أَبْيَضُ وَلَا غِلَافٌ أَسْوَدُ،",
+      "tr": "Mahmudning oq daftari ham, qora g'ilofi ham yo'qdir",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِمَحْمُودٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mahmudning - jar majruur"
+        },
+        {
+          "w": "دَفْتَرٌ أَبْيَضُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Oq daftar - ega"
+        },
+        {
+          "w": "وَلَا غِلَافٌ أَسْوَدُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va qora g'ilof ham yo'q - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لَهُ حِبْرٌ أَسْوَدُ وَحِبْرٌ أَحْمَرُ،",
+      "tr": "Uning qora siyohi va qizil siyohi bor",
+      "parts": [
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "حِبْرٌ أَسْوَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qora siyoh - ega"
+        },
+        {
+          "w": "وَحِبْرٌ أَحْمَرُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va qizil siyoh - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لَكَ قَلَمٌ أَسْوَدُ وَمِحْبَرَةٌ صَفْرَاءُ،",
+      "tr": "Sening qora qalaming va sariq siyohdoning bor",
+      "parts": [
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "قَلَمٌ أَسْوَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qora qalam - ega"
+        },
+        {
+          "w": "وَمِحْبَرَةٌ صَفْرَاءُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va sariq siyohdon - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لِهَذِهِ الشَّجَرَةِ أَغْصَانٌ مُعْوَجَّةٌ وَلَيْسَ لَهَا أَغْصَانٌ مُسْتَقِيمَةٌ أَصْلًا،",
+      "tr": "Bu daraxtning qiyshiq shoxlari bor va uning aslo to'g'ri shoxlari yo'qdir",
+      "parts": [
+        {
+          "w": "لِهَذِهِ الشَّجَرَةِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bu daraxtning - jar majruur"
+        },
+        {
+          "w": "أَغْصَانٌ مُعْوَجَّةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qiyshiq shoxlar - ega"
+        },
+        {
+          "w": "وَلَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va yo'q - fe'l"
+        },
+        {
+          "w": "لَهَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "أَغْصَانٌ مُسْتَقِيمَةٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "To'g'ri shoxlar - ega"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        }
+      ]
+    },
+    {
+      "ar": "لِتِلْكَ الشَّجَرَةِ عُرُوقٌ غَلِيظَةٌ وَأَغْصَانٌ طَوِيلَةٌ،",
+      "tr": "Anavi daraxtning yo'g'on ildizlari va uzun shoxlari bor",
+      "parts": [
+        {
+          "w": "لِتِلْكَ الشَّجَرَةِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Anavi daraxtning - jar majruur"
+        },
+        {
+          "w": "عُرُوقٌ غَلِيظَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yo'g'on ildizlar - ega"
+        },
+        {
+          "w": "وَأَغْصَانٌ طَوِيلَةٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va uzun shoxlar - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لِهَذِهِ الشَّجَرَةِ أَوْرَاقٌ خُضْرٌ وَلَا أَزْهَارٌ حُمْرٌ،",
+      "tr": "Bu daraxtning yashil barglari ham, qizil gullari ham yo'qdir",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِهَذِهِ الشَّجَرَةِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bu daraxtning - jar majruur"
+        },
+        {
+          "w": "أَوْرَاقٌ خُضْرٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Yashil barglar - ega"
+        },
+        {
+          "w": "وَلَا أَزْهَارٌ حُمْرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va qizil gullar ham yo'q - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ الْغَيْرُ الْغَنِيِّ فَقِيرٌ،",
+      "tr": "Boy bo'lmagan inson kambag'aldir",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ الْغَيْرُ الْغَنِيِّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Boy bo'lmagan inson - ega"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ الْغَيْرُ الصَّحِيحِ مَرِيضٌ،",
+      "tr": "Sog'lom bo'lmagan inson kasaldir",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ الْغَيْرُ الصَّحِيحِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sog'lom bo'lmagan inson - ega"
+        },
+        {
+          "w": "مَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasal - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ الْفَقِيرُ غَيْرُ غَنِيٍّ،",
+      "tr": "Kambag'al inson boy emasdir",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ الْفَقِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kambag'al inson - ega"
+        },
+        {
+          "w": "غَيْرُ غَنِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ الْمَرِيضُ غَيْرُ صَحِيحٍ،",
+      "tr": "Kasal inson sog'lom emasdir",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ الْمَرِيضُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kasal inson - ega"
+        },
+        {
+          "w": "غَيْرُ صَحِيحٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lom emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لَكَ حِبْرٌ أَحْمَرُ ؟ - لَا، لَيْسَ لِي حِبْرٌ أَحْمَرُ أَصْلًا، بَلْ لِي حِبْرٌ أَسْوَدُ فَقَطْ،",
+      "tr": "Sening qizil siyohing bormi? - Yo'q, mening aslo qizil siyohim yo'q, balki faqat qora siyohim bor",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq harfi"
+        },
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "حِبْرٌ أَحْمَرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qizil siyoh - ega"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q - inkor"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "حِبْرٌ أَحْمَرُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Qizil siyoh - ega"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "حِبْرٌ أَسْوَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qora siyoh - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

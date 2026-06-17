@@ -1,0 +1,399 @@
+{
+  "title": "٢ ـ وَلَدُ آزَرَ",
+  "tuz": "Ozarning o'g'li",
+  "sub": "Ibrohimning bolalik davri",
+  "page": 10,
+  "sentences": [
+    {
+      "ar": "وَكَانَ آزَرُ لَهُ وَلَدٌ رَشِيدٌ، رَشِيدٌ جِدًّا.",
+      "tr": "Ozarning juda aqlli bir o'g'li bor edi.",
+      "parts": [
+        {
+          "w": "آزَرُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Jar-majrur"
+        },
+        {
+          "w": "وَلَدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "رَشِيدٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Sifat"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Miqdor holi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ اسْمُ هَذَا الْوَلَدِ إِبْرَاهِيمَ.",
+      "tr": "Bu bolaning ismi Ibrohim edi.",
+      "parts": [
+        {
+          "w": "اسْمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "هَذَا الْوَلَدِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Izofiy birikma"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Xabar — Ibrohim"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَرَى النَّاسَ يَسْجُدُونَ لِلْأَصْنَامِ.",
+      "tr": "Ibrohim odamlarning butlarga sajda qilayotganini ko'rar edi.",
+      "parts": [
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَرَى",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Ko'radi"
+        },
+        {
+          "w": "النَّاسَ",
+          "r": "maf'ul bih (يَسْجُدُونَ)",
+          "rc": "tb",
+          "e": "To'ldiruvchi"
+        },
+        {
+          "w": "يَسْجُدُونَ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Sajda qilayotgan"
+        },
+        {
+          "w": "لِلْأَصْنَامِ",
+          "r": "mutaalliq (يَسْجُدُونَ)",
+          "rc": "tmt",
+          "e": "Butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَرَى النَّاسَ يَعْبُدُونَ الْأَصْنَامَ.",
+      "tr": "Va odamlarning butlarga ibodat qilayotganini ko'rar edi.",
+      "parts": [
+        {
+          "w": "يَرَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'radi"
+        },
+        {
+          "w": "النَّاسَ",
+          "r": "maf'ul bih (يَرَى)",
+          "rc": "tb",
+          "e": "Odamlarni"
+        },
+        {
+          "w": "يَعْبُدُونَ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Ibodat qilayotgan"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (يَعْبُدُونَ)",
+          "rc": "tb",
+          "e": "Butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَعْرِفُ أَنَّ الْأَصْنَامَ حِجَارَةٌ.",
+      "tr": "Ibrohim butlarning tosh ekanini bilardi.",
+      "parts": [
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Biladi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Muakkad bo'lak"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Inna egasi"
+        },
+        {
+          "w": "حِجَارَةٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Tosh"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْرِفُ أَنَّ الْأَصْنَامَ لَا تَتَكَلَّمُ وَلَا تَسْمَعُ.",
+      "tr": "Va bilardi — gapirmaydi, eshitmaydi.",
+      "parts": [
+        {
+          "w": "يَعْرِفُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Biladi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Muakkad bo'lak"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Inna egasi"
+        },
+        {
+          "w": "لَا تَتَكَلَّمُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Gapirmaydi"
+        },
+        {
+          "w": "وَلَا تَسْمَعُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Eshitmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْرِفُ أَنَّ الْأَصْنَامَ لَا تَضُرُّ وَلَا تَنْفَعُ.",
+      "tr": "Va bilardi — zarar ham, foyda ham bermaydi.",
+      "parts": [
+        {
+          "w": "يَعْرِفُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Biladi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Muakkad bo'lak"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Inna egasi"
+        },
+        {
+          "w": "لَا تَضُرُّ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Zarar bermaydi"
+        },
+        {
+          "w": "وَلَا تَنْفَعُ",
+          "r": "xabar inna (nafi)",
+          "rc": "tx",
+          "e": "Foyda bermaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَرَى الذُّبَابَ يَجْلِسُ عَلَى الْأَصْنَامِ فَلَا تَدْفَعُ.",
+      "tr": "U pashshalarning butlar ustiga qo'nayotganini ko'rar, butlar esa ularni haydamasdi.",
+      "parts": [
+        {
+          "w": "يَرَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'radi"
+        },
+        {
+          "w": "الذُّبَابَ",
+          "r": "maf'ul bih (يَجْلِسُ)",
+          "rc": "tb",
+          "e": "Pashshalarni"
+        },
+        {
+          "w": "يَجْلِسُ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Qo'nadi"
+        },
+        {
+          "w": "عَلَى الْأَصْنَامِ",
+          "r": "mutaalliq (يَجْلِسُ)",
+          "rc": "tmt",
+          "e": "Butlar ustiga"
+        },
+        {
+          "w": "فَلَا تَدْفَعُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Haydamaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَرَى الْفَأْرَ يَأْكُلُ طَعَامَ الْأَصْنَامِ فَلَا تَمْنَعُ.",
+      "tr": "U sichqonlarning butlar taomini yeyotganini ko'rar, butlar esa ularni to'xtatmasdi.",
+      "parts": [
+        {
+          "w": "الْفَأْرَ",
+          "r": "maf'ul bih (يَأْكُلُ)",
+          "rc": "tb",
+          "e": "Sichqonni"
+        },
+        {
+          "w": "يَأْكُلُ",
+          "r": "fe'l (hol)",
+          "rc": "tf",
+          "e": "Yeydi"
+        },
+        {
+          "w": "طَعَامَ الْأَصْنَامِ",
+          "r": "maf'ul bih (يَأْكُلُ)",
+          "rc": "tb",
+          "e": "Butlarning taomini"
+        },
+        {
+          "w": "فَلَا تَمْنَعُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "To'xtatmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَقُولُ فِي نَفْسِهِ: لِمَاذَا يَسْجُدُ النَّاسُ لِلْأَصْنَامِ؟!!.",
+      "tr": "Ibrohim o'zicha: Odamlar nega butlarga sajda qiladi?!!",
+      "parts": [
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَقُولُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Aytadi"
+        },
+        {
+          "w": "فِي نَفْسِهِ",
+          "r": "mutaalliq (يَسْجُدُ)",
+          "rc": "tmt",
+          "e": "O'zicha"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "يَسْجُدُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sajda qiladi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (يَسْجُدُ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "لِلْأَصْنَامِ",
+          "r": "mutaalliq (يَسْجُدُ)",
+          "rc": "tmt",
+          "e": "Butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يَسْأَلُ نَفْسَهُ: لِمَاذَا يَسْأَلُ النَّاسُ الْأَصْنَامَ؟!!.",
+      "tr": "Ibrohim o'zidan: Odamlar nega butlardan so'raydi?!!",
+      "parts": [
+        {
+          "w": "يَسْأَلُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "So'raydi"
+        },
+        {
+          "w": "نَفْسَهُ",
+          "r": "maf'ul bih (يَسْأَلُ)",
+          "rc": "tb",
+          "e": "O'zini"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "يَسْأَلُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "So'raydi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (يَسْأَلُ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (يَسْأَلُ)",
+          "rc": "tb",
+          "e": "Butlardan"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

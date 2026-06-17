@@ -1,0 +1,741 @@
+{
+  "title": "١٤ ـ رُؤْيَا إِبْرَاهِيمَ",
+  "tuz": "Ibrohimning tushi",
+  "sub": "Ibrohim tushida Ismoilni qurbon qilish buyuriladi",
+  "page": 23,
+  "sentences": [
+    {
+      "ar": "وَعَادَ إِبْرَاهِيمُ إِلَى مَكَّةَ بَعْدَ مُدَّةٍ.",
+      "tr": "Ibrohim bir muddatdan keyin Makkaga qaytdi.",
+      "parts": [
+        {
+          "w": "وَعَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qaytdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَعَادَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "إِلَى مَكَّةَ",
+          "r": "mutaalliq (وَعَادَ)",
+          "rc": "tmt",
+          "e": "Makkaga"
+        },
+        {
+          "w": "بَعْدَ مُدَّةٍ",
+          "r": "zarf (وَعَادَ)",
+          "rc": "th",
+          "e": "Bir muddatdan keyin"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَقِيَ إِسْمَاعِيلَ وَلَقِيَ هَاجَرَ، وَفَرِحَ إِبْرَاهِيمُ بِوَلَدِهِ إِسْمَاعِيلَ.",
+      "tr": "Ismoil va Hojarni uchratdi. Ibrohim o'g'li Ismoil bilan xursand bo'ldi.",
+      "parts": [
+        {
+          "w": "وَلَقِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uchratdi"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (وَلَقِيَ)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        },
+        {
+          "w": "وَلَقِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uchratdi"
+        },
+        {
+          "w": "هَاجَرَ",
+          "r": "maf'ul bih (وَلَقِيَ)",
+          "rc": "tb",
+          "e": "Hojarni"
+        },
+        {
+          "w": "وَفَرِحَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xursand bo'ldi"
+        },
+        {
+          "w": "بِوَلَدِهِ",
+          "r": "mutaalliq (وَفَرِحَ)",
+          "rc": "tmt",
+          "e": "O'g'lidan"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "badal",
+          "rc": "tb",
+          "e": "Ismoildan"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِسْمَاعِيلُ وَلَدًا صَغِيرًا، يَجْرِي وَيَلْعَبُ وَيَخْرُجُ مَعَ وَالِدِهِ.",
+      "tr": "Ismoil kichkina bola edi, yugurar, o'ynar va otasi bilan chiqardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Ismoil"
+        },
+        {
+          "w": "وَلَدًا صَغِيرًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichkina bola"
+        },
+        {
+          "w": "يَجْرِي",
+          "r": "sifat (hol)",
+          "rc": "th",
+          "e": "Yugurardi"
+        },
+        {
+          "w": "وَيَلْعَبُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "O'ynardi"
+        },
+        {
+          "w": "وَيَخْرُجُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Chiqardi"
+        },
+        {
+          "w": "مَعَ وَالِدِهِ",
+          "r": "zarf (وَكَانَ)",
+          "rc": "th",
+          "e": "Otasi bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ يُحِبُّ إِسْمَاعِيلَ جِدًّا.",
+      "tr": "Ibrohim Ismoilni juda yaxshi ko'rar edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "يُحِبُّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yaxshi ko'rardi"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (وَكَانَ)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol (وَكَانَ)",
+          "rc": "th",
+          "e": "Juda"
+        }
+      ]
+    },
+    {
+      "ar": "وَذَاتَ لَيْلَةٍ رَأَى إِبْرَاهِيمُ فِي الْمَنَامِ أَنَّهُ يَذْبَحُ إِسْمَاعِيلَ.",
+      "tr": "Bir kechada Ibrohim tushida Ismoilni so'layotganini ko'rdi.",
+      "parts": [
+        {
+          "w": "وَذَاتَ لَيْلَةٍ",
+          "r": "zarf (رَأَى)",
+          "rc": "th",
+          "e": "Bir kechada"
+        },
+        {
+          "w": "رَأَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (رَأَى)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "فِي الْمَنَامِ",
+          "r": "zarf (رَأَى)",
+          "rc": "th",
+          "e": "Tushida"
+        },
+        {
+          "w": "أَنَّهُ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Deb u"
+        },
+        {
+          "w": "يَذْبَحُ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "So'layapti"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (رَأَى)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ نَبِيًّا صَادِقًا، وَكَانَ مَنَامُهُ مَنَامًا صَادِقًا.",
+      "tr": "Ibrohim rostgo'y payg'ambar edi va uning tushi ham rost edi.",
+      "parts": [
+        {
+          "w": "نَبِيًّا صَادِقًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Rostgo'y payg'ambar"
+        },
+        {
+          "w": "مَنَامُهُ مَنَامًا صَادِقًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tushi rost tush edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ إِبْرَاهِيمُ خَلِيلَ اللَّهِ، فَأَرَادَ أَنْ يَفْعَلَ مَا أَمَرَهُ اللَّهُ فِي الْمَنَامِ.",
+      "tr": "Ibrohim Allohning do'sti edi. Alloh tushda buyurgan narsani qilishni xohladi.",
+      "parts": [
+        {
+          "w": "خَلِيلَ اللَّهِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Allohning do'sti"
+        },
+        {
+          "w": "فَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "أَنْ يَفْعَلَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Qilishni"
+        },
+        {
+          "w": "مَا أَمَرَهُ اللَّهُ",
+          "r": "maf'ul bih (أَنْ يَفْعَلَ)",
+          "rc": "tb",
+          "e": "Alloh buyurgan narsani"
+        },
+        {
+          "w": "فِي الْمَنَامِ",
+          "r": "zarf (أَنْ يَفْعَلَ)",
+          "rc": "th",
+          "e": "Tushda"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ إِبْرَاهِيمُ لِإِسْمَاعِيلَ: ﴿إِنِّي أَرَى فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَى﴾.",
+      "tr": "Ibrohim Ismoilga: Men tushimda seni so'layotganimni ko'ryapman. Qanday fikrdasan? — dedi.",
+      "parts": [
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَقَالَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "لِإِسْمَاعِيلَ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Ismoilga"
+        },
+        {
+          "w": "إِنِّي",
+          "r": "inna",
+          "rc": "tb",
+          "e": "Albatta men"
+        },
+        {
+          "w": "أَرَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'ryapman"
+        },
+        {
+          "w": "فِي الْمَنَامِ",
+          "r": "zarf (فَانْظُرْ)",
+          "rc": "th",
+          "e": "Tushimda"
+        },
+        {
+          "w": "أَنِّي أَذْبَحُكَ",
+          "r": "maf'ul bih (فَانْظُرْ)",
+          "rc": "tb",
+          "e": "Seni so'layotganimni"
+        },
+        {
+          "w": "فَانْظُرْ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Qara"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nima"
+        },
+        {
+          "w": "تَرَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rasan"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ﴾.",
+      "tr": "U (Ismoil) dedi: Otajon, senga buyurilgan narsani qil. Alloh xohlasa, meni sabr qiluvchilardan topasan.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "يَا أَبَتِ",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Otajon"
+        },
+        {
+          "w": "افْعَلْ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Qil"
+        },
+        {
+          "w": "مَا تُؤْمَرُ",
+          "r": "maf'ul bih (افْعَلْ)",
+          "rc": "tb",
+          "e": "Senga buyurilgan narsani"
+        },
+        {
+          "w": "سَتَجِدُنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Meni topasan"
+        },
+        {
+          "w": "إِنْ شَاءَ اللَّهُ",
+          "r": "shart",
+          "rc": "th",
+          "e": "Alloh xohlasa"
+        },
+        {
+          "w": "مِنَ الصَّابِرِينَ",
+          "r": "mutaalliq (سَتَجِدُنِي)",
+          "rc": "tmt",
+          "e": "Sabr qiluvchilardan"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَخَذَ إِبْرَاهِيمُ إِسْمَاعِيلَ مَعَهُ وَأَخَذَ سِكِّينًا.",
+      "tr": "Ibrohim Ismoilni o'zi bilan oldi va pichoq oldi.",
+      "parts": [
+        {
+          "w": "وَأَخَذَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Oldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَأَخَذَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (وَأَخَذَ)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        },
+        {
+          "w": "مَعَهُ",
+          "r": "zarf (وَأَخَذَ)",
+          "rc": "th",
+          "e": "O'zi bilan"
+        },
+        {
+          "w": "وَأَخَذَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Oldi"
+        },
+        {
+          "w": "سِكِّينًا",
+          "r": "maf'ul bih (وَأَخَذَ)",
+          "rc": "tb",
+          "e": "Pichoq"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا بَلَغَ إِبْرَاهِيمُ مِنًى، أَرَادَ أَنْ يَذْبَحَ إِسْمَاعِيلَ.",
+      "tr": "Ibrohim Minoga yetganda, Ismoilni so'yishni xohladi.",
+      "parts": [
+        {
+          "w": "وَلَمَّا",
+          "r": "zarf (بَلَغَ)",
+          "rc": "th",
+          "e": "Qachonki"
+        },
+        {
+          "w": "بَلَغَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yetdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (بَلَغَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "مِنًى",
+          "r": "maf'ul bih (أَرَادَ)",
+          "rc": "tb",
+          "e": "Minoga"
+        },
+        {
+          "w": "أَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "أَنْ يَذْبَحَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "So'yishni"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (أَنْ يَذْبَحَ)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        }
+      ]
+    },
+    {
+      "ar": "وَاضْطَجَعَ إِسْمَاعِيلُ عَلَى الْأَرْضِ.",
+      "tr": "Ismoil yerga yonboshladi.",
+      "parts": [
+        {
+          "w": "وَاضْطَجَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yonboshladi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "fo'il (وَاضْطَجَعَ)",
+          "rc": "tm",
+          "e": "Ismoil"
+        },
+        {
+          "w": "عَلَى الْأَرْضِ",
+          "r": "mutaalliq (وَاضْطَجَعَ)",
+          "rc": "tmt",
+          "e": "Yerga"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ إِبْرَاهِيمُ أَنْ يَذْبَحَهُ فَوَضَعَ السِّكِينَ عَلَى حُلْقُومِ إِسْمَاعِيلَ.",
+      "tr": "Ibrohim uni so'ymoqchi bo'ldi va pichoqni Ismoilning halqumiga qo'ydi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَأَرَادَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "أَنْ يَذْبَحَهُ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Uni so'yishni"
+        },
+        {
+          "w": "فَوَضَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qo'ydi"
+        },
+        {
+          "w": "السِّكِينَ",
+          "r": "maf'ul bih (فَوَضَعَ)",
+          "rc": "tb",
+          "e": "Pichoqni"
+        },
+        {
+          "w": "عَلَى حُلْقُومِ إِسْمَاعِيلَ",
+          "r": "mutaalliq (فَوَضَعَ)",
+          "rc": "tmt",
+          "e": "Ismoilning halqumiga"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ اللَّهَ يُحِبُّ أَنْ يَرَى هَلْ يَفْعَلُ خَلِيلُهُ مَا يَأْمُرُهُ وَهَلْ يُحِبُّ اللَّهَ أَكْثَرَ أَوْ يُحِبُّ ابْنَهُ أَكْثَرَ.",
+      "tr": "Lekin Alloh o'z do'sti (Ibrohim) buyurgan narsani qiladimi va Allohni ko'proq sevadimi yoki o'g'lini — buni ko'rishni xohladi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Lekin"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "يُحِبُّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yaxshi ko'radi"
+        },
+        {
+          "w": "أَنْ يَرَى",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Ko'rishni"
+        },
+        {
+          "w": "هَلْ يَفْعَلُ خَلِيلُهُ مَا يَأْمُرُهُ",
+          "r": "istifhom",
+          "rc": "th",
+          "e": "Do'sti buyurgan narsani qiladimi"
+        },
+        {
+          "w": "وَهَلْ يُحِبُّ اللَّهَ أَكْثَرَ",
+          "r": "istifhom",
+          "rc": "th",
+          "e": "Allohni ko'proq sevadimi"
+        },
+        {
+          "w": "أَوْ يُحِبُّ ابْنَهُ أَكْثَرَ",
+          "r": "istifhom",
+          "rc": "th",
+          "e": "Yoki o'g'lini ko'proq sevadimi"
+        }
+      ]
+    },
+    {
+      "ar": "وَنَجَحَ إِبْرَاهِيمُ فِي الِامْتِحَانِ.",
+      "tr": "Ibrohim imtihonda muvaffaqiyat qozondi.",
+      "parts": [
+        {
+          "w": "وَنَجَحَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Muvaffaqiyat qozondi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَنَجَحَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "فِي الِامْتِحَانِ",
+          "r": "mutaalliq (وَنَجَحَ)",
+          "rc": "tmt",
+          "e": "Imtihonda"
+        }
+      ]
+    },
+    {
+      "ar": "فَأَرْسَلَ اللَّهُ جِبْرِيلَ بِكَبْشٍ مِنَ الْجَنَّةِ وَقَالَ: اذْبَحْ هَذَا وَلَا تَذْبَحْ إِسْمَاعِيلَ.",
+      "tr": "Alloh Jibroilni jannatdan bir qo'chqor bilan yubordi va: Buni so'y, Ismoilni so'yma — dedi.",
+      "parts": [
+        {
+          "w": "فَأَرْسَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yubordi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (فَأَرْسَلَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "جِبْرِيلَ",
+          "r": "maf'ul bih (فَأَرْسَلَ)",
+          "rc": "tb",
+          "e": "Jibroilni"
+        },
+        {
+          "w": "بِكَبْشٍ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Bir qo'chqor bilan"
+        },
+        {
+          "w": "مِنَ الْجَنَّةِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Jannatdan"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "اذْبَحْ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "So'y"
+        },
+        {
+          "w": "هَذَا",
+          "r": "maf'ul bih (اذْبَحْ)",
+          "rc": "tb",
+          "e": "Buni"
+        },
+        {
+          "w": "وَلَا تَذْبَحْ",
+          "r": "fe'l (amr nafiy)",
+          "rc": "tf",
+          "e": "Va so'yma"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (وَلَا تَذْبَحْ)",
+          "rc": "tb",
+          "e": "Ismoilni"
+        }
+      ]
+    },
+    {
+      "ar": "صَلَّى اللَّهُ عَلَى إِبْرَاهِيمَ الْخَلِيلِ وَسَلَّمَ.",
+      "tr": "Allohning salavoti va salomi Ibrohim — Xalil (do'st)ga bo'lsin.",
+      "parts": [
+        {
+          "w": "صَلَّى اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salovot bo'lsin"
+        },
+        {
+          "w": "عَلَى إِبْرَاهِيمَ",
+          "r": "mutaalliq (صَلَّى اللَّهُ)",
+          "rc": "tmt",
+          "e": "Ibrohimga"
+        },
+        {
+          "w": "الْخَلِيلِ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Do'st (Xalil)"
+        },
+        {
+          "w": "وَسَلَّمَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salom bo'lsin"
+        }
+      ]
+    },
+    {
+      "ar": "وَصَلَّى اللَّهُ عَلَى ابْنِهِ إِسْمَاعِيلَ وَسَلَّمَ.",
+      "tr": "Allohning salovoti va salomi uning o'g'li Ismoilga bo'lsin.",
+      "parts": [
+        {
+          "w": "وَصَلَّى اللَّهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salovot bo'lsin"
+        },
+        {
+          "w": "عَلَى ابْنِهِ",
+          "r": "mutaalliq (وَصَلَّى اللَّهُ)",
+          "rc": "tmt",
+          "e": "O'g'liga"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "badal",
+          "rc": "tb",
+          "e": "Ismoilga"
+        },
+        {
+          "w": "وَسَلَّمَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Salom bo'lsin"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

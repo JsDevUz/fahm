@@ -3,20 +3,12 @@ import { BookOpen, ChevronRight } from 'lucide-react';
 export default function TopBar({ currentView, activeBook, activeChapter, onNavigate }) {
   return (
     <header className="topbar glass">
-      <div className="brand" style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-        <BookOpen size={24} style={{ color: 'var(--accent-primary)' }} />
-        <div style={{ display: 'flex', flexDirection: 'column' }}>
-          <span className="arabic-text" style={{ fontSize: '18px', lineHeight: '1.2', color: 'var(--text-primary)' }}>مكتبة</span>
-          <span style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>Kutubxona</span>
-        </div>
-      </div>
-      
       <div className="nav" style={{ display: 'flex', alignItems: 'center', gap: '16px', minWidth: 0, flex: 1, justifyContent: 'flex-end' }}>
         <div className="crumb" style={{ fontSize: '13px', color: 'var(--text-secondary)', display: 'flex', alignItems: 'center', gap: '6px', overflow: 'hidden', whiteSpace: 'nowrap', minWidth: 0 }}>
-          
+
           {currentView !== 'books' ? (
-            <span 
-              onClick={() => onNavigate('books')} 
+            <span
+              onClick={() => onNavigate('books')}
               style={{ cursor: 'pointer', color: 'var(--accent-primary)' }}
             >
               Kitoblar
@@ -29,7 +21,7 @@ export default function TopBar({ currentView, activeBook, activeChapter, onNavig
             <>
               <ChevronRight size={14} style={{ color: '#ccc', flexShrink: 0 }} />
               {currentView !== 'reader' ? (
-                <span 
+                <span
                   onClick={() => onNavigate('reader')}
                   style={{ cursor: 'pointer', color: 'var(--accent-primary)', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: '120px' }}
                 >

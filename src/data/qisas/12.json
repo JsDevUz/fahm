@@ -1,0 +1,411 @@
+{
+  "title": "١٣ ـ بِئْرُ زَمْزَمَ",
+  "tuz": "Zamzam qudug‘i",
+  "sub": "Zamzam suvining kelishi va Hojarning yugurishi",
+  "page": 22,
+  "sentences": [
+    {
+      "ar": "وَعَطِشَ إِسْمَاعِيلُ مَرَّةً، وَأَرَادَتْ أُمُّهُ أَنْ تَسْقِيَهُ مَاءً وَلَكِنْ أَيْنَ الْمَاءُ؟.",
+      "tr": "Ismoil bir marta chanqadi, onasi unga suv bermoqchi bo‘ldi, lekin suv qayerda?",
+      "parts": [
+        {
+          "w": "وَعَطِشَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chanqadi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "fo'il (وَعَطِشَ)",
+          "rc": "tm",
+          "e": "Ismoil"
+        },
+        {
+          "w": "مَرَّةً",
+          "r": "maf'ul mutlaq (وَأَرَادَتْ)",
+          "rc": "tb",
+          "e": "Bir marta"
+        },
+        {
+          "w": "وَأَرَادَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "أُمُّهُ",
+          "r": "fo'il (وَأَرَادَتْ)",
+          "rc": "tm",
+          "e": "Onasi"
+        },
+        {
+          "w": "أَنْ تَسْقِيَهُ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Unga suv bermoqchi"
+        },
+        {
+          "w": "مَاءً",
+          "r": "maf'ul bih (أَنْ تَسْقِيَهُ)",
+          "rc": "tb",
+          "e": "Suv"
+        },
+        {
+          "w": "وَلَكِنْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Lekin"
+        },
+        {
+          "w": "أَيْنَ",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Qayerda"
+        },
+        {
+          "w": "الْمَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Suv"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَكَّةُ لَيْسَ فِيهَا بِئْرٌ، وَمَكَّةُ لَيْسَ فِيهَا نَهَرٌ!.",
+      "tr": "Makkada quduq yo‘q, Makkada daryo ham yo‘q!",
+      "parts": [
+        {
+          "w": "وَمَكَّةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Makka"
+        },
+        {
+          "w": "لَيْسَ فِيهَا بِئْرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Unda quduq yo'q"
+        },
+        {
+          "w": "وَمَكَّةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Makka"
+        },
+        {
+          "w": "لَيْسَ فِيهَا نَهَرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Unda daryo yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ هَاجَرُ تَطْلُبُ الْمَاءَ وَتَجْرِي مِنَ الصَّفَا إِلَى الْمَرْوَةِ وَمِنَ الْمَرْوَةِ إِلَى الصَّفَا.",
+      "tr": "Hojar suv izlab, Safodan Marvaga va Marvadan Safoga yugurardi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "هَاجَرُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Hojar"
+        },
+        {
+          "w": "تَطْلُبُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Izlardi"
+        },
+        {
+          "w": "الْمَاءَ",
+          "r": "maf'ul bih (وَكَانَتْ)",
+          "rc": "tb",
+          "e": "Suv"
+        },
+        {
+          "w": "وَتَجْرِي",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va yugurardi"
+        },
+        {
+          "w": "مِنَ الصَّفَا",
+          "r": "mutaalliq (وَكَانَتْ)",
+          "rc": "tmt",
+          "e": "Safodan"
+        },
+        {
+          "w": "إِلَى الْمَرْوَةِ",
+          "r": "mutaalliq (وَكَانَتْ)",
+          "rc": "tmt",
+          "e": "Marvaga"
+        },
+        {
+          "w": "وَمِنَ الْمَرْوَةِ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Marvadan"
+        },
+        {
+          "w": "إِلَى الصَّفَا",
+          "r": "mutaalliq (وَكَانَتْ)",
+          "rc": "tmt",
+          "e": "Safoga"
+        }
+      ]
+    },
+    {
+      "ar": "وَنَصَرَ اللَّهُ هَاجَرَ، وَنَصَرَ إِسْمَاعِيلَ، فَخَلَقَ لَهُمَا مَاءً وَخَرَجَ الْمَاءُ مِنَ الْأَرْضِ.",
+      "tr": "Alloh Hojarga yordam berdi va Ismoilga yordam berdi. Ular uchun suv yaratdi va suv yerdan chiqdi.",
+      "parts": [
+        {
+          "w": "وَنَصَرَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yordam berdi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (وَنَصَرَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "هَاجَرَ",
+          "r": "maf'ul bih (وَنَصَرَ)",
+          "rc": "tb",
+          "e": "Hojarga"
+        },
+        {
+          "w": "وَنَصَرَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yordam berdi"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "maf'ul bih (وَنَصَرَ)",
+          "rc": "tb",
+          "e": "Ismoilga"
+        },
+        {
+          "w": "فَخَلَقَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yaratdi"
+        },
+        {
+          "w": "لَهُمَا",
+          "r": "mutaalliq (فَخَلَقَ)",
+          "rc": "tmt",
+          "e": "Ikkalasi uchun"
+        },
+        {
+          "w": "مَاءً",
+          "r": "maf'ul bih (وَخَرَجَ)",
+          "rc": "tb",
+          "e": "Suv"
+        },
+        {
+          "w": "وَخَرَجَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chiqdi"
+        },
+        {
+          "w": "الْمَاءُ",
+          "r": "fo'il (وَخَرَجَ)",
+          "rc": "tm",
+          "e": "Suv"
+        },
+        {
+          "w": "مِنَ الْأَرْضِ",
+          "r": "mutaalliq (وَخَرَجَ)",
+          "rc": "tmt",
+          "e": "Yerdan"
+        }
+      ]
+    },
+    {
+      "ar": "وَشَرِبَ إِسْمَاعِيلُ وَشَرِبَتْ هَاجَرُ وَبَقِيَ الْمَاءُ فَكَانَ بِئْرَ زَمْزَمَ.",
+      "tr": "Ismoil ichdi va Hojar ichdi. Suv qoldi va Zamzam qudug‘i bo‘ldi.",
+      "parts": [
+        {
+          "w": "وَشَرِبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ichdi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "fo'il (وَشَرِبَ)",
+          "rc": "tm",
+          "e": "Ismoil"
+        },
+        {
+          "w": "وَشَرِبَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ichdi"
+        },
+        {
+          "w": "هَاجَرُ",
+          "r": "fo'il (وَشَرِبَتْ)",
+          "rc": "tm",
+          "e": "Hojar"
+        },
+        {
+          "w": "وَبَقِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qoldi"
+        },
+        {
+          "w": "الْمَاءُ",
+          "r": "fo'il (وَبَقِيَ)",
+          "rc": "tm",
+          "e": "Suv"
+        },
+        {
+          "w": "فَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va bo'ldi"
+        },
+        {
+          "w": "بِئْرَ زَمْزَمَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zamzam qudug'i"
+        }
+      ]
+    },
+    {
+      "ar": "فَبَارَكَ اللَّهُ فِي زَمْزَمَ وَهَذِهِ هِيَ الْبِئْرُ الَّتِي يَشْرَبُ مِنْهَا النَّاسُ فِي الْحَجِّ.",
+      "tr": "Alloh Zamzamga baraka berdi. Bu hajda odamlar undan ichadigan quduqdir.",
+      "parts": [
+        {
+          "w": "فَبَارَكَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Baraka berdi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "fo'il (فَبَارَكَ)",
+          "rc": "tm",
+          "e": "Alloh"
+        },
+        {
+          "w": "فِي زَمْزَمَ",
+          "r": "mutaalliq (فَبَارَكَ)",
+          "rc": "tmt",
+          "e": "Zamzamga"
+        },
+        {
+          "w": "وَهَذِهِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Va bu"
+        },
+        {
+          "w": "هِيَ",
+          "r": "fasl",
+          "rc": "tb",
+          "e": "O'sha"
+        },
+        {
+          "w": "الْبِئْرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Quduqdir"
+        },
+        {
+          "w": "الَّتِي",
+          "r": "ism mavsul",
+          "rc": "tb",
+          "e": "Unda"
+        },
+        {
+          "w": "يَشْرَبُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ichadi"
+        },
+        {
+          "w": "مِنْهَا",
+          "r": "mutaalliq (يَشْرَبُ)",
+          "rc": "tmt",
+          "e": "Undan"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (يَشْرَبُ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "فِي الْحَجِّ",
+          "r": "zarf (يَشْرَبُ)",
+          "rc": "th",
+          "e": "Hajda"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَأْتُونَ بِمَاءِ زَمْزَمَ إِلَى بَلَدِهِمْ.",
+      "tr": "Va Zamzam suvini o'z yurtlariga olib keladilar.",
+      "parts": [
+        {
+          "w": "وَيَأْتُونَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Keladilar"
+        },
+        {
+          "w": "بِمَاءِ زَمْزَمَ",
+          "r": "mutaalliq (وَيَأْتُونَ)",
+          "rc": "tmt",
+          "e": "Zamzam suvi bilan"
+        },
+        {
+          "w": "إِلَى بَلَدِهِمْ",
+          "r": "mutaalliq (وَيَأْتُونَ)",
+          "rc": "tmt",
+          "e": "O'z yurtlariga"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ شَرِبْتَ مَاءَ زَمْزَمَ؟.",
+      "tr": "Zamzam suvini ichganmisan?",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi"
+        },
+        {
+          "w": "شَرِبْتَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ichding"
+        },
+        {
+          "w": "مَاءَ زَمْزَمَ",
+          "r": "maf'ul bih (شَرِبْتَ)",
+          "rc": "tb",
+          "e": "Zamzam suvini"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

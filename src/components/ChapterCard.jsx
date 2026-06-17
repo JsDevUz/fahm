@@ -17,7 +17,7 @@ export default function ChapterCard({ chapter, onClick }) {
         paddingTop: '16px', 
         borderTop: '1px solid var(--border-color)' 
       }}>
-        Sahifa {chapter.page} • {chapter.sentences?.length || 0} gap
+        Sahifa {chapter.page} • {chapter.sentenceCount || 0} gap
       </div>
     </div>
   );

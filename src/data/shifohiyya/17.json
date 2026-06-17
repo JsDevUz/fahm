@@ -1,0 +1,1773 @@
+{
+  "title": "١٨. الدَّرْسُ الثَّامِنَ عَشَرَ",
+  "tuz": "18-dars",
+  "sub": "O'quv qurollari, egalik daxldorligi va 'Bor' ma'nosi",
+  "page": 46,
+  "sentences": [
+    {
+      "ar": "هَذَا الْكِتَابُ جَدِيدٌ،",
+      "tr": "Bu kitob yangidir",
+      "parts": [
+        {
+          "w": "هَذَا الْكِتَابُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kitob - ega"
+        },
+        {
+          "w": "جَدِيدٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yangi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْكُتُبُ جَدِيدَةٌ،",
+      "tr": "Bu kitoblar yangidir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْكُتُبُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kitoblar - ega"
+        },
+        {
+          "w": "جَدِيدَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yangi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْكِتَابُ عَتِيقٌ،",
+      "tr": "Anavi kitob eskidir",
+      "parts": [
+        {
+          "w": "ذَاكَ الْكِتَابُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kitob - ega"
+        },
+        {
+          "w": "عَتِيقٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eski - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْكُتُبُ عَتِيقَةٌ،",
+      "tr": "Anavi kitoblar eskidir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْكُتُبُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kitoblar - ega"
+        },
+        {
+          "w": "عَتِيقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eski - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الصَّحِيفَةُ كَبِيرَةٌ،",
+      "tr": "Bu sahifa kattadir",
+      "parts": [
+        {
+          "w": "هَذِهِ الصَّحِيفَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu sahifa - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الصُّحُفُ كَبِيرَةٌ،",
+      "tr": "Anavi sahifalar kattadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الصُّحُفُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi sahifalar - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْغِلَافُ وَاسِعٌ،",
+      "tr": "Bu g'ilof kengdir",
+      "parts": [
+        {
+          "w": "هَذَا الْغِلَافُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu g'ilof - ega"
+        },
+        {
+          "w": "وَاسِعٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْغُلُفُ وَاسِعَةٌ،",
+      "tr": "Anavi g'iloflar kengdir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْغُلُفُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi g'iloflar - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْقَلَمُ طَوِيلٌ،",
+      "tr": "Bu qalam uzundur",
+      "parts": [
+        {
+          "w": "هَذَا الْقَلَمُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qalam - ega"
+        },
+        {
+          "w": "طَوِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْأَقْلَامُ قَصِيرَةٌ،",
+      "tr": "Anavi qalamlar qisqadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْأَقْلَامُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi qalamlar - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْحِبْرُ جَدِيدٌ،",
+      "tr": "Bu siyoh yangidir",
+      "parts": [
+        {
+          "w": "هَذَا الْحِبْرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu siyoh - ega"
+        },
+        {
+          "w": "جَدِيدٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yangi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْأَحْبَارُ عَتِيقَةٌ،",
+      "tr": "Anavi siyohlar eskidir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْأَحْبَارُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi siyohlar - ega"
+        },
+        {
+          "w": "عَتِيقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eski - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْمِحْبَرَةُ وَاسِعَةٌ،",
+      "tr": "Bu siyohdon kengdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْمِحْبَرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu siyohdon - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَحَابِرُ ضَيِّقَةٌ،",
+      "tr": "Anavi siyohdonlar tordir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَحَابِرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi siyohdonlar - ega"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tor - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الصُّنْدُوقُ طَوِيلٌ،",
+      "tr": "Bu sandiq uzundur",
+      "parts": [
+        {
+          "w": "هَذَا الصُّنْدُوقُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu sandiq - ega"
+        },
+        {
+          "w": "طَوِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الصَّنَادِيقُ قَصِيرَةٌ،",
+      "tr": "Anavi sandiqlar qisqadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الصَّنَادِيقُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi sandiqlar - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُنْدُوقُهُ وَاسِعٌ،",
+      "tr": "Uning sandig'i kengdir",
+      "parts": [
+        {
+          "w": "صُنْدُوقُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning sandig'i - ega"
+        },
+        {
+          "w": "وَاسِعٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَنَادِيقُهُمْ ضَيِّقَةٌ،",
+      "tr": "Ularning sandiqlari tordir",
+      "parts": [
+        {
+          "w": "صَنَادِيقُهُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ularning sandiqlari - ega"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tor - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُنْدُوقِي جَدِيدٌ،",
+      "tr": "Mening sandig'im yangidir",
+      "parts": [
+        {
+          "w": "صُنْدُوقِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening sandig'im - ega"
+        },
+        {
+          "w": "جَدِيدٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yangi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صُنْدُوقُكَ عَتِيقٌ،",
+      "tr": "Sening sandig'ing eskidir",
+      "parts": [
+        {
+          "w": "صُنْدُوقُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening sandig'ing - ega"
+        },
+        {
+          "w": "عَتِيقٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eski - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "كِتَابُ هَذَا الْوَلَدِ صَغِيرٌ،",
+      "tr": "Bu bolaning kitobi kichikdir",
+      "parts": [
+        {
+          "w": "كِتَابُ هَذَا الْوَلَدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu bolaning kitobi - ega"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "دَفْتَرُ ذَاكَ الْوَلَدِ كَبِيرٌ،",
+      "tr": "Anavi bolaning daftari kattadir",
+      "parts": [
+        {
+          "w": "دَفْتَرُ ذَاكَ الْوَلَدِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi bolaning daftari - ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَحِيفَةُ هَذَا الْكِتَابِ كَبِيرَةٌ،",
+      "tr": "Bu kitobning sahifasi kattadir",
+      "parts": [
+        {
+          "w": "صَحِيفَةُ هَذَا الْكِتَابِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kitobning sahifasi - ega"
+        },
+        {
+          "w": "كَبِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "غِلَافُ ذَاكَ الْكِتَابِ صَغِيرٌ،",
+      "tr": "Anavi kitobning g'ilofi kichikdir",
+      "parts": [
+        {
+          "w": "غِلَافُ ذَاكَ الْكِتَابِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kitobning g'ilofi - ega"
+        },
+        {
+          "w": "صَغِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichik - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حِبْرُ هَذِهِ الْمَحَابِرِ قَلِيلٌ،",
+      "tr": "Bu siyohdonlarning siyohi ozdir",
+      "parts": [
+        {
+          "w": "حِبْرُ هَذِهِ الْمَحَابِرِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu siyohdonlarning siyohi - ega"
+        },
+        {
+          "w": "قَلِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "حِبْرُ تِلْكَ الْمَحَابِرِ كَثِيرٌ،",
+      "tr": "Anavi siyohdonlarning siyohi ko'pdir",
+      "parts": [
+        {
+          "w": "حِبْرُ تِلْكَ الْمَحَابِرِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi siyohdonlarning siyohi - ega"
+        },
+        {
+          "w": "كَثِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَحَابِرُ هَذَا الْمَكْتَبِ كَثِيرَةٌ،",
+      "tr": "Bu idoraning siyohdonlari ko'pdir",
+      "parts": [
+        {
+          "w": "مَحَابِرُ هَذَا الْمَكْتَبِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu idoraning siyohdonlari - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَقْلَامُ هَؤُلَاءِ الْأَوْلَادِ جَدِيدَةٌ،",
+      "tr": "Bu bolalarning qalamlari yangidir",
+      "parts": [
+        {
+          "w": "أَقْلَامُ هَؤُلَاءِ الْأَوْلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu bolalarning qalamlari - ega"
+        },
+        {
+          "w": "جَدِيدَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yangi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَقْلَامُ أُولَئِكَ الْأَوْلَادِ عَتِيقَةٌ،",
+      "tr": "Anavi bolalarning qalamlari eskidir",
+      "parts": [
+        {
+          "w": "أَقْلَامُ أُولَئِكَ الْأَوْلَادِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi bolalarning qalamlari - ega"
+        },
+        {
+          "w": "عَتِيقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eski - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْكُتُبُ الْكَبِيرَةُ قَلِيلَةٌ،",
+      "tr": "Katta kitoblar ozdir",
+      "parts": [
+        {
+          "w": "الْكُتُبُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta kitoblar - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْكُتُبُ الصَّغِيرَةُ كَثِيرَةٌ،",
+      "tr": "Kichik kitoblar ko'pdir",
+      "parts": [
+        {
+          "w": "الْكُتُبُ الصَّغِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik kitoblar - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الدَّفَاتِرُ الصَّغِيرَةُ قَلِيلَةٌ،",
+      "tr": "Kichik daftarlar ozdir",
+      "parts": [
+        {
+          "w": "الدَّفَاتِرُ الصَّغِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik daftarlar - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الدَّفَاتِرُ الْقَصِيرَةُ كَثِيرَةٌ،",
+      "tr": "Qisqa daftarlar ko'pdir",
+      "parts": [
+        {
+          "w": "الدَّفَاتِرُ الْقَصِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qisqa daftarlar - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْغُلُفُ الْكَبِيرَةُ وَاسِعَةٌ،",
+      "tr": "Katta g'iloflar kengdir",
+      "parts": [
+        {
+          "w": "الْغُلُفُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta g'iloflar - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْأَقْلَامُ الْكَبِيرَةُ طَوِيلَةٌ،",
+      "tr": "Katta qalamlar uzundur",
+      "parts": [
+        {
+          "w": "الْأَقْلَامُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta qalamlar - ega"
+        },
+        {
+          "w": "طَوِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْأَقْلَامُ الصَّغِيرَةُ قَصِيرَةٌ،",
+      "tr": "Kichik qalamlar qisqadir",
+      "parts": [
+        {
+          "w": "الْأَقْلَامُ الصَّغِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik qalamlar - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْمَحَابِرُ الْكَبِيرَةُ وَاسِعَةٌ،",
+      "tr": "Katta siyohdonlar kengdir",
+      "parts": [
+        {
+          "w": "الْمَحَابِرُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta siyohdonlar - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْمَحَابِرُ الْجَدِيدَةُ كَثِيرَةٌ،",
+      "tr": "Yangi siyohdonlar ko'pdir",
+      "parts": [
+        {
+          "w": "الْمَحَابِرُ الْجَدِيدَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yangi siyohdonlar - ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ko'p - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْمَحَابِرُ الْعَتِيقَةُ قَلِيلَةٌ،",
+      "tr": "Eski siyohdonlar ozdir",
+      "parts": [
+        {
+          "w": "الْمَحَابِرُ الْعَتِيقَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Eski siyohdonlar - ega"
+        },
+        {
+          "w": "قَلِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الصَّنَادِيقُ الْكَبِيرَةُ وَاسِعَةٌ،",
+      "tr": "Katta sandiqlar kengdir",
+      "parts": [
+        {
+          "w": "الصَّنَادِيقُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta sandiqlar - ega"
+        },
+        {
+          "w": "وَاسِعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Keng - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الصَّنَادِيقُ الصَّغِيرَةُ ضَيِّقَةٌ،",
+      "tr": "Kichik sandiqlar tordir",
+      "parts": [
+        {
+          "w": "الصَّنَادِيقُ الصَّغِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik sandiqlar - ega"
+        },
+        {
+          "w": "ضَيِّقَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tor - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا كِتَابِي،",
+      "tr": "Bu mening kitobimdir",
+      "parts": [
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu - ega"
+        },
+        {
+          "w": "كِتَابِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening kitobim - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ دَفْتَرِي،",
+      "tr": "Anavi mening daftarimdir",
+      "parts": [
+        {
+          "w": "ذَاكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi - ega"
+        },
+        {
+          "w": "دَفْتَرِي",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mening daftarim - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا غِلَافُكَ،",
+      "tr": "Bu sening g'ilofingdir",
+      "parts": [
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu - ega"
+        },
+        {
+          "w": "غِلَافُكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening g'ilofing - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ قَلَمُكَ،",
+      "tr": "Anavi sening qalamingdir",
+      "parts": [
+        {
+          "w": "ذَاكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi - ega"
+        },
+        {
+          "w": "قَلَمُكَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sening qalaming - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لِبَكْرٍ كِتَابٌ جَدِيدٌ وَصُنْدُوقٌ كَبِيرٌ أَيْضًا،",
+      "tr": "Bakrning yangi kitobi va shuningdek katta sandig'i bor",
+      "parts": [
+        {
+          "w": "لِبَكْرٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bakrning - jar majruur"
+        },
+        {
+          "w": "كِتَابٌ جَدِيدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yangi kitob - ega"
+        },
+        {
+          "w": "وَصُنْدُوقٌ كَبِيرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va katta sandiq - ma'tuf"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Shuningdek - hol"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لِبَكْرٍ دَفْتَرٌ جَدِيدٌ وَلَا قَلَمٌ عَتِيقٌ،",
+      "tr": "Bakrning yangi daftari ham, eski qalami ham yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِبَكْرٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bakrning - jar majruur"
+        },
+        {
+          "w": "دَفْتَرٌ جَدِيدٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Yangi daftar - ega"
+        },
+        {
+          "w": "وَلَا قَلَمٌ عَتِيقٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va eski qalam ham yo'q - ma'tuf"
+        }
+      ]
+    },
+    {
+      "ar": "لِعَلِيٍّ قَلَمٌ وَاحِدٌ فَقَطْ،",
+      "tr": "Alining faqat bitta qalami bor",
+      "parts": [
+        {
+          "w": "لِعَلِيٍّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Alining - jar majruur"
+        },
+        {
+          "w": "قَلَمٌ وَاحِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bitta qalam - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لِعَلِيٍّ قَلَمٌ طَوِيلٌ،",
+      "tr": "Alining uzun qalami yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِعَلِيٍّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Alining - jar majruur"
+        },
+        {
+          "w": "قَلَمٌ طَوِيلٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Uzun qalam - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَهُ أَبٌ غَنِيٌّ،",
+      "tr": "Uning boy otasi bor",
+      "parts": [
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "أَبٌ غَنِيٌّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Boy otasi - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لَهُمْ آبَاءٌ عُلَمَاءُ،",
+      "tr": "Ularning olim otalari yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَهُمْ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Ularning - jar majruur"
+        },
+        {
+          "w": "آبَاءٌ عُلَمَاءُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Olim otalar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَهَا أُمٌّ مَرِيضَةٌ،",
+      "tr": "Uning (ayol) kasal onasi bor",
+      "parts": [
+        {
+          "w": "لَهَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning (ayol) - jar majruur"
+        },
+        {
+          "w": "أُمٌّ مَرِيضَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kasal onasi - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَتْ لَهُنَّ أُمَّهَاتٌ مَرِيضَاتٌ،",
+      "tr": "Ularning (ayollar) kasal onalari yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَهُنَّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Ularning (ayollar) - jar majruur"
+        },
+        {
+          "w": "أُمَّهَاتٌ مَرِيضَاتٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Kasal onalar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَكَ أَخٌ كَبِيرٌ،",
+      "tr": "Sening katta akang bor",
+      "parts": [
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "أَخٌ كَبِيرٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta akang - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لَكُمْ إِخْوَةٌ كِبَارٌ،",
+      "tr": "Sizlarning katta aka-ukalaringiz yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sizlarning - jar majruur"
+        },
+        {
+          "w": "إِخْوَةٌ كِبَارٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Katta aka-ukalar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَكِ أُخْتٌ صَغِيرَةٌ،",
+      "tr": "Sening (ayol) kichik singling bor",
+      "parts": [
+        {
+          "w": "لَكِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening (ayol) - jar majruur"
+        },
+        {
+          "w": "أُخْتٌ صَغِيرَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik singling - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَتْ لَكُنَّ أَخَوَاتٌ صَغِيرَاتٌ،",
+      "tr": "Sizlarning (ayollar) kichik opa-singillaringiz yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَكُنَّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sizlarning (ayollar) - jar majruur"
+        },
+        {
+          "w": "أَخَوَاتٌ صَغِيرَاتٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Kichik opa-singillar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لِي صَدِيقٌ عَالِمٌ،",
+      "tr": "Mening olim do'stim bor",
+      "parts": [
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "صَدِيقٌ عَالِمٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Olim do'stim - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لِي عَدُوٌّ ظَالِمٌ،",
+      "tr": "Mening zolim dushmanim yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "عَدُوٌّ ظَالِمٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Zolim dushman - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَنَا رُفَقَاءُ صُلَحَاءُ،",
+      "tr": "Bizning solih hamrohlarimiz bor",
+      "parts": [
+        {
+          "w": "لَنَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bizning - jar majruur"
+        },
+        {
+          "w": "رُفَقَاءُ صُلَحَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Solih hamrohlar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ لَنَا شُرَكَاءُ أَغْبِيَاءُ،",
+      "tr": "Bizning tentak sheriklarimiz yo'q",
+      "parts": [
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَنَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bizning - jar majruur"
+        },
+        {
+          "w": "شُرَكَاءُ أَغْبِيَاءُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Tentak sheriklar - ega"
+        }
+      ]
+    },
+    {
+      "ar": "لِعَلِيٍّ صَدِيقٌ صَالِحٌ وَعَدُوٌّ فَاسِقٌ أَيْضًا،",
+      "tr": "Alining solih do'sti va shuningdek fosiq dushmani bor",
+      "parts": [
+        {
+          "w": "لِعَلِيٍّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Alining - jar majruur"
+        },
+        {
+          "w": "صَدِيقٌ صَالِحٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Solih do'sti - ega"
+        },
+        {
+          "w": "وَعَدُوٌّ فَاسِقٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va fosiq dushmani - ma'tuf"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Shuningdek - hol"
+        }
+      ]
+    },
+    {
+      "ar": "مَا لِبَكْرٍ أَبٌ صَحِيحٌ، بَلْ لَهُ جَدٌّ مَرِيضٌ فَقَطْ،",
+      "tr": "Bakrning sog'lom otasi yo'q, balki uning faqat kasal bobosi bor",
+      "parts": [
+        {
+          "w": "مَا",
+          "r": "harf nafiy",
+          "rc": "tb",
+          "e": "Yo'q - inkor"
+        },
+        {
+          "w": "لِبَكْرٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bakrning - jar majruur"
+        },
+        {
+          "w": "أَبٌ صَحِيحٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sog'lom otasi - ega"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "جَدٌّ مَرِيضٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kasal bobosi - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        }
+      ]
+    },
+    {
+      "ar": "لِزَيْدٍ أَوْلَادٌ مُجْتَهِدُونَ، أَمَّا اِبْنُهُ الْكَبِيرُ فَمُدَرِّسٌ وَأَمَّا اِبْنُهُ الصَّغِيرُ فَإِمَامٌ، وَأَمَّا اِبْنَتُهُ الْكَبِيرَةُ فَمُعَلِّمَةٌ وَأَمَّا اِبْنَتُهُ الصَّغِيرَةُ فَخَيَّاطَةٌ،",
+      "tr": "Zaydning faol bolalari bor: Ammo katta o'g'li mudarris, kichik o'g'li imom, katta qizi o'qituvchi, kichik qizi tikuvchi",
+      "parts": [
+        {
+          "w": "لِزَيْدٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Zaydning - jar majruur"
+        },
+        {
+          "w": "أَوْلَادٌ مُجْتَهِدُونَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Faol bolalari - ega"
+        },
+        {
+          "w": "أَمَّا اِبْنُهُ الْكَبِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta o'g'li - ega"
+        },
+        {
+          "w": "فَمُدَرِّسٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mudarris - xabar"
+        },
+        {
+          "w": "وَأَمَّا اِبْنُهُ الصَّغِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik o'g'li - ega"
+        },
+        {
+          "w": "فَإِمَامٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Imom - xabar"
+        },
+        {
+          "w": "وَأَمَّا اِبْنَتُهُ الْكَبِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta qizi - ega"
+        },
+        {
+          "w": "فَمُعَلِّمَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "O'qituvchi - xabar"
+        },
+        {
+          "w": "وَأَمَّا اِبْنَتُهُ الصَّغِيرَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik qizi - ega"
+        },
+        {
+          "w": "فَخَيَّاطَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tikuvchi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لِعَلِيٍّ إِخْوَةٌ أَوْ لَا؟ - نَعَمْ لَهُ أَخٌ كَبِيرٌ وَأَخٌ صَغِيرٌ أَيْضًا،",
+      "tr": "Alining aka-ukalari bormi yoki yo'qmi? - Ha, uning katta akasi va kichik ukasi ham bor",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لِعَلِيٍّ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Alining - jar majruur"
+        },
+        {
+          "w": "إِخْوَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aka-ukalari - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "أَخٌ كَبِيرٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta akasi - ega"
+        },
+        {
+          "w": "وَأَخٌ صَغِيرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va kichik ukasi - ma'tuf"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Shuningdek - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لِبَكْرٍ كِتَابٌ أَوْ لَا ؟ - لَا، لَيْسَ لَهُ كِتَابٌ وَلَا دَفْتَرٌ أَيْضًا،",
+      "tr": "Bakrning kitobi bormi yoki yo'qmi? - Yo'q, uning kitobi ham, daftari ham yo'q",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لِبَكْرٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bakrning - jar majruur"
+        },
+        {
+          "w": "كِتَابٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kitobi - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning - jar majruur"
+        },
+        {
+          "w": "كِتَابٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Kitobi - ega"
+        },
+        {
+          "w": "وَلَا دَفْتَرٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va daftari ham yo'q - ma'tuf"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Shuningdek - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لَكَ قَلَمٌ أَوْ مِحْبَرَةٌ؟ - نَعَمْ، لِي قَلَمٌ فَقَطْ وَلَيْسَ لِي مِحْبَرَةٌ،",
+      "tr": "Sening qalaming yoki siyohdoning bormi? - Ha, mening faqat qalamim bor, siyohdonim yo'q",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "قَلَمٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qalam - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "مِحْبَرَةٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Siyohdon - ega"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "قَلَمٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qalam - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        },
+        {
+          "w": "وَلَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va yo'q - fe'l"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "مِحْبَرَةٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Siyohdon - ega"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لِي صُنْدُوقٌ جَدِيدٌ أَوْ عَتِيقٌ أَوْ لَا - لَا، لَيْسَ لَكَ صُنْدُوقٌ جَدِيدٌ وَلَا صُنْدُوقٌ عَتِيقٌ أَصْلًا، بَلْ لَكَ غِلَافٌ وَاحِدٌ فَقَطْ،",
+      "tr": "Mening yangi yoki eski sandig'im bormi? - Yo'q, sening aslo yangi ham, eski ham sandig'ing yo'q, faqat bitta g'ilofing bor",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لِي",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Mening - jar majruur"
+        },
+        {
+          "w": "صُنْدُوقٌ جَدِيدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yangi sandiq - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "عَتِيقٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Eski sandiq - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yo'q - fe'l"
+        },
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "صُنْدُوقٌ جَدِيدٌ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Yangi sandiq - ega"
+        },
+        {
+          "w": "وَلَا صُنْدُوقٌ عَتِيقٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va eski sandiq ham yo'q - ma'tuf"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "لَكَ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sening - jar majruur"
+        },
+        {
+          "w": "غِلَافٌ وَاحِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bitta g'ilof - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لَكُمْ أَبٌ أَوْ أُمٌّ؟ - لَنَا أَبٌ فَقَطْ وَلَيْسَ لَنَا أُمٌّ،",
+      "tr": "Sizlarning otangiz yoki onangiz bormi? - Bizning faqat otamiz bor, onamiz yo'q",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sizlarning - jar majruur"
+        },
+        {
+          "w": "أَبٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otangiz - ega"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "أُمٌّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Onangiz - ega"
+        },
+        {
+          "w": "لَنَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bizning - jar majruur"
+        },
+        {
+          "w": "أَبٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otamiz - ega"
+        },
+        {
+          "w": "فَقَطْ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Faqat - hol"
+        },
+        {
+          "w": "وَلَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va yo'q - fe'l"
+        },
+        {
+          "w": "لَنَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bizning - jar majruur"
+        },
+        {
+          "w": "أُمٌّ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Onamiz - ega"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ لَكُمْ أَوْلَادٌ؟ - نَعَمْ، لَنَا أَبْنَاءٌ كِبَارٌ وَبَنَاتٌ صَغِيرَاتٌ أَيْضًا،",
+      "tr": "Sizlarning bolalaringiz bormi? - Ha, bizning katta o'g'illarimiz va kichik qizlarimiz bor",
+      "parts": [
+        {
+          "w": "هَلْ",
+          "r": "harf istifhom",
+          "rc": "tb",
+          "e": "Mi - so'roq"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Sizlarning - jar majruur"
+        },
+        {
+          "w": "أَوْلَادٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bolalaringiz - ega"
+        },
+        {
+          "w": "نَعَمْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ha"
+        },
+        {
+          "w": "لَنَا",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bizning - jar majruur"
+        },
+        {
+          "w": "أَبْنَاءٌ كِبَارٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta o'g'illarimiz - ega"
+        },
+        {
+          "w": "وَبَنَاتٌ صَغِيرَاتٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va kichik qizlarimiz - ma'tuf"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Shuningdek - hol"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

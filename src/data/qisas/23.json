@@ -1,0 +1,477 @@
+{
+  "title": "٢٧ ـ مِنَ الْبِئْرِ إِلَى الْقَصْرِ",
+  "tuz": "Quduqdan saroyga",
+  "sub": "Yusuf quduqdan chiqarilib, Misrga olib ketiladi",
+  "page": 34,
+  "sentences": [
+    {
+      "ar": "وَكَانَتْ جَمَاعَةٌ تُسَافِرُ فِي هَذِهِ الْغَابَةِ.",
+      "tr": "Bu o'rmonda sayohat qilayotgan bir guruh (karvon) bor edi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "جَمَاعَةٌ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Bir guruh"
+        },
+        {
+          "w": "تُسَافِرُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Sayohat qilardi"
+        },
+        {
+          "w": "فِي هَذِهِ الْغَابَةِ",
+          "r": "mutaalliq (وَكَانَتْ)",
+          "rc": "tmt",
+          "e": "Bu o'rmonda"
+        }
+      ]
+    },
+    {
+      "ar": "وَعَطِشُوا فِي الطَّرِيقِ، وَبَحَثُوا عَنْ بِئْرٍ.",
+      "tr": "Ular yo'lda chanqadilar va quduq izladilar.",
+      "parts": [
+        {
+          "w": "وَعَطِشُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chanqadilar"
+        },
+        {
+          "w": "فِي الطَّرِيقِ",
+          "r": "mutaalliq (وَعَطِشُوا)",
+          "rc": "tmt",
+          "e": "Yo'lda"
+        },
+        {
+          "w": "وَبَحَثُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Izladilar"
+        },
+        {
+          "w": "عَنْ بِئْرٍ",
+          "r": "mutaalliq (وَبَحَثُوا)",
+          "rc": "tmt",
+          "e": "Quduq"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَأَوْا بِئْرًا، فَأَرْسَلُوا إِلَيْهَا رَجُلًا لِيَأْتِيَ لَهُمْ بِالْمَاءِ.",
+      "tr": "Bir quduq ko'rdilar va unga suv olib kelishi uchun bir odam yubordilar.",
+      "parts": [
+        {
+          "w": "وَرَأَوْا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdilar"
+        },
+        {
+          "w": "بِئْرًا",
+          "r": "maf'ul bih (وَرَأَوْا)",
+          "rc": "tb",
+          "e": "Quduq"
+        },
+        {
+          "w": "فَأَرْسَلُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yubordilar"
+        },
+        {
+          "w": "إِلَيْهَا",
+          "r": "mutaalliq (فَأَرْسَلُوا)",
+          "rc": "tmt",
+          "e": "Unga"
+        },
+        {
+          "w": "رَجُلًا",
+          "r": "maf'ul bih (لِيَأْتِيَ)",
+          "rc": "tb",
+          "e": "Bir odam"
+        },
+        {
+          "w": "لِيَأْتِيَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Olib kelishi uchun"
+        },
+        {
+          "w": "لَهُمْ",
+          "r": "mutaalliq (لِيَأْتِيَ)",
+          "rc": "tmt",
+          "e": "Ularga"
+        },
+        {
+          "w": "بِالْمَاءِ",
+          "r": "mutaalliq (لِيَأْتِيَ)",
+          "rc": "tmt",
+          "e": "Suv"
+        }
+      ]
+    },
+    {
+      "ar": "جَاءَ الرَّجُلُ إِلَى الْبِئْرِ، وَأَدْلَى دَلْوَهُ.",
+      "tr": "Odam quduqqa keldi va chelakni tushirdi.",
+      "parts": [
+        {
+          "w": "جَاءَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Keldi"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "fo'il (جَاءَ)",
+          "rc": "tm",
+          "e": "Odam"
+        },
+        {
+          "w": "إِلَى الْبِئْرِ",
+          "r": "mutaalliq (وَأَدْلَى)",
+          "rc": "tmt",
+          "e": "Quduqqa"
+        },
+        {
+          "w": "وَأَدْلَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Tushirdi"
+        },
+        {
+          "w": "دَلْوَهُ",
+          "r": "maf'ul bih (وَأَدْلَى)",
+          "rc": "tb",
+          "e": "Chelakni"
+        }
+      ]
+    },
+    {
+      "ar": "وَنَزَعَ الدَّلْوَ، فَإِذَا الدَّلْوُ ثَقِيلَةٌ.",
+      "tr": "Chelakni tortib oldi, bas, chelak og'ir edi.",
+      "parts": [
+        {
+          "w": "وَنَزَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Tortib oldi"
+        },
+        {
+          "w": "الدَّلْوَ",
+          "r": "maf'ul bih (وَنَزَعَ)",
+          "rc": "tb",
+          "e": "Chelakni"
+        },
+        {
+          "w": "فَإِذَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Bas, birdan"
+        },
+        {
+          "w": "الدَّلْوُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Chelak"
+        },
+        {
+          "w": "ثَقِيلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Og'ir edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَخْرَجَهَا فَإِذَا فِي الدَّلْوِ غُلَامٌ!.",
+      "tr": "Uni chiqardi, bas, chelakda bir bola!",
+      "parts": [
+        {
+          "w": "وَأَخْرَجَهَا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni chiqardi"
+        },
+        {
+          "w": "فَإِذَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Bas, birdan"
+        },
+        {
+          "w": "فِي الدَّلْوِ",
+          "r": "mutaalliq (وَأَخْرَجَهَا)",
+          "rc": "tmt",
+          "e": "Chelakda"
+        },
+        {
+          "w": "غُلَامٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bola"
+        }
+      ]
+    },
+    {
+      "ar": "دَهِشَ الرَّجُلُ وَنَادَى: ﴿يَا بُشْرَى هَذَا غُلَامٌ﴾.",
+      "tr": "Odam hayratda qoldi va: Ey xushxabar! Bu bir bola — deb chaqirdi.",
+      "parts": [
+        {
+          "w": "دَهِشَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Hayratda qoldi"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "fo'il (دَهِشَ)",
+          "rc": "tm",
+          "e": "Odam"
+        },
+        {
+          "w": "وَنَادَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va chaqirdi"
+        },
+        {
+          "w": "يَا بُشْرَى",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Ey xushxabar"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "غُلَامٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bir bola"
+        }
+      ]
+    },
+    {
+      "ar": "وَفَرِحَ النَّاسُ جِدًّا وَأَخَذُوهُ.",
+      "tr": "Odamlar juda xursand bo'lib, uni oldilar.",
+      "parts": [
+        {
+          "w": "وَفَرِحَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xursand bo'ldi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَفَرِحَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol (وَأَخَذُوهُ)",
+          "rc": "th",
+          "e": "Juda"
+        },
+        {
+          "w": "وَأَخَذُوهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni oldilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَوَصَلُوا إِلَى مِصْرَ، وَقَامُوا فِي السُّوقِ وَنَادَوْا: مَنْ يَشْتَرِي هَذَا الْغُلَامَ؟ مَنْ يَشْتَرِي هَذَا الْغُلَامَ؟.",
+      "tr": "Misrga yetib kelishdi va bozorda turib: Bu bolani kim sotib oladi? Bu bolani kim sotib oladi? — deb chaqirishdi.",
+      "parts": [
+        {
+          "w": "وَوَصَلُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yetib kelishdi"
+        },
+        {
+          "w": "إِلَى مِصْرَ",
+          "r": "mutaalliq (وَوَصَلُوا)",
+          "rc": "tmt",
+          "e": "Misrga"
+        },
+        {
+          "w": "وَقَامُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Turishdi"
+        },
+        {
+          "w": "فِي السُّوقِ",
+          "r": "mutaalliq (وَقَامُوا)",
+          "rc": "tmt",
+          "e": "Bozorda"
+        },
+        {
+          "w": "وَنَادَوْا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chaqirishdi"
+        },
+        {
+          "w": "مَنْ",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Kim"
+        },
+        {
+          "w": "يَشْتَرِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sotib oladi"
+        },
+        {
+          "w": "هَذَا الْغُلَامَ",
+          "r": "maf'ul bih (يَشْتَرِي)",
+          "rc": "tb",
+          "e": "Bu bolani"
+        }
+      ]
+    },
+    {
+      "ar": "اشْتَرَى الْعَزِيزُ يُوسُفَ بِدَرَاهِمَ مَعْدُودَةٍ.",
+      "tr": "Aziz (Misr hokimi) Yusufni sanogli dirhamlarga sotib oldi.",
+      "parts": [
+        {
+          "w": "اشْتَرَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sotib oldi"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "fo'il (اشْتَرَى)",
+          "rc": "tm",
+          "e": "Aziz"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (اشْتَرَى)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "بِدَرَاهِمَ مَعْدُودَةٍ",
+          "r": "mutaalliq (اشْتَرَى)",
+          "rc": "tmt",
+          "e": "Sanogli dirhamlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَاعَهُ التُّجَّارُ وَمَا عَرَفُوا يُوسُفَ.",
+      "tr": "Savdogarlar uni sotdilar va Yusufni tanimadilar.",
+      "parts": [
+        {
+          "w": "وَبَاعَهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni sotdi"
+        },
+        {
+          "w": "التُّجَّارُ",
+          "r": "fo'il (وَبَاعَهُ)",
+          "rc": "tm",
+          "e": "Savdogarlar"
+        },
+        {
+          "w": "وَمَا عَرَفُوا",
+          "r": "fe'l (nafi)",
+          "rc": "tf",
+          "e": "Tanimadilar"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَمَا عَرَفُوا)",
+          "rc": "tb",
+          "e": "Yusufni"
+        }
+      ]
+    },
+    {
+      "ar": "وَذَهَبَ بِهِ الْعَزِيزُ إِلَى قَصْرِهِ، وَقَالَ لِامْرَأَتِهِ: أَكْرِمِي يُوسُفَ، إِنَّهُ وَلَدٌ رَشِيدٌ.",
+      "tr": "Aziz uni o'z saroyiga olib ketdi va xotiniga: Yusufni izzat qil, chunki u aqlli bola — dedi.",
+      "parts": [
+        {
+          "w": "وَذَهَبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ketdi"
+        },
+        {
+          "w": "بِهِ",
+          "r": "mutaalliq (وَذَهَبَ)",
+          "rc": "tmt",
+          "e": "Uni"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "fo'il (وَذَهَبَ)",
+          "rc": "tm",
+          "e": "Aziz"
+        },
+        {
+          "w": "إِلَى قَصْرِهِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "O'z saroyiga"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "لِامْرَأَتِهِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Xotiniga"
+        },
+        {
+          "w": "أَكْرِمِي",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Izzat qil"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (أَكْرِمِي)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "إِنَّهُ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Chunki u"
+        },
+        {
+          "w": "وَلَدٌ رَشِيدٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Aqlli bola"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

@@ -1,0 +1,1377 @@
+{
+  "title": "١٢. الدَّرْسُ الثَّانِي عَشَرَ",
+  "tuz": "12-dars",
+  "sub": "لَيْسَ va مَا (Emas) orqali inkor gaplar",
+  "page": 27,
+  "sentences": [
+    {
+      "ar": "هُوَ لَيْسَ بِكَبِيرٍ،",
+      "tr": "U katta emas",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "لَيْسَ بِكَبِيرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ لَيْسُوا بِكِبَارٍ،",
+      "tr": "Ular kattalar emas",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "لَيْسُوا بِكِبَارٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هِيَ لَيْسَتْ بِكَبِيرَةٍ،",
+      "tr": "U (ayol) katta emas",
+      "parts": [
+        {
+          "w": "هِيَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِكَبِيرَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Katta emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَّ لَسْنَ بِكَبِيرَاتٍ،",
+      "tr": "Ular (ayollar) kattalar emas",
+      "parts": [
+        {
+          "w": "هُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "لَسْنَ بِكَبِيرَاتٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ لَسْتَ بِعَالِمٍ،",
+      "tr": "Sen olim emassan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "لَسْتَ بِعَالِمٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim emassan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ لَسْتُمْ بِعُلَمَاءَ،",
+      "tr": "Sizlar olimlar emassizlar",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "لَسْتُمْ بِعُلَمَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimlar emassizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتِ لَسْتِ بِعَالِمَةٍ،",
+      "tr": "Sen (ayol) olima emassan",
+      "parts": [
+        {
+          "w": "أَنْتِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "لَسْتِ بِعَالِمَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olima emassan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُنَّ لَسْتُنَّ بِعَالِمَاتٍ،",
+      "tr": "Sizlar (ayollar) olimalar emassizlar",
+      "parts": [
+        {
+          "w": "أَنْتُنَّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "لَسْتُنَّ بِعَالِمَاتٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimalar emassizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا لَسْتُ بِمَحْزُونٍ،",
+      "tr": "Men xafa (mahzun) emasman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "لَسْتُ بِمَحْزُونٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xafa emasman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ لَسْنَا بِمَحْزُونِينَ،",
+      "tr": "Biz xafalar emasmit (to'g'risi: emasmiz)",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "لَسْنَا بِمَحْزُونِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xafalar emasmiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا لَسْتُ بِكَاذِبَةٍ،",
+      "tr": "Men yolg'onchi emasman (ayol)",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "لَسْتُ بِكَاذِبَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yolg'onchi emasman - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ لَسْنَا بِكَاذِبَاتٍ،",
+      "tr": "Biz yolg'onchilar emasmiz (ayollar)",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "لَسْنَا بِكَاذِبَاتٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yolg'onchilar emasmiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ لَيْسَ بِشَيْخٍ،",
+      "tr": "Bu kishi boy (to'g'risi: qariya) emas",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "لَيْسَ بِشَيْخٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariya emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الرِّجَالُ لَيْسُوا بِشُيُوخٍ،",
+      "tr": "Bu kishilar boy (to'g'risi: qariyalar) emaslar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishilar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِشُيُوخٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyalar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَرْأَةُ لَيْسَتْ بِعَجُوزٍ،",
+      "tr": "Bu xotin (to'g'risi: Anavi ayol) kampir emas",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِعَجُوزٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampir emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النِّسَاءُ لَسْنَ بِعَجَائِزَ،",
+      "tr": "Bu xotinlar (to'g'risi: Anavi ayollar) kampirlar emas",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayollar - ega"
+        },
+        {
+          "w": "لَسْنَ بِعَجَائِزَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kampirlar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الشَّيْخُ لَيْسَ بِضَعِيفٍ أَصْلًا،",
+      "tr": "Bu qariya hech (aslo) kuchsiz emas",
+      "parts": [
+        {
+          "w": "هَذَا الشَّيْخُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qariya - ega"
+        },
+        {
+          "w": "لَيْسَ بِضَعِيفٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kuchsiz emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الشُّيُوخُ، لَيْسُوا بِضُعَفَاءَ أَصْلًا،",
+      "tr": "Bu qariyalar aslo kuchsiz emaslar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الشُّيُوخُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qariyalar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِضُعَفَاءَ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kuchsiz emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الشَّابُّ لَيْسَ بِقَوِيٍّ أَصْلًا،",
+      "tr": "Anavi yigit aslo kuchli emas",
+      "parts": [
+        {
+          "w": "ذَاكَ الشَّابُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi yigit - ega"
+        },
+        {
+          "w": "لَيْسَ بِقَوِيٍّ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kuchli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الشُّبَّانُ لَيْسُوا بِأَقْوِيَاءَ أَصْلًا،",
+      "tr": "O'sha yigitlar aslo kuchli emaslar",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الشُّبَّانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "O'sha yigitlar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِأَقْوِيَاءَ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kuchli emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ لَيْسَ بِمَرِيضٍ أَصْلًا،",
+      "tr": "Bu kishi aslo kasal emas",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "لَيْسَ بِمَرِيضٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kasal emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الرِّجَالُ لَيْسُوا بِمَرْضَى أَصْلًا،",
+      "tr": "Bu kishilar aslo kasal emaslar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishilar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِمَرْضَى أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kasal emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَرْأَةُ لَيْسَتْ بِغَنِيَّةٍ أَصْلًا،",
+      "tr": "Anavi ayol aslo boy emas",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِغَنِيَّةٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo boy emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النِّسَاءُ لَسْنَ بِمَرِيضَاتٍ أَصْلًا،",
+      "tr": "Anavi xotinlar (ayollar) aslo kasal emaslar",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayollar - ega"
+        },
+        {
+          "w": "لَسْنَ بِمَرِيضَاتٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo kasal emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الشَّابَّةُ لَيْسَتْ بِزَهْرَاءَ،",
+      "tr": "Bu yosh qiz oq yuzli emas",
+      "parts": [
+        {
+          "w": "هَذِهِ الشَّابَّةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu yosh qiz - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِزَهْرَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq yuzli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الشَّابَّاتُ لَسْنَ بِزُهْرٍ،",
+      "tr": "Bu yosh qizlar oq yuzli emaslar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الشَّابَّاتُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu yosh qizlar - ega"
+        },
+        {
+          "w": "لَسْنَ بِزُهْرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oq yuzli emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْخَادِم... لَيْسَ بِمُتَوَاضِعٍ أَصْلًا،",
+      "tr": "Bu xizmatchi kishilar (to'g'risi: Anavi xizmatchi) h穩定 (to'g'risi: aslo tavoze'li) emas",
+      "parts": [
+        {
+          "w": "ذَاكَ الْخَادِمُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi xizmatchi - ega"
+        },
+        {
+          "w": "لَيْسَ بِمُتَوَاضِعٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo tavoze'li emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْخُدَّامُ لَيْسُوا بِمُتَكَبِّرِينَ أَصْلًا،",
+      "tr": "Bu xizmatchilar aslo takabbur emaslar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْخُدَّامُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu xizmatchilar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِمُتَكَبِّرِينَ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo takabbur emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْخَادِمَةُ لَيْسَتْ بِمُجْتَهِدَةٍ،",
+      "tr": "Bu xizmatkor qiz (to'g'risi: Anavi xizmatkor qiz) tavoze'li (to'g'risi: faol) emas",
+      "parts": [
+        {
+          "w": "تِلْكَ الْخَادِمَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi xizmatkor qiz - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِمُجْتَهِدَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Faol emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الْخَادِمَاتُ لَسْنَ بِكَسْلَانَاتٍ،",
+      "tr": "Anavi xizmatkor qizlar dangasa emaslar",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الْخَادِمَاتُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi xizmatkor qizlar - ega"
+        },
+        {
+          "w": "لَسْنَ بِكَسْلَانَاتٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Dangasa emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرِّجَالُ لَيْسُوا بِنِسَاءٍ الْبَتَّةَ،",
+      "tr": "Erkaklar mutlaqo ayollar emaslar",
+      "parts": [
+        {
+          "w": "الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Erkaklar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِنِسَاءٍ الْبَتَّةَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mutlaqo ayollar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "النِّسَاءُ لَسْنَ بِرِجَالٍ الْبَتَّةَ،",
+      "tr": "Ayollar mutlaqo erkaklar emaslar",
+      "parts": [
+        {
+          "w": "النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ayollar - ega"
+        },
+        {
+          "w": "لَسْنَ بِرِجَالٍ الْبَتَّةَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mutlaqo erkaklar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الشَّيْخُ لَيْسَ بِصَبِيٍّ الْبَتَّةَ،",
+      "tr": "Bu qariya shubhasiz (mutlaqo) go'dak emas",
+      "parts": [
+        {
+          "w": "هَذَا الشَّيْخُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu qariya - ega"
+        },
+        {
+          "w": "لَيْسَ بِصَبِيٍّ الْبَتَّةَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mutlaqo go'dak emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الصَّبِيُّ لَيْسَ بِشَيْخٍ الْبَتَّةَ،",
+      "tr": "Bu go'dak (to'g'risi: bola) shubhasiz qariya emas",
+      "parts": [
+        {
+          "w": "هَذَا الصَّبِيُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu bola - ega"
+        },
+        {
+          "w": "لَيْسَ بِشَيْخٍ الْبَتَّةَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mutlaqo qariya emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَةُ هَذِهِ الْعَجُوزِ لَيْسَتْ بِعَاقِلَةٍ،",
+      "tr": "Bu kampirning xizmatkori aqlli emas",
+      "parts": [
+        {
+          "w": "خَادِمَةُ هَذِهِ الْعَجُوزِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kampirning xizmatkori - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِعَاقِلَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqlli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمُ ذَاكَ الطَّبِيبِ لَيْسَ بِسَفِيهٍ،",
+      "tr": "Anavi tabibning xizmatchisi telba emas",
+      "parts": [
+        {
+          "w": "خَادِمُ ذَاكَ الطَّبِيبِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi tabibning xizmatchisi - ega"
+        },
+        {
+          "w": "لَيْسَ بِسَفِيهٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telba emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَادِمَةُ تِلْكَ الطَّبِيبَةِ لَيْسَتْ بِغَبِيَّةٍ،",
+      "tr": "Anavi ayol tabibning xizmatkori tentak emas",
+      "parts": [
+        {
+          "w": "خَادِمَةُ تِلْكَ الطَّبِيبَةِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol tabibning xizmatkori - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِغَبِيَّةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentak emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "صَدِيقُ أَبِي لَيْسَ بِمُتَكَبِّرٍ،",
+      "tr": "Mening otamning do'sti takabbur emas",
+      "parts": [
+        {
+          "w": "صَدِيقُ أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otamning do'sti - ega"
+        },
+        {
+          "w": "لَيْسَ بِمُتَكَبِّرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Takabbur emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَصْدِقَاءُ أَبِي لَيْسُوا بِمُتَوَاضِعِينَ،",
+      "tr": "Otamning do'stlari tavoze'li emaslar",
+      "parts": [
+        {
+          "w": "أَصْدِقَاءُ أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Otamning do'stlari - ega"
+        },
+        {
+          "w": "لَيْسُوا بِمُتَوَاضِعِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tavoze'li emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "عَدُوُّ أَخِي لَيْسَ بِعَالِمٍ،",
+      "tr": "Sening iningni (to'g'risi: Mening akamning) dushmani olim emas",
+      "parts": [
+        {
+          "w": "عَدُوُّ أَخِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Akamning dushmani - ega"
+        },
+        {
+          "w": "لَيْسَ بِعَالِمٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَعْدَاءُ أَخِي لَيْسُوا بِجُهَلَاءَ،",
+      "tr": "Akamning dushmanlari nodonlar emaslar",
+      "parts": [
+        {
+          "w": "أَعْدَاءُ أَخِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Akamning dushmanlari - ega"
+        },
+        {
+          "w": "لَيْسُوا بِجُهَلَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodonlar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جَارُ عَلِيٍّ لَيْسَ بِطَوِيلٍ،",
+      "tr": "Alining qo'shnisi uzun emas",
+      "parts": [
+        {
+          "w": "جَارُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining qo'shnisi - ega"
+        },
+        {
+          "w": "لَيْسَ بِطَوِيلٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzun emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جِيرَانُ عَلِيٍّ لَيْسُوا بِقِصَارٍ،",
+      "tr": "Alining qo'shnilari qisqalar emaslar",
+      "parts": [
+        {
+          "w": "جِيرَانُ عَلِيٍّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Alining qo'shnilari - ega"
+        },
+        {
+          "w": "لَيْسُوا بِقِصَارٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqalar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضَيْفُ خَالِدٍ لَيْسَ بِغَنِيٍّ،",
+      "tr": "Xolidning mehmoni boy emas",
+      "parts": [
+        {
+          "w": "ضَيْفُ خَالِدٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xolidning mehmoni - ega"
+        },
+        {
+          "w": "لَيْسَ بِغَنِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ضُيُوفُ مَحْمُودٍ لَيْسُوا بِفُقَرَاءَ،",
+      "tr": "Mahmudning mehmonlari kambag'allar emaslar",
+      "parts": [
+        {
+          "w": "ضُيُوفُ مَحْمُودٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahmudning mehmonlari - ega"
+        },
+        {
+          "w": "لَيْسُوا بِفُقَرَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبُوهُ لَيْسَ بِصَحِيحٍ،",
+      "tr": "Uning otasi sog'lom emas",
+      "parts": [
+        {
+          "w": "أَبُوهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning otasi - ega"
+        },
+        {
+          "w": "لَيْسَ بِصَحِيحٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sog'lom emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُمُّكَ لَيْسَتْ بِمَرِيضَةٍ،",
+      "tr": "Sening onang kasal emas",
+      "parts": [
+        {
+          "w": "أُمُّكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sening onang - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِمَرِيضَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasal emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنِي لَيْسَ بِقَوِيٍّ،",
+      "tr": "Mening o'g'lim (to'g'risi: bolam) kuchli emas",
+      "parts": [
+        {
+          "w": "اِبْنِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening o'g'lim - ega"
+        },
+        {
+          "w": "لَيْسَ بِقَوِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَتِي لَيْسَتْ بِضَعِيفَةٍ،",
+      "tr": "Mening qiymatli (to'g'risi: qizim) kuchsiz emas",
+      "parts": [
+        {
+          "w": "اِبْنَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening qizim - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِضَعِيفَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsiz emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبِي لَيْسَ بِظَالِمٍ،",
+      "tr": "Mening otam zolim emas",
+      "parts": [
+        {
+          "w": "أَبِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening otam - ega"
+        },
+        {
+          "w": "لَيْسَ بِظَالِمٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zolim emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخِي لَيْسَ بِعَادِلٍ،",
+      "tr": "Mening akam adolatli emas",
+      "parts": [
+        {
+          "w": "أَخِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mening akam - ega"
+        },
+        {
+          "w": "لَيْسَ بِعَادِلٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Adolatli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرَّجُلُ الْفَقِيرُ لَيْسَ بِمَسْرُورٍ،",
+      "tr": "Kambag'al kishi xursand emas",
+      "parts": [
+        {
+          "w": "الرَّجُلُ الْفَقِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kambag'al kishi - ega"
+        },
+        {
+          "w": "لَيْسَ بِمَسْرُورٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xursand emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرِّجَالُ الْفُقَرَاءُ لَيْسُوا بِمَسْرُورِينَ،",
+      "tr": "Kambag'al kishilar xursand emaslar",
+      "parts": [
+        {
+          "w": "الرِّجَالُ الْفُقَرَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kambag'al kishilar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِمَسْرُورِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xursand emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْمَرْأَةُ الْغَنِيَّةُ لَيْسَتْ بِمَحْزُونَةٍ،",
+      "tr": "Boy ayol xafa emas",
+      "parts": [
+        {
+          "w": "الْمَرْأَةُ الْغَنِيَّةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Boy ayol - ega"
+        },
+        {
+          "w": "لَيْسَتْ بِمَحْزُONَةٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xafa emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "النِّسَاءُ الْغَنِيَّاتُ لَسْنَ بِمَحْزُونَاتٍ،",
+      "tr": "Boy ayollar xafalar emaslar",
+      "parts": [
+        {
+          "w": "النِّسَاءُ الْغَنِيَّاتُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Boy ayollar - ega"
+        },
+        {
+          "w": "لَسْنَ بِمَحْزُونَاتٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xafalar emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ الْعَاقِلُ لَيْسَ بِمُتَكَبِّرٍ،",
+      "tr": "Aqlli inson takabbur emas",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ الْعَاقِلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aqlli inson - ega"
+        },
+        {
+          "w": "لَيْسَ بِمُتَكَبِّرٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Takabbur emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "النَّاسُ الْعُقَلَاءُ لَيْسُوا بِمُتَكَبِّرِينَ،",
+      "tr": "Aqlli odamlar takabbur emaslar",
+      "parts": [
+        {
+          "w": "النَّاسُ الْعُقَلَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aqlli odamlar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِمُتَكَبِّرِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Takabbur emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الشَّيْخُ الصَّحِيحُ لَيْسَ بِضَعِيفٍ،",
+      "tr": "Sog'lom qariya kuchsiz emas",
+      "parts": [
+        {
+          "w": "الشَّيْخُ الصَّحِيحُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sog'lom qariya - ega"
+        },
+        {
+          "w": "لَيْسَ بِضَعِيفٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsiz emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الشَّيْخُ الْمَرِيضُ لَيْسَ بِقَوِيٍّ،",
+      "tr": "Kasal qariya kuchli emas",
+      "parts": [
+        {
+          "w": "الشَّيْخُ الْمَرِيضُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kasal qariya - ega"
+        },
+        {
+          "w": "لَيْسَ بِقَوِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الشَّابُّ الْفَاسِقُ لَيْسَ بِعَاقِلٍ،",
+      "tr": "Fosiq yigit aqlli emas",
+      "parts": [
+        {
+          "w": "الشَّابُّ الْفَاسِقُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Fosiq yigit - ega"
+        },
+        {
+          "w": "لَيْسَ بِعَاقِلٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqlli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الشَّابُّ الصَّالِحُ لَيْسَ بِسَفِيهٍ،",
+      "tr": "Solih yigit telba emas",
+      "parts": [
+        {
+          "w": "الشَّابُّ الصَّالِحُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Solih yigit - ega"
+        },
+        {
+          "w": "لَيْسَ بِسَفِيهٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telba emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْغَنِيُّ الْبَخِيلُ لَيْسَ بِعَادِلٍ،",
+      "tr": "Baxil boy adolatli emas",
+      "parts": [
+        {
+          "w": "الْغَنِيُّ الْبَخِيلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Baxil boy - ega"
+        },
+        {
+          "w": "لَيْسَ بِعَادِلٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Adolatli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْغَنِيُّ السَّخِيُّ لَيْسَ بِظَالِمٍ،",
+      "tr": "Sahiy boy zolim emas",
+      "parts": [
+        {
+          "w": "الْغَنِيُّ السَّخِيُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sahiy boy - ega"
+        },
+        {
+          "w": "لَيْسَ بِظَالِمٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zolim emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "التِّلْمِيذُ الْعَاقِل... لَيْسَ بِكَسْلَانَ،",
+      "tr": "Aqlli o'quvchi dangasa emas",
+      "parts": [
+        {
+          "w": "التِّلْمِيذُ الْعَاقِلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aqlli o'quvchi - ega"
+        },
+        {
+          "w": "لَيْسَ بِكَسْلَانَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Dangasa emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "التَّلْمِيذُ الْمُجْتَهِدُ لَيْسَ بِسَفِيهٍ،",
+      "tr": "Faol o'quvchi telba emas",
+      "parts": [
+        {
+          "w": "التَّلْمِيذُ الْمُجْتَهِدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Faol o'quvchi - ega"
+        },
+        {
+          "w": "لَيْسَ بِسَفِيهٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telba emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الدَّلَّالُ الصَّالِحُ لَيْسَ بِكَاذِبٍ،",
+      "tr": "Solih dallol yolg'onchi emas",
+      "parts": [
+        {
+          "w": "الدَّلَّالُ الصَّالِحُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Solih dallol - ega"
+        },
+        {
+          "w": "لَيْسَ بِكَاذِبٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yolg'onchi emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرِّجَالُ الْعُقَلَاءُ لَيْسُوا بِبَطَّالِينَ،",
+      "tr": "Aqlli kishilar ishsizlar emaslar",
+      "parts": [
+        {
+          "w": "الرِّجَالُ الْعُقَلَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aqlli kishilar - ega"
+        },
+        {
+          "w": "لَيْسُوا بِبَطَّالِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishsizlar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُعَلِّمُوكُمْ لَيْسُوا بِشُيُوحٍ،",
+      "tr": "Sizlarning o'qituvchilaringiz qariyalar emaslar",
+      "parts": [
+        {
+          "w": "مُعَلِّمُوكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning o'qituvchilaringiz - ega"
+        },
+        {
+          "w": "لَيْسُوا بِشُيُوحٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariyalar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُدَرِّسُوكُمْ لَيْسُوا بِشُبَّانٍ،",
+      "tr": "Sizlarning mudarrislaringiz yigitlar emaslar",
+      "parts": [
+        {
+          "w": "مُدَرِّسُوكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sizlarning mudarrislaringiz - ega"
+        },
+        {
+          "w": "لَيْسُوا بِشُبَّانٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigitlar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُؤَذِّنُونَا لَيْسُوا بِجُهَلَاءَ،",
+      "tr": "Bizning muazzinlarimiz nodonlar emaslar",
+      "parts": [
+        {
+          "w": "مُؤَذِّنُونَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning muazzinlarimiz - ega"
+        },
+        {
+          "w": "لَيْسُوا بِجُهَلَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Nodonlar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "خَيَّاطُونَا لَيْسُوا بِبَطَّالِينَ،",
+      "tr": "Bizning tikuvchilarimiz ishsizlar emaslar",
+      "parts": [
+        {
+          "w": "خَيَّاطُونَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bizning tikuvchilarimiz - ega"
+        },
+        {
+          "w": "لَيْسُوا بِبَطَّالِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishsizlar emaslar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ إِنْسَانٌ وَاحِدٌ بِقَوِيٍّ،",
+      "tr": "Hech bir inson (yakka o'zi) kuchli emas",
+      "parts": [
+        {
+          "w": "لَيْسَ إِنْسَانٌ وَاحِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Birorta ham inson - ega"
+        },
+        {
+          "w": "بِقَوِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ أَحَدٌ بِقَوِيٍّ،",
+      "tr": "Hech kim kuchli emas",
+      "parts": [
+        {
+          "w": "لَيْسَ أَحَدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Hech kim - ega"
+        },
+        {
+          "w": "بِقَوِيٍّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَا صَبِيٌّ وَاحِدٌ بِعَاقِلٍ،",
+      "tr": "Hech bir go'dak (bola) aqlli emas",
+      "parts": [
+        {
+          "w": "مَا صَبِيٌّ وَاحِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Birorta ham bola - ega"
+        },
+        {
+          "w": "بِعَاقِلٍ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqlli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَا أَحَدٌ بِعَاقِلٍ أَصْلًا،",
+      "tr": "Aslo hech kim aqlli emas",
+      "parts": [
+        {
+          "w": "مَا أَحَدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Hech kim - ega"
+        },
+        {
+          "w": "بِعَاقِلٍ أَصْلًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aslo aqlli emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ النَّاسِ لَيْسُوا بِعُلَمَاءَ،",
+      "tr": "Kishilarning aksari olimlar emaslar",
+      "parts": [
+        {
+          "w": "أَكْثَرُ النَّاسِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Odamlarning ko'pchiligi - ega"
+        },
+        {
+          "w": "لَيْسُوا بِعُلَمَاءَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olimlar emas - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

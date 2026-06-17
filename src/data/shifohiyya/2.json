@@ -1,0 +1,297 @@
+{
+  "title": "٣. الدَّرْسُ الثَّالِثُ",
+  "tuz": "3-dars",
+  "sub": "Ko'rsatish olmoshlari va ijtimoiy sifatlar",
+  "page": 5,
+  "sentences": [
+    {
+      "ar": "هَذَا الرَّجُلُ غَنِيٌّ،",
+      "tr": "Bu kishi boydir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الرِّجَالُ أَغْنِيَاءُ،",
+      "tr": "Bu kishilar boylardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishilar - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْمَرْأَةُ غَنِيَّةٌ،",
+      "tr": "Bu ayol boydir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayol - ega"
+        },
+        {
+          "w": "غَنِيَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boydir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ النِّسَاءُ غَنِيَّاتٌ،",
+      "tr": "Bu ayollar boylardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayollar - ega"
+        },
+        {
+          "w": "غَنِيَّاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boylardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الرَّجُلُ فَقِيرٌ،",
+      "tr": "Anavi kishi kambag'aldir",
+      "parts": [
+        {
+          "w": "ذَاكَ الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishi - ega"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'aldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الرِّجَالُ فُقَرَاءُ،",
+      "tr": "Anavi kishilar kambag'allardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishilar - ega"
+        },
+        {
+          "w": "فُقَرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَرْأَةُ فَقِيرَةٌ،",
+      "tr": "Anavi ayol kambag'aldir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol - ega"
+        },
+        {
+          "w": "فَقِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'aldir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النِّسَاءُ فَقِيرَاتٌ،",
+      "tr": "Anavi ayollar kambag'allardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayollar - ega"
+        },
+        {
+          "w": "فَقِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'allardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ كَبِيرٌ،",
+      "tr": "Bu kishi kattadir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الرِّجَالُ كِبَارٌ،",
+      "tr": "Bu kishilar kattalardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishilar - ega"
+        },
+        {
+          "w": "كِبَارٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kattalardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ الْمَرْأَةُ صَغِيرَةٌ،",
+      "tr": "Bu ayol kichikdir",
+      "parts": [
+        {
+          "w": "هَذِهِ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayol - ega"
+        },
+        {
+          "w": "صَغِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichikdir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ النِّسَاءُ صَغِيرَاتٌ،",
+      "tr": "Bu ayollar kichiklardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ayollar - ega"
+        },
+        {
+          "w": "صَغِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichiklardir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الرَّجُلُ طَوِيلٌ،",
+      "tr": "Anavi kishi uzundir",
+      "parts": [
+        {
+          "w": "ذَاكَ الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishi - ega"
+        },
+        {
+          "w": "طَوِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzundir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الرِّجَالُ طِوَالٌ،",
+      "tr": "Anavi kishilar uzundirlar",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الرِّجَالُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishilar - ega"
+        },
+        {
+          "w": "طِوَالٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Uzundirlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْكَ الْمَرْأَةُ قَصِيرَةٌ،",
+      "tr": "Anavi ayol qisqadir",
+      "parts": [
+        {
+          "w": "تِلْكَ الْمَرْأَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayol - ega"
+        },
+        {
+          "w": "قَصِيرَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqadir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ النِّسَاءُ قَصِيرَاتٌ،",
+      "tr": "Anavi ayollar qisqalardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ النِّسَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi ayollar - ega"
+        },
+        {
+          "w": "قَصِيرَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qisqalardir - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

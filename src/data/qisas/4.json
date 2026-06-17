@@ -1,0 +1,485 @@
+{
+  "title": "٥ ـ رُجُوعُ النَّاسِ",
+  "tuz": "Odamlarning qaytishi",
+  "sub": "Ibrohimning butlarni sindirgani ma'lum bo'lishi",
+  "page": 13,
+  "sentences": [
+    {
+      "ar": "وَرَجَعَ النَّاسُ وَدَخَلُوا فِي بَيْتِ الْأَصْنَامِ.",
+      "tr": "Odamlar qaytib keldi va butlar uyiga kirishdi.",
+      "parts": [
+        {
+          "w": "وَرَجَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qaytdi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَرَجَعَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَدَخَلُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Kirdi"
+        },
+        {
+          "w": "فِي بَيْتِ الْأَصْنَامِ",
+          "r": "mutaalliq (وَدَخَلُوا)",
+          "rc": "tmt",
+          "e": "Butlar uyiga"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ النَّاسُ أَنْ يَسْجُدُوا لِلْأَصْنَامِ لِأَنَّهُ يَوْمُ عِيدٍ وَلَكِنْ تَعَجَّبَ النَّاسُ وَدَهِشُوا.",
+      "tr": "Odamlar bayram kuni bo'lgani uchun butlarga sajda qilmoqchi bo'ldilar, lekin hayratda qoldi va lol qoldilar.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xohladi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَأَرَادَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "أَنْ يَسْجُدُوا",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Sajda qilishni"
+        },
+        {
+          "w": "لِلْأَصْنَامِ",
+          "r": "mutaalliq (أَنْ يَسْجُدُوا)",
+          "rc": "tmt",
+          "e": "Butlarga"
+        },
+        {
+          "w": "لِأَنَّهُ يَوْمُ عِيدٍ",
+          "r": "ta'lil",
+          "rc": "th",
+          "e": "Chunki bayram kuni"
+        },
+        {
+          "w": "وَلَكِنْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Lekin"
+        },
+        {
+          "w": "تَعَجَّبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Hayratda qoldi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (تَعَجَّبَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَدَهِشُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va lol qoldilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَأَسَّفَ النَّاسُ وَغَضِبُوا.",
+      "tr": "Odamlar afsuslandi va g'azablandilar.",
+      "parts": [
+        {
+          "w": "وَتَأَسَّفَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Afsuslandi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَتَأَسَّفَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَغَضِبُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "G'azablandilar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: ﴿مَنْ فَعَلَ هَذَا بِآلِهَتِنَا إِنَّهُ لَمِنَ الظَّالِمِينَ﴾.",
+      "tr": "Ular dedilar: Bizning xudolarimizga buni kim qildi? Albatta u zolimlardandir.",
+      "parts": [
+        {
+          "w": "مَنْ",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Kim"
+        },
+        {
+          "w": "فَعَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qildi"
+        },
+        {
+          "w": "هَذَا",
+          "r": "maf'ul bih (فَعَلَ)",
+          "rc": "tb",
+          "e": "Buni"
+        },
+        {
+          "w": "بِآلِهَتِنَا",
+          "r": "mutaalliq (فَعَلَ)",
+          "rc": "tmt",
+          "e": "Bizning xudolarimizga"
+        },
+        {
+          "w": "إِنَّهُ",
+          "r": "inna",
+          "rc": "tb",
+          "e": "Albatta u"
+        },
+        {
+          "w": "لَمِنَ الظَّالِمِينَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zolimlardandir"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالُوا سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُ إِبْرَاهِيمُ﴾.",
+      "tr": "Ular dedilar: Biz ularni (butlarni) tilga olgan bir yigit haqida eshitdik, unga Ibrohim deyiladi.",
+      "parts": [
+        {
+          "w": "سَمِعْنَا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Eshitdik"
+        },
+        {
+          "w": "فَتًى",
+          "r": "maf'ul bih (سَمِعْنَا)",
+          "rc": "tb",
+          "e": "Bir yigitni"
+        },
+        {
+          "w": "يَذْكُرُهُمْ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Ularni eslaydi"
+        },
+        {
+          "w": "يُقَالُ لَهُ إِبْرَاهِيمُ",
+          "r": "jumla",
+          "rc": "th",
+          "e": "Unga Ibrohim deyiladi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالُوا فَأْتُوا بِهِ عَلَى أَعْيُنِ النَّاسِ لَعَلَّهُمْ يَشْهَدُونَ﴾.",
+      "tr": "Ular dedilar: Uni odamlarning ko'z o'ngiga keltiringlar, shoyad ular guvoh bo'lishsin.",
+      "parts": [
+        {
+          "w": "فَأْتُوا",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Keltiring"
+        },
+        {
+          "w": "بِهِ",
+          "r": "mutaalliq (فَأْتُوا)",
+          "rc": "tmt",
+          "e": "Uni"
+        },
+        {
+          "w": "عَلَى أَعْيُنِ النَّاسِ",
+          "r": "mutaalliq (فَأْتُوا)",
+          "rc": "tmt",
+          "e": "Odamlarning ko'z o'ngida"
+        },
+        {
+          "w": "لَعَلَّهُمْ يَشْهَدُونَ",
+          "r": "tarajji",
+          "rc": "th",
+          "e": "Shoyad ular guvoh bo'lishsin"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالُوا أَأَنْتَ فَعَلْتَ هَذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ﴾.",
+      "tr": "Ular dedilar: Ey Ibrohim, bizning xudolarimizga buni sen qildingmi?",
+      "parts": [
+        {
+          "w": "أَأَنْتَ",
+          "r": "istifhom",
+          "rc": "tb",
+          "e": "Senmi"
+        },
+        {
+          "w": "فَعَلْتَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qilding"
+        },
+        {
+          "w": "هَذَا",
+          "r": "maf'ul bih (فَعَلْتَ)",
+          "rc": "tb",
+          "e": "Buni"
+        },
+        {
+          "w": "بِآلِهَتِنَا",
+          "r": "mutaalliq (فَعَلْتَ)",
+          "rc": "tmt",
+          "e": "Bizning xudolarimizga"
+        },
+        {
+          "w": "يَا إِبْرَاهِيمُ",
+          "r": "nido",
+          "rc": "tb",
+          "e": "Ey Ibrohim"
+        }
+      ]
+    },
+    {
+      "ar": "﴿قَالَ بَلْ فَعَلَهُ كَبِيرُهُمْ هَذَا فَاسْأَلُوهُمْ إِنْ كَانُوا يَنْطِقُونَ﴾.",
+      "tr": "U (Ibrohim) dedi: Balki buni ularning kattasi qilgandir, agar gapirsa, ulardan so'rang.",
+      "parts": [
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "فَعَلَهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni qildi"
+        },
+        {
+          "w": "كَبِيرُهُمْ",
+          "r": "fo'il (فَعَلَهُ)",
+          "rc": "tm",
+          "e": "Ularining kattasi"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "فَاسْأَلُوهُمْ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Ulardan so'rang"
+        },
+        {
+          "w": "إِنْ كَانُوا يَنْطِقُونَ",
+          "r": "shart",
+          "rc": "th",
+          "e": "Agar gapiradigan bo'lsa"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ يَعْرِفُونَ أَنَّ الْأَصْنَامَ حِجَارَةٌ.",
+      "tr": "Odamlar butlarning tosh ekanini bilishardi.",
+      "parts": [
+        {
+          "w": "النَّاسُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "يَعْرِفُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Biladilar"
+        },
+        {
+          "w": "أَنَّ الْأَصْنَامَ حِجَارَةٌ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "Butlar toshdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يَعْرِفُونَ أَنَّ الْحِجَارَةَ لَا تَسْمَعُ وَلَا تَنْطِقُ.",
+      "tr": "Va ular toshlarning eshitmasligini va gapirmasligini bilishardi.",
+      "parts": [
+        {
+          "w": "يَعْرِفُونَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Biladilar"
+        },
+        {
+          "w": "أَنَّ الْحِجَارَةَ",
+          "r": "ismi inna",
+          "rc": "tm",
+          "e": "Toshlar"
+        },
+        {
+          "w": "لَا تَسْمَعُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Eshitmaydi"
+        },
+        {
+          "w": "وَلَا تَنْطِقُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va gapirmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يَعْرِفُونَ أَنَّ الصَّنَمَ الْأَكْبَرَ أَيْضًا حَجَرٌ.",
+      "tr": "Va ular katta butning ham tosh ekanini bilishardi.",
+      "parts": [
+        {
+          "w": "أَنَّ الصَّنَمَ الْأَكْبَرَ",
+          "r": "ismi inna",
+          "rc": "tm",
+          "e": "Katta but"
+        },
+        {
+          "w": "أَيْضًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Ham"
+        },
+        {
+          "w": "حَجَرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Toshdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ الصَّنَمَ الْأَكْبَرَ لَا يَقْدِرُ أَنْ يَمْشِيَ وَيَتَحَرَّكَ.",
+      "tr": "Va katta but yurishga va harakat qilishga qodir emas.",
+      "parts": [
+        {
+          "w": "لَا يَقْدِرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qodir emas"
+        },
+        {
+          "w": "أَنْ يَمْشِيَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Yurishga"
+        },
+        {
+          "w": "وَيَتَحَرَّكَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va harakat qilishga"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ الصَّنَمَ الْأَكْبَرَ لَا يَقْدِرُ أَنْ يَكْسِرَ الْأَصْنَامَ.",
+      "tr": "Va katta but butlarni sindirishga qodir emas.",
+      "parts": [
+        {
+          "w": "لَا يَقْدِرُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qodir emas"
+        },
+        {
+          "w": "أَنْ يَكْسِرَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Sindirishga"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (أَنْ يَكْسِرَ)",
+          "rc": "tb",
+          "e": "Butlarni"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالُوا لِإِبْرَاهِيمَ: أَنْتَ تَعْلَمُ أَنَّ الْأَصْنَامَ لَا تَنْطِقُ.",
+      "tr": "Ular Ibrohimga dedilar: Butlarning gapirmasligini sen bilasan.",
+      "parts": [
+        {
+          "w": "فَقَالُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedilar"
+        },
+        {
+          "w": "لِإِبْرَاهِيمَ",
+          "r": "mutaalliq (فَقَالُوا)",
+          "rc": "tmt",
+          "e": "Ibrohimga"
+        },
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen"
+        },
+        {
+          "w": "تَعْلَمُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bilasan"
+        },
+        {
+          "w": "أَنَّ الْأَصْنَامَ لَا تَنْطِقُ",
+          "r": "maf'ul bih (فَقَالُوا)",
+          "rc": "tb",
+          "e": "Butlar gapirmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ إِبْرَاهِيمُ: فَكَيْفَ تَعْبُدُونَ الْأَصْنَامَ وَإِنَّهَا لَا تَضُرُّ وَلَا تَنْفَعُ؟!!",
+      "tr": "Ibrohim dedi: Unda qanday qilib butlarga ibodat qilasizlar, ular zarar ham, foyda ham bermasa?!",
+      "parts": []
+    },
+    {
+      "ar": "وَكَيْفَ تَسْأَلُونَ الْأَصْنَامَ وَإِنَّهَا لَا تَنْطِقُ وَلَا تَسْمَعُ؟",
+      "tr": "Qanday qilib butlardan so‘raysizlar, ular gapirmasa va eshitmasa?",
+      "parts": []
+    },
+    {
+      "ar": "أَلَا تَفْهَمُونَ شَيْئًا، أَفَلَا تَعْقِلُونَ؟",
+      "tr": "Hech narsani tushunmaysizlarmi, aql yurgizmaysizlarmi?",
+      "parts": []
+    },
+    {
+      "ar": "وَسَكَتَ النَّاسُ وَتَحَيَّرُوا!!",
+      "tr": "Odamlar jim bo‘lib, hayron qoldilar!",
+      "parts": []
+    }
+  ],
+  "bookId": "qisas"
+}

@@ -1,0 +1,255 @@
+{
+  "title": "١ ـ بَائِعُ الْأَصْنَامِ",
+  "tuz": "Butlar sotuvchisi",
+  "sub": "Ibrohim (a.s.) qissasi",
+  "page": 9,
+  "sentences": [
+    {
+      "ar": "قَبْلَ أَيَّامٍ كَثِيرَةٍ. كَثِيرَةٍ جِدًّا.",
+      "tr": "Ko'p-ko'p kunlar oldin. Juda ko'p.",
+      "parts": [
+        {
+          "w": "قَبْلَ",
+          "r": "hol",
+          "rc": "th",
+          "e": "Vaqt holi"
+        },
+        {
+          "w": "أَيَّامٍ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Jar-majrur"
+        },
+        {
+          "w": "كَثِيرَةٍ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Ayyam sifati"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Miqdor holi"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ فِي قَرْيَةٍ رَجُلٌ مَشْهُورٌ جِدًّا.",
+      "tr": "Bir qishloqda juda mashhur bir kishi yashardi.",
+      "parts": [
+        {
+          "w": "كَانَ",
+          "r": "fe'l (noqus)",
+          "rc": "tf",
+          "e": "Kona fe'li — edi"
+        },
+        {
+          "w": "فِي قَرْيَةٍ",
+          "r": "mutaalliq (xabar) (كَانَ)",
+          "rc": "tmt",
+          "e": "Kechiktirilgan xabar"
+        },
+        {
+          "w": "رَجُلٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kechiktirilgan mubtado"
+        },
+        {
+          "w": "مَشْهُورٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Sifat"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol (كَانَ)",
+          "rc": "th",
+          "e": "Miqdor holi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ اسْمُ هَذَا الرَّجُلِ آزَرَ.",
+      "tr": "Bu kishining ismi Ozar edi.",
+      "parts": [
+        {
+          "w": "اسْمُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "هَذَا الرَّجُلِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Izofiy birikma"
+        },
+        {
+          "w": "آزَرَ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Xabar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ آزَرُ يَبِيعُ الأَصْنَامَ.",
+      "tr": "Va Ozar butlarni sotardi.",
+      "parts": [
+        {
+          "w": "آزَرُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَبِيعُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Sotadi"
+        },
+        {
+          "w": "الأَصْنَامَ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "To'ldiruvchi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ فِي هَذِهِ الْقَرْيَةِ بَيْتٌ كَبِيرٌ جِدًّا.",
+      "tr": "Bu qishloqda juda katta bir uy bor edi.",
+      "parts": [
+        {
+          "w": "فِي هَذِهِ الْقَرْيَةِ",
+          "r": "mutaalliq (xabar)",
+          "rc": "tmt",
+          "e": "Kechiktirilgan xabar"
+        },
+        {
+          "w": "بَيْتٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Sifat"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Miqdor holi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ فِي هَذَا الْبَيْتِ أَصْنَامٌ، أَصْنَامٌ كَثِيرَةٌ جِدًّا.",
+      "tr": "Bu uyda butlar, juda ko‘p butlar bor edi.",
+      "parts": [
+        {
+          "w": "فِي هَذَا الْبَيْتِ",
+          "r": "mutaalliq (xabar)",
+          "rc": "tmt",
+          "e": "Kechiktirilgan xabar"
+        },
+        {
+          "w": "أَصْنَامٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "كَثِيرَةٌ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Sifat"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Miqdor holi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ يَسْجُدُونَ لِهَذِهِ الْأَصْنَامِ.",
+      "tr": "Odamlar bu butlarga sajda qilishar edi.",
+      "parts": [
+        {
+          "w": "النَّاسُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَسْجُدُونَ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Sajda qiladilar"
+        },
+        {
+          "w": "لِهَذِهِ الْأَصْنَامِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bu butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ آزَرُ يَسْجُدُ لِهَذِهِ الْأَصْنَامِ.",
+      "tr": "Ozar ham bu butlarga sajda qilardi.",
+      "parts": [
+        {
+          "w": "آزَرُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَسْجُدُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Sajda qiladi"
+        },
+        {
+          "w": "لِهَذِهِ الْأَصْنَامِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Bu butlarga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ آزَرُ يَعْبُدُ هَذِهِ الْأَصْنَامَ.",
+      "tr": "Ozar bu butlarga ibodat qilardi.",
+      "parts": [
+        {
+          "w": "آزَرُ",
+          "r": "mubtado (ism kana)",
+          "rc": "tm",
+          "e": "Ega"
+        },
+        {
+          "w": "يَعْبُدُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Ibodat qiladi"
+        },
+        {
+          "w": "هَذِهِ الْأَصْنَامَ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "To'ldiruvchi"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

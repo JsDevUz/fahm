@@ -1,0 +1,446 @@
+{
+  "title": "١٦ ـ بَيْتُ الْمَقْدِسِ",
+  "tuz": "Baytul-Maqdis",
+  "sub": "Ishaq Baytul-Maqdisni quradi",
+  "page": 25,
+  "sentences": [
+    {
+      "ar": "وَكَانَ لِإِبْرَاهِيمَ زَوْجٌ أُخْرَى، اسْمُهَا سَارَةُ.",
+      "tr": "Ibrohimning boshqa bir xotini bor edi, uning ismi Sara edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "لِإِبْرَاهِيمَ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Ibrohimning"
+        },
+        {
+          "w": "زَوْجٌ أُخْرَى",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Boshqa bir xotin"
+        },
+        {
+          "w": "اسْمُهَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning ismi"
+        },
+        {
+          "w": "سَارَةُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sara"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ لِإِبْرَاهِيمَ وَلَدٌ آخَرُ مِنْ سَارَةَ اسْمُهُ إِسْحَاقُ.",
+      "tr": "Ibrohimning Saradan yana bir o'g'li bor edi, uning ismi Ishoq edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "لِإِبْرَاهِيمَ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Ibrohimning"
+        },
+        {
+          "w": "وَلَدٌ آخَرُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Boshqa bir o'g'il"
+        },
+        {
+          "w": "مِنْ سَارَةَ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Saradan"
+        },
+        {
+          "w": "اسْمُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning ismi"
+        },
+        {
+          "w": "إِسْحَاقُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishoq"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَكَنَ إِبْرَاهِيمُ فِي الشَّامِ، وَسَكَنَ إِسْحَاقُ.",
+      "tr": "Ibrohim Shomda yashadi va Ishoq ham yashadi.",
+      "parts": [
+        {
+          "w": "وَسَكَنَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yashadi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَسَكَنَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "فِي الشَّامِ",
+          "r": "mutaalliq (وَسَكَنَ)",
+          "rc": "tmt",
+          "e": "Shomda"
+        },
+        {
+          "w": "وَسَكَنَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yashadi"
+        },
+        {
+          "w": "إِسْحَاقُ",
+          "r": "fo'il (وَسَكَنَ)",
+          "rc": "tm",
+          "e": "Ishoq"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَنَى إِسْحَاقُ بَيْتًا لِلَّهِ فِي الشَّامِ، كَمَا بَنَى أَبُوهُ وَأَخُوهُ بَيْتًا لِلَّهِ فِي مَكَّةَ.",
+      "tr": "Ishoq Shomda Alloh uchun uy qurdi, xuddi otasi va ukasi Makkada Alloh uchun uy qurganlari kabi.",
+      "parts": [
+        {
+          "w": "وَبَنَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qurdi"
+        },
+        {
+          "w": "إِسْحَاقُ",
+          "r": "fo'il (وَبَنَى)",
+          "rc": "tm",
+          "e": "Ishoq"
+        },
+        {
+          "w": "بَيْتًا",
+          "r": "maf'ul bih (وَبَنَى)",
+          "rc": "tb",
+          "e": "Uy"
+        },
+        {
+          "w": "لِلَّهِ",
+          "r": "mutaalliq (وَبَنَى)",
+          "rc": "tmt",
+          "e": "Alloh uchun"
+        },
+        {
+          "w": "فِي الشَّامِ",
+          "r": "mutaalliq (بَنَى)",
+          "rc": "tmt",
+          "e": "Shomda"
+        },
+        {
+          "w": "كَمَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Xuddi"
+        },
+        {
+          "w": "بَنَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qurgan"
+        },
+        {
+          "w": "أَبُوهُ",
+          "r": "fo'il (بَنَى)",
+          "rc": "tm",
+          "e": "Otasi"
+        },
+        {
+          "w": "وَأَخُوهُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va ukasi"
+        },
+        {
+          "w": "بَيْتًا",
+          "r": "maf'ul bih (بَنَى)",
+          "rc": "tb",
+          "e": "Uy"
+        },
+        {
+          "w": "لِلَّهِ",
+          "r": "mutaalliq (بَنَى)",
+          "rc": "tmt",
+          "e": "Alloh uchun"
+        },
+        {
+          "w": "فِي مَكَّةَ",
+          "r": "mutaalliq (بَنَى)",
+          "rc": "tmt",
+          "e": "Makkada"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَذَا الْمَسْجِدُ الَّذِي بَنَاهُ إِسْحَاقُ فِي الشَّامِ هُوَ بَيْتُ الْمَقْدِسِ.",
+      "tr": "Ishoq Shomda qurgan bu masjid — Baytul-Maqdisdir.",
+      "parts": [
+        {
+          "w": "وَهَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Va bu"
+        },
+        {
+          "w": "الْمَسْجِدُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Masjiddir"
+        },
+        {
+          "w": "الَّذِي بَنَاهُ إِسْحَاقُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Ishoq qurgan"
+        },
+        {
+          "w": "فِي الشَّامِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Shomda"
+        },
+        {
+          "w": "هُوَ",
+          "r": "fasl",
+          "rc": "tb",
+          "e": "O'sha"
+        },
+        {
+          "w": "بَيْتُ الْمَقْدِسِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baytul-Maqdisdir"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُوَ الْمَسْجِدُ الْأَقْصَى الَّذِي بَارَكَ اللَّهُ حَوْلَهُ وَبَارَكَ اللَّهُ فِي أَوْلَادِ إِسْحَاقَ كَمَا بَارَكَ فِي أَوْلَادِ إِسْمَاعِيلَ.",
+      "tr": "Bu — Alloh atrofini barakali qilgan va Ishoq avlodiga baraka bergan Masjidul-Aqsodir, xuddi Ismoil avlodiga baraka bergani kabi.",
+      "parts": [
+        {
+          "w": "وَهُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Va bu"
+        },
+        {
+          "w": "الْمَسْجِدُ الْأَقْصَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Masjidul-Aqsodir"
+        },
+        {
+          "w": "الَّذِي",
+          "r": "ism mavsul",
+          "rc": "tb",
+          "e": "U —"
+        },
+        {
+          "w": "بَارَكَ اللَّهُ حَوْلَهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Alloh atrofini barakali qildi"
+        },
+        {
+          "w": "وَبَارَكَ اللَّهُ فِي أَوْلَادِ إِسْحَاقَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va Ishoq avlodiga baraka berdi"
+        },
+        {
+          "w": "كَمَا بَارَكَ فِي أَوْلَادِ إِسْمَاعِيلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xuddi Ismoil avlodiga bergani kabi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ فِيهِمْ أَنْبِيَاءُ وَمُلُوكٌ.",
+      "tr": "Ularning orasida payg'ambarlar va podshohlar bor edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "فِيهِمْ",
+          "r": "zarf (وَكَانَ)",
+          "rc": "th",
+          "e": "Ularning orasida"
+        },
+        {
+          "w": "أَنْبِيَاءُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Payg'ambarlar"
+        },
+        {
+          "w": "وَمُلُوكٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va podshohlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ لِإِسْحَاقَ وَلَدٌ اسْمُهُ يَعْقُوبُ وَكَانَ نَبِيًّا.",
+      "tr": "Ishoqning ismi Ya'qub bo'lgan bir o'g'li bor edi va u payg'ambar edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "لِإِسْحَاقَ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Ishoqning"
+        },
+        {
+          "w": "وَلَدٌ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "O'g'il"
+        },
+        {
+          "w": "اسْمُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning ismi"
+        },
+        {
+          "w": "يَعْقُوبُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ya'qub"
+        },
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va edi"
+        },
+        {
+          "w": "نَبِيًّا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Payg'ambar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْقُوبُ لَهُ اثْنَا عَشَرَ وَلَدًا، مِنْهُمْ يُوسُفُ بْنُ يَعْقُوبَ.",
+      "tr": "Ya'qubning o'n ikki o'g'li bor edi, ulardan biri — Yusuf ibn Ya'qub.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "يَعْقُوبُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Ya'qub"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Uning"
+        },
+        {
+          "w": "اثْنَا عَشَرَ",
+          "r": "ma'dud",
+          "rc": "tm",
+          "e": "O'n ikki"
+        },
+        {
+          "w": "وَلَدًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "O'g'il"
+        },
+        {
+          "w": "مِنْهُمْ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Ulardan"
+        },
+        {
+          "w": "يُوسُفُ بْنُ يَعْقُوبَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yusuf ibn Ya'qub"
+        }
+      ]
+    },
+    {
+      "ar": "وَيُوسُفُ لَهُ قِصَّةٌ عَجِيبَةٌ فِي الْقُرْآنِ.",
+      "tr": "Yusufning Qur'onda ajoyib bir qissasi bor.",
+      "parts": [
+        {
+          "w": "وَيُوسُفُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Va Yusuf"
+        },
+        {
+          "w": "لَهُ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Uning"
+        },
+        {
+          "w": "قِصَّةٌ عَجِيبَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ajoyib bir qissasi bor"
+        },
+        {
+          "w": "فِي الْقُرْآنِ",
+          "r": "mutaalliq",
+          "rc": "tmt",
+          "e": "Qur'onda"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِلَيْكَ هَذِهِ الْقِصَّةَ!",
+      "tr": "Mana senga bu qissa!",
+      "parts": []
+    }
+  ],
+  "bookId": "qisas"
+}

@@ -1,0 +1,1767 @@
+{
+  "title": "١٥. الدَّرْسُ الْخَامِسُ عَشَرَ",
+  "tuz": "15-dars",
+  "sub": "Balki, ammo va bog'lovchilar tahlili",
+  "page": 37,
+  "sentences": [
+    {
+      "ar": "هَذَا الْمَلِكُ مَشْهُورٌ جِدًّا،",
+      "tr": "Bu podshoh juda mashhurdir",
+      "parts": [
+        {
+          "w": "هَذَا الْمَلِكُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu podshoh - ega"
+        },
+        {
+          "w": "مَشْهُورٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mashhur - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْمُلُوكُ مَشَاهِيرُ جِدًّا،",
+      "tr": "Bu podshohlar juda mashhurlardir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْمُلُوكُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu podshohlar - ega"
+        },
+        {
+          "w": "مَشَاهِيرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mashhurlar - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْوَزِيرُ مَشْغُولٌ جِدًّا،",
+      "tr": "Anavi vazir juda banddir",
+      "parts": [
+        {
+          "w": "ذَاكَ الْوَزِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi vazir - ega"
+        },
+        {
+          "w": "مَشْغُولٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Band - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ الْوُزَرَاءُ مَشْغُولُونَ جِدًّا،",
+      "tr": "Anavi vazirlar juda banddirlar",
+      "parts": [
+        {
+          "w": "أُولَئِكَ الْوُزَرَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi vazirlar - ega"
+        },
+        {
+          "w": "مَشْغُولُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Band - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْأَمِيرُ مُتَأَهِّلٌ،",
+      "tr": "Bu amir oilalidir",
+      "parts": [
+        {
+          "w": "هَذَا الْأَمِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu amir - ega"
+        },
+        {
+          "w": "مُتَأَهِّلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilali - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْأُمَرَاءُ مُتَأَهِّلُونَ،",
+      "tr": "Bu amirlar oilalidirlar",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْأُمَرَاءُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu amirlar - ega"
+        },
+        {
+          "w": "مُتَأَهِّلُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilalilar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ السَّيِّدُ مَشْهُورٌ،",
+      "tr": "Anavi sayyid mashhurdir",
+      "parts": [
+        {
+          "w": "ذَاكَ السَّيِّدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi sayyid - ega"
+        },
+        {
+          "w": "مَشْهُورٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mashhur - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُولَئِكَ السَّادَةُ مَشَاهِيرُ،",
+      "tr": "Anavi sayyidlar mashhurlardir",
+      "parts": [
+        {
+          "w": "أُولَئِكَ السَّادَةُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi sayyidlar - ega"
+        },
+        {
+          "w": "مَشَاهِيرُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mashhurlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنِي مُتَأَهِّلٌ،",
+      "tr": "O'g'lim oilalidir",
+      "parts": [
+        {
+          "w": "اِبْنِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "O'g'lim - ega"
+        },
+        {
+          "w": "مُتَأَهِّلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilali - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَائِي مُتَأَهِّلُونَ،",
+      "tr": "O'g'illarim oilalidirlar",
+      "parts": [
+        {
+          "w": "أَبْنَائِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "O'g'illarim - ega"
+        },
+        {
+          "w": "مُتَأَهِّلُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilalilar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "اِبْنَتُكَ مُتَأَهِّلَةٌ،",
+      "tr": "Qizing oilalidir",
+      "parts": [
+        {
+          "w": "اِبْنَتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qizing - ega"
+        },
+        {
+          "w": "مُتَأَهِّلَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilali - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "بَنَاتُكُمْ مُتَأَهِّلَاتٌ،",
+      "tr": "Qizlaringiz oilalidirlar",
+      "parts": [
+        {
+          "w": "بَنَاتُكُمْ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qizlaringiz - ega"
+        },
+        {
+          "w": "مُتَأَهِّلَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilalilar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخِي عَزَبٌ،",
+      "tr": "Akam bo'ydoqdir",
+      "parts": [
+        {
+          "w": "أَخِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Akam - ega"
+        },
+        {
+          "w": "عَزَبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "إِخْوَتِي أَعْزَابٌ،",
+      "tr": "Aka-ukalarim bo'ydoqlardir",
+      "parts": [
+        {
+          "w": "إِخْوَتِي",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Aka-ukalarim - ega"
+        },
+        {
+          "w": "أَعْزَابٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoqlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أُخْتُكَ عَزَبَةٌ،",
+      "tr": "Opang turmush qurmagan",
+      "parts": [
+        {
+          "w": "أُخْتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Opang - ega"
+        },
+        {
+          "w": "عَزَبَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Turmush qurmagan - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَخَوَاتُكَ عَزَبَاتٌ،",
+      "tr": "Opa-singillaring turmush qurmaganlar",
+      "parts": [
+        {
+          "w": "أَخَوَاتُكَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Opa-singillaring - ega"
+        },
+        {
+          "w": "عَزَبَاتٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Turmush qurmaganlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مَلِكُنَا عَادِلٌ جِدًّا،",
+      "tr": "Podshohimiz juda odildir",
+      "parts": [
+        {
+          "w": "مَلِكُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Podshohimiz - ega"
+        },
+        {
+          "w": "عَادِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Odil - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "بَعْضُ الْمُلُوكِ ظَلَمَةٌ،",
+      "tr": "Podshohlarning ba'zilari zolimdirlar",
+      "parts": [
+        {
+          "w": "بَعْضُ الْمُلُوكِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Podshohlarning ba'zilari - ega"
+        },
+        {
+          "w": "ظَلَمَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Zolim - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْمُلُوكِ أَغْنِيَاءُ جِدًّا،",
+      "tr": "Podshohlarning aksari juda boydirlar",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْمُلُوكِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Podshohlarning aksari - ega"
+        },
+        {
+          "w": "أَغْنِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "وَزِيرُ مَلِكِنَا عَاقِلٌ جِدًّا،",
+      "tr": "Podshohimizning vaziri juda aqllidir",
+      "parts": [
+        {
+          "w": "وَزِيرُ مَلِكِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Podshohimizning vaziri - ega"
+        },
+        {
+          "w": "عَاقِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqlli - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "بَعْضُ الْوُزَرَاءِ سُفَهَاءُ،",
+      "tr": "Vazirlarning ba'zilari telbadirlar",
+      "parts": [
+        {
+          "w": "بَعْضُ الْوُزَرَاءِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Vazirlarning ba'zilari - ega"
+        },
+        {
+          "w": "سُفَهَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telba - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَكْثَرُ الْوُزَرَاءِ عُقَلَاءُ،",
+      "tr": "Vazirlarning aksari aqllidirlar",
+      "parts": [
+        {
+          "w": "أَكْثَرُ الْوُزَرَاءِ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Vazirlarning aksari - ega"
+        },
+        {
+          "w": "عُقَلَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aqlli - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ سَعِيدٌ وَعَزِيزٌ،",
+      "tr": "U baxtli va azizdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "سَعِيدٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baxtli - xabar"
+        },
+        {
+          "w": "وَعَزِيزٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va aziz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ رَحِيمٌ وَحَلِيمٌ،",
+      "tr": "Sen rahm dil va halimsan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "رَحِيمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Rahm dil - xabar"
+        },
+        {
+          "w": "وَحَلِيمٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va halim - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا عَالِمٌ وَغَنِيٌّ،",
+      "tr": "Men olim va boyman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Olim - xabar"
+        },
+        {
+          "w": "وَغَنِيٌّ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va boy - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ فُقَرَاءُ وَجُهَلَاءُ،",
+      "tr": "Biz kambag'al va nodonlarmiz",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "فُقَرَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        },
+        {
+          "w": "وَجُهَلَاءُ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va nodon - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ بَشُوشٌ وَوَقُورٌ جِدًّا،",
+      "tr": "Bu kishi juda ochiq chehra va salobatlidir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "بَشُوشٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ochiq chehrali - xabar"
+        },
+        {
+          "w": "وَوَقُورٌ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va salobatli - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الرَّجُلُ لَيْسَ بِعَاقِلٍ أَصْلًا، بَلْ هُوَ سَفِيهٌ جِدًّا،",
+      "tr": "Anavi kishi aslo aqlli emas, balki u juda telbadir",
+      "parts": [
+        {
+          "w": "ذَاكَ الرَّجُلُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Anavi kishi - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِعَاقِلٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Aqlli emas - xabar"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "سَفِيهٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Telba - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الْغَنِيُّ لَيْسَ بِسَخِيٍّ أَصْلًا، بَلْ هُوَ بَخِيلٌ جِدًّا،",
+      "tr": "Anavi boy aslo saxiy emas, balki u juda baxildir",
+      "parts": [
+        {
+          "w": "ذَاكَ الْغَنِيُّ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Anavi boy - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِسَخِيٍّ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Saxiy emas - xabar"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "بَخِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baxil - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "تِلْمِيذُ هَذَا الْمُعَلِّمِ لَيْسَ بِمُجْتَهِدٍ أَصْلًا، بَلْ هُوَ كَسْلَانُ جِدًّا،",
+      "tr": "Bu o'qituvchining shogirdi aslo faol emas, balki u juda dangasadir",
+      "parts": [
+        {
+          "w": "تِلْمِيذُ هَذَا الْمُعَلِّمِ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Bu o'qituvchining shogirdi - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمُجْتَهِدٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Faol emas - xabar"
+        },
+        {
+          "w": "أَصْلًا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Aslo - hol"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "كَسْلَانُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Dangasa - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ لَيْسَ بِمُتَأَهِّلٍ بَلْ عَزَبٌ،",
+      "tr": "U oilali emas, balki bo'ydoqdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمُتَأَهِّلٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Oilali emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "عَزَبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoq - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُمْ لَيْسُوا بِمُتَأَهِّلِينَ بَلْ أَعْزَابٌ،",
+      "tr": "Ular oilali emaslar, balki bo'ydoqlardir",
+      "parts": [
+        {
+          "w": "هُمْ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Ular - ega"
+        },
+        {
+          "w": "لَيْسُوا",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمُتَأَهِّلِينَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Oilali emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "أَعْزَابٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoqlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ لَسْتَ بِمَشْغُولٍ، بَلْ بَطَّالٌ،",
+      "tr": "Sen band emassan, balki ishsizsan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "لَسْتَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمَشْغُولٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Band emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "بَطَّالٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتُمْ لَسْتُمْ بِمَشْغُولِينَ، بَلْ بَطَّالُونَ،",
+      "tr": "Sizlar band emassizlar, balki ishsizlarsiz",
+      "parts": [
+        {
+          "w": "أَنْتُمْ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Sizlar - ega"
+        },
+        {
+          "w": "لَسْتُمْ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمَشْغُولِينَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Band emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "بَطَّالُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishsizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا لَسْتُ بِذَكِيٍّ بَلْ غَبِيٌّ،",
+      "tr": "Men dono emasman, balki tentakman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "لَسْتُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِذَكِيٍّ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Dono emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "غَبِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "نَحْنُ لَسْنَا بِأَعِزَّاءَ، بَلْ أَذِلَّةٌ،",
+      "tr": "Biz azizlar emasmiz, balki xorlanganlarmiz",
+      "parts": [
+        {
+          "w": "نَحْنُ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Biz - ega"
+        },
+        {
+          "w": "لَسْنَا",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِأَعِزَّاءَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Azizlar emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "أَذِلَّةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xorlanganlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْإِنْسَانُ إِمَّا رَجُلٌ أَوْ امْرَأَةٌ،",
+      "tr": "Inson yo erkak yoki ayoldir",
+      "parts": [
+        {
+          "w": "الْإِنْسَانُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Inson - ega"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo"
+        },
+        {
+          "w": "رَجُلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Erkak - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "امْرَأَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ayol - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرَّجُلُ إِمَّا شَابٌّ أَوْ شَيْخٌ،",
+      "tr": "Erkak yo yigit yoki qariyadir",
+      "parts": [
+        {
+          "w": "الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Erkak - ega"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo"
+        },
+        {
+          "w": "شَابٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigit - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "شَيْخٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Qariya - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الْوَلَدُ إِمَّا صَبِيٌّ أَوْ شَابٌّ،",
+      "tr": "Bola yo go'dak yoki yigitdir",
+      "parts": [
+        {
+          "w": "الْوَلَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bola - ega"
+        },
+        {
+          "w": "صَبِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Go'dak - xabar"
+        },
+        {
+          "w": "شَابٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yigit - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الشَّابُّ إِمَّا عَزَبٌ أَوْ مُتَأَهِّلٌ،",
+      "tr": "Yigit yo bo'ydoq yoki oilalidir",
+      "parts": [
+        {
+          "w": "الشَّابُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yigit - ega"
+        },
+        {
+          "w": "عَزَبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bo'ydoq - xabar"
+        },
+        {
+          "w": "مُتَأَهِّلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oilali - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ إِمَّا غَنِيٌّ أَوْ فَقِيرٌ،",
+      "tr": "Bu kishi yo boy yoki kambag'aldir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy - xabar"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْغَنِيُّ إِمَّا سَخِيٌّ أَوْ بَخِيلٌ،",
+      "tr": "Bu boy yo saxiy yoki baxildir",
+      "parts": [
+        {
+          "w": "هَذَا الْغَنِيُّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu boy - ega"
+        },
+        {
+          "w": "سَخِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Saxiy - xabar"
+        },
+        {
+          "w": "بَخِيلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baxil - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاءُ زَيْدٍ مَشْغُولُونَ: أَمَّا زَيْدٌ فَصَانِعٌ وَأَمَّا بَكْرٌ فَتَاجِرٌ،",
+      "tr": "Zaydning o'g'illari banddirlar: Ammo Zayd hunarmand, ammo Bakr savdogardir",
+      "parts": [
+        {
+          "w": "أَبْنَاءُ زَيْدٍ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zaydning o'g'illari - ega"
+        },
+        {
+          "w": "مَشْغُولُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Band - xabar"
+        },
+        {
+          "w": "أَمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ammo"
+        },
+        {
+          "w": "زَيْدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zayd - ega"
+        },
+        {
+          "w": "فَصَانِعٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Hunarmand - xabar"
+        },
+        {
+          "w": "وَأَمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Ammo"
+        },
+        {
+          "w": "بَكْرٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bakr - ega"
+        },
+        {
+          "w": "فَتَاجِرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Savdogar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْفَقِيرُ إِمَّا مُجْتَهِدٌ أَوْ كَسْلَانُ،",
+      "tr": "Bu kambag'al yo faol yoki dangasadir",
+      "parts": [
+        {
+          "w": "هَذَا الْفَقِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kambag'al - ega"
+        },
+        {
+          "w": "مُجْتَهِدٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Faol - xabar"
+        },
+        {
+          "w": "كَسْلَانُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Dangasa - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الْوَلَدُ إِمَّا ذَكِيٌّ أَوْ غَبِيٌّ،",
+      "tr": "Bu bola yo ziyrak yoki tentakdir",
+      "parts": [
+        {
+          "w": "هَذَا الْوَلَدُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu bola - ega"
+        },
+        {
+          "w": "ذَكِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ziyrak - xabar"
+        },
+        {
+          "w": "غَبِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tentak - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "جِيرَانُنَا صَنَعَةٌ : أَمَّا عَلِيٌّ فَخَيَّاطٌ وَأَمَّا مَحْمُودٌ فَنَجَّارٌ وَأَمَّا فَرِيدٌ فَحَدَّادٌ،",
+      "tr": "Qo'shnilarimiz hunarmandlardir: Ammo Ali tikuvchi, ammo Mahmud duradgor va ammo Farid temirchidir",
+      "parts": [
+        {
+          "w": "جِيرَانُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qo'shnilarimiz - ega"
+        },
+        {
+          "w": "صَنَعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Hunarmand - xabar"
+        },
+        {
+          "w": "أَمَّا عَلِيٌّ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ali - ega"
+        },
+        {
+          "w": "فَخَيَّاطٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tikuvchi - xabar"
+        },
+        {
+          "w": "وَأَمَّا مَحْمُودٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Mahmud - ega"
+        },
+        {
+          "w": "فَنَجَّارٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Duradgor - xabar"
+        },
+        {
+          "w": "وَأَمَّا فَرِيدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Farid - ega"
+        },
+        {
+          "w": "فَحَدَّادٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Temirchi - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَعْدَاؤُنَا بَطَّالُونَ أَمَّا خَالِدٌ فَكَسْلَانُ وَأَمَّا ظَرِيفٌ فَمَرِيضٌ وَأَمَّا شَهِيدٌ فَضَعِيفٌ،",
+      "tr": "Dushmanlarimiz ishsizlardir: Ammo Xolid dangasa, ammo Zarif bemor va ammo Shahid kuchsizdir",
+      "parts": [
+        {
+          "w": "أَعْدَاؤُنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Dushmanlarimiz - ega"
+        },
+        {
+          "w": "بَطَّالُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ishsiz - xabar"
+        },
+        {
+          "w": "أَمَّا خَالِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xolid - ega"
+        },
+        {
+          "w": "فَكَسْلَانُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Dangasa - xabar"
+        },
+        {
+          "w": "وَأَمَّا ظَرِيفٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zarif - ega"
+        },
+        {
+          "w": "فَمَرِيضٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bemor - xabar"
+        },
+        {
+          "w": "وَأَمَّا شَهِيدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Shahid - ega"
+        },
+        {
+          "w": "فَضَعِيفٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَؤُلَاءِ الْبَطَّالُونَ ضُعَفَاءُ: أَمَّا زَيْدٌ فَأَشَلُّ وَأَمَّا بَكْرٌ فَأَعْرَجُ وَأَمَّا خَالِدٌ فَأَحْدَبُ،",
+      "tr": "Bu ishsizlar kuchsizlardir: Ammo Zayd cho'loq, ammo Bakr oqsoq va ammo Xolid bukridir",
+      "parts": [
+        {
+          "w": "هَؤُلَاءِ الْبَطَّالُونَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu ishsizlar - ega"
+        },
+        {
+          "w": "ضُعَفَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kuchsiz - xabar"
+        },
+        {
+          "w": "أَمَّا زَيْدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zayd - ega"
+        },
+        {
+          "w": "فَأَشَلُّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Cho'loq - xabar"
+        },
+        {
+          "w": "وَأَمَّا بَكْرٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bakr - ega"
+        },
+        {
+          "w": "فَأَعْرَجُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Oqsoq - xabar"
+        },
+        {
+          "w": "وَأَمَّا خَالِدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Xolid - ega"
+        },
+        {
+          "w": "فَأَحْدَبُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bukri - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "مُعَلِّمُونَا مَشْغُولُونَ جِدًّا،",
+      "tr": "O'qituvchilarimiz juda banddirlar",
+      "parts": [
+        {
+          "w": "مُعَلِّمُونَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "O'qituvchilarimiz - ega"
+        },
+        {
+          "w": "مَشْغُولُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Band - xabar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol",
+          "rc": "th",
+          "e": "Juda - hol"
+        }
+      ]
+    },
+    {
+      "ar": "مُدَرِّسُوكُمْ لَيْسُوا بِمَشْغُولِينَ،",
+      "tr": "Sizlarning mudarrislaringiz band emaslar",
+      "parts": [
+        {
+          "w": "مُدَرِّسُوكُمْ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Mudarrislaringiz - ega"
+        },
+        {
+          "w": "لَيْسُوا",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمَشْغُولِينَ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Band emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ مَلِكُنَا،",
+      "tr": "U podshohimizdir",
+      "parts": [
+        {
+          "w": "هُوَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "U - ega"
+        },
+        {
+          "w": "مَلِكُنَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Podshohimiz - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَنْتَ وَزِيرُ مَلِكِنَا،",
+      "tr": "Sen podshohimizning vazirisan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "وَزِيرُ مَلِكِنَا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Podshohimizning vaziri - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الرَّجُلُ أَمِيرٌ عَادِلٌ،",
+      "tr": "Bu kishi odil amirdir",
+      "parts": [
+        {
+          "w": "هَذَا الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu kishi - ega"
+        },
+        {
+          "w": "أَمِيرٌ عَادِلٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Odil amir - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَاكَ الرَّجُلُ سَيِّدٌ عَزِيزٌ،",
+      "tr": "Anavi kishi aziz sayyiddir",
+      "parts": [
+        {
+          "w": "ذَاكَ الرَّجُلُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Anavi kishi - ega"
+        },
+        {
+          "w": "سَيِّدٌ عَزِيزٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Aziz sayyid - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرِّجَالُ الْمُتَأَهِّلُونَ سُعَدَاءُ،",
+      "tr": "Oilali kishilar baxtlidirlar",
+      "parts": [
+        {
+          "w": "الرِّجَالُ الْمُتَأَهِّلُونَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Oilali kishilar - ega"
+        },
+        {
+          "w": "سُعَدَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baxtlilar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "الرِّجَالُ الْأَعْزَابُ تَعِسُونَ،",
+      "tr": "Bo'ydoq kishilar baxtsizdirlar",
+      "parts": [
+        {
+          "w": "الرِّجَالُ الْأَعْزَابُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bo'ydoq kishilar - ega"
+        },
+        {
+          "w": "تَعِسُونَ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Baxtsizlar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ أَبِي بِأَمِيرٍ، بَلْ إِمَامٌ،",
+      "tr": "Mening otam amir emas, balki imomdir",
+      "parts": [
+        {
+          "w": "أَبِي",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Otam - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِأَمِيرٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Amir emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "إِمَامٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Imom - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَيْسَ أَخُوكَ بِإِمَامٍ، بَلْ تَاجِرٌ،",
+      "tr": "Sening akang imom emas, balki savdogardir",
+      "parts": [
+        {
+          "w": "أَخُوكَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Akang - ega"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِإِمَامٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Imom emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "تَاجِرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Savdogar - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَسْتَ أَنْتَ بِفَقِيرٍ بَلْ غَنِيٌّ،",
+      "tr": "Sen kambag'al emassan, balki boysan",
+      "parts": [
+        {
+          "w": "أَنْتَ",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Sen - ega"
+        },
+        {
+          "w": "لَسْتَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِفَقِيرٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Kambag'al emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "غَنِيٌّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Boy - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "لَسْتُ أَنَا بِغَنِيٍّ، بَلْ فَقِيرٌ،",
+      "tr": "Men boy emasman, balki kambag'alman",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "ism laysa",
+          "rc": "tm",
+          "e": "Men - ega"
+        },
+        {
+          "w": "لَسْتُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِغَنِيٍّ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Boy emas - xabar"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kambag'al - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا الطَّبِيبُ إِمَّا مَاهِرٌ أَوْ لَيْسَ بِمَاهِرٍ،",
+      "tr": "Bu tabib yo mohir yoki mohir emasdir",
+      "parts": [
+        {
+          "w": "هَذَا الطَّبِيبُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu tabib - ega"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo"
+        },
+        {
+          "w": "مَاهِرٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Mohir - xabar"
+        },
+        {
+          "w": "أَوْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Emas - fe'l"
+        },
+        {
+          "w": "بِمَاهِرٍ",
+          "r": "xabar laysa",
+          "rc": "tx",
+          "e": "Mohir emas - xabar"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاءُ جَارِنَا صَنَعَةٌ: أَمَّا اِبْنُهُ الْكَبِيرُ فَخَيَّاطٌ وَأَمَّا اِبْنُهُ الصَّغِيرُ فَخَفَّافٌ،",
+      "tr": "Qo'shnimizning o'g'illari hunarmandlardir: Ammo katta o'g'li tikuvchi, ammo kichik o'g'li etikdo'zdir",
+      "parts": [
+        {
+          "w": "أَبْنَاءُ جَارِنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Qo'shnimizning o'g'illari - ega"
+        },
+        {
+          "w": "صَنَعَةٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Hunarmand - xabar"
+        },
+        {
+          "w": "أَمَّا اِبْنُهُ الْكَبِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Katta o'g'li - ega"
+        },
+        {
+          "w": "فَخَيَّاطٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Tikuvchi - xabar"
+        },
+        {
+          "w": "وَأَمَّا اِبْنُهُ الصَّغِيرُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Kichik o'g'li - ega"
+        },
+        {
+          "w": "فَخَفَّافٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Etikdo'z - xabar"
+        }
+      ]
+    }
+  ],
+  "bookId": "shifohiyya"
+}

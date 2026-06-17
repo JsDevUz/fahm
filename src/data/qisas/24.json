@@ -1,0 +1,555 @@
+{
+  "title": "٢٩ ـ الْوِقَايَةُ وَالْأَمَانَةُ",
+  "tuz": "Ifat va ishonchlilik",
+  "sub": "Yusuf zino qilishdan bosh tortadi",
+  "page": 35,
+  "sentences": [
+    {
+      "ar": "وَرَاوَدَتِ امْرَأَةُ الْعَزِيزِ يُوسُفَ عَلَى الْخِيَانَةِ.",
+      "tr": "Azizning xotini Yusufni xiyonatga undadi.",
+      "parts": [
+        {
+          "w": "وَرَاوَدَتِ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Undadi"
+        },
+        {
+          "w": "امْرَأَةُ الْعَزِيزِ",
+          "r": "fo'il (وَرَاوَدَتِ)",
+          "rc": "tm",
+          "e": "Azizning xotini"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَرَاوَدَتِ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "عَلَى الْخِيَانَةِ",
+          "r": "mutaalliq (وَرَاوَدَتِ)",
+          "rc": "tmt",
+          "e": "Xiyonatga"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنْ يُوسُفَ أَبَى، وَقَالَ: كَلَّا!.",
+      "tr": "Lekin Yusuf bosh tortdi va: Yo'q! — dedi.",
+      "parts": [
+        {
+          "w": "وَلَكِنْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Lekin"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "أَبَى",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Bosh tortdi"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "كَلَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q!"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا لَا أَخُونُ سَيِّدِي، إِنَّهُ أَحْسَنَ إِلَيَّ وَأَكْرَمَنِي.",
+      "tr": "Men xo'jayinimga xiyonat qilmayman. U menga yaxshilik qildi va meni izzat qildi.",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men"
+        },
+        {
+          "w": "لَا أَخُونُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Xiyonat qilmayman"
+        },
+        {
+          "w": "سَيِّدِي",
+          "r": "maf'ul bih (وَأَكْرَمَنِي)",
+          "rc": "tb",
+          "e": "Xo'jayinimga"
+        },
+        {
+          "w": "إِنَّهُ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta u"
+        },
+        {
+          "w": "أَحْسَنَ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yaxshilik qildi"
+        },
+        {
+          "w": "إِلَيَّ",
+          "r": "mutaalliq (وَأَكْرَمَنِي)",
+          "rc": "tmt",
+          "e": "Menga"
+        },
+        {
+          "w": "وَأَكْرَمَنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va meni izzat qildi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنِّي أَخَافُ اللَّهَ.",
+      "tr": "Men Allohdan qo'rqaman.",
+      "parts": [
+        {
+          "w": "إِنِّي",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta men"
+        },
+        {
+          "w": "أَخَافُ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Qo'rqaman"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "maf'ul bih",
+          "rc": "tb",
+          "e": "Allohdan"
+        }
+      ]
+    },
+    {
+      "ar": "وَغَضِبَتِ امْرَأَةُ الْعَزِيزِ وَشَكَتْ إِلَى زَوْجِهَا.",
+      "tr": "Azizning xotini g'azablandi va eriga shikoyat qildi.",
+      "parts": [
+        {
+          "w": "وَغَضِبَتِ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "G'azablandi"
+        },
+        {
+          "w": "امْرَأَةُ الْعَزِيزِ",
+          "r": "fo'il (وَغَضِبَتِ)",
+          "rc": "tm",
+          "e": "Azizning xotini"
+        },
+        {
+          "w": "وَشَكَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Shikoyat qildi"
+        },
+        {
+          "w": "إِلَى زَوْجِهَا",
+          "r": "mutaalliq (وَشَكَتْ)",
+          "rc": "tmt",
+          "e": "Eriga"
+        }
+      ]
+    },
+    {
+      "ar": "وَعَرَفَ الْعَزِيزُ أَنَّ الْمَرْأَةَ كَاذِبَةٌ.",
+      "tr": "Aziz ayolning yolg'onchi ekanini bildi.",
+      "parts": [
+        {
+          "w": "وَعَرَفَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Bildi"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "fo'il (وَعَرَفَ)",
+          "rc": "tm",
+          "e": "Aziz"
+        },
+        {
+          "w": "أَنَّ الْمَرْأَةَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Ayol"
+        },
+        {
+          "w": "كَاذِبَةٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Yolg'onchi"
+        }
+      ]
+    },
+    {
+      "ar": "وَعَرَفَ أَنَّ يُوسُفَ أَمِينٌ.",
+      "tr": "Va Yusufning ishonchli ekanini bildi.",
+      "parts": [
+        {
+          "w": "أَنَّ يُوسُفَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Yusuf"
+        },
+        {
+          "w": "أَمِينٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Ishonchli"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالَ لِزَوْجِهِ: ﴿إِنَّكِ سُئِلْتِ مِنَ الْقَاطِئِينَ﴾.",
+      "tr": "Xotiniga dedi: Sen xato qilganlardansan.",
+      "parts": [
+        {
+          "w": "فَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "لِزَوْجِهِ",
+          "r": "mutaalliq (فَقَالَ)",
+          "rc": "tmt",
+          "e": "Xotiniga"
+        },
+        {
+          "w": "إِنَّكِ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta sen"
+        },
+        {
+          "w": "سُئِلْتِ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Xato qilding"
+        },
+        {
+          "w": "مِنَ الْقَاطِئِينَ",
+          "r": "mutaalliq (فَقَالَ)",
+          "rc": "tmt",
+          "e": "Xato qilganlardan"
+        }
+      ]
+    },
+    {
+      "ar": "وَعُرِفَ يُوسُفُ فِي مِصْرَ بِجَمَالِهِ.",
+      "tr": "Yusuf Misrda go'zalligi bilan tanildi.",
+      "parts": [
+        {
+          "w": "وَعُرِفَ",
+          "r": "fe'l (majhul)",
+          "rc": "tf",
+          "e": "Tanildi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "noib fo'il (وَعُرِفَ)",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "فِي مِصْرَ",
+          "r": "mutaalliq (وَعُرِفَ)",
+          "rc": "tmt",
+          "e": "Misrda"
+        },
+        {
+          "w": "بِجَمَالِهِ",
+          "r": "mutaalliq (وَعُرِفَ)",
+          "rc": "tmt",
+          "e": "Go'zalligi bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِذَا رَأَهُ أَحَدٌ قَالَ: ﴿مَا هَذَا بَشَرًا إِنَّ هَذَا إِلَّا مَلَكٌ كَرِيمٌ﴾.",
+      "tr": "Kimki uni ko'rsa: Bu odam emas, bu faqat karim bir farishtadir — der edi.",
+      "parts": [
+        {
+          "w": "وَإِذَا",
+          "r": "zarf (رَأَهُ)",
+          "rc": "th",
+          "e": "Qachonki"
+        },
+        {
+          "w": "رَأَهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni ko'rsa"
+        },
+        {
+          "w": "أَحَدٌ",
+          "r": "fo'il (رَأَهُ)",
+          "rc": "tm",
+          "e": "Kimki"
+        },
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "مَا",
+          "r": "harf nafiy",
+          "rc": "tb",
+          "e": "Emas"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "بَشَرًا",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Odam"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Albatta"
+        },
+        {
+          "w": "هَذَا",
+          "r": "ism inna",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Faqat"
+        },
+        {
+          "w": "مَلَكٌ كَرِيمٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Karim bir farishta"
+        }
+      ]
+    },
+    {
+      "ar": "وَاشْتَدَّ غَضَبُ الْمَرْأَةِ وَقَالَتْ لِيُوسُفَ: إِمَّا أَنْ تَذْهَبَ إِلَى السَّجْنِ!.",
+      "tr": "Ayolning g'azabi kuchaydi va Yusufga: Yoki zindonga ketasan! — dedi.",
+      "parts": [
+        {
+          "w": "وَاشْتَدَّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Kuchaydi"
+        },
+        {
+          "w": "غَضَبُ الْمَرْأَةِ",
+          "r": "fo'il (وَاشْتَدَّ)",
+          "rc": "tm",
+          "e": "Ayolning g'azabi"
+        },
+        {
+          "w": "وَقَالَتْ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "لِيُوسُفَ",
+          "r": "mutaalliq (وَقَالَتْ)",
+          "rc": "tmt",
+          "e": "Yusufga"
+        },
+        {
+          "w": "إِمَّا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "أَنْ تَذْهَبَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Ketasan"
+        },
+        {
+          "w": "إِلَى السَّجْنِ",
+          "r": "mutaalliq (أَنْ تَذْهَبَ)",
+          "rc": "tmt",
+          "e": "Zindonga"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ يُوسُفُ: ﴿الْسَّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ﴾.",
+      "tr": "Yusuf dedi: Zindon men uchun ular meni chaqirayotgan narsadan ko'ra sevimliroqdir.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "الْسَّجْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Zindon"
+        },
+        {
+          "w": "أَحَبُّ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Sevimliroq"
+        },
+        {
+          "w": "إِلَيَّ",
+          "r": "mutaalliq (يَدْعُونَنِي)",
+          "rc": "tmt",
+          "e": "Men uchun"
+        },
+        {
+          "w": "مِمَّا",
+          "r": "mutaalliq (يَدْعُونَنِي)",
+          "rc": "tmt",
+          "e": "Narsadan ko'ra"
+        },
+        {
+          "w": "يَدْعُونَنِي",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Meni chaqirayotgan"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَعْدَ أَيَّامٍ رَأَى الْعَزِيزُ أَنْ يُرْسِلَ يُوسُفَ إِلَى السَّجْنِ.",
+      "tr": "Bir necha kundan keyin Aziz Yusufni zindonga jo'natishni ko'rdi (qaror qildi).",
+      "parts": [
+        {
+          "w": "وَبَعْدَ أَيَّامٍ",
+          "r": "zarf (رَأَى)",
+          "rc": "th",
+          "e": "Bir necha kundan keyin"
+        },
+        {
+          "w": "رَأَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ko'rdi (qaror qildi)"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "fo'il (رَأَى)",
+          "rc": "tm",
+          "e": "Aziz"
+        },
+        {
+          "w": "أَنْ يُرْسِلَ",
+          "r": "fe'l (mansub)",
+          "rc": "tf",
+          "e": "Jo'natishni"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (أَنْ يُرْسِلَ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "إِلَى السَّجْنِ",
+          "r": "mutaalliq (أَنْ يُرْسِلَ)",
+          "rc": "tmt",
+          "e": "Zindonga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ الْعَزِيزُ يَعْرِفُ أَنَّ يُوسُفَ بَرِيءٌ.",
+      "tr": "Aziz Yusufning aybsiz ekanini bilardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ الْعَزِيزُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Aziz edi"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Bilardi"
+        },
+        {
+          "w": "أَنَّ يُوسُفَ",
+          "r": "harfi mushabbaha",
+          "rc": "tb",
+          "e": "Yusuf"
+        },
+        {
+          "w": "بَرِيءٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Aybsiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَدَخَلَ يُوسُفُ السَّجْنَ.",
+      "tr": "Yusuf zindonga kirdi.",
+      "parts": [
+        {
+          "w": "وَدَخَلَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Kirdi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "fo'il (وَدَخَلَ)",
+          "rc": "tm",
+          "e": "Yusuf"
+        },
+        {
+          "w": "السَّجْنَ",
+          "r": "maf'ul bih (وَدَخَلَ)",
+          "rc": "tb",
+          "e": "Zindonga"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

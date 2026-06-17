@@ -1,0 +1,465 @@
+{
+  "title": "٤ ـ يَوْمُ الْعِيدِ",
+  "tuz": "Bayram kuni",
+  "sub": "Ibrohimning butlarni sindirishi",
+  "page": 12,
+  "sentences": [
+    {
+      "ar": "وَجَاءَ يَوْمٌ عِيدٌ فَفَرِحَ النَّاسُ.",
+      "tr": "Bir bayram kuni keldi va odamlar xursand bo'lishdi.",
+      "parts": [
+        {
+          "w": "وَجَاءَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Keldi"
+        },
+        {
+          "w": "يَوْمٌ عِيدٌ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bayram kuni"
+        },
+        {
+          "w": "فَفَرِحَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Xursand bo'ldi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (فَفَرِحَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَخَرَجَ النَّاسُ لِلْعِيدِ وَخَرَجَ الْأَطْفَالُ.",
+      "tr": "Odamlar bayramga chiqdilar va bolalar ham chiqdilar.",
+      "parts": [
+        {
+          "w": "وَخَرَجَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chiqdi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَخَرَجَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "لِلْعِيدِ",
+          "r": "mutaalliq (وَخَرَجَ)",
+          "rc": "tmt",
+          "e": "Bayramga"
+        },
+        {
+          "w": "وَخَرَجَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Chiqdi"
+        },
+        {
+          "w": "الْأَطْفَالُ",
+          "r": "fo'il (وَخَرَجَ)",
+          "rc": "tm",
+          "e": "Bolalar"
+        }
+      ]
+    },
+    {
+      "ar": "وَخَرَجَ وَالِدُ إِبْرَاهِيمَ وَقَالَ لِإِبْرَاهِيمَ: أَلَا تَخْرُجُ مَعَنَا؟.",
+      "tr": "Ibrohimning otasi ham chiqdi va Ibrohimga: Biz bilan chiqmaysanmi?",
+      "parts": [
+        {
+          "w": "وَالِدُ إِبْرَاهِيمَ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Ibrohimning otasi"
+        },
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "لِإِبْرَاهِيمَ",
+          "r": "mutaalliq (قَالَ)",
+          "rc": "tmt",
+          "e": "Ibrohimga"
+        },
+        {
+          "w": "أَلَا تَخْرُجُ",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Chiqmaysanmi"
+        },
+        {
+          "w": "مَعَنَا",
+          "r": "zarf (أَلَا تَخْرُجُ)",
+          "rc": "th",
+          "e": "Biz bilan"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ إِبْرَاهِيمُ: أَنَا سَقِيمٌ!.",
+      "tr": "Ibrohim dedi: Men kasalman!",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "أَنَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Men"
+        },
+        {
+          "w": "سَقِيمٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kasalman"
+        }
+      ]
+    },
+    {
+      "ar": "وَذَهَبَ النَّاسُ وَبَقِيَ إِبْرَاهِيمُ فِي الْبَيْتِ.",
+      "tr": "Odamlar ketdi va Ibrohim uyda qoldi.",
+      "parts": [
+        {
+          "w": "وَذَهَبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Ketdi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "fo'il (وَذَهَبَ)",
+          "rc": "tm",
+          "e": "Odamlar"
+        },
+        {
+          "w": "وَبَقِيَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qoldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَبَقِيَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "فِي الْبَيْتِ",
+          "r": "mutaalliq (وَبَقِيَ)",
+          "rc": "tmt",
+          "e": "Uyda"
+        }
+      ]
+    },
+    {
+      "ar": "وَجَاءَ إِبْرَاهِيمُ إِلَى الْأَصْنَامِ، وَقَالَ لِلْأَصْنَامِ: أَلَا تَتَكَلَّمُونَ؟ أَلَا تَسْمَعُونَ؟.",
+      "tr": "Ibrohim butlarning oldiga keldi va ularga: Gapirmaysizlarmi? Eshitmaysizlarmi?",
+      "parts": [
+        {
+          "w": "وَجَاءَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Keldi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَجَاءَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "إِلَى الْأَصْنَامِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Butlarga"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedi"
+        },
+        {
+          "w": "لِلْأَصْنَامِ",
+          "r": "mutaalliq (وَقَالَ)",
+          "rc": "tmt",
+          "e": "Butlarga"
+        },
+        {
+          "w": "أَلَا تَتَكَلَّمُونَ",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Gapirmaysizlarmi"
+        },
+        {
+          "w": "أَلَا تَسْمَعُونَ",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Eshitmaysizlarmi"
+        }
+      ]
+    },
+    {
+      "ar": "هَذَا طَعَامٌ وَشَرَابٌ، أَلَا تَأْكُلُونَ؟ أَلَا تَشْرَبُونَ؟.",
+      "tr": "Bu taom va ichimlik, yemaysizlarmi? Ichmaysizlarmi?",
+      "parts": [
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "طَعَامٌ وَشَرَابٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Taom va ichimlikdir"
+        },
+        {
+          "w": "أَلَا تَأْكُلُونَ",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Yemaysizlarmi"
+        },
+        {
+          "w": "أَلَا تَشْرَبُونَ",
+          "r": "fe'l (istifhom)",
+          "rc": "tf",
+          "e": "Ichmaysizlarmi"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَكَتَتِ الْأَصْنَامُ لِأَنَّهَا حِجَارَةٌ لَا تَنْطِقُ.",
+      "tr": "Butlar jim qoldi, chunki ular gapirmaydigan toshlardir.",
+      "parts": [
+        {
+          "w": "وَسَكَتَتِ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Jim qoldi"
+        },
+        {
+          "w": "الْأَصْنَامُ",
+          "r": "fo'il (وَسَكَتَتِ)",
+          "rc": "tm",
+          "e": "Butlar"
+        },
+        {
+          "w": "لِأَنَّهَا",
+          "r": "harf (ta'lil)",
+          "rc": "tb",
+          "e": "Chunki ular"
+        },
+        {
+          "w": "حِجَارَةٌ",
+          "r": "xabar inna",
+          "rc": "tx",
+          "e": "Toshlardir"
+        },
+        {
+          "w": "لَا تَنْطِقُ",
+          "r": "sifat",
+          "rc": "ts",
+          "e": "Gapirmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ إِبْرَاهِيمُ: ﴿مَا لَكُمْ لَا تَنْطِقُونَ﴾.",
+      "tr": "Ibrohim dedi: Nega gapirmayapsizlar?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "مَا لَكُمْ",
+          "r": "istifhom",
+          "rc": "tb",
+          "e": "Sizga nima bo'ldi"
+        },
+        {
+          "w": "لَا تَنْطِقُونَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Gapirmayapsizlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَكَتَتِ الْأَصْنَامُ وَمَا نَطَقَتْ.",
+      "tr": "Butlar jim qoldi va gapirmadi.",
+      "parts": [
+        {
+          "w": "سَكَتَتِ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Jim qoldi"
+        },
+        {
+          "w": "الْأَصْنَامُ",
+          "r": "fo'il (سَكَتَتِ)",
+          "rc": "tm",
+          "e": "Butlar"
+        },
+        {
+          "w": "وَمَا نَطَقَتْ",
+          "r": "fe'l (nafi)",
+          "rc": "tf",
+          "e": "Va gapirmadi"
+        }
+      ]
+    },
+    {
+      "ar": "حِينَئِذٍ غَضِبَ إِبْرَاهِيمُ وَأَخَذَ الْفَأْسَ.",
+      "tr": "Shunda Ibrohim g'azablandi va boltani oldi.",
+      "parts": [
+        {
+          "w": "حِينَئِذٍ",
+          "r": "zarf (غَضِبَ)",
+          "rc": "th",
+          "e": "Shunda"
+        },
+        {
+          "w": "غَضِبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "G'azablandi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (غَضِبَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "وَأَخَذَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Oldi"
+        },
+        {
+          "w": "الْفَأْسَ",
+          "r": "maf'ul bih (وَأَخَذَ)",
+          "rc": "tb",
+          "e": "Boltani"
+        }
+      ]
+    },
+    {
+      "ar": "وَضَرَبَ إِبْرَاهِيمُ الْأَصْنَامَ بِالْفَأْسِ وَكَسَرَ الْأَصْنَامَ.",
+      "tr": "Ibrohim butlarni bolta bilan urdi va butlarni sindirdi.",
+      "parts": [
+        {
+          "w": "وَضَرَبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Urdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَضَرَبَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (وَضَرَبَ)",
+          "rc": "tb",
+          "e": "Butlarni"
+        },
+        {
+          "w": "بِالْفَأْسِ",
+          "r": "mutaalliq (وَكَسَرَ)",
+          "rc": "tmt",
+          "e": "Bolta bilan"
+        },
+        {
+          "w": "وَكَسَرَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sindirdi"
+        },
+        {
+          "w": "الْأَصْنَامَ",
+          "r": "maf'ul bih (وَكَسَرَ)",
+          "rc": "tb",
+          "e": "Butlarni"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَرَكَ إِبْرَاهِيمُ الصَّنَمَ الْأَكْبَرَ وَعَلَّقَ الْفَأْسَ فِي عُنُقِهِ.",
+      "tr": "Ibrohim katta butni qoldirdi va boltani uning bo'yniga osib qo'ydi.",
+      "parts": [
+        {
+          "w": "وَتَرَكَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Qoldirdi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "fo'il (وَتَرَكَ)",
+          "rc": "tm",
+          "e": "Ibrohim"
+        },
+        {
+          "w": "الصَّنَمَ الْأَكْبَرَ",
+          "r": "maf'ul bih (وَعَلَّقَ)",
+          "rc": "tb",
+          "e": "Katta butni"
+        },
+        {
+          "w": "وَعَلَّقَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Osdi"
+        },
+        {
+          "w": "الْفَأْسَ",
+          "r": "maf'ul bih (وَعَلَّقَ)",
+          "rc": "tb",
+          "e": "Boltani"
+        },
+        {
+          "w": "فِي عُنُقِهِ",
+          "r": "mutaalliq (وَعَلَّقَ)",
+          "rc": "tmt",
+          "e": "Uning bo'yniga"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

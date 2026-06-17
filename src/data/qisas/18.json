@@ -1,0 +1,567 @@
+{
+  "title": "١٨ ـ حَسَدُ الْإِخْوَةِ",
+  "tuz": "Aka-ukalarning hasadi",
+  "sub": "Yusufning aka-ukalari unga hasad qiladilar",
+  "page": 28,
+  "sentences": [
+    {
+      "ar": "وَكَانَ لِيُوسُفَ أَخٌ آخَرُ مِنْ أُمِّهِ اسْمُهُ بِنْيَامِينُ.",
+      "tr": "Yusufning onasidan bir ukasi bor edi, uning ismi Binyomin edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Edi"
+        },
+        {
+          "w": "لِيُوسُفَ",
+          "r": "mutaalliq (xabar) (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Yusufning"
+        },
+        {
+          "w": "أَخٌ آخَرُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Boshqa bir uka"
+        },
+        {
+          "w": "مِنْ أُمِّهِ",
+          "r": "mutaalliq (وَكَانَ)",
+          "rc": "tmt",
+          "e": "Onasidan"
+        },
+        {
+          "w": "اسْمُهُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Uning ismi"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Binyomin"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْقُوبُ يُحِبُّهُمَا حُبًّا شَدِيدًا، وَكَانَ لَا يُحِبُّ أَحَدًا مِثْلَهُمَا.",
+      "tr": "Ya'qub ikkalasini ham qattiq sevar edi va hech kimni ularga o'xshab sevmasdi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يَعْقُوبُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Ya'qub edi"
+        },
+        {
+          "w": "يُحِبُّهُمَا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Ikkalasini sevar edi"
+        },
+        {
+          "w": "حُبًّا شَدِيدًا",
+          "r": "maf'ul mutlaq (وَكَانَ لَا يُحِبُّ)",
+          "rc": "tb",
+          "e": "Qattiq sevish"
+        },
+        {
+          "w": "وَكَانَ لَا يُحِبُّ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va sevmasdi"
+        },
+        {
+          "w": "أَحَدًا",
+          "r": "maf'ul bih (وَكَانَ لَا يُحِبُّ)",
+          "rc": "tb",
+          "e": "Hech kimni"
+        },
+        {
+          "w": "مِثْلَهُمَا",
+          "r": "zarf (وَكَانَ لَا يُحِبُّ)",
+          "rc": "th",
+          "e": "Ikkalasiga o'xshab"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ الْإِخْوَةُ يَحْسُدُونَ يُوسُفَ وَبِنْيَامِينَ وَيَغْضَبُونَ.",
+      "tr": "Aka-ukalar Yusuf va Binyominga hasad qiladilar va g'azablanadilar.",
+      "parts": [
+        {
+          "w": "وَكَانَ الْإِخْوَةُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Aka-ukalar edi"
+        },
+        {
+          "w": "يَحْسُدُونَ",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Hasad qiladilar"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (وَكَانَ الْإِخْوَةُ)",
+          "rc": "tb",
+          "e": "Yusufga"
+        },
+        {
+          "w": "وَبِنْيَامِينَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Binyominga"
+        },
+        {
+          "w": "وَيَغْضَبُونَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va g'azablanadilar"
+        }
+      ]
+    },
+    {
+      "ar": "كَانُوا يَقُولُونَ: لِمَاذَا يُحِبُّ أَبُونَا يُوسُفَ وَبِنْيَامِينَ أَكْثَرَ؟.",
+      "tr": "Ular aytar edilar: Nega otamiz Yusuf va Binyominni ko'proq sevadi?",
+      "parts": [
+        {
+          "w": "كَانُوا يَقُولُونَ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Aytar edilar"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "يُحِبُّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sevadi"
+        },
+        {
+          "w": "أَبُونَا",
+          "r": "fo'il (يُحِبُّ)",
+          "rc": "tm",
+          "e": "Otamiz"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (يُحِبُّ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "وَبِنْيَامِينَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Binyominni"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "r": "hol (يُحِبُّ)",
+          "rc": "th",
+          "e": "Ko'proq"
+        }
+      ]
+    },
+    {
+      "ar": "وَلِمَاذَا يُحِبُّ أَبُونَا يُوسُفَ وَبِنْيَامِينَ وَهُمَا صَغِيرَانِ ضَعِيفَانِ؟.",
+      "tr": "Va nega otamiz Yusuf va Binyominni sevadi — ular kichkina va zaif-ku?",
+      "parts": [
+        {
+          "w": "وَلِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Va nega"
+        },
+        {
+          "w": "يُحِبُّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Sevadi"
+        },
+        {
+          "w": "أَبُونَا",
+          "r": "fo'il (يُحِبُّ)",
+          "rc": "tm",
+          "e": "Otamiz"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (يُحِبُّ)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "وَبِنْيَامِينَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Binyominni"
+        },
+        {
+          "w": "وَهُمَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Holbuki ular"
+        },
+        {
+          "w": "صَغِيرَانِ ضَعِيفَانِ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Kichkina va zaifdirlar"
+        }
+      ]
+    },
+    {
+      "ar": "لِمَاذَا لَا يُحِبُّنَا مِثْلَ يُوسُفَ وَبِنْيَامِينَ، نَحْنُ شُبَّانٌ أَقْوِيَاءُ؟ هَذَا أَمْرٌ عَجِيبٌ.",
+      "tr": "Nega bizni Yusuf va Binyomindek sevmaydi? Biz yosh va kuchli yigitlarmiz. Bu ajoyib ish.",
+      "parts": [
+        {
+          "w": "لِمَاذَا",
+          "r": "ism istifhom",
+          "rc": "tb",
+          "e": "Nega"
+        },
+        {
+          "w": "لَا يُحِبُّنَا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Bizni sevmaydi"
+        },
+        {
+          "w": "مِثْلَ يُوسُفَ",
+          "r": "zarf (لَا يُحِبُّنَا)",
+          "rc": "th",
+          "e": "Yusufdek"
+        },
+        {
+          "w": "وَبِنْيَامِينَ",
+          "r": "ma'tuf",
+          "rc": "tb",
+          "e": "Va Binyomindek"
+        },
+        {
+          "w": "نَحْنُ",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Biz"
+        },
+        {
+          "w": "شُبَّانٌ أَقْوِيَاءُ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Yosh va kuchli yigitlarmiz"
+        },
+        {
+          "w": "هَذَا",
+          "r": "mubtado",
+          "rc": "tm",
+          "e": "Bu"
+        },
+        {
+          "w": "أَمْرٌ عَجِيبٌ",
+          "r": "xabar",
+          "rc": "tx",
+          "e": "Ajoyib ish"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ وَلَدًا صَغِيرًا، فَحَكَى الرُّؤْيَا لِإِخْوَتِهِ.",
+      "tr": "Yusuf kichkina bola edi, shuning uchun tushni aka-ukalariga aytib berdi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Yusuf edi"
+        },
+        {
+          "w": "وَلَدًا صَغِيرًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Kichkina bola"
+        },
+        {
+          "w": "فَحَكَى",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Aytib berdi"
+        },
+        {
+          "w": "الرُّؤْيَا",
+          "r": "maf'ul bih (فَحَكَى)",
+          "rc": "tb",
+          "e": "Tushni"
+        },
+        {
+          "w": "لِإِخْوَتِهِ",
+          "r": "mutaalliq (فَحَكَى)",
+          "rc": "tmt",
+          "e": "Aka-ukalariga"
+        }
+      ]
+    },
+    {
+      "ar": "وَغَضِبَ الْإِخْوَةُ جِدًّا لَمَّا سَمِعُوا الرُّؤْيَا وَاشْتَدَّ حَسَدُهُمْ.",
+      "tr": "Aka-ukalar tushni eshitganda qattiq g'azablandilar va hasadlari kuchaydi.",
+      "parts": [
+        {
+          "w": "وَغَضِبَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "G'azablandi"
+        },
+        {
+          "w": "الْإِخْوَةُ",
+          "r": "fo'il (وَغَضِبَ)",
+          "rc": "tm",
+          "e": "Aka-ukalar"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "hol (وَغَضِبَ)",
+          "rc": "th",
+          "e": "Qattiq"
+        },
+        {
+          "w": "لَمَّا سَمِعُوا",
+          "r": "zarf (وَاشْتَدَّ)",
+          "rc": "th",
+          "e": "Eshitganda"
+        },
+        {
+          "w": "الرُّؤْيَا",
+          "r": "maf'ul bih (وَاشْتَدَّ)",
+          "rc": "tb",
+          "e": "Tushni"
+        },
+        {
+          "w": "وَاشْتَدَّ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Kuchaydi"
+        },
+        {
+          "w": "حَسَدُهُمْ",
+          "r": "fo'il (وَاشْتَدَّ)",
+          "rc": "tm",
+          "e": "Ularning hasadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَاجْتَمَعَ الْإِخْوَةُ يَوْمًا وَقَالُوا: اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا بَعِيدَةً.",
+      "tr": "Aka-ukalar bir kun yig'ilishdi va: Yusufni o'ldiringlar yoki uzoq yerga tashlanglar — dedilar.",
+      "parts": [
+        {
+          "w": "وَاجْتَمَعَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Yig'ildi"
+        },
+        {
+          "w": "الْإِخْوَةُ",
+          "r": "fo'il (وَاجْتَمَعَ)",
+          "rc": "tm",
+          "e": "Aka-ukalar"
+        },
+        {
+          "w": "يَوْمًا",
+          "r": "zarf (وَقَالُوا)",
+          "rc": "th",
+          "e": "Bir kun"
+        },
+        {
+          "w": "وَقَالُوا",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Va dedilar"
+        },
+        {
+          "w": "اقْتُلُوا",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "O'ldiring"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "maf'ul bih (اقْتُلُوا)",
+          "rc": "tb",
+          "e": "Yusufni"
+        },
+        {
+          "w": "أَوِ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yoki"
+        },
+        {
+          "w": "اطْرَحُوهُ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Tashlang"
+        },
+        {
+          "w": "أَرْضًا بَعِيدَةً",
+          "r": "zarf (اطْرَحُوهُ)",
+          "rc": "th",
+          "e": "Uzoq yerga"
+        }
+      ]
+    },
+    {
+      "ar": "حِينَئِذٍ يَكُونُ أَبُوكُمْ لَكُمْ خَالِصًا، وَيَكُونُ حُبُّهُ لَكُمْ خَالِصًا.",
+      "tr": "Shunda otangiz sizlarga xolis (faqat o'zingizga) bo'ladi va uning sevgisi sizlarga xolis bo'ladi.",
+      "parts": [
+        {
+          "w": "حِينَئِذٍ",
+          "r": "zarf (يَكُونُ)",
+          "rc": "th",
+          "e": "Shunda"
+        },
+        {
+          "w": "يَكُونُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Bo'ladi"
+        },
+        {
+          "w": "أَبُوكُمْ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Otangiz"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "mutaalliq (xabar) (يَكُونُ)",
+          "rc": "tmt",
+          "e": "Sizlarga"
+        },
+        {
+          "w": "خَالِصًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Xolis"
+        },
+        {
+          "w": "وَيَكُونُ",
+          "r": "fe'l noqis",
+          "rc": "tf",
+          "e": "Va bo'ladi"
+        },
+        {
+          "w": "حُبُّهُ",
+          "r": "ism kana",
+          "rc": "tm",
+          "e": "Uning sevgisi"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "mutaalliq (xabar) (وَيَكُونُ)",
+          "rc": "tmt",
+          "e": "Sizlarga"
+        },
+        {
+          "w": "خَالِصًا",
+          "r": "xabar (xabar kana)",
+          "rc": "tx",
+          "e": "Xolis"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ أَحَدُهُمْ: لَا! بَلْ أَلْقُوهُ فِي بِئْرٍ فِي طَرِيقٍ يَأْخُذْهُ بَعْضُ الْمُسَافِرِينَ.",
+      "tr": "Ulardan biri: Yo'q! Balki uni yo'ldagi bir quduqqa tashlang, uni musofirlardan biri olib ketsin — dedi.",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Dedi"
+        },
+        {
+          "w": "أَحَدُهُمْ",
+          "r": "fo'il (قَالَ)",
+          "rc": "tm",
+          "e": "Ulardan biri"
+        },
+        {
+          "w": "لَا",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Yo'q"
+        },
+        {
+          "w": "بَلْ",
+          "r": "harf",
+          "rc": "tb",
+          "e": "Balki"
+        },
+        {
+          "w": "أَلْقُوهُ",
+          "r": "fe'l (amr)",
+          "rc": "tf",
+          "e": "Tashlang"
+        },
+        {
+          "w": "فِي بِئْرٍ",
+          "r": "mutaalliq (أَلْقُوهُ)",
+          "rc": "tmt",
+          "e": "Quduqqa"
+        },
+        {
+          "w": "فِي طَرِيقٍ",
+          "r": "mutaalliq (يَأْخُذْهُ)",
+          "rc": "tmt",
+          "e": "Yo'ldagi"
+        },
+        {
+          "w": "يَأْخُذْهُ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Uni olib ketsin"
+        },
+        {
+          "w": "بَعْضُ الْمُسَافِرِينَ",
+          "r": "fo'il (يَأْخُذْهُ)",
+          "rc": "tm",
+          "e": "Musofirlardan biri"
+        }
+      ]
+    },
+    {
+      "ar": "وَوَافَقَ عَلَيْهِ جَمِيعُ الْإِخْوَةِ.",
+      "tr": "Barcha aka-ukalar bunga rozi bo'ldi.",
+      "parts": [
+        {
+          "w": "وَوَافَقَ",
+          "r": "fe'l",
+          "rc": "tf",
+          "e": "Rozi bo'ldi"
+        },
+        {
+          "w": "عَلَيْهِ",
+          "r": "mutaalliq (وَوَافَقَ)",
+          "rc": "tmt",
+          "e": "Bunga"
+        },
+        {
+          "w": "جَمِيعُ الْإِخْوَةِ",
+          "r": "fo'il (وَوَافَقَ)",
+          "rc": "tm",
+          "e": "Barcha aka-ukalar"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}
