@@ -229,46 +229,46 @@
       "tr": "Ishoq Shomda qurgan bu masjid — Baytul-Maqdisdir.",
       "parts": [
         {
-          “w”: “وَهَذَا”,
-          “r”: “مُبتَدَأ”,
-          “rc”: “tm”,
-          “e”: “وَهَذَا — mubtado vazifasidagi ishora olmoshi (اسم إشارة). هَذَا — yaqin narsa uchun mufradi muzakkar ishora olmoshi. Bu yerda avvalgi gapda qurilgan بَيْتًاga ishora qilib, uni الْمَسْجِدُ bilan aniqlab, keyingi mavsul jumlasiga yo’l ochadi. وَ boshidagi harf oldingi gap bilan mantiqiy ulanishni ta’minlaydi.”,
-          “uz”: “va bu”
+          "w": "وَهَذَا",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "وَهَذَا — mubtado vazifasidagi ishora olmoshi (اسم إشارة). هَذَا — yaqin narsa uchun mufradi muzakkar ishora olmoshi. Bu yerda avvalgi gapda qurilgan بَيْتًاga ishora qilib, uni الْمَسْجِدُ bilan aniqlab, keyingi mavsul jumlasiga yo’l ochadi. وَ boshidagi harf oldingi gap bilan mantiqiy ulanishni ta’minlaydi.",
+          "uz": "va bu"
         },
         {
-          “w”: “الْمَسْجِدُ”,
-          “r”: “بَدَل أَو عَطف بَيَان”,
-          “rc”: “tx”,
-          “e”: “الْمَسْجِدُ — هَذَاning badali (بدل) yoki atf bayoni (عطف بيان) bo’lib, ishora qilinayotgan narsaning masjid ekanligini aniqlab beradi. Muarraf ism raf’ holida kelgan. Bu so’z mavsul jumlasi (الَّذِي بَنَاهُ) uchun mansublik asosi bo’lib, butun murakkab mubtadoning bosh qismi hisoblanadi.”,
-          “uz”: “masjid”
+          "w": "الْمَسْجِدُ",
+          "r": "بَدَل أَو عَطف بَيَان",
+          "rc": "tx",
+          "e": "الْمَسْجِدُ — هَذَاning badali (بدل) yoki atf bayoni (عطف بيان) bo’lib, ishora qilinayotgan narsaning masjid ekanligini aniqlab beradi. Muarraf ism raf’ holida kelgan. Bu so’z mavsul jumlasi (الَّذِي بَنَاهُ) uchun mansublik asosi bo’lib, butun murakkab mubtadoning bosh qismi hisoblanadi.",
+          "uz": "masjid"
         },
         {
-          “w”: “الَّذِي بَنَاهُ إِسْحَاقُ”,
-          “r”: “نَعت (صِفَة لِلمَسجِد)”,
-          “rc”: “ts”,
-          “e”: “الَّذِي بَنَاهُ إِسْحَاقُ — الْمَسْجِدُni sifatlovchi mavsul jumla (جملة صلة الموصول). الَّذِي — ism mavsul, بَنَاهُ — sila jumlasi, -هُ zamiri (عائد) الْمَسْجِدُga qaytadi, إِسْحَاقُ fe’lning fo’ili. Bu sifat masjidni boshqa masjidlardan ajratib, aynan Ishoq qurganini ta’kidlaydi.”,
-          “uz”: “Ishoq qurgan”
+          "w": "الَّذِي بَنَاهُ إِسْحَاقُ",
+          "r": "نَعت (صِفَة لِلمَسجِد)",
+          "rc": "ts",
+          "e": "الَّذِي بَنَاهُ إِسْحَاقُ — الْمَسْجِدُni sifatlovchi mavsul jumla (جملة صلة الموصول). الَّذِي — ism mavsul, بَنَاهُ — sila jumlasi, -هُ zamiri (عائد) الْمَسْجِدُga qaytadi, إِسْحَاقُ fe’lning fo’ili. Bu sifat masjidni boshqa masjidlardan ajratib, aynan Ishoq qurganini ta’kidlaydi.",
+          "uz": "Ishoq qurgan"
         },
         {
-          “w”: “فِي الشَّامِ”,
-          “r”: “ظَرف مَكَان (مُتَعَلِّق بِبَنَى فِي الصِّلَة)”,
-          “rc”: “tmt”,
-          “e”: “فِي الشَّامِ — sila jumlasidagi بَنَاهُ fe’liga bog’langan мکانiy zarf. Masjid qayerda qurilganini aniqlab, uni geografik jihatdan joylaydi. Bu joy ta’rif (تعريف — kimligini aniqlash) vazifasidagi sifat tarkibining bir qismi hisoblanadi.”,
-          “uz”: “Shomda”
+          "w": "فِي الشَّامِ",
+          "r": "ظَرف مَكَان (مُتَعَلِّق بِبَنَى فِي الصِّلَة)",
+          "rc": "tmt",
+          "e": "فِي الشَّامِ — sila jumlasidagi بَنَاهُ fe’liga bog’langan мکانiy zarf. Masjid qayerda qurilganini aniqlab, uni geografik jihatdan joylaydi. Bu joy ta’rif (تعريف — kimligini aniqlash) vazifasidagi sifat tarkibining bir qismi hisoblanadi.",
+          "uz": "Shomda"
         },
         {
-          “w”: “هُوَ”,
-          “r”: “ضَمِير الفَصل”,
-          “rc”: “tb”,
-          “e”: “هُوَ — fasl zamiri (ضمير الفصل), na mubtado, na xabar, grammatik i’robdan ozod. Uning vazifalari: (1) mubtado bilan xabarni ajratish, (2) xabar sifat yoki badal emasligini ko’rsatish, (3) jumlaga ta’kid va hasr ma’nosi berish — ‘aynan uning o’zi’. Bu ضمير فصلning klassik qo’llanishi bo’lib, arabcha ta’rif jumlalarida keng ishlatiladi.”,
-          “uz”: “u”
+          "w": "هُوَ",
+          "r": "ضَمِير الفَصل",
+          "rc": "tb",
+          "e": "هُوَ — fasl zamiri (ضمير الفصل), na mubtado, na xabar, grammatik i’robdan ozod. Uning vazifalari: (1) mubtado bilan xabarni ajratish, (2) xabar sifat yoki badal emasligini ko’rsatish, (3) jumlaga ta’kid va hasr ma’nosi berish — ‘aynan uning o’zi’. Bu ضمير فصلning klassik qo’llanishi bo’lib, arabcha ta’rif jumlalarida keng ishlatiladi.",
+          "uz": "u"
         },
         {
-          “w”: “بَيْتُ الْمَقْدِسِ”,
-          “r”: “خَبَر”,
-          “rc”: “tx”,
-          “e”: “بَيْتُ الْمَقْدِسِ — mubtadoning (هَذَا الْمَسْجِدُ) xabari, raf’ holida. بَيْت مُضَاف, الْمَقْدِس мُضَاف إِلَيه. Bu yerda Ishoq qurgan masjidning aynan Baytul-Maqdis — musulmonlarning uchta muqaddas joyidan biri — ekanligi aniq ta’riflanib, bobning asosiy xulosasi beriladi.”,
-          “uz”: “Baytul-Maqdis”
+          "w": "بَيْتُ الْمَقْدِسِ",
+          "r": "خَبَر",
+          "rc": "tx",
+          "e": "بَيْتُ الْمَقْدِسِ — mubtadoning (هَذَا الْمَسْجِدُ) xabari, raf’ holida. بَيْت مُضَاف, الْمَقْدِس مضاف إليه. Bu yerda Ishoq qurgan masjidning aynan Baytul-Maqdis — musulmonlarning uchta muqaddas joyidan biri — ekanligi aniq ta’riflanib, bobning asosiy xulosasi beriladi.",
+          "uz": "Baytul-Maqdis"
         }
       ]
     },
