@@ -10,37 +10,37 @@
       "parts": [
         {
           "w": "وَلَمَّا",
-          "r": "ظَرف زَمَان (شَرطِيَّة)",
+          "r": "ظَرف زَمَان شَرطِيّ",
           "rc": "th",
-          "e": "وَلَمَّا — shartli vaqt zarfi bo'lib, ikki voqeani bog'laydi: kelishib olish sharti bajarilgach, javob voqeasi — Ya'qub oldiga borish — yuz berganini bildiradi. Bu zarf jumlaning mantiqiy tartibini va voqealar ketma-ketligini ko'rsatadi.",
+          "e": "وَلَمَّا — vaqt-shart zarfi bo'lib, bir voqea ikkinchisining sharti sifatida bajarilgach, darhol natija yuzaga kelishini bildiradi. Bu zarf arab tilida ikkita o'tgan zamon fe'lini bog'lab, ularning ketma-ket va sababiy bog'liqligini ko'rsatadi. Shu orqali kelishib olish sharti amalga oshgach, Ya'qub huzuriga borish harakati boshlanganini mantiqiy tarzda ifodalaydi.",
           "uz": "qachonki"
         },
         {
           "w": "اتَّفَقُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "اتَّفَقُوا — وَلَمَّا shartli zarfiga bog'langan o'tgan zamon fe'li. واو جَمَاعَة zamiri aka-ukalarga qaytib, ularning hammasi birlikda bir fikrga kelishganini bildiradi. Bu fe'l shartiy bandning asosini tashkil etadi.",
+          "e": "اتَّفَقُوا — وَلَمَّا shartli zarfining shart fe'li, o'tgan zamon ko'plik shakli. واو جَمَاعَة zamiri aka-ukalarga qaytib, ularning barchasi birgalikda bir fikrga kelishganini bildiradi. Bu fe'l shartli bandning asosini tashkil etib, javob fe'li جَاؤُوا ni keltirib chiqaradi.",
           "uz": "Kelishib oldilar"
         },
         {
           "w": "عَلَى هَذَا الرَّأْيِ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "عَلَى هَذَا الرَّأْيِ — اتَّفَقُوا fe'liga متعلّق bo'lgan jar va majrur tarkibi. اتَّفَقَ عَلَى iborasi arabchada «bir narsaga kelishmoq» ma'nosini beradi; bu tarkib kelishuv aynan shu muayyan fikr — Yusufni birga olib borish — ustida bo'lganini ko'rsatadi.",
+          "e": "عَلَى هَذَا الرَّأْيِ — اتَّفَقُوا fe'liga متعلّق bo'lgan jar-majrur tarkibi. اتَّفَقَ عَلَى iborasi arabchada qat'iy «bir narsaga kelishib olmoq» ma'nosini beradi; bu tarkib kelishuv muayyan fikr — Yusufni olib borish — ustida bo'lganini aniqlab, fe'lning to'ldiruvchi ma'nosini shakllantiradi.",
           "uz": "bu fikrga"
         },
         {
           "w": "جَاؤُوا",
-          "r": "فِعل مَاضٍ (جَوَاب لَمَّا)",
+          "r": "فِعل مَاضٍ (جَوَابُ لَمَّا)",
           "rc": "tf",
-          "e": "جَاؤُوا — وَلَمَّا shartli zarfining javob fe'li; aka-ukalarning Ya'qub oldiga kelish harakati shu o'rinda asosiy voqea sifatida namoyon bo'ladi. واو جَمَاعَة zamiri yana aka-ukalarga qaytadi.",
+          "e": "جَاؤُوا — وَلَمَّا ning javob fe'li bo'lib, shart bajarilgandan keyin yuzaga kelgan asosiy voqeani ifodalaydi. واو جَمَاعَة zamiri yana aka-ukalarga qaytib, ularning barchasi birlikda Ya'qub huzuriga kelganini ko'rsatadi. Javob fe'li sifatida kelishi rivoyatning keyingi bosqichiga o'tishni belgiiaydi.",
           "uz": "kelishdi"
         },
         {
           "w": "إِلَى يَعْقُوبَ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "إِلَى يَعْقُوبَ — جَاؤُوا fe'liga متعلّق bo'lgan yo'nalish jar-majrur tarkibi. إِلَى harfi aniq yo'nalishni — Ya'qub huzuriga qarab kelishni — ko'rsatib, gapning mazmunini to'ldiradi.",
+          "e": "إِلَى يَعْقُوبَ — جَاؤُوا fe'liga متعلّق bo'lgan yo'nalish jar-majrur tarkibi. إِلَى harfi harakatning aniq manzilini — Ya'qub huzurini — ko'rsatib, kelishning faqat fizik emas, maqsadli ekanini ifodalaydi. يَعْقُوبَ gayrimensarif ism sifatida fatha bilan jarr holatida kelgan.",
           "uz": "Ya'qubning oldiga"
         }
       ]
@@ -53,56 +53,56 @@
           "w": "وَكَانَ يَعْقُوبُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l bo'lib, ismiy gapni o'tgan zamonga ko'chiradi va o'z ismini raf' holatida talab qiladi. يَعْقُوبُ uning اسم كان si bo'lib, sifatlash mavzusini — Ya'qubni — belgilaydi. Bu tarkib Ya'qubning xavotir holati o'tmishda doimiy bo'lganini ifodalaydi.",
+          "e": "كَانَ — noqis fe'l bo'lib, ismiy gapni o'tgan zamonga ko'chiradi hamda o'z ismini raf' holatida talab qiladi. يَعْقُوبُ bu jumlaning اسم كان i sifatida raf' holatida turadi. كانَ ning o'tgan zamondagi davomiylik xususiyati Ya'qubning qo'rquvini bir martalik emas, balki uzoq davom etgan doimiy holat sifatida tasvirlaydi.",
           "uz": "Va Ya'qub edi"
         },
         {
           "w": "يَخَافُ",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "يَخَافُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi Ya'qubning qo'rquvi o'tmishda takrorlanib turgan, davomiy holat ekanini bildiradi. Bu xabar عَلَى يُوسُفَ jar-majruri bilan birgalikda qo'rquv kimga qaratilganini oydinlashtiradi.",
+          "e": "يَخَافُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi Ya'qubning qo'rquvi o'tmishda takrorlanib turgan, odatiy va uzluksiz holat ekanini bildiradi. Xabar عَلَى يُوسُفَ jar-majruri bilan birgalikda qo'rquv kimga qaratilganini oydinlashtiradi.",
           "uz": "qo'rqardi"
         },
         {
           "w": "عَلَى يُوسُفَ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "عَلَى يُوسُفَ — يَخَافُ fe'liga متعلّق bo'lgan jar-majrur tarkibi. خَافَ عَلَى iborasi arabchada «kimningdir xavfsizligi uchun qo'rqmoq» ma'nosini beradi; qo'rquv Yusufning o'ziga emas, uning uchun ekanini aniq ko'rsatadi.",
+          "e": "عَلَى يُوسُفَ — يَخَافُ fe'liga متعلّق bo'lgan jar-majrur tarkibi. خَافَ عَلَى iborasi arabchada «kimningdir sog'lig'i yoki xavfsizligi uchun tashvishlanmoq» ma'nosiga ega; bu sababli qo'rquv Yusufning o'ziga emas, uning uchun ekanini aniq farqlab ko'rsatadi.",
           "uz": "Yusuf uchun"
         },
         {
           "w": "كَثِيرًا",
           "r": "حَال",
           "rc": "th",
-          "e": "كَثِيرًا — يَخَافُ fe'lining holini bildiruvchi mansub isim. Qo'rquvning miqdori va darajasini — «ko'p, juda» — ifodalab, Ya'qubning ichki holatining chuqurligini ko'rsatadi. Bu hol gapga emotsional kuchayish beradi.",
+          "e": "كَثِيرًا — يَخَافُ fe'lining holini bildiruvchi mansub isim. Qo'rquvning miqdori va darajasini — «juda ko'p» — ifodalab, Ya'qubning ichki xavotirining qanchalik chuqur ekanligini ko'rsatadi. Bu hol gapga emotsional og'irlik beradi va otaning farzandiga bo'lgan muhabbatini ta'kidlaydi.",
           "uz": "ko'p"
         },
         {
           "w": "وَكَانَ يَعْرِفُ",
           "r": "فِعل نَاقِص + خَبَر كَان",
           "rc": "tf",
-          "e": "وَكَانَ يَعْرِفُ — ikkinchi كانَ tarkibi bo'lib, ismi oldingi jumladan tushib qolgan va Ya'qubga qaytadi. يَعْرِفُ xabari Ya'qubning aka-ukalar haqidagi ichki bilimini — ularning hasad va muhabbatsizligini — davomiy o'tmishda bilganini anglatadi.",
+          "e": "وَكَانَ يَعْرِفُ — ikkinchi كانَ tarkibi bo'lib, uning ismi oldingi jumladan ellipsis (tushib qolish) yo'li bilan Ya'qubga qaytadi. يَعْرِفُ mudori' fe'li xabar sifatida Ya'qubning aka-ukalar haqidagi ichki bilimini o'tmishda uzluksiz holat sifatida ifodalaydi. Bu bilim uning qo'rquviga qo'shimcha sabab bo'ladi.",
           "uz": "Va bilar edi"
         },
         {
           "w": "أَنَّ الْإِخْوَةَ",
           "r": "حَرف تَوكِيد وَنَصب + اسم أَنَّ",
           "rc": "tb",
-          "e": "أَنَّ — ta'kidlovchi va nasb qiluvchi harf bo'lib, يَعْرِفُ fe'lining maf'uliy muavval tarkibini hosil qiladi. الْإِخْوَةَ uning ismi bo'lib, nasb holatida keladi. Bu tarkib «bilish» fe'lining mazmunini — aka-ukalar haqida nima bilganini — kiritadi.",
+          "e": "أَنَّ — ta'kidlovchi va nasb qiluvchi harf bo'lib, يَعْرِفُ fe'lining maf'uliy muavval tarkibini hosil qiladi. الْإِخْوَةَ bu harf tomonidan nasb holatiga qo'yilgan اسم أَنَّ bo'lib, bilish mazmunining — aka-ukalar haqidagi haqiqatning — subyektini belgilaydi.",
           "uz": "Albatta aka-ukalar"
         },
         {
           "w": "يَحْسُدُونَهُ",
           "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "يَحْسُدُونَهُ — أَنَّ tarkibining xabari, fe'l jumla shaklida kelgan. واو جَمَاعَة zamiri aka-ukalarga, هُ zamiri esa Yusufga qaytadi. Bu xabar Ya'qub biladigan birinchi haqiqatni — ularning hasadini — ifodalaydi.",
+          "e": "يَحْسُدُونَهُ — أَنَّ tarkibining xabari, fe'l jumla shaklida kelgan. واو جَمَاعَة zamiri الْإِخْوَةَ ga, هُ zamiri esa Yusufga qaytadi. Bu xabar Ya'qub biladigan birinchi va asosiy haqiqatni — aka-ukalarning Yusufga nisbatan hasadini — aniq ifodalaydi.",
           "uz": "unga hasad qiladilar"
         },
         {
           "w": "وَلَا يُحِبُّونَهُ",
-          "r": "مَعطُوف (جُملة فِعلِيَّة مَنفِيَّة)",
+          "r": "مَعطُوف (جُملَة فِعلِيَّة مَنفِيَّة)",
           "rc": "tb",
-          "e": "وَلَا يُحِبُّونَهُ — واو عَطف orqali يَحْسُدُونَهُ xabariga ma'tuf bo'lgan inkor fe'l jumlasi. لَا mudori' fe'lni inkor qiladi. Ikkala xabar birgalikda Ya'qub biladigan aka-ukalar munosabatining to'liq manzarasini beradi: hasad bor, muhabbat yo'q.",
+          "e": "وَلَا يُحِبُّونَهُ — واو عَطف orqali يَحْسُدُونَهُ xabariga ma'tuf bo'lgan inkor fe'l jumlasi. لَا nafiy harfi mudori' fe'lni inkor qiladi. Ikkala xabar birgalikda Ya'qub biladigan aka-ukalar munosabatining to'liq va halokatli manzarasini beradi: hasad bor, muhabbat yo'q — bu esa asosli xavotirni yuzaga keltiradi.",
           "uz": "uni sevmaydilar"
         }
       ]
@@ -115,28 +115,28 @@
           "w": "وَكَانَ يَعْقُوبُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l, يَعْقُوبُ uning ismi. Bu tarkib Ya'qubning Yusufni jo'natmaslik odatini o'tgan zamonga ko'chiradi. كانَ ning davomiylik ma'nosi bu odatning uzoq davom etganini bildiradi.",
+          "e": "كَانَ — noqis fe'l, يَعْقُوبُ uning ismi raf' holatida. Bu tarkib Ya'qubning Yusufni jo'natmaslik odatini o'tgan zamonga ko'chiradi. كانَ ning davomiylik ma'nosi bu siyosatning uzoq vaqt davom etgani, bir martalik qaror emas ekanini bildiradi.",
           "uz": "Va Ya'qub edi"
         },
         {
           "w": "لَا يُرْسِلُ",
           "r": "خَبَر كَان (مَنفِيّ)",
           "rc": "tx",
-          "e": "لَا يُرْسِلُ — كانَ ning fe'l jumlasidan iborat inkor xabari. لَا nafiy harfi mudori' fe'lni inkor qilib, Ya'qubning Yusufni jo'natmasligini o'tgan zamonda doimiy holat sifatida ifodalaydi.",
+          "e": "لَا يُرْسِلُ — كانَ ning inkor fe'l jumlasidan iborat xabari. لَا nafiy harfi mudori' fe'lni inkor qilib, Ya'qubning Yusufni jo'natmasligini o'tgan zamonda doimiy va o'rnatilgan tartib sifatida ifodalaydi. Bu inkor xabar oldingi jumlalardagi qo'rquv va bilimning amaliy natijasi ekanini ko'rsatadi.",
           "uz": "jo'natmasdi"
         },
         {
           "w": "يُوسُفَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "يُوسُفَ — لَا يُرْسِلُ fe'lining to'g'ri to'ldiruvchisi, nasb holatida. Jo'natmaslik harakati aynan shu shaxsga — Yusufga — qaratilganini ko'rsatadi. Ism gayrimensarif bo'lgani uchun fatha bilan kelgan.",
+          "e": "يُوسُفَ — لَا يُرْسِلُ fe'lining to'g'ri to'ldiruvchisi, nasb holatida. Jo'natmaslik harakati aynan shu shaxsga — Yusufga — qaratilganini grammatik jihatdan aniq belgilaydi. Gayrimensarif ism bo'lgani uchun tanvin emas, oddiy fatha bilan kelgan.",
           "uz": "Yusufni"
         },
         {
           "w": "مَعَ الْإِخْوَةِ",
-          "r": "ظَرف مَكَان (مَعِيَّة)",
+          "r": "ظَرف مَعِيَّة",
           "rc": "th",
-          "e": "مَعَ الْإِخْوَةِ — ma'iyyat ma'nosidagi zarf tarkibi, لَا يُرْسِلُ fe'liga متعلّق. الْإِخْوَةِ mudof ilayhi sifatida jarr holatida kelgan. Bu tarkib Yusufning jo'natilmasligining sharti — aka-ukalar bilan birga ketish holati — ekanini ko'rsatadi.",
+          "e": "مَعَ الْإِخْوَةِ — لَا يُرْسِلُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. الْإِخْوَةِ mudof ilayhi sifatida jarr holatida kelgan. Bu zarf jo'natmaslikning muayyan shartini — Yusufning aka-ukalar bilan birga borishini — belgilab, Ya'qubning ehtiyotkorligini konkretlashtiradi.",
           "uz": "aka-ukalari bilan"
         }
       ]
@@ -149,35 +149,35 @@
           "w": "وَكَانَ يُوسُفُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l bo'lib, يُوسُفُ uning ismi. Bu tarkib Yusufning odatiy hayot tarzini — otasi bilan o'ynash va uzoqqa ketmaslikni — o'tgan zamonda doimiy holat sifatida taqdim etadi.",
+          "e": "كَانَ — noqis fe'l, يُوسُفُ uning ismi raf' holatida. Bu tarkib Yusufning kundalik hayot tarzini — otasi yonida o'ynab, uzoqqa chiqmaslikni — o'tgan zamonda takroriy va odatiy holat sifatida taqdim etadi. Kontekst Yusufning oiladan ajralmaslik xususiyatini ko'rsatadi.",
           "uz": "Va Yusuf edi"
         },
         {
           "w": "يَلْعَبُ",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "يَلْعَبُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi bu o'ynashning takrorlanib turgan, odatiy hol ekanini bildiradi. مَعَ أَبِيهِ zarfi bu xabarni to'ldiradi.",
+          "e": "يَلْعَبُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi bu o'ynashning takrorlanib turgan, odatiy holat ekanini bildiradi. مَعَ أَبِيهِ zarfi bu xabarni to'ldirib, o'yinning otasi atrofida bo'lganini ko'rsatadi.",
           "uz": "o'ynaydi"
         },
         {
           "w": "مَعَ أَبِيهِ",
-          "r": "ظَرف مَكَان (مَعِيَّة)",
+          "r": "ظَرف مَعِيَّة",
           "rc": "th",
-          "e": "مَعَ أَبِيهِ — يَلْعَبُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. أَبِيهِ — أَب ning mudof shakli, هِ zamiri Yusufga qaytadi. Bu tarkib o'yinning otasi bilan, ya'ni uyi atrofida xavfsiz muhitda bo'lganini ko'rsatadi.",
+          "e": "مَعَ أَبِيهِ — يَلْعَبُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. أَبِيهِ — أَب ismining mudof shakli bo'lib, هِ zamiri Yusufga qaytadi. Bu zarf o'yinning xavfsiz, oila bag'rida — ota himoyasida — sodir bo'lganini ko'rsatib, Yusufning oiladan ajralmasligini ta'kidlaydi.",
           "uz": "otasi bilan"
         },
         {
           "w": "وَلَا يَذْهَبُ",
           "r": "مَعطُوف (فِعل مُضَارِع مَنفِيّ)",
           "rc": "tb",
-          "e": "وَلَا يَذْهَبُ — واو عَطف orqali يَلْعَبُ xabariga ma'tuf inkor fe'l jumlasi. Bu ikkala xabar birgalikda Yusufning hayot tarzini to'liq ifodalaydi: otasi yonida qoladi, uzoqqa ketmaydi.",
+          "e": "وَلَا يَذْهَبُ — واو عَطف orqali يَلْعَبُ xabariga ma'tuf inkor fe'l jumlasi. Bu ikkala xabar birgalikda Yusufning hayot manzarasini to'liq ifodalaydi: bir tomondan otasi yonida qoladi, ikkinchi tomondan uzoqqa ketmaydi. Ikkala holat bir-birini mantiqiy jihatdan to'ldiradi.",
           "uz": "ketmasdi"
         },
         {
           "w": "بَعِيدًا",
           "r": "حَال",
           "rc": "th",
-          "e": "بَعِيدًا — يَذْهَبُ fe'lining holini bildiruvchi mansub isim. Ketishning yo'nalishi yoki darajasini — «uzoqqa» — ifodalab, inkor bilan birga Yusuf hech qachon uzoq ketmasligini ta'kidlaydi.",
+          "e": "بَعِيدًا — يَذْهَبُ fe'lining holini bildiruvchi mansub isim. Ketishning yo'nalishi yoki darajasini — «uzoqqa» — ifodalab, inkor bilan birga Yusuf hech qachon uzoq joyga ketmasligini aniq ko'rsatadi. Bu hol Yusufning otasiga jismoniy yaqinligini grammatik jihatdan mustahkamlaydi.",
           "uz": "uzoqqa"
         }
       ]
@@ -190,42 +190,42 @@
           "w": "وَكَانَ الْإِخْوَةُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l, الْإِخْوَةُ uning ismi raf' holatida. Bu tarkib aka-ukalarning Ya'qub Yusufni jo'natmasligidan xabardor bo'lgan doimiy holatini o'tgan zamonga ko'chiradi.",
+          "e": "كَانَ — noqis fe'l, الْإِخْوَةُ uning ismi raf' holatida. Bu tarkib aka-ukalarning Ya'qub Yusufni yolg'iz qo'ymasligi haqidagi bilimini o'tgan zamonda doimiy holat sifatida ifodalaydi. كانَ ning davomiylik xususiyati bu bilimning uzoq vaqtdan beri mavjud ekanini ko'rsatadi.",
           "uz": "Va aka-ukalar edilar"
         },
         {
           "w": "يَعْرِفُونَ",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "يَعْرِفُونَ — كانَ ning fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri الْإِخْوَةُ ga qaytadi. Bu xabar aka-ukalarning bilimini — Ya'qubning ehtiyotkorligini, uzoq yubora olmasligini — ifodalaydi.",
+          "e": "يَعْرِفُونَ — كانَ ning fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri الْإِخْوَةُ ga qaytadi. Bu xabar aka-ukalarning bilimini — Ya'qubning ehtiyotkorligi va Yusufni yolg'iz qo'ymasligini — ifodalab, keyingi qarorning ongli tarzda qabul qilinganini ko'rsatadi.",
           "uz": "biladilar"
         },
         {
           "w": "ذَلِكَ",
           "r": "مَفعُول بِه (اسم إِشَارَة)",
           "rc": "tb",
-          "e": "ذَلِكَ — يَعْرِفُونَ fe'lining to'g'ri to'ldiruvchisi, uzoqqa ishora qiluvchi اسم إشارة. Oldingi jumlalarda tasvirlangan Ya'qubning ehtiyotkorligi va Yusufni jo'natmaslik odatiga ishora qiladi.",
-          "uz": "bu"
+          "e": "ذَلِكَ — يَعْرِفُونَ fe'lining to'g'ri to'ldiruvchisi bo'lgan uzoqqa ishora qiluvchi اسم إشارة. Oldingi jumlalarda batafsil tasvirlangan Ya'qubning ehtiyotkorligi va Yusufni jo'natmaslik odatiga umumiy ishora qiladi. Uzoqqa ishora shakli bu bilimning chuqur va yaxshi o'rganilganini anglatadi.",
+          "uz": "buni"
         },
         {
           "w": "وَلَكِنَّهُمْ",
           "r": "حَرف اسْتِدرَاك + اسم لَكِنَّ",
           "rc": "tb",
-          "e": "وَلَكِنَّ — istidrok harfi bo'lib, oldingi jumlada aytilganga zid yoki undagi taxminga qarshi yangi ma'lumot kiritadi. هُمْ zamiri aka-ukalarga qaytib, لَكِنَّning ismi vazifasini bajaradi. Ular bilishiga qaramasdan harakat qilishdi, degan ziddiyatni ifodalaydi.",
+          "e": "وَلَكِنَّ — istidrok harfi bo'lib, oldingi jumlada aytilganga zid yoki undan kutilmagan yangi ma'lumot kiritadi. هُمْ zamiri اسم لَكِنَّ vazifasida aka-ukalarga qaytadi. Ular Ya'qubning ehtiyotkorligini bilishiga qaramasdan harakat qilishga kirishganligi — bu ziddiyat — istidrok orqali ta'kidlanadi.",
           "uz": "lekin ular"
         },
         {
           "w": "عَزَمُوا",
           "r": "خَبَر لَكِنَّ (فِعل مَاضٍ)",
           "rc": "tx",
-          "e": "عَزَمُوا — لَكِنَّ tarkibining fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri aka-ukalarga qaytadi. O'tgan zamon fe'li sifatida kelishi bu qarorning qat'iy va aniq bir lahzada qabul qilinganini bildiradi.",
+          "e": "عَزَمُوا — لَكِنَّ tarkibining fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri aka-ukalarga qaytadi. O'tgan zamon fe'li sifatida kelishi bu qarorning qat'iy va aniq bir lahzada qabul qilinganini bildiradi; mudori' emas, madi shakli qarorning uzilishligi va qat'iyligini ifodalaydi.",
           "uz": "qaror qildilar"
         },
         {
           "w": "عَلَى الْأَمْرِ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "عَلَى الْأَمْرِ — عَزَمُوا fe'liga متعلّق bo'lgan jar-majrur tarkibi. عَزَمَ عَلَى iborasi arabchada «bir ishga qat'iy qaror qilmoq» ma'nosini beradi. الْأَمْرِ umumiy «ish» ma'nosida bo'lib, Yusufni olib ketish niyatiga ishora qiladi.",
+          "e": "عَلَى الْأَمْرِ — عَزَمُوا fe'liga متعلّق bo'lgan jar-majrur tarkibi. عَزَمَ عَلَى iborasi arabchada «bir ishni qat'iy niyat qilib, uni amalga oshirishga kirishmoq» ma'nosini beradi. الْأَمْرِ noaniq umumiy «ish» ma'nosida bo'lib, Yusufni olib ketish niyatiga diplomatik ishora qiladi.",
           "uz": "ishga"
         }
       ]
@@ -238,56 +238,56 @@
           "w": "قَالُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالُوا — o'tgan zamon ko'plik fe'li, واو جَمَاعَة zamiri aka-ukalarga qaytadi. Bu fe'l rivoyat matnida nutqni kirituvchi asosiy fe'l bo'lib, undan keyin ikki tirnoq orasidagi murojaat keladi.",
+          "e": "قَالُوا — o'tgan zamon ko'plik fe'li, واو جَمَاعَة zamiri aka-ukalarga qaytadi. Bu fe'l rivoyat matnida to'g'ridan-to'g'ri nutqni kirituvchi asosiy fe'l bo'lib, undan keyin aka-ukalarning Ya'qubga yo'naltirilgan murojaat nutqi keladi.",
           "uz": "Dedilar"
         },
         {
           "w": "يَا أَبَانَا",
           "r": "حَرف نِدَاء + مُنَادَى",
           "rc": "tb",
-          "e": "يَا — nido harfi, أَبَانَا — munoda bo'lib, mansub holatida kelgan. نَا zamiri aka-ukalarga qaytib, «otamiz» deb otalariga murojaat etayotganlarini bildiradi. Bu nido gapga hurmat va yaqinlik ohangini beradi.",
+          "e": "يَا — nido harfi, أَبَانَا esa مُنَادَى bo'lib mansub holatida kelgan. نَا zamiri aka-ukalarga qaytib, «bizning otamiz» deb otalariga murojaat qilayotganini bildiradi. Nido bilan boshlash gapga hurmat, yaqinlik va iltimos ohangini beradi; bu murojaat otaning yumshoq tomoni orqali ta'sir etish uslubi.",
           "uz": "ey otamiz"
         },
         {
           "w": "لِمَاذَا",
           "r": "اسم اسْتِفهَام (سَبَب)",
           "rc": "tb",
-          "e": "لِمَاذَا — لِ harfi va مَاذَا so'roq olmoshi birikmasidan hosil bo'lgan sabab so'roqi. Yusufni jo'natmaslikning muayyan sababini so'rash uchun kelgan; bu savol aka-ukalar dalilga tayanganini ko'rsatadi.",
+          "e": "لِمَاذَا — لِ harfi va مَاذَا so'roq olmoshi birikmasidan hosil bo'lgan sabab so'rog'i. Jo'natmaslikning aniq sababini tushuntirish so'ralmoqda; bu savol oddiy qiziquvdan emas, muayyan dalil yoki sababni kutishdan kelib chiqadi.",
           "uz": "nega"
         },
         {
           "w": "لَا تُرْسِلُ",
           "r": "فِعل مُضَارِع مَنفِيّ",
           "rc": "tf",
-          "e": "لَا تُرْسِلُ — inkor nafiy harfi لَا va muhotab mudori' fe'lidan iborat. Muhotab Ya'qub bo'lib, unga Yusufni jo'natmayotganligi haqida so'roq yo'naltirilmoqda. Fe'lning mudori' bo'lishi bu odatning hozirgi kunga qadar davom etayotganini ko'rsatadi.",
+          "e": "لَا تُرْسِلُ — nafiy harfi لَا va muhotab mudori' fe'lidan iborat. Muhotab Ya'qub bo'lib, unga Yusufni jo'natmayotganligining sababi so'ralmoqda. Fe'lning mudori' bo'lishi bu odatning hozirgi kunga qadar davom etayotganini, bir martalik holat emas ekanini ko'rsatadi.",
           "uz": "jo'natmaysan"
         },
         {
           "w": "مَعَنَا",
-          "r": "ظَرف مَكَان (مَعِيَّة)",
+          "r": "ظَرف مَعِيَّة",
           "rc": "th",
-          "e": "مَعَنَا — لَا تُرْسِلُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. نَا zamiri aka-ukalarga qaytib, Yusuf aynan ular bilan jo'natilishi so'ralayotganini anglatadi. Bu zarf so'rovning aniq shartini bildiradi.",
+          "e": "مَعَنَا — لَا تُرْسِلُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. نَا zamiri aka-ukalarga qaytib, Yusuf aynan ular hamrohligida jo'natilishi so'ralayotganini anglatadi. Bu zarf so'rovning aniq shartini ifodalab, «biz bilan birga» deb manzilni konkretlashtiradi.",
           "uz": "biz bilan"
         },
         {
           "w": "يُوسُفَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "يُوسُفَ — لَا تُرْسِلُ fe'lining to'g'ri to'ldiruvchisi, nasb holatida gayrimensarif ism sifatida fatha bilan kelgan. Jo'natilishi so'ralayotgan aniq shaxsni — Yusufni — ko'rsatadi.",
+          "e": "يُوسُفَ — لَا تُرْسِلُ fe'lining to'g'ri to'ldiruvchisi, nasb holatida. Gayrimensarif ism bo'lgani uchun fatha bilan jarr holatiga qo'yilgan. Jo'natilishi talab qilinayotgan aniq shaxs — Yusuf — shu o'rinda grammatik jihatdan belgilanadi.",
           "uz": "Yusufni"
         },
         {
           "w": "مَاذَا",
-          "r": "اسم اسْتِفهَام",
+          "r": "اسم اسْتِفهَام (مَفعُول بِه)",
           "rc": "tb",
-          "e": "مَاذَا — narsa yoki sabab so'raydigan so'roq olmoshi. Bu ikkinchi, mustaqil savol bo'lib, Ya'qubning qo'rquvi nimaligi yoki nimadan ekanligini aniqlab berishni so'raydi. Birinchi savolni kuchaytiradi.",
+          "e": "مَاذَا — narsa yoki sabab so'raydigan so'roq olmoshi, bu o'rinda تَخَافُ fe'lining maf'uli vazifasida kelgan. Mustaqil ikkinchi savol sifatida Ya'qubning qo'rquvi nimaligini yoki kimdan ekanligini aniqlab berishni so'raydi. Birinchi savolni kuchaytiruvchi retoriy savol sifatida ham talqin etiladi.",
           "uz": "nimadan"
         },
         {
           "w": "تَخَافُ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "تَخَافُ — muhotab mudori' fe'li. مَاذَا so'roq olmoshi shu fe'l bilan bog'liq bo'lib, Ya'qubning qo'rquvi nimaligi haqida savol berilmoqda. Fe'l mustaqil savol jumlasini tashkil etadi.",
+          "e": "تَخَافُ — muhotab mudori' fe'li, Ya'qubga qaratilgan. مَاذَا so'roq olmoshi shu fe'l bilan grammatik bog'liq bo'lib, qo'rquv predmeti so'ralmoqda. Mustaqil savol jumlasi bo'lib, ota-farzand muloqotidagi qat'iy, ammo hurmatli talabni ifodalaydi.",
           "uz": "qo'rqasan"
         }
       ]
@@ -298,100 +298,100 @@
       "parts": [
         {
           "w": "هُوَ",
-          "r": "مُبتَدَأ (ضَمِير)",
+          "r": "مُبتَدَأ (ضَمِير مُنفَصِل)",
           "rc": "tm",
-          "e": "هُوَ — منفصل ضمير bo'lib, mubtado vazifasida kelgan. Yusufga qaytadi va uning haqida ta'rif berishning subyekti bo'ladi. Zamir bilan boshlangan ismiy gap Yusufga nisbatan da'voni ta'kidlaydi.",
+          "e": "هُوَ — منفصل ضمير bo'lib, gapning mubtadosi vazifasida kelgan. Yusufga qaytadi va uning haqida ta'rif berishning subyektini belgilaydi. Zamir bilan boshlanishi Yusufga nisbatan da'voni ta'kidlab, uni gapning markaziga qo'yadi.",
           "uz": "u"
         },
         {
           "w": "أَخُونَا",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "أَخُونَا — هُوَ mubtadosining xabari. أَخُ ismining mudof shakli bo'lib, نَا zamiri aka-ukalarga qaytadi. Bu xabar Yusuf ularning ukasi ekanini ta'kidlab, unga qarshi harakat qilishning noto'g'riligini bildiradi.",
+          "e": "أَخُونَا — هُوَ mubtadosining xabari, raf' holatida. أَخُ ismining mudof shakli bo'lib, نَا zamiri aka-ukalarga qaytadi. Bu xabar Yusuf ularning haqiqiy ukasi ekanini ta'kidlab, aka-ukalar munosabatining buzilmasligini isbotlovchi asosiy dalil bo'lib keladi.",
           "uz": "bizning ukamiz"
         },
         {
           "w": "الْعَزِيزُ",
           "r": "نَعت (صِفَة)",
           "rc": "ts",
-          "e": "الْعَزِيزُ — أَخُونَا ismiga tobe sifat. Ma'rifali shaklda kelgani uchun موصوف bilan muvofiq. Bu sifat Yusufning ularning nazarida qadrli va hurmatli uka ekanini bildiradi, uning ularning bir qismi ekanini kuchaytiradi.",
-          "uz": "Aziz"
+          "e": "الْعَزِيزُ — أَخُونَا ga tobe sifat bo'lib, ma'rifali va raf' holatida kelgan; موصوف bilan jins, son va ta'rif jihatidan muvofiq. Bu sifat Yusufning ular nazarida qadrli va qimmatli uka ekanini ifodalab, uning ularning to'la a'zosi ekanini kuchaytiradi.",
+          "uz": "aziz"
         },
         {
           "w": "وَأَخُونَا الصَّغِيرُ",
           "r": "مَعطُوف عَلَى الخَبَر",
           "rc": "tb",
-          "e": "وَأَخُونَا الصَّغِيرُ — واو عَطف orqali أَخُونَا الْعَزِيزُ xabariga ma'tuf tarkib. الصَّغِيرُ unga naat. Bu ma'tuf Yusufning kichik — ya'ni himoyaga muhtoj — uka ekanini qo'shib, uni birga olib borish uchun dalil sifatida keltiradi.",
+          "e": "وَأَخُونَا الصَّغِيرُ — واو عَطف orqali أَخُونَا الْعَزِيزُ xabariga ma'tuf tarkib, الصَّغِيرُ unga naat. Bu ma'tuf Yusufning kichik — himoyaga muhtoj — uka ekanini qo'shib, uni birga olib borish zaruratini kuchaytiruvchi ikkinchi dalil sifatida keladi.",
           "uz": "kichkina ukamiz"
         },
         {
           "w": "وَنَحْنُ",
-          "r": "مُبتَدَأ (ضَمِير)",
+          "r": "مُبتَدَأ (ضَمِير مُنفَصِل)",
           "rc": "tm",
-          "e": "وَنَحْنُ — yangi ismiy gapning mubtadosi, منفصل ضمير. Aka-ukalar o'zlarini bir ota farzandlari sifatida taqdim etib, birgalikda bo'lish haqqi borligini isbotlovchi dalil keltiradilar.",
+          "e": "وَنَحْنُ — yangi ismiy gapning mubtadosi bo'lgan منفصل ضمير. Aka-ukalar o'zlarini bir ota farzandlari sifatida taqdim etib, ularning birligi va Yusuf bilan teng huquqliligi haqida dalil keltirmoqda.",
           "uz": "holbuki biz"
         },
         {
           "w": "أَبْنَاءُ أَبٍ",
           "r": "خَبَر + مُضَاف إِلَيه",
           "rc": "tx",
-          "e": "أَبْنَاءُ أَبٍ — نَحْنُ mubtadosining xabari. أَبُنَاءُ — raf' holatidagi mudof, أَبٍ — noaniq mudof ilayhi jarr holatida. Bu xabar barchalarining bir ota bolalari ekanini, shuning uchun Yusufni ular orasidan ajratib qo'yish noto'g'riligini isbotlaydi.",
+          "e": "أَبْنَاءُ أَبٍ — نَحْنُ mubtadosining xabari. أَبْنَاءُ raf' holatidagi mudof, أَبٍ esa noaniq mudof ilayhi jarr holatida. Hamma bir otaning farzandlari ekanligi Yusufni ulardan ajratib qo'yishning asossizligini isbotlovchi qat'iy mantiqiy dalil bo'lib keladi.",
           "uz": "bir otaning o'g'illarimiz"
         },
         {
           "w": "وَالْإِخْوَةُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "وَالْإِخْوَةُ — uchinchi ismiy gapning mubtadosi. Umumiy qoida sifatida keltirilib, aka-ukalar odatda birga o'ynashini asos qilib beradi. Ma'rifali shakli umumlashtirib ko'rsatadi.",
+          "e": "وَالْإِخْوَةُ — uchinchi ismiy gapning mubtadosi. Ma'rifali shakli umumlashtiruvchi bo'lib, «aka-ukalar» degan umumiy qoidani kiritadi. Bu dalil shaxsiy emas, umumiy adat va normaga tayangan bo'lib, kuchliroq bo'ladi.",
           "uz": "Va aka-ukalar"
         },
         {
           "w": "دَائِمًا",
           "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "دَائِمًا — يَلْعَبُونَ fe'liga متعلّق bo'lgan vaqt zarfi, nasb holatida. O'ynashning doimiy va odatiy ekanini ta'kidlab, dalilni kuchaytiradi: bu faqat bir marta emas, har doim shunday bo'ladi.",
+          "e": "دَائِمًا — يَلْعَبُونَ fe'liga متعلّق bo'lgan vaqt zarfi, nasb holatida. O'ynashning doimiy va uzluksiz bo'lgan umumiy odatini ta'kidlab, dalilni kuchaytiradi: bu faqat ba'zan emas, hamisha shunday bo'ladi.",
           "uz": "doim"
         },
         {
           "w": "يَلْعَبُونَ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "يَلْعَبُونَ — الْإِخْوَةُ mubtadosining fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri الْإِخْوَةُ ga qaytadi. Mudori' fe'l shaklida kelishi bu umumiy qoidaning doimiyligini bildiradi.",
+          "e": "يَلْعَبُونَ — الْإِخْوَةُ mubtadosining fe'l jumlasidan iborat xabari. واو جَمَاعَة zamiri الْإِخْوَةُ ga qaytadi. Mudori' fe'l shaklida kelishi bu umumiy qoidaning doim amal qilib kelayotganini — hozir ham, avval ham — bildiradi.",
           "uz": "o'ynashadi"
         },
         {
           "w": "جَمِيعًا",
           "r": "حَال",
           "rc": "th",
-          "e": "جَمِيعًا — يَلْعَبُونَ fe'lining holini bildiruvchi mansub isim. O'yin hammasi birga ekanini ifodalab, Yusufning ham ular bilan bo'lishi kerakligiga ishora qiladi.",
+          "e": "جَمِيعًا — يَلْعَبُونَ fe'lining holini bildiruvchi mansub isim. O'yin hammasi birga — hech kim qolib ketmasdan — sodir bo'lishini ifodalab, Yusufning ham ular bilan bo'lishi kerakligiga mantiqiy ishora qiladi.",
           "uz": "birga"
         },
         {
           "w": "فَلِمَاذَا",
           "r": "فَاء نَتِيجَة + اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "فَلِمَاذَا — فَاء natijaviy va لِمَاذَا sabab so'rog'i birikmasidan iborat. Keltirilgan uchta dalildan (uka, bir ota farzandlari, aka-ukalar birga o'ynaydi) keyin xulosa savoli sifatida keladi. Mantiqiy isbot tugab, tabiiy savol boshlanadi.",
+          "e": "فَلِمَاذَا — فَاء natijaviy va لِمَاذَا sabab so'rog'i birikmasidan iborat. Keltirilgan uchta dalildan (uka, bir ota farzandlari, umumiy odat) keyin mantiqiy xulosa savoli sifatida keladi. فَاء ning mavjudligi bu savolning oldingi dalillarning tabiiy natijasi ekanini grammatik jihatdan ko'rsatadi.",
           "uz": "nega"
         },
         {
           "w": "لَا نَذْهَبُ",
           "r": "فِعل مُضَارِع مَنفِيّ",
           "rc": "tf",
-          "e": "لَا نَذْهَبُ — inkor nafiy لَا va mutakallim jumla mudori' fe'lidan iborat. نَ zamiri aka-ukalar va Yusufni birga anglatadi. Bu inkor savol shaklida bo'lib, «barchamiz borib o'ynamaymizmi» degan taklifni bildiradi.",
+          "e": "لَا نَذْهَبُ — nafiy لَا va mutakallim jumla mudori' fe'lidan iborat. نَ zamiri aka-ukalar va Yusufni birga anglatadi. Bu inkor savol shaklida bo'lib, «nima uchun barchamiz birga bormasligimiz kerak?» degan retoriy taklifni ifodalaydi.",
           "uz": "bormaymiz"
         },
         {
           "w": "وَنَلْعَبُ",
           "r": "مَعطُوف (فِعل مُضَارِع)",
           "rc": "tb",
-          "e": "وَنَلْعَبُ — واو عَطف orqali نَذْهَبُ fe'liga ma'tuf mudori' fe'l. Borishdan keyingi maqsad — o'ynashni — qo'shib, taklifning to'liq mazmunini beradi.",
+          "e": "وَنَلْعَبُ — واو عَطف orqali نَذْهَبُ fe'liga ma'tuf mudori' fe'l. Borishdan keyingi maqsad — o'ynashni — qo'shib, taklifning to'liq dasturini beradi: borish va o'ynash birgalikda.",
           "uz": "o'ynamaymiz"
         },
         {
           "w": "جَمِيعًا",
           "r": "حَال",
           "rc": "th",
-          "e": "جَمِيعًا — نَذْهَبُ va نَلْعَبُ fe'llarining holini bildiruvchi mansub isim. Borish va o'ynashning hammasi birga — Yusuf ham kiritib — bo'lishi kerakligini ta'kidlaydi.",
+          "e": "جَمِيعًا — نَذْهَبُ va نَلْعَبُ fe'llarining holini bildiruvchi mansub isim. Borish va o'ynashning hamma birga — Yusuf ham kiritilgan holda — bajarilishi kerakligini ta'kidlab, taklif oxirida birlik g'oyasini yakuniy ravishda mustahkamlaydi.",
           "uz": "birga"
         }
       ]
@@ -402,58 +402,58 @@
       "parts": [
         {
           "w": "أَرْسِلْهُ",
-          "r": "فِعل أَمر + ضَمِير مَفعُول",
+          "r": "فِعل أَمر + ضَمِير مَفعُول بِه",
           "rc": "tf",
-          "e": "أَرْسِلْهُ — amr (buyruq) fe'li bo'lib, Ya'qubga murojaat qilinmoqda. هُ zamiri مَفعُول بِه vazifasida Yusufga qaytadi. Bu Qur'on oyatidan olingan nutq bo'lib, aka-ukalarning qat'iy iltimosini ifodalaydi.",
+          "e": "أَرْسِلْهُ — muhotabga qaratilgan amr (buyruq) fe'li. Ya'qubga murojaat qilinmoqda. هُ zamiri مَفعُول بِه vazifasida Yusufga qaytadi. Qur'on oyatidan olingan bu nutq aka-ukalarning qat'iy va iltimoskor talabini ifodalab, rivoyatning kulminatsion so'zi hisoblanadi.",
           "uz": "uni jo'nat"
         },
         {
           "w": "مَعَنَا",
-          "r": "ظَرف مَكَان (مَعِيَّة)",
+          "r": "ظَرف مَعِيَّة",
           "rc": "th",
-          "e": "مَعَنَا — أَرْسِلْهُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. نَا zamiri aka-ukalarga qaytib, Yusuf aynan ular bilan birga jo'natilishini so'raydi.",
+          "e": "مَعَنَا — أَرْسِلْهُ fe'liga متعلّق bo'lgan ma'iyyat zarfi. نَا zamiri aka-ukalarga qaytib, Yusuf aynan ular hamrohligida jo'natilishi so'ralayotganini ko'rsatadi. Bu zarf jo'natishning muayyan shartini belgilaydi.",
           "uz": "biz bilan"
         },
         {
           "w": "غَدًا",
           "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "غَدًا — أَرْسِلْهُ amr fe'liga متعلّق bo'lgan vaqt zarfi. Jo'natish ertangi kunga nisbatlangan bo'lib, so'rovning aniq va shoshilinch ekanini ko'rsatadi.",
+          "e": "غَدًا — أَرْسِلْهُ amr fe'liga متعلّق bo'lgan vaqt zarfi. Jo'natish ertangi kunga bog'langan bo'lib, so'rovning aniq va shoshilinch — ertaga kechiktirmasdan — ekanini ko'rsatadi. Vaqtning aniq belgilanishi talabning jiddiyligini ta'kidlaydi.",
           "uz": "ertaga"
         },
         {
           "w": "يَرْتَعْ",
-          "r": "فِعل مُضَارِع مَجزُوم (جَوَاب الأَمر)",
+          "r": "فِعل مُضَارِع مَجزُوم (جَوَابُ الأَمر)",
           "rc": "tf",
-          "e": "يَرْتَعْ — amrning javobi sifatida majzum holatida kelgan mudori' fe'l. Jo'natilsa, Yusuf yayrab yuradi — bu natija yoki maqsadni ifodalaydi. Fe'lning jazm holati amr-javob bog'liqligini grammatik jihatdan ko'rsatadi.",
+          "e": "يَرْتَعْ — amrning javobi sifatida majzum holatida kelgan mudori' fe'l; sukun jazm alomati. Jo'natilsa, Yusuf yayrab-yashnarishi natijasini ifodalaydi. Fe'lning jazm holati amr-javob bog'liqligini grammatik jihatdan aniq ko'rsatuvchi muhim qoidadir.",
           "uz": "sayr qilsin"
         },
         {
           "w": "وَيَلْعَبْ",
           "r": "مَعطُوف (فِعل مُضَارِع مَجزُوم)",
           "rc": "tb",
-          "e": "وَيَلْعَبْ — واو عَطف orqali يَرْتَعْ fe'liga ma'tuf, u ham majzum holatida. O'ynash ham yayrab yurish bilan birga amr javobining ikkinchi natijasi sifatida keladi.",
+          "e": "وَيَلْعَبْ — واو عَطف orqali يَرْتَعْ fe'liga ma'tuf, u ham jazm holatida. O'ynash ham sayr qilish bilan birga amr javobining ikkinchi natijasi sifatida keladi. Ikkala fe'lning jazm holati bir grammatik qolipga bo'ysunganligini ko'rsatadi.",
           "uz": "o'ynasin"
         },
         {
           "w": "وَإِنَّا",
-          "r": "حَرف تَوكِيد + اسم إِنَّ (ضَمِير)",
+          "r": "حَرف تَوكِيد وَنَصب + اسم إِنَّ",
           "rc": "tb",
-          "e": "وَإِنَّا — إِنَّ ta'kid harfi va نَا zamiri birikmasidan iborat. نَا — اسم إِنَّ vazifasida. Bu tarkib aka-ukalarning o'zlari Yusufni himoya qilishlari haqidagi kafillik da'vosini kiritadi.",
+          "e": "وَإِنَّا — إِنَّ ta'kid-nasb harfi va نَا zamiri birikmasidan iborat. نَا — اسم إِنَّ vazifasida nasb holatida kelgan. Bu tarkib aka-ukalarning kafillik va himoya va'dasini ta'kidli tarzda kiritadi, ya'ni «biz haqiqatan ham» degan ma'noni kuchaytiradi.",
           "uz": "va albatta biz"
         },
         {
           "w": "لَهُ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "لَهُ — لَحَافِظُونَ xabariga متعلّق bo'lgan jar-majrur tarkibi. هُ zamiri Yusufga qaytib, himoya aynan unga qaratilganini ko'rsatadi. لِ harfi foydalanuvchini ko'rsatadi.",
-          "uz": "uning"
+          "e": "لَهُ — لَحَافِظُونَ xabariga متعلّق bo'lgan jar-majrur tarkibi. هُ zamiri Yusufga qaytib, himoya aynan unga qaratilganini ko'rsatadi. لِ harfi foyda va maqsad ma'nosini bildiradi: himoya Yusufning manfaati uchun amalga oshiriladi.",
+          "uz": "uni"
         },
         {
           "w": "لَحَافِظُونَ",
-          "r": "خَبَر إِنَّ (مُؤَكَّد بِلَام)",
+          "r": "خَبَر إِنَّ (مُؤَكَّد بِلَامِ الابتداء)",
           "rc": "tx",
-          "e": "لَحَافِظُونَ — إِنَّا tarkibining xabari, raf' holatida. Lam ta'kid (لام الابتداء) إِنَّ ning ta'kidiga qo'shimcha kuch beradi: «albatta, haqiqatan ham biz saqlovchilariz» degan ikki darajali ta'kidni ifodalaydi.",
+          "e": "لَحَافِظُونَ — إِنَّا tarkibining xabari, raf' holatida واو و نون bilan. Lam ta'kid (لامُ الابتداء) إِنَّ ning ta'kidiga qo'shimcha kuch beradi: ikkita ta'kid vositasi — إِنَّ va لام — birgalikda «haqiqatan ham, shubhasiz biz saqlovchilariz» degan ikki darajali ta'kidni hosil qiladi.",
           "uz": "albatta saqlaymiz"
         }
       ]
@@ -466,28 +466,28 @@
           "w": "وَكَانَ يَعْقُوبُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l, يَعْقُوبُ uning ismi raf' holatida. Bu birinchi كانَ tarkibi Ya'qubning jismoniy holatini — katta yoshli chol ekanini — tasvirlaydi.",
+          "e": "كَانَ — noqis fe'l, يَعْقُوبُ uning ismi raf' holatida. Bu birinchi كانَ tarkibi Ya'qubning jismoniy holatini — katta yoshli chol ekanini — o'tgan zamonda ifodalaydi. كانَ ning o'tmishdagi davomiylik ma'nosi bu xususiyatning uzoq vaqtdan beri mavjud ekanini bildiradi.",
           "uz": "Va Ya'qub edi"
         },
         {
           "w": "شَيْخًا كَبِيرًا",
           "r": "خَبَر كَان + نَعت",
           "rc": "tx",
-          "e": "شَيْخًا — كانَ ning xabari, nasb holatida. كَبِيرًا — شَيْخًا ga tobe naat, u ham nasb holatida. Bu xabar-naat tarkibi Ya'qubning faqat keksa emas, balki katta yoshli ekanini kuchaytiradi.",
+          "e": "شَيْخًا — كانَ ning xabari, nasb holatida. كَبِيرًا — شَيْخًا ga tobe naat, u ham nasb holatida, jins, son va ta'rif holatida مَنعُوت bilan muvofiq. Bu xabar-naat tarkibi Ya'qubning nafaqat keksa, balki katta yoshliligi jismoniy va ijtimoiy jihatdan mustahkam ekanini ko'rsatadi.",
           "uz": "katta yoshli chol"
         },
         {
           "w": "وَكَانَ يَعْقُوبُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "Ikkinchi وَكَانَ يَعْقُوبُ tarkibi Ya'qubning yangi bir sifatini — axloqiy xususiyatini — kiritadi. Ya'qub ismining takrorlanishi ta'kidlovchi uslub bo'lib, yangi jumlani oldingi jumladan ajratib ko'rsatadi.",
+          "e": "Ikkinchi وَكَانَ يَعْقُوبُ tarkibi Ya'qubning yangi — axloqiy — xususiyatini kiritadi. يَعْقُوبُ ismining takrorlanishi ta'kidlovchi va ajratuvchi uslub bo'lib, yangi jumlani oldingi jumladan mustaqil qilib ko'rsatadi; bu ikki jihat — jismoniy va axloqiy — alohida ta'kidlanadi.",
           "uz": "Va Ya'qub edi"
         },
         {
           "w": "عَاقِلًا حَلِيمًا",
-          "r": "خَبَر كَان + نَعت",
+          "r": "خَبَر كَان + نَعت (أَو مَعطُوف)",
           "rc": "tx",
-          "e": "عَاقِلًا — ikkinchi كانَ ning xabari, nasb holatida. حَلِيمًا — عَاقِلًا ga tobe naat yoki ma'tuf. Bu ikki sifat birgalikda Ya'qubning aql-idrok va sabr-toqat egasi ekanini bildiradi; bu holat uning aka-ukalar bilan qilingan muzokaraga sabr bilan javob berishini tushuntiradi.",
+          "e": "عَاقِلًا — ikkinchi كانَ ning xabari, nasb holatida. حَلِيمًا — عَاقِلًا ga tobe naat yoki ma'tuf, u ham nasb holatida. Bu ikki sifat birgalikda Ya'qubning aql-idrok va sabr-toqat egasi ekanini ifodalab, uning aka-ukalar bilan muzokaraga bosiq va dono tarzda munosabat bildirganini izohlab beradi.",
           "uz": "aqlli va halim"
         }
       ]
@@ -500,36 +500,36 @@
           "w": "وَكَانَ يَعْقُوبُ",
           "r": "فِعل نَاقِص + اسم كَان",
           "rc": "tf",
-          "e": "كَانَ — noqis fe'l, يَعْقُوبُ ismi raf' holatida. Bu tarkib Ya'qubning Yusufga bo'lgan hissiy bog'liqligini — uni yonida tutish istagini — o'tgan zamonda doimiy holat sifatida ifodalaydi.",
+          "e": "كَانَ — noqis fe'l, يَعْقُوبُ ismi raf' holatida. Bu tarkib Ya'qubning Yusufga bo'lgan hissiy bog'liqligini — uni yonida tutish istagini — o'tgan zamonda doimiy va uzluksiz holat sifatida ifodalaydi. Bu jumla Ya'qubning ruxsat berishini psixologik jihatdan tushuntirib beradi.",
           "uz": "Va Ya'qub edi"
         },
         {
           "w": "لَا يُحِبُّ",
           "r": "خَبَر كَان (مَنفِيّ)",
           "rc": "tx",
-          "e": "لَا يُحِبُّ — كانَ ning inkor xabari. يُحِبُّ fe'li أَنْ يَبْعُدَ masdar tarkibini maf'ul sifatida talab qiladi. Ota Yusuf uzoq ketishini qabul qila olmasligining tuyg'usi shu fe'l orqali ifodalanadi.",
+          "e": "لَا يُحِبُّ — كانَ ning inkor fe'l jumlasidan iborat xabari. يُحِبُّ fe'li أَنْ يَبْعُدَ masdar tarkibini maf'ul sifatida talab qiladi. Ota Yusufning uzoqlashishini hissiy jihatdan qabul qila olmasligini shu fe'l orqali nafosatli tarzda ifodalanadi.",
           "uz": "sevmasdi"
         },
         {
           "w": "أَنْ يَبْعُدَ",
           "r": "مَصدَر مُؤَوَّل (مَفعُول بِه)",
           "rc": "tf",
-          "e": "أَنْ يَبْعُدَ — أَنْ masdariy harfi va mansub mudori' fe'lidan iborat masdar muavval tarkibi. لَا يُحِبُّ fe'lining maf'uli vazifasida: «uzoqlashishni yoqtirmasdi» ma'nosini beradi. يَبْعُدَ fe'lining فاعل si يُوسُفُ.",
+          "e": "أَنْ يَبْعُدَ — أَنْ masdariy harfi va mansub mudori' fe'lidan iborat masdar muavval tarkibi. لَا يُحِبُّ fe'lining maf'uli vazifasida bo'lib, «uzoqlashishni yoqtirmasdi» degan mazmunni bildiradi. يَبْعُدَ ning فَاعِل i keyingi يُوسُفُ ekanligi bu tarkibning to'liq ma'nosini beradi.",
           "uz": "uzoqlashishini"
         },
         {
           "w": "مِنْهُ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "مِنْهُ — يَبْعُدَ fe'liga متعلّق bo'lgan jar-majrur tarkibi. هُ zamiri Ya'qubga qaytadi. بَعُدَ مِنْ iborasi «kimdan uzoqlashmoq» ma'nosini beradi; uzoqlashish aynan Ya'qubdan bo'lishi kerakligini bildiradi.",
+          "e": "مِنْهُ — يَبْعُدَ fe'liga متعلّق bo'lgan jar-majrur tarkibi. هُ zamiri Ya'qubga qaytadi. بَعُدَ مِنْ iborasi «kimdan uzoqlashmoq» ma'nosini beradi; uzoqlashish aynan Ya'qubdan bo'lishini belgilab, otaning farzandiga bo'lgan hissiy yaqinligini ko'rsatadi.",
           "uz": "undan"
         },
         {
           "w": "يُوسُفُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يُوسُفُ — يَبْعُدَ fe'lining فَاعِل si, raf' holatida. Ism fe'ldan keyin kelishi arabiychada odatiy tartib. Uzoqlashish harakatini bajaruvchi Yusuf ekanligi shu orqali grammatik jihatdan aniq ko'rsatiladi.",
-          "uz": "Yusufni"
+          "e": "يُوسُفُ — يَبْعُدَ fe'lining فَاعِل i, raf' holatida. Ism fe'ldan keyin kelishi arabiychada keng tarqalgan tartib. Uzoqlashish harakatini bajaruvchi shaxs Yusuf ekanligi shu orqali grammatik jihatdan aniq ko'rsatilib, masdar muavval tarkibining to'liq ma'nosi yuzaga keladi.",
+          "uz": "Yusuf"
         }
       ]
     },
@@ -539,30 +539,30 @@
       "parts": [
         {
           "w": "وَكَانَ",
-          "r": "فِعل نَاقِص",
+          "r": "فِعل نَاقِص (اسمُه ضَمِير مُستَتِر)",
           "rc": "tf",
-          "e": "وَكَانَ — noqis fe'l, ismi oldingi jumladan tushib qolgan va Ya'qubga qaytadi. Bu gap Ya'qubning doimiy qo'rquvi mavzusiga qaytib, uni yana ta'kidlaydi. كانَ ning davomiylik ma'nosi qo'rquvning uzoq muddatli ekanini bildiradi.",
+          "e": "وَكَانَ — noqis fe'l bo'lib, uning ismi oldingi jumladan ellipsis yo'li bilan tushib qolgan va Ya'qubga qaytuvchi mustatir zamir sifatida tushuniladi. Bu gap Ya'qubning qo'rquvi mavzusini qayta ta'kidlash va rivoyatning asosiy motifini mustahkamlash maqsadida keltirilgan.",
           "uz": "edi"
         },
         {
           "w": "يَخَافُ",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "يَخَافُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi qo'rquvning o'tmishda takrorlanib turgan, doimiy his ekanini anglatadi. عَلَى يُوسُفَ jar-majruri qo'rquvning yo'nalishini ko'rsatadi.",
+          "e": "يَخَافُ — كانَ ning fe'l jumlasidan iborat xabari. Mudori' fe'l sifatida kelishi Ya'qubning qo'rquvi o'tmishda takrorlanib turgan, uzluksiz doimiy his ekanini anglatadi. عَلَى يُوسُفَ jar-majruri bu xabarni to'ldirib, qo'rquvning yo'nalishini belgilaydi.",
           "uz": "qo'rqardi"
         },
         {
           "w": "عَلَى يُوسُفَ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "عَلَى يُوسُفَ — يَخَافُ fe'liga متعلّق bo'lgan jar-majrur tarkibi. خَافَ عَلَى konstruktsiyasi arabchada «kimning xavfsizligi uchun tashvishlanmoq» ma'nosini beradi; bu qo'rquv Yusufning o'ziga emas, uning uchun ekanini aniq ko'rsatadi.",
+          "e": "عَلَى يُوسُفَ — يَخَافُ fe'liga متعلّق bo'lgan jar-majrur tarkibi. خَافَ عَلَى konstruktsiyasi arabchada «kimning xavfsizligi yoki sog'lig'i uchun tashvishlanmoq» ma'nosini beradi; bu qo'rquv Yusufning o'ziga emas, uning uchun ekanini aniq farqlab ko'rsatadi.",
           "uz": "Yusuf uchun"
         },
         {
           "w": "كَثِيرًا",
           "r": "حَال",
           "rc": "th",
-          "e": "كَثِيرًا — يَخَافُ fe'lining holini bildiruvchi nasb holatidagi isim. Qo'rquvning miqdori va intensivligini — «ko'p, juda» — ifodalab, Ya'qubning farzandiga bo'lgan muhabbati va xavotirining chuqurligini ta'kidlaydi.",
+          "e": "كَثِيرًا — يَخَافُ fe'lining holini bildiruvchi nasb holatidagi isim. Qo'rquvning intensivligi va miqdorini — «juda ko'p» — ifodalab, Ya'qubning farzandiga bo'lgan muhabbati va xavotirining qanchalik chuqur ekanligini ta'kidlaydi. Bu hol gapga hissiy og'irlik va ta'sir beradi.",
           "uz": "ko'p"
         }
       ]
@@ -573,58 +573,58 @@
       "parts": [
         {
           "w": "فَقَالَ",
-          "r": "فِعل مَاضٍ",
+          "r": "فِعل مَاضٍ (فَاء التَّعقِيب)",
           "rc": "tf",
-          "e": "فَقَالَ — فَاء ta'qibiya va قَالَ o'tgan zamon fe'lidan iborat. فَاء harfi voqealar ketma-ketligini ko'rsatib, Ya'qubning shu jarayondagi javobini kiritadi. Fe'lning fa'ili keyingi jar-majrurdan tushib qolgan va Ya'qubga qaytadi.",
+          "e": "فَقَالَ — فَاء ta'qibiya va قَالَ o'tgan zamon fe'lidan iborat. فَاء harfi voqealar ketma-ketligini ko'rsatib, aka-ukalarning dalillariga darhol javob berilganini bildiradi. Fe'lning fa'ili mustatir zamir bo'lib Ya'qubga qaytadi; لِأَبْنَائِهِ tarkibi kim qaratilganini oydinlashtiradi.",
           "uz": "shunda dedi"
         },
         {
           "w": "لِأَبْنَائِهِ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "لِأَبْنَائِهِ — فَقَالَ fe'liga متعلّق bo'lgan jar-majrur. لِ harfi yo'nalish va manzilni bildiradi; هِ zamiri Ya'qubga qaytib, u o'z o'g'illariga murojaat qilayotganini ko'rsatadi.",
+          "e": "لِأَبْنَائِهِ — فَقَالَ fe'liga متعلّق bo'lgan jar-majrur. لِ harfi yo'nalish va manzilni bildiradi; هِ zamiri Ya'qubga qaytib, u o'z o'g'illariga — aka-ukalarga — murojaat qilayotganini ko'rsatadi. أَبْنَاء ning mudof shakli nutqning qat'iy otalik munosabati ichida bo'lganini ta'kidlaydi.",
           "uz": "o'g'illariga"
         },
         {
           "w": "وَأَخَافُ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَأَخَافُ — mutakallim mudori' fe'li, قَالَ tarkibining muqtabas nutqi ichida kelgan. أَنَا zamiri Ya'qubga qaytadi. Bu fe'l Ya'qubning hozir ham davom etayotgan qo'rquvini ifodalaydi.",
+          "e": "وَأَخَافُ — mutakallim mudori' fe'li, قَالَ tarkibining muqtabas (to'g'ri) nutqi ichida kelgan. أَنَا zamiri Ya'qubga qaytadi. Mudori' fe'l sifatida kelishi Ya'qubning qo'rquvi hozir ham davom etayotgan, o'tmishda emas, joriy his ekanini ifodalaydi.",
           "uz": "va qo'rqaman"
         },
         {
           "w": "أَنْ يَأْكُلَهُ",
           "r": "مَصدَر مُؤَوَّل (مَفعُول بِه)",
           "rc": "tf",
-          "e": "أَنْ يَأْكُلَهُ — masdar muavval tarkibi bo'lib, أَخَافُ fe'lining maf'uli. أَنْ mansub qiluvchi harf, يَأْكُلَ nasb holatidagi mudori' fe'l, هُ zamiri Yusufga qaytuvchi maf'ul. Qo'rquv predmeti — bo'ri tomonidan yelib ketilish xavfi — shu tarkibda ifodalanadi.",
+          "e": "أَنْ يَأْكُلَهُ — masdar muavval tarkibi bo'lib, أَخَافُ fe'lining maf'uli. أَنْ nasb qiluvchi harf, يَأْكُلَ nasb holatidagi mudori' fe'l, هُ zamiri Yusufga qaytuvchi maf'ul. Qo'rquv predmeti — bo'ri tomonidan Yusuf yelib ketilishi xavfi — shu tarkib orqali grammatik va ma'noviy jihatdan aniq ifodalanadi.",
           "uz": "uni yeb qo'yishidan"
         },
         {
           "w": "الذِّئْبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الذِّئْبُ — يَأْكُلَهُ fe'lining فَاعِل i, raf' holatida. Bo'ri bu kontekstda Yusufga tahdid soluvchi asosiy xavf sifatida ko'rsatilmoqda; Ya'qubning qo'rquvi konkret va asoslangan ekanini bildiradi.",
+          "e": "الذِّئْبُ — يَأْكُلَهُ fe'lining فَاعِل i, raf' holatida. Bo'ri bu kontekstda Yusufga tahdid soluvchi eng asosiy, konkret xavf sifatida ko'rsatilmoqda. Ya'qubning xavotiri xayoliy emas, haqiqiy va mavjud xavfga asoslanganini ta'kidlaydi.",
           "uz": "bo'ri"
         },
         {
           "w": "وَأَنْتُمْ",
-          "r": "مُبتَدَأ (ضَمِير) فِي جُملَة حَالِيَّة",
+          "r": "مُبتَدَأ فِي جُملَة حَالِيَّة",
           "rc": "tm",
-          "e": "وَأَنْتُمْ — hal jumlasining mubtadosi bo'lgan منفصل ضمير. Bu jumla واو حَالِيَّة bilan boshlangan bo'lib, bo'ri yeydigan paytda aka-ukalarning holi — g'ofil bo'lishlari — shart sifatida taqdim etiladi.",
+          "e": "وَأَنْتُمْ — واو حَالِيَّة bilan boshlangan hal jumlasining mubtadosi bo'lgan منفصل ضمير. Bu jumla asosiy voqea — bo'ri yeydigan — paytdagi holatni tasvirlaydi: aka-ukalar g'ofil bo'lishi shart sifatida taqdim etiladi.",
           "uz": "sizlar esa"
         },
         {
           "w": "عَنْهُ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "عَنْهُ — غَافِلُونَ xabariga متعلّق bo'lgan jar-majrur tarkibi. غَفَلَ عَنْ iborasi arabchada «kimdan g'ofil bo'lmoq, e'tiborsiz qolmoq» ma'nosini beradi. هُ zamiri Yusufga qaytib, g'ofillik aynan undan bo'lishini ko'rsatadi.",
+          "e": "عَنْهُ — غَافِلُونَ xabariga متعلّق bo'lgan jar-majrur tarkibi. غَفَلَ عَنْ iborasi arabchada «kimdan e'tiborsiz bo'lmoq, g'ofil qolmoq» ma'nosini beradi. هُ zamiri Yusufga qaytib, g'ofillik aynan unga nisbatan bo'lishini konkret ko'rsatadi.",
           "uz": "undan"
         },
         {
           "w": "غَافِلُونَ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "غَافِلُونَ — وَأَنْتُمْ mubtadosining xabari, raf' holatida واو ва نون bilan. Bu hal jumlasining xabari Ya'qubning qo'rquvini asoslaydi: aka-ukalar g'ofil bo'lsa, bo'ri Yusufga yetishi mumkin degan mantiq bilan keladi.",
+          "e": "غَافِلُونَ — وَأَنْتُمْ mubtadosining xabari, raf' holatida واو va نون bilan. Bu hal jumlasining xabari Ya'qubning qo'rquvini mantiqiy jihatdan asoslaydi: aka-ukalar g'ofil qolsa, Yusufni himoya qila olmasliklarini aniq ifodalab, ota tashvishining asosliligini ko'rsatadi.",
           "uz": "g'ofilsizlar"
         }
       ]
@@ -637,70 +637,70 @@
           "w": "قَالُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالُوا — o'tgan zamon ko'plik fe'li, واو جَمَاعَة zamiri aka-ukalarga qaytadi. Bu fe'l aka-ukalarning Ya'qub qo'rquviga keskin va ishonchli javobini kiritadi.",
+          "e": "قَالُوا — o'tgan zamon ko'plik fe'li, واو جَمَاعَة zamiri aka-ukalarga qaytadi. Bu fe'l aka-ukalarning Ya'qubning bo'ri xavfiga oid qo'rquviga qat'iy va ishonchli javobini kiritadi; rivoyatda to'g'ridan-to'g'ri nutqni boshlovchi fe'l.",
           "uz": "Dedilar"
         },
         {
           "w": "أَبَدًا",
           "r": "ظَرف زَمَان (نَفي مُطلَق)",
           "rc": "th",
-          "e": "أَبَدًا — «hech qachon» yoki «aslo» ma'nosida inkorni kuchaytiruvchi vaqt zarfi. Bu kontekstda qisqa, ta'kidli rad javobi sifatida keladi: Ya'qubning xavotiri mutlaqo asossiz degan ma'noni bildiradi.",
+          "e": "أَبَدًا — «hech qachon» yoki «aslo» ma'nosida inkorni mutlaq kuchaytiradigan vaqt zarfi. Bu kontekstda qisqa, ta'kidli va qat'iy rad javob sifatida mustaqil keladi: Ya'qubning xavotiri hech qanday asossiz, bo'ri hech qachon Yusufga yeta olmaydi degan ma'noni bildiradi.",
           "uz": "aslo"
         },
         {
           "w": "كَيْفَ",
           "r": "اسم اسْتِفهَام (حَال)",
           "rc": "tb",
-          "e": "كَيْفَ — holni so'raydigan so'roq olmoshi. Bu yerda inkorna so'roq — «qanday qilib mumkin?» — ma'nosini beradi. Savol Ya'qubning taxminini imkonsiz deb ko'rsatish uchun ishlatilgan.",
+          "e": "كَيْفَ — holni so'raydigan so'roq olmoshi. Bu yerda inkorna retoriy savol sifatida — «buning hech qanday yo'li yo'q» ma'nosida — ishlatilgan. Savol Ya'qubning taxminini mantiqiy jihatdan imkonsiz deb rad etish uchun keltirilgan.",
           "uz": "qanday"
         },
         {
           "w": "يَأْكُلُهُ",
-          "r": "فِعل مُضَارِع + ضَمِير مَفعُول",
+          "r": "فِعل مُضَارِع + ضَمِير مَفعُول بِه",
           "rc": "tf",
-          "e": "يَأْكُلُهُ — so'roq jumlasining asosiy fe'li, mudori'. هُ zamiri maf'ul sifatida Yusufga qaytadi. كَيْفَ so'rog'iga bog'liq bo'lib, bo'rining Yusufni yeyishi qanday mumkinligi so'ralmoqda.",
-          "uz": "Uni yeydi"
+          "e": "يَأْكُلُهُ — so'roq jumlasining asosiy fe'li, mudori' shakli. هُ zamiri مَفعُول بِه vazifasida Yusufga qaytadi. كَيْفَ so'rog'iga bog'liq bo'lib, bo'rining Yusufni yeyishi qanday mumkin bo'lishi retoriy tarzda so'ralmoqda.",
+          "uz": "uni yeydi"
         },
         {
           "w": "الذِّئْبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الذِّئْبُ — يَأْكُلُهُ fe'lining فَاعِل i, raf' holatida. Ya'qub aytgan bo'ri yana mavzuga qaytarilgan; aka-ukalar aynan shu xavfni rad etmoqda.",
+          "e": "الذِّئْبُ — يَأْكُلُهُ fe'lining فَاعِل i, raf' holatida. Ya'qub eslatgan bo'ri yana so'z mavzusiga qaytarilgan; aka-ukalar aynan shu xavfni asossiz deb rad etmoqda. Ma'rifali shakli oldingi jumlada zikr etilgan bo'riga aniq ishora qiladi.",
           "uz": "bo'ri"
         },
         {
           "w": "وَنَحْنُ",
           "r": "مُبتَدَأ فِي جُملَة حَالِيَّة",
           "rc": "tm",
-          "e": "وَنَحْنُ — واو حَالِيَّة bilan boshlangan hal jumlasining mubtadosi. «Biz hozir bo'lsak» degan shartli holni ifodalaydi: bu holat bo'rining hujum qilishi imkonsizligini isbotlovchi asos.",
+          "e": "وَنَحْنُ — واو حَالِيَّة bilan boshlangan hal jumlasining mubtadosi. «Biz hozir bo'lsak» degan shartli holni ifodalaydi: bu holat bo'rining hujum qilishi moddiy jihatdan imkonsiz ekanini isbotlovchi asosiy argument.",
           "uz": "holbuki biz"
         },
         {
           "w": "حَاضِرُونَ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "حَاضِرُونَ — وَنَحْنُ mubtadosining xabari, raf' holatida. Aka-ukalarning hozir — Yusuf yonida — bo'lishlari qo'rquvni bekor qiladigan birinchi dalil. «Hozir bo'lgan himoyachilar» bo'rining hujumiga yo'l qo'ymaydi.",
+          "e": "حَاضِرُونَ — وَنَحْنُ mubtadosining xabari, raf' holatida. Aka-ukalarning Yusuf yonida jismoniy mavjudligi — hozir bo'lishlari — bo'ri xavfini bartaraf etuvchi birinchi va asosiy dalil. «Hozir bo'lgan himoyachilar» bo'rini Yusufga yaqinlashtirmaydi.",
           "uz": "hozirmiz"
         },
         {
           "w": "وَكَيْفَ يَأْكُلُهُ",
-          "r": "اسم اسْتِفهَام + فِعل مُضَارِع",
+          "r": "اسم اسْتِفهَام + فِعل مُضَارِع (تَكرَار لِلتَّوكِيد)",
           "rc": "tb",
-          "e": "وَكَيْفَ يَأْكُلُهُ — birinchi so'rog'i takrorlanishi bilan ikkinchi, mustaqil inkorna savol jumlasi. Bu takror uslub retoriyasi bo'lib, har safar yangi dalil bilan kuchaytirilgan holda xuddi shu savolni qaytaradi.",
-          "uz": "Va qanday uni yeydi"
+          "e": "وَكَيْفَ يَأْكُلُهُ — birinchi retoriy savol takrorlanib, ikkinchi mustaqil inkorna savol jumlasi hosil bo'lgan. Bu takror retoriy ta'kid uslubi bo'lib, har safar yangi dalil bilan kuchaytirilgan holda xuddi shu mantiqiy nuqtani qaytaradi.",
+          "uz": "va qanday uni yeydi"
         },
         {
           "w": "وَنَحْنُ",
           "r": "مُبتَدَأ فِي جُملَة حَالِيَّة",
           "rc": "tm",
-          "e": "وَنَحْنُ — ikkinchi hal jumlasining mubtadosi. Bu safar yangi dalil — yoshlik va kuch — kiritilmoqda. واو حَالِيَّة orqali «biz shunday kuchli bo'lsak» degan holni ifodalaydi.",
+          "e": "وَنَحْنُ — ikkinchi hal jumlasining mubtadosi. Bu safar yangi, boshqa turdagi dalil — yoshlik va jismoniy kuch — kiritilmoqda. واو حَالِيَّة orqali «biz bunday bo'lsak» degan shartli holni ifodalaydi.",
           "uz": "holbuki biz"
         },
         {
           "w": "شُبَّانٌ أَقْوِيَاءُ",
           "r": "خَبَر + نَعت",
           "rc": "tx",
-          "e": "شُبَّانٌ — وَنَحْنُ mubtadosining xabari, raf' holatida noaniq ism. أَقْوِيَاءُ — unga tobe naat. Ikkisi birgalikda ikkinchi dalilni — aka-ukalar yosh va kuchli, ya'ni Yusufni himoya qila oladigan — ekanini ta'kidlaydi.",
+          "e": "شُبَّانٌ — وَنَحْنُ mubtadosining xabari, raf' holatida noaniq ism. أَقْوِيَاءُ — unga tobe naat, u ham raf' holatida. Ikkisi birgalikda ikkinchi dalilni ifodalaydi: aka-ukalar nafaqat hozir bor, balki yosh va kuchli — ya'ni Yusufni himoya qilishga to'liq qodir — ekanini ta'kidlaydi.",
           "uz": "yosh va kuchli yigitlarmiz"
         }
       ]
@@ -713,21 +713,21 @@
           "w": "وَأَذِنَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَأَذِنَ — o'tgan zamon fe'li, واو atfiya yoki استئنافية bilan boshlangan. Bu fe'l butun muzokarani yakunlovchi voqeani — Ya'qubning ruxsati — bildiradi. Rivoyatning kulminatsion nuqtasi shu fe'l orqali ifodalanadi.",
+          "e": "وَأَذِنَ — o'tgan zamon fe'li, واو bilan boshlanishi rivoyatning yangi bosqichga o'tganini bildiradi. Bu fe'l uzun muloqot va tortishuvni yakunlovchi asosiy voqeani — Ya'qubning ruxsati — ifodalaydi. Rivoyatning keyingi qismiga o'tishni ta'minlovchi kulminatsion fe'l.",
           "uz": "izn berdi"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يَعْقُوبُ — وَأَذِنَ fe'lining فَاعِل i, raf' holatida. Ruxsatni beruvchi shaxsning aniq ko'rsatilishi rivoyatda uning otali va mas'uliyatli qarorini ta'kidlaydi.",
+          "e": "يَعْقُوبُ — وَأَذِنَ fe'lining فَاعِل i, raf' holatida. Ruxsatni beruvchi shaxsning aniq ko'rsatilishi rivoyatda uning otali, mas'uliyatli va ongli qarorini ta'kidlaydi. Ko'p muzokaradan so'ng Ya'qubning o'zi ruxsat berganligi uning cheksiz sevgi va ishonchga bog'liq ekanini ko'rsatadi.",
           "uz": "Ya'qub"
         },
         {
           "w": "لِيُوسُفَ",
-          "r": "جَار وَمَجرُور",
+          "r": "جَارّ وَمَجرُور",
           "rc": "tmt",
-          "e": "لِيُوسُفَ — وَأَذِنَ fe'liga متعلّق bo'lgan jar-majrur. أَذِنَ لِـ iborasi arabchada «kimgadir ruxsat bermoq» ma'nosini beradi. يُوسُفَ gayrimensarif bo'lgani uchun fatha bilan kelgan.",
+          "e": "لِيُوسُفَ — وَأَذِنَ fe'liga متعلّق bo'lgan jar-majrur. أَذِنَ لِـ iborasi arabchada «kimgadir biror narsani qilishga ruxsat bermoq» ma'nosini beradi. يُوسُفَ gayrimensarif ism bo'lgani uchun fatha bilan jarr holatida kelgan. Ruxsatning aynan Yusufga berilganligi hikoyaning asosiy harakat subyektini belgilaydi.",
           "uz": "Yusufga"
         }
       ]

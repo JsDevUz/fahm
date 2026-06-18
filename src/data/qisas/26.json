@@ -10,51 +10,51 @@
       "parts": [
         {
           "w": "قَالَ يُوسُفُ",
-          "r": "fe'l",
+          "r": "فِعل مَاضٍ وَفَاعِل",
           "rc": "tf",
-          "e": "قَالَ يُوسُفُ fe’l bo‘lib, gapdagi asosiy ish-harakat yoki voqeani bildiradi. Uning atrofidagi ism va to‘ldiruvchilar shu harakatga bog‘lanadi.",
+          "e": "قَالَ — o'tgan zamon fe'li (فِعل مَاضٍ) bo'lib, gapdagi asosiy harakat — 'dedi' ma'nosini bildiradi. يُوسُفُ esa uning فَاعِل (bajaruvchisi) bo'lib, marfū' (رَفع) holatida kelgan, chunki arab grammatikasida faol fe'lning bajaruvchisi doim marfū' bo'ladi.",
           "uz": "Yusuf dedi"
         },
         {
           "w": "فِي نَفْسِهِ",
-          "r": "mutaalliq (قَالَ يُوسُفُ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ قَالَ)",
           "rc": "tmt",
-          "e": "فِي نَفْسِهِ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "e": "فِي — harf jar (حَرف جَر), نَفْسِهِ esa uning majrūr (مَجرُور) bo'lib, birga jar-majrur tarkibini hosil qiladi. Bu tarkib قَالَ fe'liga bog'lanib, gapirishning uslubi yoki o'rinini — ya'ni 'o'z ichida, o'zicha' ma'nosini ifodalaydi.",
           "uz": "o'zicha (ichida)"
         },
         {
           "w": "إِنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف تَوكِيد وَنَصب (مِن أَخَوَات إِنَّ)",
           "rc": "tb",
-          "e": "إِنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "e": "إِنَّ — arabcha nasb va tavkid (ta'kid) harflaridan biri bo'lib, o'zidan keyingi ismni nasb (مَنصُوب) holatiga o'tkazadi va xabarni ta'kidlab bog'laydi. Bu harf gapga 'albatta, shubhasiz' ma'nosini qo'shib, so'zlovchining fikrni kuchli tasdiqlashini ifodalaydi.",
           "uz": "albatta"
         },
         {
           "w": "الْحَاجَةَ",
-          "r": "ism inna",
+          "r": "اسم إِنَّ (مَنصُوب)",
           "rc": "tm",
-          "e": "الْحَاجَةَ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "e": "الْحَاجَةَ — إِنَّ harfining ismi (اسم إِنَّ) bo'lib, nasb (نَصب) holatida kelgan, chunki إِنَّ o'zidan keyingi ismni mansub qiladi. Bu so'z إِنَّ tarkibining mavzusi — haqida hukm chiqariladigan narsa — sifatida ta'kidlanmoqda.",
           "uz": "ehtiyoj"
         },
         {
           "w": "سَاقَتِ",
-          "r": "xabar inna",
+          "r": "خَبَر إِنَّ (فِعل مَاضٍ)",
           "rc": "tx",
-          "e": "سَاقَتِ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "e": "سَاقَتِ — إِنَّ tarkibining xabari (خَبَر إِنَّ) bo'lib, fe'l xabar shaklida kelgan. Ta attached (تاء التأنيث الساكنة) الْحَاجَة so'zining muannas (muannas — feminine) ekanligini ko'rsatadi. Bu xabar الْحَاجَة haqida hukm — 'yetakladi' ma'nosini ifodalaydi.",
           "uz": "yetakladi"
         },
         {
           "w": "الرَّجُلَيْنِ",
-          "r": "maf'ul bih (قَالَ يُوسُفُ)",
+          "r": "مَفعُول بِه (مَنصُوب)",
           "rc": "tb",
-          "e": "الرَّجُلَيْنِ maf’ul bih bo‘lib, fe’lning ta’siri tushgan narsa yoki shaxsni bildiradi.",
+          "e": "الرَّجُلَيْنِ — سَاقَتِ fe'lining maf'ul bihi (مَفعُول بِه) bo'lib, fe'l ta'siri tushgan ob'ektni bildiradi. Ikkilik (مُثَنَّى) shaklidagi so'z nasb holatida ن bilan kelgan — 'ikki odamni' ma'nosida.",
           "uz": "ikki odamni"
         },
         {
           "w": "إِلَيَّ",
-          "r": "mutaalliq (قَالَ يُوسُفُ)",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ سَاقَتِ)",
           "rc": "tmt",
-          "e": "إِلَيَّ mutaalliq tarkib bo‘lib, fe’l, xabar yoki boshqa bo‘lakka bog‘lanib, joy, sabab, yo‘nalish yoki tegishlilik ma’nosini to‘ldiradi.",
+          "e": "إِلَيَّ — إِلَى harf jari va اء mutakallim (birinchi shaxs) zomiri birga kelib, سَاقَتِ fe'liga bog'langan jar-majrur tarkibini hosil qiladi. Bu tarkib harakatning yo'nalishini — 'menga tomon' ma'nosini bildiradi.",
           "uz": "menga"
         }
       ]
@@ -65,30 +65,30 @@
       "parts": [
         {
           "w": "وَإِنَّ",
-          "r": "harfi mushabbaha",
+          "r": "حَرف عَطف + حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "وَإِنَّ harfi mushabbaha bo‘lib, o‘zidan keyingi ismni ta’kidlab, unga xabar bog‘laydi.",
+          "e": "وَ — atf harfi bo'lib, bu gapni oldingi gap bilan bog'laydi. إِنَّ esa nasb va tavkid harfi bo'lib, o'zidan keyingi ismni mansub qiladi va gapga 'albatta' ma'nosida kuchli ta'kid qo'shadi. Ikkalasi birga kelganda o'tgan fikrni yangi kuchli ta'kid bilan davom ettiradi.",
           "uz": "va albatta"
         },
         {
           "w": "صَاحِبَ الْحَاجَةِ",
-          "r": "ism inna",
+          "r": "اسم إِنَّ (مُضَاف وَمُضَاف إِلَيه)",
           "rc": "tm",
-          "e": "صَاحِبَ الْحَاجَةِ inna harfidan keyin kelgan ism bo‘lib, ta’kidlangan mavzuni bildiradi; xabar shu ism haqida keladi.",
+          "e": "صَاحِبَ — إِنَّ ning ismi bo'lib, nasb holatida kelgan. الْحَاجَةِ esa uning مُضَاف إِلَيه (izofat tarkibidagi ikkinchi qism) bo'lib, jarr holatida kelgan. Izofat tarkibi 'ehtiyoj egasi' ma'nosini yaxlit ifodalab, إِنَّ ning mavzusini belgilaydi.",
           "uz": "ehtiyoj egasi"
         },
         {
           "w": "يَلِينُ",
-          "r": "xabar inna",
+          "r": "خَبَر إِنَّ (فِعل مُضَارِع مَرفُوع)",
           "rc": "tx",
-          "e": "يَلِينُ inna tarkibining xabari bo‘lib, ta’kidlangan ism haqida hukm yoki sifatni bildiradi.",
+          "e": "يَلِينُ — إِنَّ tarkibining xabari bo'lib, hozirgi-kelasi zamon fe'li (فِعل مُضَارِع) shaklida kelgan va marfū' holatida turadi. Bu fe'l ehtiyoj egasining doimiy holati — 'yumshaydi' ma'nosini ta'kidlab ifodalaydi.",
           "uz": "yumshaydi"
         },
         {
           "w": "وَيَخْضَعُ",
-          "r": "ma'tuf",
+          "r": "مَعطُوف عَلَى خَبَر إِنَّ (فِعل مُضَارِع مَرفُوع)",
           "rc": "tb",
-          "e": "وَيَخْضَعُ ma’tuf bo‘lib, oldingi so‘z yoki tarkibga bog‘lanib, u bilan bir xil grammatik vazifada kelgan.",
+          "e": "وَ — atf harfi, يَخْضَعُ esa يَلِينُ fe'liga ma'tuf (مَعطُوف) — bog'langan bo'lib, u bilan bir xil grammatik holatda (marfū') kelgan. Bu fe'l birinchi sifatni to'ldirib, ehtiyoj egasining ikkinchi xususiyatini — 'bo'ysunadi' ma'nosini bildiradi.",
           "uz": "bo'ysunadi"
         }
       ]
@@ -99,30 +99,30 @@
       "parts": [
         {
           "w": "وإن",
-          "r": "so‘z",
+          "r": "حَرف عَطف + حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "وإن gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi bo'lib, bu gapni oldingi bilan bog'laydi. إِنَّ esa nasb va ta'kid harfi bo'lib, o'zidan keyingi ismni mansub qiladi. Ushbu tuzilma oldingi إِنَّ gapi bilan bir xil usulda qurilgan bo'lib, ta'kidning takrorlanishi orqali fikr mustahkamlanmoqda.",
           "uz": "va albatta"
         },
         {
           "w": "صاحب الحاجة",
-          "r": "ibora",
+          "r": "اسم إِنَّ (مُضَاف وَمُضَاف إِلَيه)",
           "rc": "tmt",
-          "e": "صاحب الحاجة bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "صَاحِبَ — إِنَّ ning ismi bo'lib, nasb holatida kelgan. الْحَاجَةِ esa uning مُضَاف إِلَيه bo'lib, jarr holatida kelgan. Ushbu izofat tarkibi oldingi gapdagiga o'xshab takroran kelishi — matnda ta'kidning kuchayishi va bir xil mavzuning davom ettirilishi uslubiy vosita sifatida ishlatilmoqda.",
           "uz": "ehtiyoj egasi"
         },
         {
           "w": "يطيع",
-          "r": "so‘z",
+          "r": "خَبَر إِنَّ (فِعل مُضَارِع مَرفُوع)",
           "rc": "tb",
-          "e": "يطيع gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "يُطِيعُ — إِنَّ tarkibining xabari bo'lib, hozirgi-kelasi zamon fe'li (فِعل مُضَارِع) shaklida marfū' holatida kelgan. Bu fe'l ehtiyoj egasining uchinchi xususiyatini — 'itoat qiladi' ma'nosini ta'kidlab ifodalaydi.",
           "uz": "itoat qiladi"
         },
         {
           "w": "ويسمع",
-          "r": "so‘z",
+          "r": "مَعطُوف عَلَى خَبَر إِنَّ (فِعل مُضَارِع مَرفُوع)",
           "rc": "tb",
-          "e": "ويسمع gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi, يَسْمَعُ esa يُطِيعُ fe'liga ma'tuf bo'lib, bir xil grammatik holatda (marfū') kelgan. Bu so'z itoatning tabiiy natijasi sifatida 'eshitadi' ma'nosini qo'shib, ehtiyoj egasining to'liq tavsifini yakunlaydi.",
           "uz": "va eshitadi"
         }
       ]
@@ -133,51 +133,51 @@
       "parts": [
         {
           "w": "فلو",
-          "r": "so‘z",
+          "r": "حَرف عَطف + حَرف شَرط غَير جَازِم",
           "rc": "tb",
-          "e": "فلو gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "فَ — atf yoki natija harfi, لَوْ esa 'imtinā' lil-imtinā' (امتناع لامتناع)' — o'tgan zamondagi amalga oshmagan shart ma'nosini bildiruvchi shart harfidir. Bu birikmada فَ oldingi fikrga ulanib, natijaviy xulosa chiqarishga xizmat qiladi.",
           "uz": "agar"
         },
         {
           "w": "قلت",
-          "r": "so‘z",
+          "r": "فِعل الشَّرط (فِعل مَاضٍ)",
           "rc": "tb",
-          "e": "قلت gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "قُلْتُ — لَوْ ning shart fe'li (فِعل الشَّرط) bo'lib, o'tgan zamon shaklidagi birinchi shaxs fe'lidir. لَوْ bilan kelganda u amalga oshmagan faraziy holatni ifodalaydi — 'aytganimda edi' ma'nosida.",
           "uz": "aytsam"
         },
         {
           "w": "لهما",
-          "r": "so‘z",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ قُلْتُ)",
           "rc": "tb",
-          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "لَ — harf jar, هُمَا esa ikkilik uchun غائib zamiri bo'lib, birga jar-majrur tarkibini hosil qiladi. Bu tarkib قُلْتُ fe'liga bog'lanib, gapning kimga qaratilganini — 'ikkalasiga' ma'nosini ifodalaydi.",
           "uz": "ikkalasiga"
         },
         {
           "w": "شيئا",
-          "r": "so‘z",
+          "r": "مَفعُول بِه (مَنصُوب)",
           "rc": "tb",
-          "e": "شيئا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "شَيْئًا — قُلْتُ fe'lining maf'ul bihi bo'lib, nasb holatida tenvīn bilan kelgan. Bu so'z noaniqlik (تَنكِير) bildiruvchi nangkorlik qo'shimchasi bilan — 'biror narsa, istalgan nima' ma'nosini ifodalaydi.",
           "uz": "biror narsa"
         },
         {
           "w": "لسمعا",
-          "r": "so‘z",
+          "r": "جَواب الشَّرط (فِعل مَاضٍ مُؤكَّد بِلَام التَّوكِيد)",
           "rc": "tb",
-          "e": "لسمعا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "لَ — javob lomi (لَام التَّوكِيد أو لَام الجَواب) bo'lib, لَوْ ning shartiga javob boshlanishini ko'rsatadi. سَمِعَا esa o'tgan zamon fe'li, ikkilik shakli — 'ikkalasi eshitardi' ma'nosida. Bu tuzilma amalga oshmagan faraziy natijani ta'kidlab ifodalaydi.",
           "uz": "ikkalasi albatta eshitardi"
         },
         {
           "w": "وسمع",
-          "r": "so‘z",
+          "r": "مَعطُوف عَلَى جَواب الشَّرط (فِعل مَاضٍ)",
           "rc": "tb",
-          "e": "وسمع gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi, سَمِعَ esa لَسَمِعَا fe'liga ma'tuf bo'lib, bir xil grammatik holatda kelgan. Bu so'z birinchi natijani kengaytirib, eshitishning faqat ikki kishi bilan emas, balki butun zindon ahlini qamrab olganligini bildiradi.",
           "uz": "va eshitdi"
         },
         {
           "w": "أهل السجن",
-          "r": "ibora",
+          "r": "فَاعِل (مُضَاف وَمُضَاف إِلَيه)",
           "rc": "tmt",
-          "e": "أهل السجن bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "أَهْلُ — سَمِعَ fe'lining fā'ili (فَاعِل) bo'lib, marfū' holatida kelgan. السِّجْنِ esa uning مُضَاف إِلَيه (izofat tarkibining ikkinchi qismi) bo'lib, jarr holatida. Bu izofat 'zindon ahli, mahbuslar' ma'nosini yaxlit ifodalaydi.",
           "uz": "zindon ahli"
         }
       ]
@@ -188,23 +188,23 @@
       "parts": [
         {
           "w": "ولكن",
-          "r": "so‘z",
+          "r": "حَرف عَطف + حَرف اسْتِدرَاك وَنَصب",
           "rc": "tb",
-          "e": "ولكن gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi, لَكِنَّ esa istidrok (اسْتِدرَاك — oldingi gapni to'g'irlash yoki qarama-qarshi qo'yish) harfi bo'lib, ham nasb harflari jumlasiga kiradi. Bu birikmada oldingi fikrdagi taxmin yoki kutilganning aksini bildirish uchun ishlatilmoqda.",
           "uz": "lekin"
         },
         {
           "w": "يوسف",
-          "r": "so‘z",
+          "r": "اسم لَكِنَّ (مَنصُوب)",
           "rc": "tb",
-          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "يُوسُفَ — لَكِنَّ harfining ismi bo'lib, nasb holatida kelgan (اعلام ممنوعة من الصرف — g'ayrisi mansub ism). لَكِنَّ o'zidan keyingi ismni nasb qiladi va unga xabar bog'laydi.",
           "uz": "Yusuf"
         },
         {
           "w": "لم يستعجل",
-          "r": "ibora",
+          "r": "خَبَر لَكِنَّ (فِعل مُضَارِع مَجزُوم بِـ لَم)",
           "rc": "tmt",
-          "e": "لم يستعجل bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "لَمْ — jazm harfi bo'lib, hozirgi zamon fe'lini o'tgan zamonga o'tkazib, unga nafi (inkor) ma'nosini beradi. يَسْتَعْجِلْ esa لَمْ bilan jazm holatiga o'tgan fe'l bo'lib, لَكِنَّ ning xabari hisoblanadi. Bu tuzilma 'shoshilmadi' ma'nosini aniq ifodalaydi.",
           "uz": "shoshilmadi"
         }
       ]
@@ -215,23 +215,23 @@
       "parts": [
         {
           "w": "بل",
-          "r": "so‘z",
+          "r": "حَرف إِضرَاب وَعَطف",
           "rc": "tb",
-          "e": "بل gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "بَلْ — idrob harfi (حَرف إِضرَاب) bo'lib, oldingi hukm yoki fikrdan voz kechib, yangi, to'g'riroq fikrga o'tishni bildiradi. Bu yerda u Yusufning shoshilmaganligi fikridan kelib, u aslida nima qilganini ko'rsatishga xizmat qiladi.",
           "uz": "balki"
         },
         {
           "w": "قال",
-          "r": "so‘z",
+          "r": "فِعل مَاضٍ (فَاعِلُهُ مُسْتَتِر يَعُود إِلَى يُوسُف)",
           "rc": "tb",
-          "e": "قال gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "قَالَ — o'tgan zamon fe'li bo'lib, uning fā'ili mustatir (مُسْتَتِر — gapda zikr etilmagan, oldingi gapdan ma'lum) zamir bo'lib, يُوسُفُ ga qaytadi. Bu fe'l gapning asosiy harakatini — Yusufning so'zlashini ifodalaydi.",
           "uz": "dedi"
         },
         {
           "w": "لهما",
-          "r": "so‘z",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ قَالَ)",
           "rc": "tb",
-          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "لَ — harf jar, هُمَا esa ikkilik uchun g'oyib zamiri bo'lib, birga jar-majrur tarkibini hosil qiladi. Bu tarkib قَالَ fe'liga bog'lanib, gapning kimga qaratilganini — zindondalardagi ikki kishini ko'rsatadi.",
           "uz": "ikkalasiga"
         }
       ]
@@ -242,51 +242,51 @@
       "parts": [
         {
           "w": "أنا",
-          "r": "so‘z",
+          "r": "ضَمِير مُنفَصِل (مُبتَدَأ)",
           "rc": "tb",
-          "e": "أنا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "أَنَا — birinchi shaxs mustaqil zamiri (ضَمِير مُنفَصِل) bo'lib, bu gapda mubtada (مُبتَدَأ) vazifasida kelgan. U asosiy fe'l أُخْبِرُ ning fā'iliga ziyoda ta'kid uchun qo'shilgan, ya'ni 'aynan men, boshqa birov emas' ma'nosini kuchaytiradi.",
           "uz": "men"
         },
         {
           "w": "أخبركما",
-          "r": "so‘z",
+          "r": "فِعل مُضَارِع + ضَمِير مَفعُول (خَبَر المُبتَدَأ)",
           "rc": "tb",
-          "e": "أخبركما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "أُخْبِرُ — hozirgi-kelasi zamon fe'li bo'lib, mubtada أَنَا ning xabari (خَبَر) vazifasida kelgan. كُمَا — muttasil maf'ul zamiri bo'lib, ikki kishiga murojaat qilishni bildiradi. Butun so'z 'men ikkalangizga xabar beraman' ma'nosini ifodalaydi.",
           "uz": "ikkalangizga xabar beraman"
         },
         {
           "w": "بتأويل الرؤيا",
-          "r": "ibora",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ أُخْبِرُ)",
           "rc": "tmt",
-          "e": "بتأويل الرؤيا bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "بِ — harf jar, تَأْوِيلِ esa majrur bo'lib, birga jar-majrur tarkibini hosil qiladi. الرُّؤْيَا esa تَأْوِيلِ ning مُضَاف إِلَيه (izofat ikkinchi qismi) bo'lib, jarr holatida. Bu tarkib أُخْبِرُ fe'liga bog'lanib, xabarning mazmunini — 'tush ta'biri haqida' ma'nosini ifodalaydi.",
           "uz": "tush ta'biri haqida"
         },
         {
           "w": "قبل",
-          "r": "so‘z",
+          "r": "ظَرف زَمَان (مَنصُوب، مُتَعَلِّق بِـ أُخْبِرُ)",
           "rc": "tb",
-          "e": "قبل gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "قَبْلَ — zamon zarfi (ظَرف زَمَان) bo'lib, nasb holatida kelgan va أُخْبِرُ fe'liga bog'langan. U harakatning vaqt chegarasini — 'oldin' ma'nosini bildiradi va keyingi أَنْ li tarkib uning مُضَاف إِلَيه sifatida kelib, 'nimadan oldin' degan savolga javob beradi.",
           "uz": "oldin"
         },
         {
           "w": "أن",
-          "r": "so‘z",
+          "r": "حَرف مَصدَرِيَّة وَنَصب",
           "rc": "tb",
-          "e": "أن gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "أَنْ — masdariyya harfi bo'lib, o'zidan keyingi muzāri' fe'lini nasb holatiga o'tkazadi va u bilan birga masdar ma'noli tarkib (مَصدَر مُؤَوَّل) hosil qiladi. Bu tarkib قَبْلَ zarfiga izofat (مُضَاف إِلَيه) sifatida bog'langan.",
           "uz": "-ki, -ishni"
         },
         {
           "w": "يأتيكما",
-          "r": "so‘z",
+          "r": "فِعل مُضَارِع مَنصُوب بِـ أَن + ضَمِير مَفعُول",
           "rc": "tb",
-          "e": "يأتيكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "يَأْتِيَ — أَنْ bilan mansub bo'lgan muzāri' fe'li, كُمَا esa uning maf'ul zamiri. أَنْ + يَأْتِيَ birga masdar ta'villi (مَصدَر مُؤَوَّل) tarkibni hosil qilib, قَبْلَ ning مُضَاف إِلَيه bo'lib keladi — 'ikkalangizga kelishidan oldin' ma'nosini beradi.",
           "uz": "ikkalangizga keladi"
         },
         {
           "w": "طعامكما",
-          "r": "so‘z",
+          "r": "فَاعِل (مَرفُوع، مُضَاف إِلَى ضَمِير)",
           "rc": "tb",
-          "e": "طعامكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "طَعَامُ — يَأْتِيَ fe'lining fā'ili bo'lib, marfū' holatida kelgan. كُمَا esa uning مُضَاف إِلَيه bo'lgan muttasil zamiri. Butun so'z 'ikkalangizning taomingiz' ma'nosida fā'il sifatida keltirilgan.",
           "uz": "ikkalangizning taomingiz"
         }
       ]
@@ -297,16 +297,16 @@
       "parts": [
         {
           "w": "فجلسا",
-          "r": "so‘z",
+          "r": "فَاء السَّبَبِيَّة + فِعل مَاضٍ (فَاعِلُهُ ضَمِير التَّثنِيَة)",
           "rc": "tb",
-          "e": "فجلسا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "فَ — sababiyya yoki ta'qib (تَعقِيب) harfi bo'lib, oldingi fikrning natijasini ko'rsatadi. جَلَسَ — o'tgan zamon fe'li, الف الاثنين esa ikkilik fā'il zamiri bo'lib, 'ikkalasi o'tirdi' ma'nosini bildiradi. Bu fe'l Yusufning ta'sirchan so'zlariga ularning birinchi munosabatini ifodalaydi.",
           "uz": "ikkalasi o'tirdi"
         },
         {
           "w": "واطمأنا",
-          "r": "so‘z",
+          "r": "حَرف عَطف + فِعل مَاضٍ مَعطُوف (فَاعِلُهُ ضَمِير التَّثنِيَة)",
           "rc": "tb",
-          "e": "واطمأنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi, اطْمَأَنَّ esa جَلَسَ fe'liga ma'tuf bo'lib, bir xil grammatik holatda kelgan. الف الاثنين — ikkilik fā'il zamiri. Bu fe'l 'xotirjam bo'ldi' ma'nosida birinchi harakatning tabiiy natijasi sifatida keladi.",
           "uz": "va xotirjam bo'ldi"
         }
       ]
@@ -317,30 +317,30 @@
       "parts": [
         {
           "w": "ثم",
-          "r": "so‘z",
+          "r": "حَرف عَطف (يُفِيد التَّرتِيب وَالتَّرَاخِي)",
           "rc": "tb",
-          "e": "ثم gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "ثُمَّ — tartib va vaqt oraliq (تَرَاخِي — ma'lum vaqt o'tgach) ma'nosidagi atf harfidir. U oldingi gapga ulanib, keyingi voqea ma'lum vaqtdan so'ng sodir bo'lganligini bildiradi va matn ketma-ketligini ta'minlaydi.",
           "uz": "so'ng"
         },
         {
           "w": "قال",
-          "r": "so‘z",
+          "r": "فِعل مَاضٍ",
           "rc": "tb",
-          "e": "قال gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "قَالَ — o'tgan zamon fe'li bo'lib, gapning asosiy predikatini bildiradi. Uning fā'ili keyinroq zikr qilingan يُوسُفُ bo'lib, arabcha uslubda fe'l fā'ildan oldin kelishi odatiy holdir — bu fe'l-fā'il tartibi (الفِعل يَتَقَدَّم عَلَى الفَاعِل) deb ataladi.",
           "uz": "dedi"
         },
         {
           "w": "لهما",
-          "r": "so‘z",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ قَالَ)",
           "rc": "tb",
-          "e": "لهما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "لَ — harf jar, هُمَا esa ikkilik g'oyib zamiri bo'lib, birga jar-majrur tarkibini hosil qiladi va قَالَ fe'liga bog'lanadi. Bu tarkib muloqotning kimga qaratilganini — 'ikki zindondalga' ma'nosini belgilaydi.",
           "uz": "ikkalasiga"
         },
         {
           "w": "يوسف",
-          "r": "so‘z",
+          "r": "فَاعِل (مَرفُوع)",
           "rc": "tb",
-          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "يُوسُفُ — قَالَ fe'lining fā'ili bo'lib, marfū' holatida kelgan. U fe'ldan keyin kelishi tarkibning aniqligiga (ta'rifiga) xizmat qiladi va tinglovchiga bajaruvchini aniq ko'rsatadi.",
           "uz": "Yusuf"
         }
       ]
@@ -351,44 +351,44 @@
       "parts": [
         {
           "w": "أنا",
-          "r": "so‘z",
+          "r": "ضَمِير مُنفَصِل (مُبتَدَأ)",
           "rc": "tb",
-          "e": "أنا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "أَنَا — birinchi shaxs mustaqil zamiri bo'lib, jumlai ismiyaning mubtadasi (مُبتَدَأ) sifatida kelgan. Bu yerda u faqat grammatik zaruriyat emas, balki ta'kid uchun ham qo'llangan — Yusuf o'z bilimini boshqalardan ajratib, 'aynan men bilaman' degan ta'kidni ifodalaydi.",
           "uz": "men"
         },
         {
           "w": "عالم",
-          "r": "so‘z",
+          "r": "خَبَر المُبتَدَأ (اسم فَاعِل مَرفُوع)",
           "rc": "tb",
-          "e": "عالم gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "عَالِمٌ — ism fā'il (اسم فَاعِل) bo'lib, mubtada أَنَا ning xabari (خَبَر) sifatida marfū' holatida kelgan. U 'biluvchi, bilimdon' ma'nosida Yusufning doimiy sifatini ifodalaydi va keyingi jar-majrur tarkib unga bog'lanadi.",
           "uz": "biluvchi"
         },
         {
           "w": "بتأويل الرؤيا",
-          "r": "ibora",
+          "r": "جَار وَمَجرُور (مُتَعَلِّق بِـ عَالِم)",
           "rc": "tmt",
-          "e": "بتأويل الرؤيا bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "بِ — harf jar, تَأْوِيلِ esa majrur bo'lib, الرُّؤْيَا uning مُضَاف إِلَيه hisoblanadi. Bu tarkib عَالِمٌ ism fā'iliga bog'lanib, bilimning nima haqida ekanligini — 'tush ta'biri bo'yicha' ma'nosini ifodalaydi. Ism fā'il bilan kelganda بِ odatda maf'ul o'rnida keladi.",
           "uz": "tush ta'biri haqida"
         },
         {
           "w": "ذلكما",
-          "r": "so‘z",
+          "r": "اسم إِشَارَة (مُبتَدَأ)",
           "rc": "tb",
-          "e": "ذلكما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "ذَلِكُمَا — ikki kishiga murojaat uchun ishlatilgan ikkilik ism ishorasi (اسم إِشَارَة للبعيد للمثنى) bo'lib, yangi jumlai ismiyaning mubtadasi sifatida kelgan. U oldingi gapda zikr qilingan 'bilim' yoki 'ta'bir bilish'ni ko'rsatib, 'mana bu' ma'nosini bildiradi.",
           "uz": "bu ikkovingizga"
         },
         {
           "w": "مما",
-          "r": "so‘z",
+          "r": "جَار وَمَجرُور (خَبَر المُبتَدَأ)",
           "rc": "tb",
-          "e": "مما gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "مِنْ — harf jar, مَا esa mubham ism bo'lib, birga جَار وَمَجرُور tarkibini hosil qiladi va mubtada ذَلِكُمَا ning xabari (خَبَر) vazifasida keladi. 'Narsalardan biri' ma'nosida Yusufning bilimining ilohiy manbaga egaligini ifodalaydi.",
           "uz": "narsalardan"
         },
         {
           "w": "علمني ربي",
-          "r": "ibora",
+          "r": "فِعل مَاضٍ وَمَفعُول وَفَاعِل (صِلَة المَوصُول)",
           "rc": "tmt",
-          "e": "علمني ربي bir nechta so‘zdan tuzilgan ibora bo‘lib, gapda bitta yaxlit ma’no va grammatik birlik sifatida ishlatilgan.",
+          "e": "عَلَّمَ — o'tgan zamon fe'li (bab II — ta'kid), نِي esa birinchi shaxs maf'ul zamiri, رَبِّي fā'il bo'lib, marfū' holatida kelgan. Bu to'liq gap مَا ning sila (صِلَة الموصول) bo'lib, مِمَّا tarkibidagi مَا ni izohlaydi — 'Rabbim menga o'rgatgan narsalar' ma'nosini bildiradi.",
           "uz": "Rabbim menga o'rgatdi"
         }
       ]
@@ -399,16 +399,16 @@
       "parts": [
         {
           "w": "ففرحا",
-          "r": "so‘z",
+          "r": "فَاء السَّبَبِيَّة + فِعل مَاضٍ (فَاعِلُهُ ضَمِير التَّثنِيَة)",
           "rc": "tb",
-          "e": "ففرحا gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "فَ — Yusufning bilimini e'lon qilishining natijasini ko'rsatuvchi sababiyya harfi. فَرِحَ — o'tgan zamon fe'li, الف الاثنين esa ikkilik fā'il zamiri. Bu fe'l ikki zindondalning Yusuf so'zlariga birinchi hissiy munosabatini — xursandligini ifodalaydi.",
           "uz": "ikkalasi xursand bo'ldi"
         },
         {
           "w": "واطمأنا",
-          "r": "so‘z",
+          "r": "حَرف عَطف + فِعل مَاضٍ مَعطُوف (فَاعِلُهُ ضَمِير التَّثنِيَة)",
           "rc": "tb",
-          "e": "واطمأنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi, اطْمَأَنَّ esa فَرِحَ fe'liga ma'tuf bo'lib, bir xil grammatik holatda kelgan. الف الاثنين — ikkilik zamiri. Bu fe'l xursandlik tuyg'usini to'ldirib, ruhiy xotirjamlik holatini — 'ikkalasi tinchlanib, tasalli topdi' ma'nosini ifodalaydi.",
           "uz": "va xotirjam bo'ldi"
         }
       ]
@@ -419,44 +419,44 @@
       "parts": [
         {
           "w": "وهنا",
-          "r": "so‘z",
+          "r": "حَرف عَطف + ظَرف مَكَان (مُتَعَلِّق بِـ وَجَدَ)",
           "rc": "tb",
-          "e": "وهنا gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَ — atf harfi bo'lib, bu gapni oldingi voqealar bilan bog'laydi. هُنَا esa o'rin zarfi (ظَرف مَكَان) bo'lib, وَجَدَ fe'liga bog'langan. U matnda aniq o'rin va vaziyatni — 'o'sha holat va paytda, aynan shu joyda' ma'nosini bildiradi.",
           "uz": "va shu yerda"
         },
         {
           "w": "وجد",
-          "r": "so‘z",
+          "r": "فِعل مَاضٍ",
           "rc": "tb",
-          "e": "وجد gapdagi mustaqil so‘z bo‘lib, boshidagi “و” uni oldingi bo‘lak bilan bog‘lab kelgan.",
+          "e": "وَجَدَ — o'tgan zamon fe'li bo'lib, gapning asosiy predikatini bildiradi. Uning fā'ili keyinroq zikr qilingan يُوسُفُ, fe'l-fā'il tartibiga ko'ra fe'l avval kelgan. Bu fe'l Yusufning imkoniyatni sezib, undan foydalanganligini ifodalaydi.",
           "uz": "va topdi"
         },
         {
           "w": "يوسف",
-          "r": "so‘z",
+          "r": "فَاعِل (مَرفُوع)",
           "rc": "tb",
-          "e": "يوسف gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "يُوسُفُ — وَجَدَ fe'lining fā'ili bo'lib, marfū' holatida kelgan. Ism alomasining kelishi (tanvin yoki alif-lom) bilan emas, balki dammah bilan harakat qilinishi — bu so'zning fā'il ekanligini ko'rsatadi.",
           "uz": "Yusuf"
         },
         {
           "w": "الفرصة",
-          "r": "so‘z",
+          "r": "مَفعُول بِه (مَنصُوب)",
           "rc": "tb",
-          "e": "الفرصة gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "الْفُرْصَةَ — وَجَدَ fe'lining maf'ul bihi bo'lib, nasb holatida فَتحَة bilan kelgan. Alif-lom (ال) bilan ma'rifa (aniq) sifatida kelishi — muayyan, kutilgan yoki oldindan aytilgan imkoniyatga ishora qiladi.",
           "uz": "imkoniyat"
         },
         {
           "w": "فبدأ",
-          "r": "so‘z",
+          "r": "فَاء السَّبَبِيَّة + فِعل مَاضٍ (فَاعِلُهُ مُسْتَتِر)",
           "rc": "tb",
-          "e": "فبدأ gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "فَ — sababiyya harfi bo'lib, imkoniyat topilishining bevosita natijasini ko'rsatadi. بَدَأَ — o'tgan zamon fe'li, fā'ili mustatir zamir bo'lib يُوسُفُ ga qaytadi. Bu fe'l Yusufning kutib yurgan paytini topib, darhol ish boshlashini ifodalaydi.",
           "uz": "bas boshladi"
         },
         {
           "w": "موعظته",
-          "r": "so‘z",
+          "r": "مَفعُول بِه (مَنصُوب، مُضَاف إِلَى ضَمِير)",
           "rc": "tb",
-          "e": "موعظته gapdagi mustaqil so‘z bo‘lib, ma’no zanjirining alohida bo‘lagi sifatida kelgan.",
+          "e": "مَوْعِظَةَ — بَدَأَ fe'lining maf'ul bihi bo'lib, nasb holatida فَتحَة bilan kelgan. هُ esa unga muttasil bo'lgan maf'ul zamiri — 'uning nasihati' ma'nosida izofat tarkibini hosil qiladi. Bu so'z butun hikoyaning markaziy mavzusini — Yusufning diniy nasihatini ko'rsatadi.",
           "uz": "nasihati"
         }
       ]
