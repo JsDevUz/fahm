@@ -1,0 +1,251 @@
+{
+  "title": "٥١ ـ الرَّسُولُ",
+  "page": 68,
+  "sentences": [
+    {
+      "ar": "وَأَرَادَ اللَّهُ أَنْ يُرْسِلَ إِلَيْهِمْ رَجُلاً مِنْهُمْ يُكَلِّمُهُمْ وَيَنْصَحُ لَهُمْ.",
+      "tr": "Alloh ularga o‘zlaridan bir kishini yuborishni iroda qildi; u ularga gapirar va ularga nasihat qilar edi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ اللَّهُ",
+          "r": "فعل وفاعل",
+          "rc": "فعل وفاعل",
+          "e": "أراد o‘tgan zamon fe’li; الله فاعل.",
+          "uz": "va Alloh iroda qildi"
+        },
+        {
+          "w": "أَنْ يُرْسِلَ إِلَيْهِمْ",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "أن + muzori’ fe’l أراد fe’lining maf’uli bo‘lib kelgan; إليهم yo‘nalish.",
+          "uz": "ularga yuborishni"
+        },
+        {
+          "w": "رَجُلاً مِنْهُمْ",
+          "r": "مفعول وصفة معنوية",
+          "rc": "مفعول وصفة معنوية",
+          "e": "رجلاً yuboriladigan kishini bildiradi; منهم ularning o‘zidan ekanini ko‘rsatadi.",
+          "uz": "o‘zlaridan bir kishini"
+        },
+        {
+          "w": "يُكَلِّمُهُمْ وَيَنْصَحُ لَهُمْ",
+          "r": "جملة صفة",
+          "rc": "جملة صفة",
+          "e": "Ikki muzori’ fe’l رجلاً so‘zini sifatlaydi; هم va لهم qavmga qaytadi.",
+          "uz": "ularga gapiradigan va nasihat qiladigan"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ لا يُكَلِّمُ وَاحِداً وَاحِداً، إِنَّ اللَّهَ لَا يُخَاطِبُ كُلَّ أَحَدٍ يَقُولُ لَهُ افْعَلْ كَذَا، افْعَلْ كَذَا.",
+      "tr": "Albatta, Alloh har bir odam bilan alohida-alohida gaplashmaydi; Alloh har bir kishiga: “bunday qil, bunday qil”, deb murojaat qilmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ اللَّهَ",
+          "r": "إن واسمها",
+          "rc": "إن واسمها",
+          "e": "إنَّ ta’kid harfi; الله اسم إن.",
+          "uz": "albatta Alloh"
+        },
+        {
+          "w": "لا يُكَلِّمُ وَاحِداً وَاحِداً",
+          "r": "نفي وخبر",
+          "rc": "نفي وخبر",
+          "e": "لا muzori’ fe’lni inkor qiladi; واحداً واحداً taqsim ma’nosida.",
+          "uz": "birma-bir gapirmaydi"
+        },
+        {
+          "w": "إِنَّ اللَّهَ لَا يُخَاطِبُ كُلَّ أَحَدٍ",
+          "r": "جملة مؤكدة ثانية",
+          "rc": "جملة مؤكدة ثانية",
+          "e": "Ikkinchi ta’kidli jumla avvalgi fikrni kengaytiradi; كلَّ maf’ul.",
+          "uz": "Alloh har bir kishiga murojaat qilmaydi"
+        },
+        {
+          "w": "يَقُولُ لَهُ افْعَلْ كَذَا، افْعَلْ كَذَا",
+          "r": "جملة حالية/تفسيرية",
+          "rc": "جملة حالية/تفسيرية",
+          "e": "يقول murojaat tarzini izohlaydi; افعل buyruq fe’li.",
+          "uz": "unga “bunday qil, bunday qil” deb"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ المُلُوكَ لا يُكَلِّمُوْنَ وَاحِداً وَاحِداً.",
+      "tr": "Podshohlar ham har bir kishi bilan birma-bir gaplashmaydilar.",
+      "parts": [
+        {
+          "w": "إِنَّ المُلُوكَ",
+          "r": "إن واسمها",
+          "rc": "إن واسمها",
+          "e": "إنَّ ta’kid; الملوك اسم إن mansub.",
+          "uz": "albatta podshohlar"
+        },
+        {
+          "w": "لا يُكَلِّمُوْنَ",
+          "r": "خبر إن جملة فعلية",
+          "rc": "خبر إن جملة فعلية",
+          "e": "لا inkor; يكلمون ko‘plik muzori’ fe’l.",
+          "uz": "gaplashmaydilar"
+        },
+        {
+          "w": "وَاحِداً وَاحِداً",
+          "r": "حال/تمييز تكراري",
+          "rc": "حال/تمييز تكراري",
+          "e": "Takror taqsim va alohidalik ma’nosini beradi.",
+          "uz": "birma-bir"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ المُلُوْكَ لا يَذْهَبُوْنَ إِلى كُلِّ أَحَدٍ يَقُوْلُوْنَ لَهُ افْعَلْ كَذَا، افْعَلْ كَذَا.",
+      "tr": "Podshohlar har bir kishining oldiga borib: “bunday qil, bunday qil”, deb aytib yurmaydilar.",
+      "parts": [
+        {
+          "w": "إِنَّ المُلُوْكَ",
+          "r": "إن واسمها",
+          "rc": "إن واسمها",
+          "e": "Ta’kidli ismiy kirish; الملوك mansub.",
+          "uz": "albatta podshohlar"
+        },
+        {
+          "w": "لا يَذْهَبُوْنَ إِلى كُلِّ أَحَدٍ",
+          "r": "نفي وفعل ومتعلق",
+          "rc": "نفي وفعل ومتعلق",
+          "e": "لا inkor; إلى كل أحد borish manzilini bildiradi.",
+          "uz": "har bir kishining oldiga bormaydilar"
+        },
+        {
+          "w": "يَقُوْلُوْنَ لَهُ",
+          "r": "جملة حالية",
+          "rc": "جملة حالية",
+          "e": "Borish holatini izohlaydi; له murojaat qilinayotgan kishiga qaytadi.",
+          "uz": "unga deb"
+        },
+        {
+          "w": "افْعَلْ كَذَا، افْعَلْ كَذَا",
+          "r": "فعل أمر مكرر",
+          "rc": "فعل أمر مكرر",
+          "e": "Buyruq fe’li takrorlanib, alohida-alohida ko‘rsatma berishni bildiradi.",
+          "uz": "bunday qil, bunday qil"
+        }
+      ]
+    },
+    {
+      "ar": "وَالْمُلُوكُ بَشَرٌ كَالْبَشَرِ، يَقْدِرُ كُلُّ أَحَدٍ أَنْ يَرَاهُمْ وَيَسْمَعَ كَلامَهُمْ.",
+      "tr": "Podshohlar ham odamlar kabi insondir; har kim ularni ko‘ra oladi va so‘zlarini eshita oladi.",
+      "parts": [
+        {
+          "w": "وَالْمُلُوكُ بَشَرٌ",
+          "r": "مبتدأ وخبر",
+          "rc": "مبتدأ وخبر",
+          "e": "الملوك مبتدأ; بشرٌ xabar.",
+          "uz": "podshohlar insondir"
+        },
+        {
+          "w": "كَالْبَشَرِ",
+          "r": "جار ومجرور للتشبيه",
+          "rc": "جار ومجرور للتشبيه",
+          "e": "كـ o‘xshatish harfi; البشر majrur.",
+          "uz": "insonlar kabi"
+        },
+        {
+          "w": "يَقْدِرُ كُلُّ أَحَدٍ",
+          "r": "فعل وفاعل",
+          "rc": "فعل وفاعل",
+          "e": "يقدر imkoniyatni bildiradi; كل أحد فاعل.",
+          "uz": "har kim qodir bo‘ladi"
+        },
+        {
+          "w": "أَنْ يَرَاهُمْ وَيَسْمَعَ كَلامَهُمْ",
+          "r": "مصدر مؤول معطوف",
+          "rc": "مصدر مؤول معطوف",
+          "e": "أن bilan kelgan ikki fe’l يقدر fe’liga bog‘langan; هم podshohlarga qaytadi.",
+          "uz": "ularni ko‘rishga va so‘zlarini eshitishga"
+        }
+      ]
+    },
+    {
+      "ar": "وَلا يَقْدِرُ أَحَدٌ أَنْ يَرَى اللَّهَ وَيَسْمَعَ كَلامَهُ وَيُكَلِّمَهُ، وَلا يَقْدِرُ عَلَى ذَلِكَ إِلَّا مَنْ أَرَادَ اللَّهُ، إِذَا أَرَادَ اللَّهُ.",
+      "tr": "Hech kim Allohni ko‘rishga, Uning kalomini eshitishga va U bilan gaplashishga qodir emas; bunga faqat Alloh xohlagan kishi qodir bo‘ladi, Alloh xohlagan paytda.",
+      "parts": [
+        {
+          "w": "وَلا يَقْدِرُ أَحَدٌ",
+          "r": "نفي وفعل وفاعل",
+          "rc": "نفي وفعل وفاعل",
+          "e": "لا inkor; أحدٌ umumiy fāil bo‘lib “hech kim” ma’nosiga yaqin.",
+          "uz": "va hech kim qodir emas"
+        },
+        {
+          "w": "أَنْ يَرَى اللَّهَ",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "أن + يرى fe’li يقدر ga bog‘langan; اللهَ maf’ul bo‘lib mansub.",
+          "uz": "Allohni ko‘rishga"
+        },
+        {
+          "w": "وَيَسْمَعَ كَلامَهُ وَيُكَلِّمَهُ",
+          "r": "أفعال معطوفة",
+          "rc": "أفعال معطوفة",
+          "e": "Ikki fe’l أن tarkibiga ma’nan bog‘lanadi; هـ Allohga qaytadi.",
+          "uz": "Uning kalomini eshitishga va U bilan gaplashishga"
+        },
+        {
+          "w": "وَلا يَقْدِرُ عَلَى ذَلِكَ",
+          "r": "نفي ومتعلق",
+          "rc": "نفي ومتعلق",
+          "e": "ذلك oldingi ulug‘ ishga ishora qiladi.",
+          "uz": "va bunga qodir bo‘lmaydi"
+        },
+        {
+          "w": "إِلَّا مَنْ أَرَادَ اللَّهُ",
+          "r": "استثناء",
+          "rc": "استثناء",
+          "e": "إلا istisno; من Alloh xohlagan kishini bildiradi.",
+          "uz": "faqat Alloh xohlagan kishi"
+        },
+        {
+          "w": "إِذَا أَرَادَ اللَّهُ",
+          "r": "ظرف شرط",
+          "rc": "ظرف شرط",
+          "e": "إذا vaqt sharti; ish Alloh irodasiga bog‘langanini bildiradi.",
+          "uz": "Alloh xohlaganida"
+        }
+      ]
+    },
+    {
+      "ar": "فَأَرَادَ اللَّهُ أَنْ يُرْسِلَ إِلى النَّاسِ رَسُوْلاً يُكَلِّمُهُمْ وَيَنْصَحُ لَهُمْ.",
+      "tr": "Shuning uchun Alloh odamlarga ularga gapiradigan va nasihat qiladigan bir rasul yuborishni iroda qildi.",
+      "parts": [
+        {
+          "w": "فَأَرَادَ اللَّهُ",
+          "r": "فاء تفريع وفعل وفاعل",
+          "rc": "فاء تفريع وفعل وفاعل",
+          "e": "فاء oldingi izohdan natija chiqaradi; الله فاعل.",
+          "uz": "shuning uchun Alloh iroda qildi"
+        },
+        {
+          "w": "أَنْ يُرْسِلَ إِلى النَّاسِ",
+          "r": "مصدر مؤول ومتعلق",
+          "rc": "مصدر مؤول ومتعلق",
+          "e": "أن + fe’l أرادning maf’uli; إلى الناس yuborish manzilini bildiradi.",
+          "uz": "odamlarga yuborishni"
+        },
+        {
+          "w": "رَسُوْلاً",
+          "r": "مفعول به",
+          "rc": "مفعول به",
+          "e": "Yuboriladigan shaxsni bildiruvchi maf’ul.",
+          "uz": "bir rasulni"
+        },
+        {
+          "w": "يُكَلِّمُهُمْ وَيَنْصَحُ لَهُمْ",
+          "r": "جملة صفة",
+          "rc": "جملة صفة",
+          "e": "Rasulning vazifasini sifatlab kelgan ikki muzori’ fe’l.",
+          "uz": "ularga gapiradigan va nasihat qiladigan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "title": "٤٤ ـ حَسَدُ الشَّيْطَانِ",
+  "tuz": "Shaytonning hasadi",
+  "sub": "Iblis Odam zurriyotiga hasad qiladi",
+  "page": 63,
+  "sentences": [
+    {
+      "ar": "وَلَكِنْ كَيْفَ يَرْضَى إِبْلِيسُ وَذُرِّيَّتُهُ بِهَذَا؟ أَلَا يَزَالُ النَّاسُ يَعْبُدُوْنَ اللَّهَ؟",
+      "tr": "Lekin Iblis va uning zurriyoti bunga qanday rozi bo‘ladi? Odamlar hali ham Allohga ibodat qilaveradimi?",
+      "parts": [
+        {
+          "w": "وَلَكِنْ كَيْفَ يَرْضَى إِبْلِيسُ وَذُرِّيَّتُهُ",
+          "r": "استدراك واستفهام",
+          "rc": "tb",
+          "e": "كَيْفَ inkoriy-hayrat savoli bo‘lib Iblisning rozi bo‘lmasligini bildiradi.",
+          "uz": "Iblis va zurriyoti qanday rozi bo‘ladi"
+        },
+        {
+          "w": "بِهَذَا",
+          "r": "جار ومجرور",
+          "rc": "tmt",
+          "e": "Rozi bo‘linmayotgan holatga ishora qiladi.",
+          "uz": "bunga"
+        },
+        {
+          "w": "أَلَا يَزَالُ النَّاسُ يَعْبُدُوْنَ اللَّهَ",
+          "r": "استفهام إنكاري",
+          "rc": "tb",
+          "e": "Savol odamlarning tavhidda davom etishiga shaytonning hasadini ko‘rsatadi.",
+          "uz": "odamlar Allohga ibodat qilaveradimi"
+        }
+      ]
+    },
+    {
+      "ar": "أَلا يَزَالُ النَّاسُ أُمَّةً وَاحِدَةً لَا يَخْتَلِفُونَ؟ إِنَّ ذَلِكَ لا يَكُونُ إِنَّ ذَلِكَ لا يَكُونُ!",
+      "tr": "Odamlar ixtilof qilmay bir ummat bo‘lib qolaveradimi? Bu bo‘lmaydi, bu bo‘lmaydi!",
+      "parts": [
+        {
+          "w": "أَلا يَزَالُ النَّاسُ أُمَّةً وَاحِدَةً",
+          "r": "استفهام وكان الناقصة",
+          "rc": "tb",
+          "e": "لا يَزَالُ davomiylikni bildiradi, أُمَّةً وَاحِدَةً xabar.",
+          "uz": "odamlar bir ummat bo‘lib qolaveradimi"
+        },
+        {
+          "w": "لَا يَخْتَلِفُونَ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "Bir ummatlikning ixtilofsiz holatini izohlaydi.",
+          "uz": "ixtilof qilmaydilar"
+        },
+        {
+          "w": "إِنَّ ذَلِكَ لا يَكُونُ",
+          "r": "إن وخبرها",
+          "rc": "tb",
+          "e": "Takrorlangan jumla shaytonning qat’iy qarorini bildiradi.",
+          "uz": "bu bo‘lmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "هَلْ يَدْخُلُ ذُرِّيَّةُ آدَمَ الجَنَّةَ، وَيَدْخُلُ إِبْلِيْسُ وَذُرِّيَّتُهُ النَّارَ؟ إِنَّ ذَلِكَ لا يَكُونُ، إِنَّ ذَلِكَ لا يَكُونُ!",
+      "tr": "Odam zurriyoti jannatga kirib, Iblis va zurriyoti do‘zaxga kiradimi? Bu bo‘lmaydi!",
+      "parts": [
+        {
+          "w": "هَلْ يَدْخُلُ ذُرِّيَّةُ آدَمَ الجَنَّةَ",
+          "r": "استفهام وفعل",
+          "rc": "tb",
+          "e": "Shaytonning hasadini bildiruvchi savol; الجَنَّةَ kiriladigan joy.",
+          "uz": "Odam zurriyoti jannatga kiradimi"
+        },
+        {
+          "w": "وَيَدْخُلُ إِبْلِيْسُ وَذُرِّيَّتُهُ النَّارَ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "Ikkinchi holat birinchiga qarama-qarshi keltirilgan.",
+          "uz": "Iblis va zurriyoti do‘zaxga kiradimi"
+        },
+        {
+          "w": "إِنَّ ذَلِكَ لا يَكُونُ",
+          "r": "إن وخبرها",
+          "rc": "tb",
+          "e": "Takror shaytonning adovatini kuchaytiradi.",
+          "uz": "bu bo‘lmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّهُ لَمْ يَسْجُدْ لَآدَمَ فَطَرَدَهُ اللَّهُ وَلَعَنَهُ.",
+      "tr": "U Odamga sajda qilmadi, shuning uchun Alloh uni haydadi va la’natladi.",
+      "parts": [
+        {
+          "w": "إِنَّهُ لَمْ يَسْجُدْ لَآدَمَ",
+          "r": "إن وخبرها فعل منفي",
+          "rc": "tb",
+          "e": "إِنَّهُ Iblisga qaytadi, لَمْ يَسْجُدْ uning gunohini bildiradi.",
+          "uz": "u Odamga sajda qilmadi"
+        },
+        {
+          "w": "فَطَرَدَهُ اللَّهُ",
+          "r": "فاء تفريع وفعل",
+          "rc": "tf",
+          "e": "فَ natijani bildiradi: Alloh uni quvdi.",
+          "uz": "Alloh uni haydadi"
+        },
+        {
+          "w": "وَلَعَنَهُ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "Oldingi jazoga atf bo‘lib la’natlashni bildiradi.",
+          "uz": "va la’natladi"
+        }
+      ]
+    },
+    {
+      "ar": "أَلا يَنْتَقِمُ مِنْ بَنِي آدَمَ فَيَدْخُلُوا مَعَهُ النَّارَ؟",
+      "tr": "U Odam bolalaridan o‘ch olib, ularni o‘zi bilan do‘zaxga kiritmaydimi?",
+      "parts": [
+        {
+          "w": "أَلا يَنْتَقِمُ مِنْ بَنِي آدَمَ",
+          "r": "استفهام إنكاري",
+          "rc": "tb",
+          "e": "Savol shaytonning intiqom niyatini bildiradi.",
+          "uz": "Odam bolalaridan o‘ch olmaydimi"
+        },
+        {
+          "w": "فَيَدْخُلُوا مَعَهُ النَّارَ",
+          "r": "فاء سببية وفعل منصوب",
+          "rc": "tf",
+          "e": "فَ sabab-natija ma’nosida, do‘zaxga kirish oqibatini bildiradi.",
+          "uz": "o‘zi bilan do‘zaxga kiritadi"
+        }
+      ]
+    },
+    {
+      "ar": "لا بُدَّ أَنْ يَكُونَ ذَلِكَ! لا بُدَّ أَنْ يَكُونَ ذَلِكَ.",
+      "tr": "Bu albatta bo‘lishi kerak! Bu albatta bo‘lishi kerak.",
+      "parts": [
+        {
+          "w": "لا بُدَّ",
+          "r": "تركيب وجوب",
+          "rc": "tb",
+          "e": "لا بُدَّ zarurat va qat’iylik ma’nosini beradi.",
+          "uz": "albatta kerak"
+        },
+        {
+          "w": "أَنْ يَكُونَ ذَلِكَ",
+          "r": "مصدر مؤول",
+          "rc": "tb",
+          "e": "Bo‘lishi shart deb ko‘rilayotgan ishga ishora qiladi.",
+          "uz": "bu bo‘lishi"
+        }
+      ]
+    }
+  ]
+}

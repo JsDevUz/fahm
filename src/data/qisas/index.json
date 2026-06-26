@@ -334,5 +334,77 @@
     "sub": "Yusufning shukri va go'zal yakuni",
     "page": 60,
     "sentenceCount": 8
+  },
+  {
+    "id": "qisas-42",
+    "title": "٤٣ ـ بَعْدَ آدَمَ",
+    "tuz": "Odamdan keyin",
+    "sub": "Nuh qissasi: Odam zurriyati ko‘payadi",
+    "page": 62,
+    "sentenceCount": 9
+  },
+  {
+    "id": "qisas-43",
+    "title": "٤٤ ـ حَسَدُ الشَّيْطَانِ",
+    "tuz": "Shaytonning hasadi",
+    "sub": "Iblis Odam zurriyatiga hasad qiladi",
+    "page": 63,
+    "sentenceCount": 6
+  },
+  {
+    "id": "qisas-44",
+    "title": "٤٥ ـ فِكْرَةُ الشَّيْطَانِ",
+    "tuz": "Shaytonning fikri",
+    "sub": "Shayton odamlarni shirkka boshlash yo‘lini izlaydi",
+    "page": 63,
+    "sentenceCount": 7
+  },
+  {
+    "id": "qisas-45",
+    "title": "٤٦ ـ حِيْلَةُ الشَّيْطَانِ",
+    "tuz": "Shaytonning hiylasi",
+    "sub": "Solih kishilar xotirasi orqali hiyla boshlanadi",
+    "page": 64,
+    "sentenceCount": 7
+  },
+  {
+    "id": "qisas-46",
+    "title": "٤٧ ـ صُوَرُ الصَّالِحِينَ",
+    "tuz": "Solihlarning rasmlari",
+    "sub": "Solihlarni eslash uchun rasmlar tayyorlanadi",
+    "page": 65,
+    "sentenceCount": 9
+  },
+  {
+    "id": "qisas-47",
+    "title": "٤٨ ـ مِنَ الصُّوَرِ إِلَى التَّمَاثِيلِ",
+    "tuz": "Rasmlardan haykallarga",
+    "sub": "Nuh qavmida solihlar rasmlarini haykallarga aylantirish",
+    "page": 66,
+    "sentenceCount": 6
+  },
+  {
+    "id": "qisas-48",
+    "title": "٤٩ ـ مِنَ التَّمَاثِيلِ إِلَى الْأَصْنَامِ",
+    "tuz": "Haykallardan butlarga",
+    "sub": "Keyingi avlodlarning haykallarni butga aylantirishi",
+    "page": 66,
+    "sentenceCount": 6
+  },
+  {
+    "id": "qisas-49",
+    "title": "٥٠ ـ غَضَبُ اللَّهِ",
+    "tuz": "Allohning g‘azabi",
+    "sub": "Shirk sabab Allohning qavmga g‘azab qilishi",
+    "page": 67,
+    "sentenceCount": 8
+  },
+  {
+    "id": "qisas-50",
+    "title": "٥١ ـ الرَّسُولُ",
+    "tuz": "Payg‘ambar",
+    "sub": "Alloh odamlarga o‘zlaridan bir rasul yuborishni iroda qiladi",
+    "page": 68,
+    "sentenceCount": 7
   }
 ]

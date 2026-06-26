@@ -1,0 +1,230 @@
+{
+  "title": "٤٣ ـ بَعْدَ آدَمَ",
+  "tuz": "Odamdan keyin",
+  "sub": "Nuh qissasi: Odam zurriyati ko‘payadi",
+  "page": 62,
+  "sentences": [
+    {
+      "ar": "بَارَكَ اللَّهُ فِي ذُرِّيَّةِ آدَمَ فَكَانَ فِيْهَا رِجَالٌ كَثِيرٌ وَنِسَاءٌ.",
+      "tr": "Alloh Odam zurriyotiga baraka berdi; unda ko‘p erkaklar va ayollar paydo bo‘ldi.",
+      "parts": [
+        {
+          "w": "بَارَكَ اللَّهُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "بَارَكَ fe’li baraka berishni bildiradi, اللَّهُ fo‘il.",
+          "uz": "Alloh baraka berdi"
+        },
+        {
+          "w": "فِي ذُرِّيَّةِ آدَمَ",
+          "r": "جار ومجرور",
+          "rc": "tmt",
+          "e": "Baraka qaysi naslga berilganini bildiradi.",
+          "uz": "Odam zurriyotida"
+        },
+        {
+          "w": "فَكَانَ فِيْهَا رِجَالٌ كَثِيرٌ وَنِسَاءٌ",
+          "r": "فاء تفريع وكان",
+          "rc": "tb",
+          "e": "Natijada zurriyat ichida ko‘p erkak va ayollar bo‘lganini bildiradi.",
+          "uz": "unda ko‘p erkaklar va ayollar bo‘ldi"
+        }
+      ]
+    },
+    {
+      "ar": "وَانْتَشَرَتْ ذُرِّيَّةُ آدَمَ وَكَثُرَتْ.",
+      "tr": "Odam zurriyoti tarqaldi va ko‘paydi.",
+      "parts": [
+        {
+          "w": "وَانْتَشَرَتْ ذُرِّيَّةُ آدَمَ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "انْتَشَرَتْ fe’li tarqalishni, ذُرِّيَّةُ آدَمَ fo‘ilni bildiradi.",
+          "uz": "Odam zurriyoti tarqaldi"
+        },
+        {
+          "w": "وَكَثُرَتْ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "Oldingi fe’lga atf bo‘lib son jihatidan ko‘payishni bildiradi.",
+          "uz": "va ko‘paydi"
+        }
+      ]
+    },
+    {
+      "ar": "فَلَوْ رَجَعَ آدَمُ وَرَأَى أَوْلادَهُ لَمَا عَرَفَ.",
+      "tr": "Agar Odam qaytib farzandlarini ko‘rsa, tanimagan bo‘lardi.",
+      "parts": [
+        {
+          "w": "فَلَوْ رَجَعَ آدَمُ",
+          "r": "شرط غير جازم",
+          "rc": "tb",
+          "e": "لَوْ faraziy shartni bildiradi, آدَمُ fo‘il.",
+          "uz": "agar Odam qaytsa"
+        },
+        {
+          "w": "وَرَأَى أَوْلادَهُ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "Faraz ichidagi ikkinchi harakat; أَوْلادَهُ maf’ul.",
+          "uz": "farzandlarini ko‘rsa"
+        },
+        {
+          "w": "لَمَا عَرَفَ",
+          "r": "جواب لو",
+          "rc": "tb",
+          "e": "لَمَا javob bo‘lib tanimaslik natijasini bildiradi.",
+          "uz": "tanimagan bo‘lardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَوْ قِيْلَ لَهُ هَذِهِ ذُرِّيَّتُكَ يَا آدَمُ لَتَعَجَّبَ كَثِيراً.",
+      "tr": "Agar unga: “Ey Odam, bu sening zurriyoting”, deyilsa, juda ajablanardi.",
+      "parts": [
+        {
+          "w": "وَلَوْ قِيْلَ لَهُ",
+          "r": "شرط ومبني للمجهول",
+          "rc": "tb",
+          "e": "Majhul fe’l bilan faraziy aytilish holati berilgan.",
+          "uz": "agar unga deyilsa"
+        },
+        {
+          "w": "هَذِهِ ذُرِّيَّتُكَ يَا آدَمُ",
+          "r": "مقول القول",
+          "rc": "tb",
+          "e": "Ismiy gap aytilgan so‘z mazmunidir.",
+          "uz": "bu sening zurriyoting, ey Odam"
+        },
+        {
+          "w": "لَتَعَجَّبَ كَثِيراً",
+          "r": "جواب لو",
+          "rc": "tb",
+          "e": "لام javobni kiritadi, كَثِيراً ajablanish darajasini bildiradi.",
+          "uz": "juda ajablanardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ: سُبْحَانَ اللَّهِ! هَؤلاءِ كُلُّهُمْ أَوْلادِي؟ هَذِهِ كُلُّهَا ذُرِّيَّتِي؟!",
+      "tr": "Va: “Subhanalloh! Bularning hammasi farzandlarimmi? Bularning hammasi zurriyotimmi?” derdi.",
+      "parts": [
+        {
+          "w": "وَقَالَ سُبْحَانَ اللَّهِ",
+          "r": "فعل وتنزيه",
+          "rc": "tb",
+          "e": "قَالَ nutqni kiritadi, سُبْحَانَ اللَّهِ hayrat va tasbeh iborasi.",
+          "uz": "Subhanalloh dedi"
+        },
+        {
+          "w": "هَؤلاءِ كُلُّهُمْ أَوْلادِي",
+          "r": "استفهام وجملة اسمية",
+          "rc": "tb",
+          "e": "هَؤلاءِ mubtado, أَوْلادِي xabar; كُلُّهُمْ umumlikni ta’kidlaydi.",
+          "uz": "bularning hammasi farzandlarimmi"
+        },
+        {
+          "w": "هَذِهِ كُلُّهَا ذُرِّيَّتِي",
+          "r": "استفهام وجملة اسمية",
+          "rc": "tb",
+          "e": "Ikkinchi ismiy savol zurriyotning ko‘pligidan hayratni bildiradi.",
+          "uz": "bularning hammasi zurriyotimmi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ لِذُرِّيَّةِ آدَمَ قُرَى كَثِيرَةٌ، وَبَنَوا بُيُوتاً كَثِيرَةً.",
+      "tr": "Odam zurriyotining ko‘p qishloqlari bor edi va ko‘p uylar qurdilar.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ لِذُرِّيَّةِ آدَمَ قُرَى كَثِيرَةٌ",
+          "r": "كان وخبر مقدم واسم مؤخر",
+          "rc": "tb",
+          "e": "لِذُرِّيَّةِ آدَمَ oldingi xabar, قُرَى ism كان.",
+          "uz": "Odam zurriyotining ko‘p qishloqlari bor edi"
+        },
+        {
+          "w": "وَبَنَوا بُيُوتاً كَثِيرَةً",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "بَنَوا fe’li jam’ fo‘il bilan kelib uy qurishni bildiradi.",
+          "uz": "ko‘p uylar qurdilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يَحْرُثُونَ الأَرْضَ وَيَزْرَعُونَ وَيَعِيشُوْنَ.",
+      "tr": "Ular yer haydar, ekin ekar va yashar edilar.",
+      "parts": [
+        {
+          "w": "وَكَانُوا",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "واو الجماعة ism كان bo‘lib odamlarni bildiradi.",
+          "uz": "ular edilar"
+        },
+        {
+          "w": "يَحْرُثُونَ الأَرْضَ وَيَزْرَعُونَ وَيَعِيشُوْنَ",
+          "r": "خبر كان أفعال معطوفة",
+          "rc": "tx",
+          "e": "Uch fe’l ularning mehnat va hayot tarzini ketma-ket bayon qiladi.",
+          "uz": "yer haydar, ekar va yashar edilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ عَلَى دِيْنِ أَبِيْهِمْ آدَمَ، يَعْبُدُونَ اللَّهَ وَلَا يُشْرِكُوْنَ بِهِ شَيْئاً.",
+      "tr": "Odamlar otalari Odam dinida edilar: Allohga ibodat qilar va Unga hech narsani sherik qilmas edilar.",
+      "parts": [
+        {
+          "w": "وَكَانَ النَّاسُ عَلَى دِيْنِ أَبِيْهِمْ آدَمَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "عَلَى دِينِ... xabar bo‘lib odamlarning e’tiqod holatini bildiradi.",
+          "uz": "odamlar otalari Odam dinida edilar"
+        },
+        {
+          "w": "يَعْبُدُونَ اللَّهَ",
+          "r": "حال",
+          "rc": "th",
+          "e": "Bu fe’l ularning dinini amalda izohlaydi.",
+          "uz": "Allohga ibodat qilardilar"
+        },
+        {
+          "w": "وَلَا يُشْرِكُوْنَ بِهِ شَيْئاً",
+          "r": "فعل منفي",
+          "rc": "tf",
+          "e": "Shirkning har qanday ko‘rinishi inkor qilingan.",
+          "uz": "Unga hech narsani sherik qilmas edilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ أُمَّةً وَاحِدَةً أَبُوهُمْ آدَمُ وَرَبُّهُمْ اللَّهُ.",
+      "tr": "Odamlar bir ummat edilar: otalari Odam, Robbilari Alloh edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ النَّاسُ أُمَّةً وَاحِدَةً",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "أُمَّةً وَاحِدَةً birlik va bir e’tiqod holatini bildiradi.",
+          "uz": "odamlar bir ummat edilar"
+        },
+        {
+          "w": "أَبُوهُمْ آدَمُ",
+          "r": "جملة اسمية",
+          "rc": "tb",
+          "e": "Bu jumla ularning nasab birligini ko‘rsatadi.",
+          "uz": "otalari Odam"
+        },
+        {
+          "w": "وَرَبُّهُمْ اللَّهُ",
+          "r": "جملة اسمية",
+          "rc": "tb",
+          "e": "Bu jumla ularning Robb birligini bildiradi.",
+          "uz": "Robbilari Alloh"
+        }
+      ]
+    }
+  ]
+}

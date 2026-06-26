@@ -1,0 +1,183 @@
+{
+  "title": "٤٦ ـ حِيْلَةُ الشَّيْطَانِ",
+  "tuz": "Shaytonning hiylasi",
+  "sub": "Shayton solihlar muhabbati orqali yo‘l topadi",
+  "page": 64,
+  "sentences": [
+    {
+      "ar": "وَلَكِنَّ الشَّيْطَانَ وَجَدَ بَابًا يَدْخُلُ مِنْهُ إِلَى رُؤُوسِ النَّاسِ.",
+      "tr": "Lekin shayton odamlarning boshlariga kiradigan bir eshik topdi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ الشَّيْطَانَ",
+          "r": "استدراك واسم لكن",
+          "rc": "tb",
+          "e": "لَكِنَّ yangi hiyla topilganini bildiradi, الشَّيْطَانَ ism لكن.",
+          "uz": "lekin shayton"
+        },
+        {
+          "w": "وَجَدَ بَابًا",
+          "r": "خبر لكن جملة فعلية",
+          "rc": "tf",
+          "e": "وَجَدَ fe’li, بَابًا hiyla yo‘li ma’nosidagi maf’ul.",
+          "uz": "bir eshik topdi"
+        },
+        {
+          "w": "يَدْخُلُ مِنْهُ إِلَى رُؤُوسِ النَّاسِ",
+          "r": "جملة صفة",
+          "rc": "tb",
+          "e": "Bu jumla بَابًاni sifatlab, u orqali odamlarning fikriga kirishini bildiradi.",
+          "uz": "u orqali odamlarning boshlariga kiradi"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ رِجَالٌ يَخَافُونَ اللَّهَ، وَيَعْبُدُونَهُ لَيْلاً وَنَهَاراً، وَيَذْكُرُونَهُ ذِكْراً كَثِيراً.",
+      "tr": "Allohdan qo‘rqadigan, kecha-kunduz Unga ibodat qiladigan va Uni ko‘p zikr qiladigan kishilar bor edi.",
+      "parts": [
+        {
+          "w": "كَانَ رِجَالٌ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "رِجَالٌ ism كان bo‘lib solih kishilarni kiritadi.",
+          "uz": "kishilar bor edi"
+        },
+        {
+          "w": "يَخَافُونَ اللَّهَ",
+          "r": "جملة صفة",
+          "rc": "tb",
+          "e": "Bu jumla kishilarni sifatlab, taqvolarini bildiradi.",
+          "uz": "Allohdan qo‘rqardilar"
+        },
+        {
+          "w": "وَيَعْبُدُونَهُ لَيْلاً وَنَهَاراً",
+          "r": "صفة معطوفة",
+          "rc": "tb",
+          "e": "Kecha-kunduz ibodat qilish ularning doimiy holatini bildiradi.",
+          "uz": "kecha-kunduz Unga ibodat qilardilar"
+        },
+        {
+          "w": "وَيَذْكُرُونَهُ ذِكْراً كَثِيراً",
+          "r": "صفة ومفعول مطلق",
+          "rc": "tb",
+          "e": "ذِكْراً كَثِيراً zikrning ko‘pligini kuchaytiradi.",
+          "uz": "Uni ko‘p zikr qilardilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يُحِبُّوْنَ اللَّهَ، وَكَانَ اللَّهُ يُحِبُّهُمْ وَيَسْتَجِيبُ لَهُمْ.",
+      "tr": "Ular Allohni sevardi, Alloh ham ularni sevardi va ularga ijobat qilardi.",
+      "parts": [
+        {
+          "w": "وَكَانُوا يُحِبُّوْنَ اللَّهَ",
+          "r": "كان وخبرها",
+          "rc": "tb",
+          "e": "يُحِبُّونَ xabar fe’li bo‘lib solihlarning Allohga muhabbatini bildiradi.",
+          "uz": "Allohni sevardi"
+        },
+        {
+          "w": "وَكَانَ اللَّهُ يُحِبُّهُمْ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "Allohning ularga muhabbati alohida jumla bilan ta’kidlangan.",
+          "uz": "Alloh ularni sevardi"
+        },
+        {
+          "w": "وَيَسْتَجِيبُ لَهُمْ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "Duo va iltijolariga javob berishni bildiradi.",
+          "uz": "ularga ijobat qilardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَدْ مَاتَ هَؤُلاءِ وَانْتَقَلُوا إلى رَحْمَةِ اللَّهِ.",
+      "tr": "Bu kishilar vafot etib, Allohning rahmatiga ko‘chgan edilar.",
+      "parts": [
+        {
+          "w": "وَقَدْ مَاتَ هَؤُلاءِ",
+          "r": "قد وفعل وفاعل",
+          "rc": "tf",
+          "e": "قَدْ voqeaning amalga oshganini bildiradi, هَؤُلاءِ solih kishilarga ishora.",
+          "uz": "bu kishilar vafot etdi"
+        },
+        {
+          "w": "وَانْتَقَلُوا إلى رَحْمَةِ اللَّهِ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "Rahmatga ko‘chish vafotni hurmat bilan ifodalaydi.",
+          "uz": "Allohning rahmatiga ko‘chdilar"
+        }
+      ]
+    },
+    {
+      "ar": "ذَهَبَ الشَّيْطَانُ إِلى النَّاسِ وَذَكَرَ هُؤلاءِ الرِّجَالَ.",
+      "tr": "Shayton odamlarning oldiga bordi va bu kishilarni eslatdi.",
+      "parts": [
+        {
+          "w": "ذَهَبَ الشَّيْطَانُ إِلى النَّاسِ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "Shaytonning hiyla boshlash uchun odamlarga borishini bildiradi.",
+          "uz": "shayton odamlarga bordi"
+        },
+        {
+          "w": "وَذَكَرَ هُؤلاءِ الرِّجَالَ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "U solihlarni eslatib odamlarning muhabbatidan foydalanadi.",
+          "uz": "bu kishilarni eslatdi"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ: كَيْفَ كَانَ فِيْكُمْ فُلانٌ وفُلانٌ وَفُلانٌ؟",
+      "tr": "U dedi: “Falonchi, falonchi va falonchi sizlarning orangizda qanday edi?”",
+      "parts": [
+        {
+          "w": "وَقَالَ",
+          "r": "فعل قول",
+          "rc": "tf",
+          "e": "Nutqni kiritadi.",
+          "uz": "va dedi"
+        },
+        {
+          "w": "كَيْفَ كَانَ فِيْكُمْ فُلانٌ وفُلانٌ وَفُلانٌ",
+          "r": "استفهام وكان",
+          "rc": "tb",
+          "e": "كَيْفَ ularning maqomini so‘raydi; فُلانٌ... noma’lum solih shaxslarni bildiradi.",
+          "uz": "falonchilar sizlarda qanday edi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: سُبْحَانَ اللَّهِ! رِجَالُ اللَّهِ وَأَوْلِيَاؤُهُ أُولئِكَ إِذَا دَعَوْا أَجَابَهُمْ، وَإِذَا سَأَلُوا أَعْطَاهُمْ.",
+      "tr": "Ular: “Subhanalloh! Ular Allohning kishilari va avliyolari edi; duo qilsalar ijobat qilinar, so‘rasalar berilar edi”, dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا سُبْحَانَ اللَّهِ",
+          "r": "فعل وتنزيه",
+          "rc": "tb",
+          "e": "Ularning hayrat va hurmat bilan javob berganini bildiradi.",
+          "uz": "Subhanalloh dedilar"
+        },
+        {
+          "w": "رِجَالُ اللَّهِ وَأَوْلِيَاؤُهُ أُولئِكَ",
+          "r": "جملة اسمية",
+          "rc": "tb",
+          "e": "Solihlarning maqomini ulug‘lab bayon qiladi.",
+          "uz": "ular Allohning kishilari va avliyolari"
+        },
+        {
+          "w": "إِذَا دَعَوْا أَجَابَهُمْ وَإِذَا سَأَلُوا أَعْطَاهُمْ",
+          "r": "شرطان وجوابهما",
+          "rc": "tb",
+          "e": "إِذَا shartlari ularning duolari ijobat bo‘lganini bildiradi.",
+          "uz": "duo qilsalar ijobat qilinar, so‘rasalar berilar edi"
+        }
+      ]
+    }
+  ]
+}

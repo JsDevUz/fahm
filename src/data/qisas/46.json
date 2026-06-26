@@ -1,0 +1,188 @@
+{
+  "title": "٤٧ ـ صُوَرُ الصَّالِحِينَ",
+  "tuz": "Solihlarning suratlari",
+  "sub": "Shayton suratlar yasashni taklif qiladi",
+  "page": 65,
+  "sentences": [
+    {
+      "ar": "قَالَ الشَّيْطَانُ: فَكَيْفَ حُزْنُكُمْ عَلَيْهِمْ؟",
+      "tr": "Shayton dedi: Ularga qayg‘uingiz qanday?",
+      "parts": [
+        {
+          "w": "قَالَ الشَّيْطَانُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "Shayton savollar orqali tuyg‘ularni qo‘zg‘atmoqda.",
+          "uz": "shayton dedi"
+        },
+        {
+          "w": "فَكَيْفَ حُزْنُكُمْ عَلَيْهِمْ",
+          "r": "استفهام",
+          "rc": "tb",
+          "e": "كَيْفَ qayg‘u darajasini so‘raydi.",
+          "uz": "ularga qayg‘uingiz qanday"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: شَدِيدٌ.",
+      "tr": "Ular: Kuchli, dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا شَدِيدٌ",
+          "r": "قول وخبر",
+          "rc": "tb",
+          "e": "شَدِيدٌ hazf qilingan mubtadoning xabari: qayg‘u kuchli.",
+          "uz": "kuchli dedilar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: وَكَيْفَ اشْتِيَاقُكُمْ إِلَيْهِمْ؟",
+      "tr": "U dedi: Ularga sog‘inchingiz qanday?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "فعل قول",
+          "rc": "tf",
+          "e": "Savolni davom ettiradi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "وَكَيْفَ اشْتِيَاقُكُمْ إِلَيْهِمْ",
+          "r": "استفهام",
+          "rc": "tb",
+          "e": "اشْتِيَاقُكُمْ sog‘inch darajasini bildiradi.",
+          "uz": "ularga sog‘inchingiz qanday"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: عَظِيمٌ!",
+      "tr": "Ular: Buyuk! dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا عَظِيمٌ",
+          "r": "قول وخبر",
+          "rc": "tb",
+          "e": "عَظِيمٌ sog‘inch kuchini bildiruvchi xabar.",
+          "uz": "buyuk dedilar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: وَلِمَاذَا لا تَنْظُرُوْنَ إِلَيْهِمْ كُلَّ يَوْمٍ؟",
+      "tr": "U dedi: Nima uchun har kuni ularga qaramaysizlar?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "فعل قول",
+          "rc": "tf",
+          "e": "Shayton hiyla savoliga o‘tadi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "وَلِمَاذَا لا تَنْظُرُوْنَ إِلَيْهِمْ كُلَّ يَوْمٍ",
+          "r": "استفهام عن السبب",
+          "rc": "tb",
+          "e": "لِمَاذَا sababni so‘raydi, كُلَّ يَوْمٍ takroriy vaqtni bildiradi.",
+          "uz": "nima uchun har kuni ularga qaramaysizlar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: وَكَيْفَ السَّبِيْلُ إِلَى ذَلِكَ وَقَدْ مَاتُوْا؟",
+      "tr": "Ular: Ular vafot etgan bo‘lsa, bunga qanday yo‘l bor? dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا",
+          "r": "فعل قول",
+          "rc": "tf",
+          "e": "Javobni kiritadi.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "وَكَيْفَ السَّبِيْلُ إِلَى ذَلِكَ",
+          "r": "استفهام",
+          "rc": "tb",
+          "e": "Yo‘l va chora so‘ralmoqda.",
+          "uz": "bunga qanday yo‘l bor"
+        },
+        {
+          "w": "وَقَدْ مَاتُوْا",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "Hol jumlasi bunga to‘siq sababini bildiradi.",
+          "uz": "ular vafot etgan bo‘lsa"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: اِعْمَلُوْا لَهُمْ صُوراً وَانْظُرُوا إِلَيْهَا كُلَّ صَبَاحٍ.",
+      "tr": "U dedi: Ularga suratlar qilinglar va har tong ularga qaranglar.",
+      "parts": [
+        {
+          "w": "قَالَ اِعْمَلُوْا لَهُمْ صُوراً",
+          "r": "قول وفعل أمر",
+          "rc": "tf",
+          "e": "اِعْمَلُوا buyruq, صُوراً yasaladigan narsa.",
+          "uz": "ularga suratlar qilinglar"
+        },
+        {
+          "w": "وَانْظُرُوا إِلَيْهَا كُلَّ صَبَاحٍ",
+          "r": "فعل أمر معطوف",
+          "rc": "tf",
+          "e": "Ikkinchi buyruq suratga qarash odatini joriy qiladi.",
+          "uz": "har tong ularga qaranglar"
+        }
+      ]
+    },
+    {
+      "ar": "وَأُعْجِبَ النَّاسُ بِرَأْيِ إِبْلِيسَ وَصَوَّرُوا الصَّالِحِيْنَ.",
+      "tr": "Odamlar Iblisning fikriga qoyil qoldilar va solihlarning suratlarini chizdilar.",
+      "parts": [
+        {
+          "w": "وَأُعْجِبَ النَّاسُ بِرَأْيِ إِبْلِيسَ",
+          "r": "فعل مبني للمجهول ونائب فاعل",
+          "rc": "tf",
+          "e": "أُعْجِبَ majhul fe’l, النَّاسُ noib fo‘il; fikrga mahliyo bo‘lishni bildiradi.",
+          "uz": "odamlar Iblis fikriga qoyil qoldilar"
+        },
+        {
+          "w": "وَصَوَّرُوا الصَّالِحِيْنَ",
+          "r": "فعل ومفعول",
+          "rc": "tf",
+          "e": "صَوَّرُوا surat qilish fe’li, الصالحين maf’ul.",
+          "uz": "solihlarning suratlarini qildilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يَنْظُرُوْنَ إِلَى هَذِهِ الصُّوَرِ كُلَّ يَوْمٍ، وَإِذَا رَأَوْهَا ذَكَرُوا أُولَئِكَ الصَّالِحِيْنَ.",
+      "tr": "Ular har kuni bu suratlarga qarardilar; ko‘rsalar o‘sha solihlarni eslardilar.",
+      "parts": [
+        {
+          "w": "وَكَانُوا يَنْظُرُوْنَ إِلَى هَذِهِ الصُّوَرِ كُلَّ يَوْمٍ",
+          "r": "كان وخبرها",
+          "rc": "tb",
+          "e": "يَنْظُرُونَ odatga aylangan qarashni bildiradi.",
+          "uz": "har kuni bu suratlarga qarardilar"
+        },
+        {
+          "w": "وَإِذَا رَأَوْهَا",
+          "r": "شرط ظرفي",
+          "rc": "tb",
+          "e": "إِذَا takroriy holatni bildiradi: suratlarni ko‘rganlarida.",
+          "uz": "ularni ko‘rganlarida"
+        },
+        {
+          "w": "ذَكَرُوا أُولَئِكَ الصَّالِحِيْنَ",
+          "r": "جواب إذا",
+          "rc": "tf",
+          "e": "Ko‘rish natijasida solihlarni eslashadi.",
+          "uz": "o‘sha solihlarni eslardilar"
+        }
+      ]
+    }
+  ]
+}
