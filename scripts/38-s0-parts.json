@@ -1,0 +1,93 @@
+[
+  {
+    "w": "وَ",
+    "r": "حرف عطف",
+    "rc": "حرف عطف",
+    "e": "Oldingi fikr bilan bu jumlani bog‘laydi; xotirjamlik va insoniy tabiat orasidagi farqni kiritadi.",
+    "uz": "va"
+  },
+  {
+    "w": "لَكِنَّ",
+    "r": "حرف استدراك ونصب",
+    "rc": "حرف استدراك ونصب",
+    "e": "لَكِنَّ istidrak harfi bo‘lib, avvalgi ma’lumotga qarshi yoki uni chegaralaydigan yangi haqiqatni kiritadi; keyingi ismni mansub qiladi.",
+    "uz": "lekin"
+  },
+  {
+    "w": "يَعْقُوبَ",
+    "r": "اسم لكن منصوب",
+    "rc": "اسم لكن منصوب",
+    "e": "لَكِنَّ ning ismi; Ya'qub ismi, mansub holatda.",
+    "uz": "Ya'qub"
+  },
+  {
+    "w": "كَانَ",
+    "r": "خبر لكن / فعل ماض ناقص",
+    "rc": "خبر لكن / فعل ماض ناقص",
+    "e": "لَكِنَّ ning xabari; noqis fe‘l bo‘lib, keyingi ism va xabar talab qiladi.",
+    "uz": "edi"
+  },
+  {
+    "w": "بَشَراً",
+    "r": "خبر كان منصوب",
+    "rc": "خبر كان منصوب",
+    "e": "كَانَ ning xabari; «inson» ma’nosida, tanvin bilan mansub.",
+    "uz": "inson"
+  },
+  {
+    "w": "في",
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "Joy ma’nosida; keyingi izohiy jumla qayerda ekanini bildiradi.",
+    "uz": "da"
+  },
+  {
+    "w": "صَدْرِ",
+    "r": "اسم مجرور مضاف",
+    "rc": "اسم مجرور مضاف",
+    "e": "Ko‘krak, bag‘ir ma’nosida; jar harfi sababli majrur va muzof.",
+    "uz": "ko‘ksida"
+  },
+  {
+    "w": "هِ",
+    "r": "ضمير متصل مضاف إليه",
+    "rc": "ضمير متصل مضاف إليه",
+    "e": "صَدْرِ ga qo‘shilgan zamir; Ya'qubga qaytadi.",
+    "uz": "uning"
+  },
+  {
+    "w": "قَلْبُ",
+    "r": "مبتدأ مرفوع",
+    "rc": "مبتدأ مرفوع",
+    "e": "Bayoniy jumla mubtado‘sining birinchi qismi; «qalb» ma’nosida, marfu‘.",
+    "uz": "qalbi"
+  },
+  {
+    "w": "بَشَرٍ",
+    "r": "مضاف إليه مجرور",
+    "rc": "مضاف إليه مجرور",
+    "e": "قَلْبُ ga bog‘langan muzofun ilayh; inson qalbi ma’nosini beradi.",
+    "uz": "inson"
+  },
+  {
+    "w": "لا",
+    "r": "حرف نفي / تحقيق",
+    "rc": "حرف نفي / تحقيق",
+    "e": "لا ushbu jumladagi iboraning ajratilgan qismi; avvalgi tahlil: فِي صَدْرِهِ oldingi xabar, قَلْبُ بَشَرٍ mubtado ma'nosida; لا قِطْعَةُ حَجَرٍ tashbehni inkor qilib rahmli qalbni ta'kidlaydi.",
+    "uz": "yo'q"
+  },
+  {
+    "w": "قِطْعَةُ",
+    "r": "مبتدأ مرفوع مضاف",
+    "rc": "مبتدأ مرفوع مضاف",
+    "e": "Inkor qilingan mubtado; «bo‘lak, qism» ma’nosida.",
+    "uz": "bo‘lagi"
+  },
+  {
+    "w": "حَجَرٍ",
+    "r": "مضاف إليه مجرور",
+    "rc": "مضاف إليه مجرور",
+    "e": "قِطْعَةُ ga bog‘langan; tosh bo‘lagi emas, balki inson qalbi bor degan ma’noni beradi.",
+    "uz": "tosh"
+  }
+]

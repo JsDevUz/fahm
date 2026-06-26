@@ -9,18 +9,60 @@
       "tr": "Akalari otalariga qanday qaytishni bilmay hayron bo'ldilar.",
       "parts": [
         {
-          "w": "وَتَحَيَّرَ الإِخْوَةُ",
-          "r": "فعل وفاعل",
-          "rc": "tf",
-          "e": "تَحَيَّرَ hayron qolish fe'li, الإِخْوَةُ esa fo'il bo'lib akalarning chorasiz holatini bildiradi.",
-          "uz": "akalar hayron bo'ldilar"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi voqea bilan bu yangi holatni bog‘laydi; akalar hayronligi hikoyaning davomi sifatida keladi.",
+          "uz": "va"
         },
         {
-          "w": "كَيْفَ يَرْجِعُونَ إِلى أَبِيهِمْ",
-          "r": "استفهام معلق",
-          "rc": "tb",
-          "e": "كَيْفَ yَرْجِعُونَ jumlasi hayronlikning mazmunini bildiradi: ular otalariga qanday qaytishni bilmayapti.",
-          "uz": "otalariga qanday qaytadilar"
+          "w": "تَحَيَّرَ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "تَحَيَّرَ fe‘li o‘tgan zamonda hayron qolishni bildiradi; bu yerda akalar otalariga qaytish yo‘lini topa olmay qolganlar.",
+          "uz": "hayron bo‘ldi"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "تَحَيَّرَ fe‘lining fo‘ili; Yusuf qissasidagi o‘n bir aka, marfu‘ holatda.",
+          "uz": "akalar"
+        },
+        {
+          "w": "كَيْفَ",
+          "r": "اسم استفهام معلق",
+          "rc": "اسم استفهام معلق",
+          "e": "كَيْفَ istifhom ismi bo‘lib, تَحَيَّرَ fe‘liga muallaq ravishda bog‘langan; hayronlikning sababi — qanday qaytish — shu so‘z orqali ifoda etiladi.",
+          "uz": "qanday"
+        },
+        {
+          "w": "يَرْجِعُونَ",
+          "r": "فعل مضارع",
+          "rc": "فعل مضارع",
+          "e": "كَيْفَ bilan bog‘langan fiiliy jumla; ularning otasiga qaytish harakati haqida so‘roq ma’nosini beradi.",
+          "uz": "qaytadilar"
+        },
+        {
+          "w": "إِلى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "يَرْجِعُونَ fe‘liga mutaalliq; qaytish yo‘nalishini — otasiga — bildiradi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "أَبِي",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "إِلى jar harfi sababli majrur; otasi ma’nosidagi muzof so‘z, keyingi zamir bilan izofa qiladi.",
+          "uz": "otasi"
+        },
+        {
+          "w": "هِمْ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "أَبِي ga qo‘shilgan muttasil zamir; «ularning otasi» ma’nosini to‘liq qiladi.",
+          "uz": "ularning"
         }
       ]
     },
@@ -29,18 +71,60 @@
       "tr": "Akalari otalariga nima deyishlarini o'yladilar.",
       "parts": [
         {
-          "w": "وَفَكَرَ الإِخْوَةُ",
-          "r": "فعل وفاعل",
-          "rc": "tf",
-          "e": "فَكَرَ o'ylash fe'li, الإِخْوَةُ fo'il bo'lib ularning javob izlayotganini bildiradi.",
-          "uz": "akalar o'yladilar"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Hayronlikdan keyingi keyingi harakatni — o‘ylashni — ulaydi.",
+          "uz": "va"
         },
         {
-          "w": "مَاذَا يَقُولُونَ لأَبِيهِمْ",
-          "r": "استفهام معلق ومقول",
-          "rc": "tb",
-          "e": "مَاذَا so'roqli tarkib فَكَرَ fe'liga bog'lanib o'ylangan mazmunni bildiradi; لِأَبِيهِمْ gap kimga aytilishini ko'rsatadi.",
-          "uz": "otalariga nima deyishlarini"
+          "w": "فَكَرَ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "فَكَرَ fe‘li o‘ylash, mulohaza qilishni bildiradi; akalar endi javob topishga harakat qiladilar.",
+          "uz": "o‘yladi"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "فَكَرَ fe‘lining fo‘ili; o‘ylashni amalga oshiruvchi shaxslar.",
+          "uz": "akalar"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "اسم استفهام معلق",
+          "rc": "اسم استفهام معلق",
+          "e": "مَاذَا istifhom ismi bo‘lib, فَكَرَ fe‘liga muallaq; o‘ylashning mazmuni — nima deyish kerakligi — shu so‘z bilan ifoda etiladi.",
+          "uz": "nima"
+        },
+        {
+          "w": "يَقُولُونَ",
+          "r": "فعل مضارع",
+          "rc": "فعل مضارع",
+          "e": "مَاذَا bilan bog‘langan fiiliy jumla; otalariga aytadigan gap mazmunini bildiradi.",
+          "uz": "deyishadi"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "يَقُولُونَ fe‘liga mutaalliq; nutq kimga qaratilganini — otasiga — ko‘rsatadi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "أَبِي",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "لِ jar harfi sababli majrur; otasi ma’nosidagi muzof.",
+          "uz": "otasi"
+        },
+        {
+          "w": "هِمْ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "أَبِي ga qo‘shilgan zamir; «ularning otasi» ma’nosini beradi.",
+          "uz": "ularning"
         }
       ]
     },
@@ -49,18 +133,102 @@
       "tr": "Ular kecha Yusuf borasida uni musibatga solgan edilar, endi bugun Binyamin borasida ham musibatga soladilarmi!",
       "parts": [
         {
-          "w": "إِنَّهُمْ فَجَعُوهُ أَمْسِ فِي يُوسُفَ",
-          "r": "إن واسمها وخبرها",
-          "rc": "tb",
-          "e": "إِنَّهُمْ ta'kidli gap, فَجَعُوهُ xabar fe'li bo'lib هُ Ya'qubga qaytadi; فِي يُوسُفَ musibat qaysi masalada bo'lganini bildiradi.",
-          "uz": "ular kecha Yusuf borasida uni musibatga soldilar"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "إِنَّ ta’kid va nasb harfi; keyingi zamirni mansub qilib, gapga qat’iylik qo‘shadi.",
+          "uz": "albatta"
         },
         {
-          "w": "أَفَيَفْجَعُونَهُ اليَوْمَ فِي بِنْيَامِينَ",
-          "r": "استفهام إنكاري وفعل",
-          "rc": "tf",
-          "e": "أَفَ so'roq va natija ohangida kelib, yana shu ish takrorlanishining og'irligini bildiradi.",
-          "uz": "bugun Binyamin borasida ham musibatga soladilarmi"
+          "w": "هُمْ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi; ularga ishora qiluvchi zamir, mansub holatda.",
+          "uz": "ular"
+        },
+        {
+          "w": "فَجَعُوا",
+          "r": "خبر إن فعل ماض",
+          "rc": "خبر إن فعل ماض",
+          "e": "إِنَّ ning xabari bo‘lgan fiiliy jumla; فَجَعَ fe‘li qayg‘u yetkazish, musibatga solish ma’nosida.",
+          "uz": "musibatga soldilar"
+        },
+        {
+          "w": "هُ",
+          "r": "مفعول به ضمير متصل",
+          "rc": "مفعول به ضمير متصل",
+          "e": "فَجَعُوا fe‘lining maf‘ul zamiri; Ya'qubga qaytadi — otasini qayg‘uga solishgan.",
+          "uz": "uni"
+        },
+        {
+          "w": "أَمْسِ",
+          "r": "ظرف زمان",
+          "rc": "ظرف زمان",
+          "e": "Vaqt zarfidir; musibat kecha sodir bo‘lganini bildiradi.",
+          "uz": "kecha"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat qaysi masala doirasida bo‘lganini ko‘rsatadi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "فِي jar harfi sababli majrur; Yusuf ismi, g‘ayri munsarif bo‘lgani uchun fatha bilan.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "أَ",
+          "r": "همزة استفهام إنكاري",
+          "rc": "همزة استفهام إنكاري",
+          "e": "Inkoriy istifhom hamzasi; «yana shunday bo‘ladimi?» degan hayrat va rad ma’nosini beradi.",
+          "uz": "yana"
+        },
+        {
+          "w": "فَ",
+          "r": "حرف عطف / جواب",
+          "rc": "حرف عطف / جواب",
+          "e": "أَ hamzasidan keyin kelib, oldingi holat bilan bog‘liqlikni bildiradi; «so‘ng, undan keyin» ma’nosida.",
+          "uz": "so‘ng"
+        },
+        {
+          "w": "يَفْجَعُونَ",
+          "r": "فعل مضارع",
+          "rc": "فعل مضارع",
+          "e": "Hozirgi zamonda musibat yetkazish fe‘li; akalar yana otasini qayg‘uga soladimi degan ma’noni beradi.",
+          "uz": "musibatga soladilar"
+        },
+        {
+          "w": "هُ",
+          "r": "مفعول به ضمير متصل",
+          "rc": "مفعول به ضمير متصل",
+          "e": "يَفْجَعُونَ fe‘lining maf‘ul zamiri; yana Ya'qubga qaytadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "اليَوْمَ",
+          "r": "ظرف زمان",
+          "rc": "ظرف زمان",
+          "e": "Vaqt zarfidir; bu safar musibat bugun sodir bo‘lishi ehtimolini bildiradi.",
+          "uz": "bugun"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat qaysi masala doirasida bo‘lishini ko‘rsatadi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "فِي jar harfi sababli majrur; Binyamin ismi, g‘ayri munsarif.",
+          "uz": "Binyamin"
         }
       ]
     },
@@ -69,25 +237,102 @@
       "tr": "Ularning kattasi esa Ya'qub huzuriga qaytishdan bosh tortdi va birodarlariga dedi:",
       "parts": [
         {
-          "w": "أَمَّا كَبِيرُهُمْ",
-          "r": "أداة تفصيل ومبتدأ",
-          "rc": "tm",
-          "e": "أَمَّا tafsil vositasi bo'lib guruh ichidan kattasini ajratadi; كَبِيرُهُمْ mubtado.",
-          "uz": "ularning kattasi esa"
+          "w": "أَمَّا",
+          "r": "أداة تفصيل",
+          "rc": "أداة تفصيل",
+          "e": "أَمَّا tafsil vositasi; guruh ichidan bir shaxsni — kattasini — ajratib ko‘rsatadi va uning alohida xabari kelishini bildiradi.",
+          "uz": "amma"
         },
         {
-          "w": "فَأَبَى أَنْ يَرْجِعَ إِلَى يَعْقُوبَ",
-          "r": "خبر أما وفعل ومصدر مؤول",
-          "rc": "tx",
-          "e": "فَ أَمَّا javobini kiritadi; أَبَى rad etish fe'li, أَنْ يَرْجِعَ esa rad qilingan ish.",
-          "uz": "Ya'qubga qaytishdan bosh tortdi"
+          "w": "كَبِيرُ",
+          "r": "مبتدأ مرفوع مضاف",
+          "rc": "مبتدأ مرفوع مضاف",
+          "e": "أَمَّا ning mubtado‘sining birinchi qismi; «kattasi» ma’nosidagi sifat-ism, muzof holatda.",
+          "uz": "kattasi"
         },
         {
-          "w": "وَقَالَ لِإِخْوَتِهِ",
-          "r": "فعل معطوف ومتعلق",
-          "rc": "tf",
-          "e": "قَالَ oldingi fe'lga atf qilingan, لِإِخْوَتِهِ esa gap birodarlariga qaratilganini bildiradi.",
-          "uz": "birodarlariga dedi"
+          "w": "هُمْ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "كَبِيرُ ga qo‘shilgan zamir; «ularning kattasi» ma’nosini beradi.",
+          "uz": "ularning"
+        },
+        {
+          "w": "فَ",
+          "r": "حرف جواب أما",
+          "rc": "حرف جواب أما",
+          "e": "أَمَّا ga javob harfi; keyingi xabar — rad etish — shu harf bilan boshlanadi.",
+          "uz": "esa"
+        },
+        {
+          "w": "أَبَى",
+          "r": "خبر أما / فعل ماض",
+          "rc": "خبر أما / فعل ماض",
+          "e": "أَبَى fe‘li rad etish, qabul qilmaslikni bildiradi; katta aka qaytishni istamaydi.",
+          "uz": "bosh tortdi"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدرية",
+          "rc": "حرف نصب ومصدرية",
+          "e": "أَبَى fe‘lidan keyin kelgan nasb harfi; rad etilgan ishni — qaytishni — masdar shaklida kiritadi.",
+          "uz": "-ishni"
+        },
+        {
+          "w": "يَرْجِعَ",
+          "r": "فعل مضارع منصوب",
+          "rc": "فعل مضارع منصوب",
+          "e": "أَنْ harfi sababli mansub; qaytish fe‘li, rad qilingan harakat.",
+          "uz": "qaytish"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "يَرْجِعَ fe‘liga mutaalliq; qaytish yo‘nalishi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "يَعْقُوبَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "إِلَى jar harfi sababli majrur; Ya'qub ismi.",
+          "uz": "Ya'qub"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "أَبَى fe‘liga qo‘shimcha harakat — gapirishni — ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَالَ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "قَالَ fe‘li nutq bildiradi; katta aka birodarlariga murojaat qiladi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "قَالَ fe‘liga mutaalliq; gap kimga qaratilganini bildiradi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "إِخْوَتِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "لِ jar harfi sababli majrur; «birodarlar» ma’nosidagi jam’ shaklidagi muzof so‘z.",
+          "uz": "birodarlariga"
+        },
+        {
+          "w": "هِ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "إِخْوَتِ ga qo‘shilgan zamir; «uning birodarlari» — katta akasiga qaytadi.",
+          "uz": "uning"
         }
       ]
     },
@@ -96,39 +341,179 @@
       "tr": "«Otangizga qaytinglar va aytinglar: Ey otamiz, o'g'ling o'g'irlik qildi. Biz faqat bilgan narsamizga guvohlik berdik va g'aybni saqlovchi emas edik».",
       "parts": [
         {
-          "w": "ارْجِعُوا إِلَى أَبِيكُمْ",
-          "r": "فعل أمر ومتعلق",
-          "rc": "tf",
-          "e": "ارْجِعُوا buyruq fe'li bo'lib akalarga qaratilgan; إِلَى أَبِيكُمْ qaytish manzilini bildiradi.",
-          "uz": "otangizga qaytinglar"
+          "w": "ارْجِعُوا",
+          "r": "فعل أمر",
+          "rc": "فعل أمر",
+          "e": "رَجَعَ fe‘lining amr shakli; akalarga otalariga qaytish buyrug‘i.",
+          "uz": "qaytinglar"
         },
         {
-          "w": "فَقُولُوا يَا أَبَانَا",
-          "r": "فاء تعقيب وفعل أمر ونداء",
-          "rc": "tf",
-          "e": "فَ keyingi vazifani bildiradi; قُولُوا aytish buyrug'i, يَا أَبَانَا esa otaga murojaat.",
-          "uz": "ey otamiz deb aytinglar"
+          "w": "إِلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "ارْجِعُوا fe‘liga mutaalliq; qaytish manzili.",
+          "uz": "-ga"
         },
         {
-          "w": "إِنَّ ابْنَكَ سَرَقَ",
-          "r": "إن واسمها وخبرها جملة فعلية",
-          "rc": "tb",
-          "e": "إِنَّ ta'kid harfi, ابْنَكَ ism إن, سَرَقَ esa xabar bo'lgan fe'liy jumla.",
-          "uz": "o'g'ling o'g'irlik qildi"
+          "w": "أَبِي",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "Otasi ma’nosidagi muzof so‘z.",
+          "uz": "otangiz"
         },
         {
-          "w": "وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا",
-          "r": "نفي واستثناء",
-          "rc": "tb",
-          "e": "مَا ... إِلَّا cheklash uslubi bo'lib, ular faqat bilgan narsalariga guvohlik berganini bildiradi.",
-          "uz": "faqat bilganimizga guvohlik berdik"
+          "w": "كُمْ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "أَبِي ga qo‘shilgan zamir; «sizlarning otangiz» ma’nosini beradi.",
+          "uz": "sizning"
         },
         {
-          "w": "وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
-          "r": "نفي وكان وخبرها",
-          "rc": "tb",
-          "e": "مَا كُنَّا inkor, لِلْغَيْبِ mutaalliq, حَافِظِينَ xabar bo'lib ular yashirin narsani bilmasligini bildiradi.",
-          "uz": "g'aybni saqlovchi emas edik"
+          "w": "فَ",
+          "r": "حرف عطف / تعقيب",
+          "rc": "حرف عطف / تعقيب",
+          "e": "Keyingi vazifani — aytishni — kiritadi; qaytgach nima qilish kerakligini bildiradi.",
+          "uz": "va"
+        },
+        {
+          "w": "قُولُوا",
+          "r": "فعل أمر",
+          "rc": "فعل أمر",
+          "e": "قَالَ fe‘lining amr shakli; otasiga aytish buyrug‘i.",
+          "uz": "aytinglar"
+        },
+        {
+          "w": "يَا",
+          "r": "حرف نداء",
+          "rc": "حرف نداء",
+          "e": "Nido harfi; otasiga murojaatni boshlaydi.",
+          "uz": "ey"
+        },
+        {
+          "w": "أَبَانَا",
+          "r": "منادى",
+          "rc": "منادى",
+          "e": "يَا bilan chaqirilgan munado; «otamiz» ma’nosida, hurmat bilan murojaat.",
+          "uz": "otamiz"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi; keyingi xabarni kuchli tasdiqlaydi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "ابْنَ",
+          "r": "اسم إن منصوب مضاف",
+          "rc": "اسم إن منصوب مضاف",
+          "e": "إِنَّ ning ismi; o‘g‘il ma’nosidagi muzof so‘z.",
+          "uz": "o‘g‘ling"
+        },
+        {
+          "w": "كَ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "ابْنَ ga qo‘shilgan zamir; «sening o‘g‘ling» — otasiga nisbatan.",
+          "uz": "sening"
+        },
+        {
+          "w": "سَرَقَ",
+          "r": "خبر إن فعل ماض",
+          "rc": "خبر إن فعل ماض",
+          "e": "إِنَّ ning xabari; o‘g‘irlik qilish fe‘li, Binyamin haqidagi da’vo.",
+          "uz": "o‘g‘irlik qildi"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Keyingi jumlani — guvohlik haqidagi — ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor harfi; keyingi fe‘lni inkor qiladi.",
+          "uz": "emas"
+        },
+        {
+          "w": "شَهِدْنَا",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "شَهِدَ fe‘li + نَا zamiri; «biz guvohlik berdik» ma’nosida.",
+          "uz": "guvohlik berdik"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "حرف استثناء",
+          "rc": "حرف استثناء",
+          "e": "مَا ... إِلَّا cheklash uslubi; faqat ma’lum narsa istisno qilinadi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "بِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Guvohlik nimaga qaratilganini bildiradi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "مَا",
+          "r": "اسم موصول / مصدرية",
+          "rc": "اسم موصول / مصدرية",
+          "e": "بِ bilan bog‘langan; «nima bilgan bo‘lsak, shunga» ma’nosida.",
+          "uz": "nima"
+        },
+        {
+          "w": "عَلِمْنَا",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "عَلِمَ fe‘li + نَا zamiri; «biz bilgan narsamiz» ma’nosida.",
+          "uz": "bilganimiz"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Uchinchi jumlani ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor harfi; كُنَّا fe‘lini inkor qiladi.",
+          "uz": "emas"
+        },
+        {
+          "w": "كُنَّا",
+          "r": "فعل ماض ناقص",
+          "rc": "فعل ماض ناقص",
+          "e": "كَانَ fe‘li + نَا zamiri; o‘tmishdagi holatni bildiradi.",
+          "uz": "edik"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِلْغَيْبِ tarkibining birinchi qismi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "الْغَيْبِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "G‘ayb, yashirin narsalar ma’nosida; لِ jar harfi sababli majrur.",
+          "uz": "g‘ayb"
+        },
+        {
+          "w": "حَافِظِينَ",
+          "r": "خبر كان منصوب",
+          "rc": "خبر كان منصوب",
+          "e": "كُنَّا ning xabari; saqlovchi, biluvchi ma’nosida, jam’ shaklida.",
+          "uz": "saqlovchi"
         }
       ]
     },
@@ -137,18 +522,88 @@
       "tr": "Ya'qub voqeani eshitgach, bunda Allohning qo'li borligini bildi.",
       "parts": [
         {
-          "w": "وَلَمَّا سَمِعَ يَعْقُوبُ الْقِصَّةَ",
-          "r": "ظرف شرط وفعل وفاعل ومفعول",
-          "rc": "tb",
-          "e": "لَمَّا vaqt-shart ma'nosida; سَمِعَ fe'li, يَعْقُوبُ fo'il, الْقِصَّةَ esa eshitilgan voqea.",
-          "uz": "Ya'qub voqeani eshitgach"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi nutq bilan keyingi voqeani bog‘laydi.",
+          "uz": "va"
         },
         {
-          "w": "عَلِمَ أَنَّ لِلَّهِ يَداً في ذَلِكَ",
-          "r": "جواب لما وأن واسمها وخبرها",
-          "rc": "tf",
-          "e": "عَلِمَ javob fe'li; أَنَّ لِلَّهِ يَداً tarkibida لِلَّهِ oldingi xabar, يَداً ism أن bo'lib ilohiy tadbir ma'nosini beradi.",
-          "uz": "bunda Allohning qo'li borligini bildi"
+          "w": "لَمَّا",
+          "r": "ظرف شرط",
+          "rc": "ظرف شرط",
+          "e": "Vaqt-shart zarfidir; «qachonki, ... gach» ma’nosida; keyingi fe‘l shart, undan keyingi javob fe‘l keladi.",
+          "uz": "qachonki"
+        },
+        {
+          "w": "سَمِعَ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "Eshitish fe‘li; لَمَّa shartining fe‘li.",
+          "uz": "eshitdi"
+        },
+        {
+          "w": "يَعْقُوبُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "سَمِعَ fe‘lining fo‘ili; Ya'qub ismi.",
+          "uz": "Ya'qub"
+        },
+        {
+          "w": "الْقِصَّةَ",
+          "r": "مفعول به منصوب",
+          "rc": "مفعول به منصوب",
+          "e": "Eshitilgan narsa; voqea, hikoya ma’nosida.",
+          "uz": "voqeani"
+        },
+        {
+          "w": "عَلِمَ",
+          "r": "جواب لما / فعل ماض",
+          "rc": "جواب لما / فعل ماض",
+          "e": "لَمَّa shartining javobi; bilish fe‘li.",
+          "uz": "bildi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "عَلِمَ fe‘lining maf‘ul jumlasi; ta’kidli bog‘lovchi harf.",
+          "uz": "deb"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِلَّهِ tarkibining birinchi qismi; mansub xabar oldinga chiqqan.",
+          "uz": "uchun"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "لِ jar harfi sababli majrur; Alloh ismi, xabar mukaddam sifatida.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "يَداً",
+          "r": "اسم أن منصوب",
+          "rc": "اسم أن منصوب",
+          "e": "أَنَّ ning ismi; «qo‘l» ma’nosida, ilohiy tadbir va qudrat ramzi.",
+          "uz": "qo‘li"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "يَداً ga mutaalliq; qo‘l qayerda ekanini bildiradi.",
+          "uz": "da"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم إشارة مجرور",
+          "rc": "اسم إشارة مجرور",
+          "e": "Ushbu voqea, hozirgi holatga ishora qiladi.",
+          "uz": "bunda"
         }
       ]
     },
@@ -157,18 +612,39 @@
       "tr": "Va Alloh uni imtihon qilayotganini bildi.",
       "parts": [
         {
-          "w": "وَأَنَّ اللَّهَ",
-          "r": "معطوف على أن السابقة",
-          "rc": "tb",
-          "e": "وَأَنَّ oldingi bilish mazmuniga qo'shilgan ikkinchi haqiqatni bildiradi; اللَّهَ ism أن.",
-          "uz": "va Alloh"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi أَنَّ jumlasi bilan bog‘lanadi; ikkinchi bilish mazmunini qo‘shadi.",
+          "uz": "va"
         },
         {
-          "w": "مُمْتَحِنُهُ",
-          "r": "خبر أن واسم فاعل",
-          "rc": "tx",
-          "e": "مُمْتَحِنُهُ ism fo'il bo'lib Alloh Ya'qubni sinayotganini bildiradi; هُ Ya'qubga qaytadi.",
-          "uz": "uni imtihon qiluvchi"
+          "w": "أَنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ma’tuf bo‘lgan ta’kid harfi; avvalgi bilishga qo‘shimcha haqiqat kiritadi.",
+          "uz": "deb"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم أن منصوب",
+          "rc": "اسم أن منصوب",
+          "e": "أَنَّ ning ismi; Alloh ismi, mansub holatda.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "مُمْتَحِنُ",
+          "r": "خبر أن / اسم فاعل",
+          "rc": "خبر أن / اسم فاعل",
+          "e": "أَنَّ ning xabari; «imtihon qiluvchi» ma’nosidagi ism fo‘l.",
+          "uz": "imtihon qiluvchi"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "مُمْتَحِنُ ga qo‘shilgan zamir; Ya'qubga qaytadi — uni sinayotgan.",
+          "uz": "uni"
         }
       ]
     },
@@ -177,18 +653,67 @@
       "tr": "Kecha Yusuf borasida musibatga uchradi, bugun esa Binyamin borasida musibatga uchraydimi?",
       "parts": [
         {
-          "w": "أَمْسِ فُجِعَ فِي يُوسُفَ",
-          "r": "ظرف وفعل مبني للمجهول",
-          "rc": "tb",
-          "e": "أَمْسِ vaqt zarfidir; فُجِعَ majhul fe'l bo'lib Ya'qub Yusuf sabab qayg'uga tushirilganini bildiradi.",
-          "uz": "kecha Yusuf borasida musibatga uchradi"
+          "w": "أَمْسِ",
+          "r": "ظرف زمان",
+          "rc": "ظرف زمان",
+          "e": "Vaqt zarfidir; o‘tgan kun — kecha — musibat vaqtini bildiradi.",
+          "uz": "kecha"
         },
         {
-          "w": "وَاليَوْمَ يُفْجَعُ فِي بِنْيَامِينَ",
-          "r": "معطوف واستفهام مقدر",
-          "rc": "tf",
-          "e": "اليَوْمَ ikkinchi vaqt zarfidir; يُفْجَعُ hozirgi majhul fe'l bo'lib Binyamin sabab yana musibat bo'lishi ehtimolini bildiradi.",
-          "uz": "bugun Binyamin borasida musibatga uchraydimi"
+          "w": "فُجِعَ",
+          "r": "فعل ماض مبني للمجهول",
+          "rc": "فعل ماض مبني للمجهول",
+          "e": "فَجَعَ fe‘lining majhul shakli; Ya'qub qayg‘uga solingan, lekin faol ko‘rsatilmagan.",
+          "uz": "musibatga uchradi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat qaysi masala doirasida bo‘lganini bildiradi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Yusuf ismi; g‘ayri munsarif, fatha bilan majrur.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi vaqt zarfini ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "اليَوْمَ",
+          "r": "ظرف زمان",
+          "rc": "ظرف زمان",
+          "e": "Hozirgi kun zarfidir; bugungi musibat ehtimolini bildiradi.",
+          "uz": "bugun"
+        },
+        {
+          "w": "يُفْجَعُ",
+          "r": "فعل مضارع مبني للمجهول",
+          "rc": "فعل مضارع مبني للمجهول",
+          "e": "Hozirgi zamonda majhul fe‘l; yana musibatga uchraydimi degan istifhom ma’nosida.",
+          "uz": "musibatga uchraydimi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat doirasini bildiradi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Binyamin ismi; g‘ayri munsarif.",
+          "uz": "Binyamin"
         }
       ]
     },
@@ -197,18 +722,102 @@
       "tr": "Albatta Alloh uning ustiga ikki musibatni jamlamaydi, albatta Alloh uni ikki o'g'il borasida musibatga solmaydi.",
       "parts": [
         {
-          "w": "إِنَّ اللَّهَ لا يَجْمَعُ عَلَيْهِ مُصِيبَتَيْنِ",
-          "r": "إن واسمها وخبرها فعل منفي",
-          "rc": "tb",
-          "e": "إِنَّ ta'kid beradi, اللَّهَ ism إن, لا يَجْمَعُ xabar jumlasi; مُصِيبَتَيْنِ ikkilik maf'ul bo'lib ikki musibat jamlanmasligini bildiradi.",
-          "uz": "Alloh uning ustiga ikki musibatni jamlamaydi"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi; Ya'qubning ishonchini kuchaytiradi.",
+          "uz": "albatta"
         },
         {
-          "w": "إِنَّ اللَّهَ لا يَفْجَعُهُ في ابنين",
-          "r": "جملة مؤكدة ثانية",
-          "rc": "tb",
-          "e": "Ikkinchi إِنَّ jumlasi avvalgi ma'noni izohlaydi; لا يَفْجَعُهُ fe'lida هُ Ya'qubga qaytadi.",
-          "uz": "Alloh uni ikki o'g'il borasida musibatga solmaydi"
+          "w": "اللَّهَ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi; Alloh ismi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "يَجْمَعُ fe‘lini inkor qiladi.",
+          "uz": "yo‘q"
+        },
+        {
+          "w": "يَجْمَعُ",
+          "r": "خبر إن فعل مضارع",
+          "rc": "خبر إن فعل مضارع",
+          "e": "Jamlash fe‘li; ikki musibatni birga to‘plashni inkor qiladi.",
+          "uz": "jamlamaydi"
+        },
+        {
+          "w": "عَلَيْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat kimga qaratilganini bildiradi.",
+          "uz": "ustiga"
+        },
+        {
+          "w": "هِ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "عَلَيْ ga qo‘shilgan zamir; Ya'qubga qaytadi.",
+          "uz": "uning"
+        },
+        {
+          "w": "مُصِيبَتَيْنِ",
+          "r": "مفعول به منصوب",
+          "rc": "مفعول به منصوب",
+          "e": "Ikki musibat; ikkilik shaklida, jamlanmaydigan narsa.",
+          "uz": "ikki musibatni"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ikkinchi ta’kidli jumla; avvalgisini kuchaytiradi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "يَفْجَعُهُ fe‘lini inkor qiladi.",
+          "uz": "yo‘q"
+        },
+        {
+          "w": "يَفْجَعُ",
+          "r": "خبر إن فعل مضارع",
+          "rc": "خبر إن فعل مضارع",
+          "e": "Musibat yetkazish fe‘li; inkor shaklda.",
+          "uz": "musibatga solmaydi"
+        },
+        {
+          "w": "هُ",
+          "r": "مفعول به ضمير متصل",
+          "rc": "مفعول به ضمير متصل",
+          "e": "يَفْجَعُ fe‘lining maf‘ul zamiri; Ya'qubga qaytadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat doirasini bildiradi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "ابْنَيْنِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Ikki o‘g‘il; ikkilik shaklida, majrur holatda.",
+          "uz": "ikki o‘g‘il"
         }
       ]
     },
@@ -217,18 +826,81 @@
       "tr": "Albatta Alloh uni Yusuf va Binyamindek ikki o'g'il borasida musibatga solmaydi.",
       "parts": [
         {
-          "w": "إِنَّ اللَّهَ لا يَفْجَعُهُ",
-          "r": "إن واسمها وخبرها",
-          "rc": "tb",
-          "e": "إِنَّ ta'kid, اللَّهَ ism, لا يَفْجَعُهُ xabar jumlasi bo'lib Ya'qubning umidini bildiradi.",
-          "uz": "Alloh uni musibatga solmaydi"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi; ishonchni bildiradi.",
+          "uz": "albatta"
         },
         {
-          "w": "فِي ابْنَيْنِ كَيُوسُفَ وَبِنْيَامِينَ",
-          "r": "جار ومجرور وتشبيه",
-          "rc": "tmt",
-          "e": "فِي ابْنَيْنِ musibat doirasini bildiradi, كَيُوسُفَ وَبِنْيَامِينَ esa bu ikki o'g'ilni aniqlaydi.",
-          "uz": "Yusuf va Binyamindek ikki o'g'il borasida"
+          "w": "اللَّهَ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor harfi.",
+          "uz": "yo‘q"
+        },
+        {
+          "w": "يَفْجَعُ",
+          "r": "خبر إن فعل مضارع",
+          "rc": "خبر إن فعل مضارع",
+          "e": "Musibat yetkazish fe‘li, inkor shaklda.",
+          "uz": "musibatga solmaydi"
+        },
+        {
+          "w": "هُ",
+          "r": "مفعول به ضمير متصل",
+          "rc": "مفعول به ضمير متصل",
+          "e": "Ya'qubga qaytadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat doirasi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "ابْنَيْنِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Ikki o‘g‘il; ikkilik shaklida.",
+          "uz": "ikki o‘g‘il"
+        },
+        {
+          "w": "كَ",
+          "r": "حرف تشبيه",
+          "rc": "حرف تشبيه",
+          "e": "Taqqoslash harfi; keyingi ismlarni misol sifatida keltiradi.",
+          "uz": "kabi"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Birinchi o‘g‘il ismi; misol sifatida.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi ismni ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Ikkinchi o‘g‘il ismi.",
+          "uz": "Binyamin"
         }
       ]
     },
@@ -237,18 +909,53 @@
       "tr": "Albatta bunda Allohning yashirin qo'li bor.",
       "parts": [
         {
-          "w": "إِنَّ لِلَّهِ فِي ذَلِكَ",
-          "r": "إن وخبران مقدمان",
-          "rc": "tb",
-          "e": "لِلَّهِ va فِي ذَلِكَ oldinga chiqqan xabarlar bo'lib voqeada ilohiy tadbir borligini bildiradi.",
-          "uz": "bunda Alloh uchun"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi.",
+          "uz": "albatta"
         },
         {
-          "w": "يَداً خَفِيَّةً",
-          "r": "اسم إن وصفة",
-          "rc": "tm",
-          "e": "يَداً ism إن bo'lib, خَفِيَّةً sifati bu tadbir ko'zga darhol ko'rinmasligini bildiradi.",
-          "uz": "yashirin qo'l"
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Xabar mukaddam; Allohga nisbatan.",
+          "uz": "uchun"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "لِ jar harfi sababli majrur; xabar oldinga chiqqan.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Joy ma’nosida; voqea doirasini bildiradi.",
+          "uz": "da"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم إشارة مجرور",
+          "rc": "اسم إشارة مجرور",
+          "e": "Ushbu voqeaga ishora.",
+          "uz": "bunda"
+        },
+        {
+          "w": "يَداً",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi; ilohiy qudrat va tadbir ramzi.",
+          "uz": "qo‘l"
+        },
+        {
+          "w": "خَفِيَّةً",
+          "r": "صفة منصوبة",
+          "rc": "صفة منصوبة",
+          "e": "يَداً ning sifati; yashirin, ko‘zga ko‘rinmas ma’nosida.",
+          "uz": "yashirin"
         }
       ]
     },
@@ -257,18 +964,53 @@
       "tr": "Albatta bunda Allohning yashirin hikmati bor.",
       "parts": [
         {
-          "w": "إِنَّ لِلَّهِ فِي ذَلِكَ",
-          "r": "إن وخبران مقدمان",
-          "rc": "tb",
-          "e": "Bu tarkib oldingi jumla bilan bir xil qurilib, hodisa Allohga tegishli hikmat bilan bog'langanini ta'kidlaydi.",
-          "uz": "bunda Alloh uchun"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi.",
+          "uz": "albatta"
         },
         {
-          "w": "حِكْمَةً مَخْفِيَّةً",
-          "r": "اسم إن وصفة",
-          "rc": "tm",
-          "e": "حِكْمَةً ism إن, مَخْفِيَّةً sifat bo'lib hikmat hali ochilmaganini bildiradi.",
-          "uz": "yashirin hikmat"
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Xabar mukaddam.",
+          "uz": "uchun"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Alloh ismi, majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Voqea doirasi.",
+          "uz": "da"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم إشارة مجرور",
+          "rc": "اسم إشارة مجرور",
+          "e": "Ushbu voqeaga ishora.",
+          "uz": "bunda"
+        },
+        {
+          "w": "حِكْمَةً",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi; hikmat, donolik ma’nosida.",
+          "uz": "hikmat"
+        },
+        {
+          "w": "مَخْفِيَّةً",
+          "r": "صفة منصوبة",
+          "rc": "صفة منصوبة",
+          "e": "حِكْمَةً ning sifati; hali ochilmagan, yashirin hikmat.",
+          "uz": "yashirin"
         }
       ]
     },
@@ -277,18 +1019,102 @@
       "tr": "Albatta Alloh bandalarini doimo imtihon qiladi, so'ng ularni xursand qiladi va ularga ne'mat beradi.",
       "parts": [
         {
-          "w": "إِنَّ اللَّهَ لَمْ يَزَلْ يَمْتَحِنُ عِبَادَهُ",
-          "r": "إن واسمها وخبرها",
-          "rc": "tb",
-          "e": "لَمْ يَزَلْ davomiylik ma'nosini beradi; يَمْتَحِنُ عِبَادَهُ Allohning bandalarini sinash odatini bildiradi.",
-          "uz": "Alloh bandalarini doimo imtihon qiladi"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi; umumiy qoida haqida gap.",
+          "uz": "albatta"
         },
         {
-          "w": "ثُمَّ يَسُرُّهُمْ وَيُنْعِمُ عَلَيْهِمْ",
-          "r": "حرف عطف وفعلان",
-          "rc": "tf",
-          "e": "ثُمَّ tartib va kechikishni bildiradi; يَسُرُّهُمْ va يُنْعِمُ عَلَيْهِمْ imtihondan keyingi quvonch va ne'matni bayon qiladi.",
-          "uz": "so'ng ularni xursand qiladi va ne'mat beradi"
+          "w": "اللَّهَ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَمْ",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "يَزَلْ fe‘lini inkor qiladi; «doimo» ma’nosini beradi.",
+          "uz": "doimo"
+        },
+        {
+          "w": "يَزَلْ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "Davomiylik fe‘li; «hali ham, hali ham» ma’nosida.",
+          "uz": "hali ham"
+        },
+        {
+          "w": "يَمْتَحِنُ",
+          "r": "خبر إن فعل مضارع",
+          "rc": "خبر إن فعل مضارع",
+          "e": "Imtihon qilish fe‘li; Allohning bandalarini sinashi.",
+          "uz": "imtihon qiladi"
+        },
+        {
+          "w": "عِبَادَ",
+          "r": "مفعول به منصوب مضاف",
+          "rc": "مفعول به منصوب مضاف",
+          "e": "Bandalar; muzof holatda.",
+          "uz": "bandalarini"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل مضاف إليه",
+          "rc": "ضمير متصل مضاف إليه",
+          "e": "Allohning bandalari ma’nosini beradi.",
+          "uz": "O‘z"
+        },
+        {
+          "w": "ثُمَّ",
+          "r": "حرف عطف / ترتيب",
+          "rc": "حرف عطف / ترتيب",
+          "e": "Tartib va kechikish harfi; imtihondan keyingi bosqichni bildiradi.",
+          "uz": "so‘ng"
+        },
+        {
+          "w": "يَسُرُّ",
+          "r": "فعل مضارع",
+          "rc": "فعل مضارع",
+          "e": "Xursand qilish fe‘li.",
+          "uz": "xursand qiladi"
+        },
+        {
+          "w": "هُمْ",
+          "r": "مفعول به ضمير متصل",
+          "rc": "مفعول به ضمير متصل",
+          "e": "Bandalarga qaytadi.",
+          "uz": "ularni"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi fe‘lni ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "يُنْعِمُ",
+          "r": "فعل مضارع معطوف",
+          "rc": "فعل مضارع معطوف",
+          "e": "Ne'mat berish fe‘li.",
+          "uz": "ne'mat beradi"
+        },
+        {
+          "w": "عَلَيْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Ne'mat kimga berilganini bildiradi.",
+          "uz": "ustiga"
+        },
+        {
+          "w": "هِمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Bandalarga qaytadi.",
+          "uz": "ularga"
         }
       ]
     },
@@ -297,25 +1123,102 @@
       "tr": "So'ng katta o'g'il ham Misrda qoldi va Kan'onga qaytishdan bosh tortdi.",
       "parts": [
         {
-          "w": "ثُمَّ إِنَّ الاِبْنَ الْكَبِيرَ",
-          "r": "حرف عطف وإن واسمها",
-          "rc": "tb",
-          "e": "ثُمَّ yangi mulohazani kiritadi; الاِبْنَ الْكَبِيرَ ism إن bo'lib katta o'g'ilni ajratadi.",
-          "uz": "so'ng katta o'g'il"
+          "w": "ثُمَّ",
+          "r": "حرف عطف / ترتيب",
+          "rc": "حرف عطف / ترتيب",
+          "e": "Keyingi mulohazani kiritadi; avvalgi fikrdan keyin yangi holat.",
+          "uz": "so‘ng"
         },
         {
-          "w": "بَقِيَ فِي مِصْرَ أَيْضاً",
-          "r": "خبر إن جملة فعلية",
-          "rc": "tx",
-          "e": "بَقِيَ fe'li إن ning xabari bo'lib, فِي مِصْرَ joyni, أَيْضاً qo'shimcha holni bildiradi.",
-          "uz": "Misrda ham qoldi"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Ta’kid harfi.",
+          "uz": "albatta"
         },
         {
-          "w": "وَأَبَى أَنْ يَرْجِعَ إِلَى كَنْعَانَ",
-          "r": "فعل معطوف ومصدر مؤول",
-          "rc": "tf",
-          "e": "أَبَى bosh tortishni bildiradi, أَنْ يَرْجِعَ esa rad qilingan ish - Kan'onga qaytish.",
-          "uz": "Kan'onga qaytishdan bosh tortdi"
+          "w": "الاِبْنَ",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "إِنَّ ning ismi; o‘g‘il ma’nosida.",
+          "uz": "o‘g‘il"
+        },
+        {
+          "w": "الْكَبِيرَ",
+          "r": "صفة منصوبة",
+          "rc": "صفة منصوبة",
+          "e": "الاِبْنَ ning sifati; katta o‘g‘ilni ajratadi.",
+          "uz": "katta"
+        },
+        {
+          "w": "بَقِيَ",
+          "r": "خبر إن فعل ماض",
+          "rc": "خبر إن فعل ماض",
+          "e": "Qolish fe‘li; Misrda qolganini bildiradi.",
+          "uz": "qoldi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Joy ma’nosida.",
+          "uz": "da"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Misr shahar nomi; g‘ayri munsarif.",
+          "uz": "Misrda"
+        },
+        {
+          "w": "أَيْضاً",
+          "r": "ظرف / تأكيد",
+          "rc": "ظرف / تأكيد",
+          "e": "«Ham, yana» ma’nosida; Binyamindan tashqari katta o‘g‘il ham qolganini bildiradi.",
+          "uz": "ham"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi fe‘lni ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "أَبَى",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Rad etish fe‘li; qaytishni istamagan.",
+          "uz": "bosh tortdi"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدرية",
+          "rc": "حرف نصب ومصدرية",
+          "e": "Rad etilgan ishni kiritadi.",
+          "uz": "-ishni"
+        },
+        {
+          "w": "يَرْجِعَ",
+          "r": "فعل مضارع منصوب",
+          "rc": "فعل مضارع منصوب",
+          "e": "Qaytish fe‘li, mansub.",
+          "uz": "qaytish"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Qaytish yo‘nalishi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "كَنْعَانَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Kan'on yurti nomi.",
+          "uz": "Kan'on"
         }
       ]
     },
@@ -324,18 +1227,95 @@
       "tr": "Oldin ikki o'g'il borasida musibatga uchragan bo'lsa, endi uchinchisida ham musibatga uchraydimi?",
       "parts": [
         {
-          "w": "أَفَيُفْجَعُ في الثَّالِثِ أَيْضاً",
-          "r": "استفهام إنكاري وفعل مبني للمجهول",
-          "rc": "tb",
-          "e": "أَفَ so'roq va natija ma'nosini beradi; يُفْجَعُ majhul fe'l, في الثَّالِثِ esa uchinchi farzand masalasini bildiradi.",
-          "uz": "uchinchisida ham musibatga uchraydimi"
+          "w": "أَ",
+          "r": "همزة استفهام إنكاري",
+          "rc": "همزة استفهام إنكاري",
+          "e": "Inkoriy istifhom hamzasi.",
+          "uz": "yana"
         },
         {
-          "w": "وَقَدْ فُجِعَ مِنْ قَبْلُ فِي اثْنَيْنِ",
-          "r": "جملة حالية",
-          "rc": "th",
-          "e": "وَقَدْ bilan kelgan hol jumlasi oldin ikki farzand borasida qayg'u ko'rilganini eslatadi.",
-          "uz": "oldin ikki o'g'il borasida musibatga uchragan bo'lsa"
+          "w": "فَ",
+          "r": "حرف عطف / جواب",
+          "rc": "حرف عطف / جواب",
+          "e": "Oldingi holat bilan bog‘liqlik.",
+          "uz": "so‘ng"
+        },
+        {
+          "w": "يُفْجَعُ",
+          "r": "فعل مضارع مبني للمجهول",
+          "rc": "فعل مضارع مبني للمجهول",
+          "e": "Majhul fe‘l; uchinchi musibat ehtimoli.",
+          "uz": "musibatga uchraydimi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat doirasi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "الثَّالِثِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Uchinchi farzand; tartib soni sifatida.",
+          "uz": "uchinchisida"
+        },
+        {
+          "w": "أَيْضاً",
+          "r": "ظرف / تأكيد",
+          "rc": "ظرف / تأكيد",
+          "e": "«Ham» ma’nosida; yana bir musibat.",
+          "uz": "ham"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Hol jumlasi bilan bog‘laydi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "Tasdiq harfi; oldingi holat haqiqat ekanini bildiradi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "فُجِعَ",
+          "r": "فعل ماض مبني للمجهول",
+          "rc": "فعل ماض مبني للمجهول",
+          "e": "Oldin musibatga uchragan; majhul shakl.",
+          "uz": "musibatga uchragan"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Vaqt boshlanishini bildiradi.",
+          "uz": "oldin"
+        },
+        {
+          "w": "قَبْلُ",
+          "r": "ظرف زمان",
+          "rc": "ظرف زمان",
+          "e": "Oldin, avval ma’nosida.",
+          "uz": "avval"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Musibat doirasi.",
+          "uz": "borasida"
+        },
+        {
+          "w": "اثْنَيْنِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Ikki o‘g‘il; ikkilik shaklida.",
+          "uz": "ikki o‘g‘il"
         }
       ]
     },
@@ -344,18 +1324,32 @@
       "tr": "Albatta bu bo'lmaydi.",
       "parts": [
         {
-          "w": "إِنَّ هَذَا",
-          "r": "إن واسمها",
-          "rc": "tb",
-          "e": "إِنَّ qat'iy ishonchni bildiradi, هَذَا esa bunday uchinchi musibat ehtimoliga ishora qiladi.",
-          "uz": "albatta bu"
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Qat’iy ishonch bildiradi.",
+          "uz": "albatta"
         },
         {
-          "w": "لَا يَكُونُ",
-          "r": "خبر إن جملة فعلية",
-          "rc": "tx",
-          "e": "لَا يَكُونُ inkor xabar bo'lib Ya'qub bunday bo'lishini rad etayotganini bildiradi.",
-          "uz": "bo'lmaydi"
+          "w": "هَذَا",
+          "r": "اسم إن منصوب",
+          "rc": "اسم إن منصوب",
+          "e": "Uchinchi musibat ehtimoliga ishora.",
+          "uz": "bu"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "يَكُونُ fe‘lini inkor qiladi.",
+          "uz": "yo‘q"
+        },
+        {
+          "w": "يَكُونُ",
+          "r": "خبر إن فعل مضارع",
+          "rc": "خبر إن فعل مضارع",
+          "e": "Bo‘lish fe‘li; bunday uchinchi musibat bo‘lmaydi degan ma’no.",
+          "uz": "bo‘lmaydi"
         }
       ]
     },
@@ -364,25 +1358,46 @@
       "tr": "Shu yerda Ya'qub xotirjam bo'ldi va dedi:",
       "parts": [
         {
-          "w": "وَهُنَا",
-          "r": "ظرف",
-          "rc": "th",
-          "e": "هُنَا fikriy burilish nuqtasini bildiradi: Ya'qubning qalbida xotirjamlik paydo bo'lgan payt.",
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Yangi holatni kiritadi.",
+          "uz": "va"
+        },
+        {
+          "w": "هُنَا",
+          "r": "ظرف مكان",
+          "rc": "ظرف مكان",
+          "e": "Fikriy burilish nuqtasi; Ya'qub qalbida xotirjamlik paydo bo‘lgan payt.",
           "uz": "shu yerda"
         },
         {
-          "w": "اطْمَأَنَّ يَعْقُوبُ",
-          "r": "فعل وفاعل",
-          "rc": "tf",
-          "e": "اطْمَأَنَّ xotirjam bo'lish fe'li, يَعْقُوبُ esa fo'il.",
-          "uz": "Ya'qub xotirjam bo'ldi"
+          "w": "اطْمَأَنَّ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "Xotirjam bo‘lish, tinchlanish fe‘li.",
+          "uz": "xotirjam bo‘ldi"
         },
         {
-          "w": "وَقَالَ",
+          "w": "يَعْقُوبُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "اطْمَأَنَّ fe‘lining fo‘ili.",
+          "uz": "Ya'qub"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Keyingi fe‘lni ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَالَ",
           "r": "فعل معطوف",
-          "rc": "tf",
-          "e": "قَالَ keyingi duo-umid oyatini kiritadi.",
-          "uz": "va dedi"
+          "rc": "فعل معطوف",
+          "e": "Duo va umid oyatini kiritadi.",
+          "uz": "dedi"
         }
       ]
     },
@@ -391,18 +1406,88 @@
       "tr": "«Shoyad Alloh ularning barchasini menga keltirsa. Albatta U bilimdon va hikmatlidir».",
       "parts": [
         {
-          "w": "عَسَى اللَّهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا",
-          "r": "فعل رجاء واسم ومصدر مؤول",
-          "rc": "tb",
-          "e": "عَسَى umid fe'li, اللَّهُ uning ismi, أَن يَأْتِيَنِي esa umid qilingan ish; بِهِمْ جَمِيعًا uch farzandning barchasiga ishora qiladi.",
-          "uz": "shoyad Alloh ularning barchasini menga keltirsa"
+          "w": "عَسَى",
+          "r": "فعل رجاء",
+          "rc": "فعل رجاء",
+          "e": "Umid fe‘li; «shoyad, umid qilamanki» ma’nosida.",
+          "uz": "shoyad"
         },
         {
-          "w": "إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
-          "r": "إن واسمها وخبرها",
-          "rc": "tb",
-          "e": "إِنَّهُ ta'kid, هُوَ fasl yoki ta'kid zamiri, الْعَلِيمُ الْحَكِيمُ esa Allohning ilm va hikmat sifatlarini bildiradi.",
-          "uz": "U bilimdon va hikmatlidir"
+          "w": "اللَّهُ",
+          "r": "فاعل / اسم عسى",
+          "rc": "فاعل / اسم عسى",
+          "e": "عَسَى fe‘lining ismi yoki fo‘ili; umid qilingan shaxs.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدرية",
+          "rc": "حرف نصب ومصدرية",
+          "e": "Umid qilingan ishni masdar shaklida kiritadi.",
+          "uz": "-ki"
+        },
+        {
+          "w": "يَأْتِيَنِي",
+          "r": "فعل مضارع منصوب",
+          "rc": "فعل مضارع منصوب",
+          "e": "Keltirish fe‘li; نِي zamiri bilan «menga keltirsa» ma’nosida; Ya'qub farzandlarini o‘z huzuriga qaytarish umidini bildiradi.",
+          "uz": "menga keltirsa"
+        },
+        {
+          "w": "بِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Keltirilgan narsa bilan.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هِمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Uch farzandning barchasiga ishora.",
+          "uz": "ularni"
+        },
+        {
+          "w": "جَمِيعًا",
+          "r": "حال / توكيد",
+          "rc": "حال / توكيد",
+          "e": "«Barchasi birga» ma’nosida; hech biri qolmasligini bildiradi.",
+          "uz": "barchasini"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "Keyingi jumla — Alloh sifatlari — ta’kid bilan keladi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل اسم إن",
+          "rc": "ضمير متصل اسم إن",
+          "e": "Allohga ishora qiluvchi zamir.",
+          "uz": "U"
+        },
+        {
+          "w": "هُوَ",
+          "r": "ضمير فصل / تأكيد",
+          "rc": "ضمير فصل / تأكيد",
+          "e": "Ta’kid zamiri; Allohning o‘zi ekanini kuchaytiradi.",
+          "uz": "O‘zi"
+        },
+        {
+          "w": "الْعَلِيمُ",
+          "r": "خبر إن / صفة",
+          "rc": "خبر إن / صفة",
+          "e": "Barcha narsani biluvchi sifat; ilm sifati.",
+          "uz": "bilimdon"
+        },
+        {
+          "w": "الْحَكِيمُ",
+          "r": "صفة معطوفة",
+          "rc": "صفة معطوفة",
+          "e": "Hikmatli sifat; har ishini donolik bilan qiluvchi.",
+          "uz": "hikmatli"
         }
       ]
     }

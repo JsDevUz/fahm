@@ -1,0 +1,242 @@
+{
+  "أَ": {
+    "r": "همزة استفهام إنكاري",
+    "rc": "همزة استفهام إنكاري",
+    "e": "Inkoriy istifhom hamzasi; «yana shunday bo‘ladimi?» degan hayrat va rad ma’nosini beradi.",
+    "uz": "yana"
+  },
+  "أَبِي": {
+    "r": "اسم مجرور مضاف",
+    "rc": "اسم مجرور مضاف",
+    "e": "إِلى jar harfi sababli majrur; otasi ma’nosidagi muzof so‘z, keyingi zamir bilan izofa qiladi.",
+    "uz": "otasi"
+  },
+  "أَنَّ": {
+    "r": "حرف توكيد ونصب",
+    "rc": "حرف توكيد ونصب",
+    "e": "عَلِمَ fe‘lining maf‘ul jumlasi; ta’kidli bog‘lovchi harf.",
+    "uz": "deb"
+  },
+  "أَنْ": {
+    "r": "حرف نصب ومصدرية",
+    "rc": "حرف نصب ومصدرية",
+    "e": "أَبَى fe‘lidan keyin kelgan nasb harfi; rad etilgan ishni — qaytishni — masdar shaklida kiritadi.",
+    "uz": "-ishni"
+  },
+  "إِلى": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "يَرْجِعُونَ fe‘liga mutaalliq; qaytish yo‘nalishini — otasiga — bildiradi.",
+    "uz": "-ga"
+  },
+  "إِلَى": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "يَرْجِعَ fe‘liga mutaalliq; qaytish yo‘nalishi.",
+    "uz": "-ga"
+  },
+  "إِلَّا": {
+    "r": "حرف استثناء",
+    "rc": "حرف استثناء",
+    "e": "مَا ... إِلَّا cheklash uslubi; faqat ma’lum narsa istisno qilinadi.",
+    "uz": "faqat"
+  },
+  "الإِخْوَةُ": {
+    "r": "فاعل مرفوع",
+    "rc": "فاعل مرفوع",
+    "e": "تَحَيَّرَ fe‘lining fo‘ili; Yusuf qissasidagi o‘n bir aka, marfu‘ holatda.",
+    "uz": "akalar"
+  },
+  "اللَّهَ": {
+    "r": "اسم أن منصوب",
+    "rc": "اسم أن منصوب",
+    "e": "أَنَّ ning ismi; Alloh ismi, mansub holatda.",
+    "uz": "Alloh"
+  },
+  "اللَّهُ": {
+    "r": "فاعل / اسم عسى",
+    "rc": "فاعل / اسم عسى",
+    "e": "عَسَى fe‘lining ismi yoki fo‘ili; umid qilingan shaxs.",
+    "uz": "Alloh"
+  },
+  "اللَّهِ": {
+    "r": "اسم مجرور",
+    "rc": "اسم مجرور",
+    "e": "لِ jar harfi sababli majrur; Alloh ismi, xabar mukaddam sifatida.",
+    "uz": "Alloh"
+  },
+  "بَقِيَ": {
+    "r": "خبر إن فعل ماض",
+    "rc": "خبر إن فعل ماض",
+    "e": "Qolish fe‘li; Misrda qolganini bildiradi.",
+    "uz": "qoldi"
+  },
+  "بِ": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "Guvohlik nimaga qaratilganini bildiradi.",
+    "uz": "bilan"
+  },
+  "بِنْيَامِينَ": {
+    "r": "اسم مجرور",
+    "rc": "اسم مجرور",
+    "e": "فِي jar harfi sababli majrur; Binyamin ismi, g‘ayri munsarif.",
+    "uz": "Binyamin"
+  },
+  "ذَلِكَ": {
+    "r": "اسم إشارة مجرور",
+    "rc": "اسم إشارة مجرور",
+    "e": "Ushbu voqea, hozirgi holatga ishora qiladi.",
+    "uz": "bunda"
+  },
+  "عَلَيْ": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "Musibat kimga qaratilganini bildiradi.",
+    "uz": "ustiga"
+  },
+  "فَ": {
+    "r": "حرف عطف / جواب",
+    "rc": "حرف عطف / جواب",
+    "e": "أَ hamzasidan keyin kelib, oldingi holat bilan bog‘liqlikni bildiradi; «so‘ng, undan keyin» ma’nosida.",
+    "uz": "so‘ng"
+  },
+  "فِي": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "Musibat qaysi masala doirasida bo‘lganini ko‘rsatadi.",
+    "uz": "borasida"
+  },
+  "قَالَ": {
+    "r": "فعل معطوف",
+    "rc": "فعل معطوف",
+    "e": "قَالَ fe‘li nutq bildiradi; katta aka birodarlariga murojaat qiladi.",
+    "uz": "dedi"
+  },
+  "قَدْ": {
+    "r": "حرف تحقيق",
+    "rc": "حرف تحقيق",
+    "e": "Tasdiq harfi; oldingi holat haqiqat ekanini bildiradi.",
+    "uz": "albatta"
+  },
+  "كَ": {
+    "r": "ضمير متصل مضاف إليه",
+    "rc": "ضمير متصل مضاف إليه",
+    "e": "ابْنَ ga qo‘shilgan zamir; «sening o‘g‘ling» — otasiga nisbatan.",
+    "uz": "sening"
+  },
+  "كُنَّا": {
+    "r": "فعل ماض ناقص",
+    "rc": "فعل ماض ناقص",
+    "e": "كَانَ fe‘li + نَا zamiri; o‘tmishdagi holatni bildiradi.",
+    "uz": "edik"
+  },
+  "لَا": {
+    "r": "حرف نفي",
+    "rc": "حرف نفي",
+    "e": "يَجْمَعُ fe‘lini inkor qiladi.",
+    "uz": "yo‘q"
+  },
+  "لَمْ": {
+    "r": "حرف نفي",
+    "rc": "حرف نفي",
+    "e": "يَزَلْ fe‘lini inkor qiladi; «doimo» ma’nosini beradi.",
+    "uz": "doimo"
+  },
+  "لِ": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "يَقُولُونَ fe‘liga mutaalliq; nutq kimga qaratilganini — otasiga — ko‘rsatadi.",
+    "uz": "-ga"
+  },
+  "مَا": {
+    "r": "حرف نفي",
+    "rc": "حرف نفي",
+    "e": "Inkor harfi; keyingi fe‘lni inkor qiladi.",
+    "uz": "emas"
+  },
+  "مِصْرَ": {
+    "r": "اسم مجرور",
+    "rc": "اسم مجرور",
+    "e": "Misr shahar nomi; g‘ayri munsarif.",
+    "uz": "Misrda"
+  },
+  "مِنْ": {
+    "r": "حرف جر",
+    "rc": "حرف جر",
+    "e": "Vaqt boshlanishini bildiradi.",
+    "uz": "oldin"
+  },
+  "هَذَا": {
+    "r": "اسم إن منصوب",
+    "rc": "اسم إن منصوب",
+    "e": "Uchinchi musibat ehtimoliga ishora.",
+    "uz": "bu"
+  },
+  "هُ": {
+    "r": "مفعول به ضمير متصل",
+    "rc": "مفعول به ضمير متصل",
+    "e": "فَجَعُوا fe‘lining maf‘ul zamiri; Ya'qubga qaytadi — otasini qayg‘uga solishgan.",
+    "uz": "uni"
+  },
+  "هُمْ": {
+    "r": "اسم إن منصوب",
+    "rc": "اسم إن منصوب",
+    "e": "إِنَّ ning ismi; ularga ishora qiluvchi zamir, mansub holatda.",
+    "uz": "ular"
+  },
+  "هُنَا": {
+    "r": "ظرف مكان",
+    "rc": "ظرف مكان",
+    "e": "Fikriy burilish nuqtasi; Ya'qub qalbida xotirjamlik paydo bo‘lgan payt.",
+    "uz": "shu yerda"
+  },
+  "هُوَ": {
+    "r": "ضمير فصل / تأكيد",
+    "rc": "ضمير فصل / تأكيد",
+    "e": "Ta’kid zamiri; Allohning o‘zi ekanini kuchaytiradi.",
+    "uz": "O‘zi"
+  },
+  "هِ": {
+    "r": "ضمير متصل مضاف إليه",
+    "rc": "ضمير متصل مضاف إليه",
+    "e": "إِخْوَتِ ga qo‘shilgan zamir; «uning birodarlari» — katta akasiga qaytadi.",
+    "uz": "uning"
+  },
+  "هِمْ": {
+    "r": "ضمير متصل مضاف إليه",
+    "rc": "ضمير متصل مضاف إليه",
+    "e": "أَبِي ga qo‘shilgan muttasil zamir; «ularning otasi» ma’nosini to‘liq qiladi.",
+    "uz": "ularning"
+  },
+  "وَ": {
+    "r": "حرف عطف",
+    "rc": "حرف عطف",
+    "e": "Oldingi voqea bilan bu yangi holatni bog‘laydi; akalar hayronligi hikoyaning davomi sifatida keladi.",
+    "uz": "va"
+  },
+  "يَا": {
+    "r": "حرف نداء",
+    "rc": "حرف نداء",
+    "e": "Nido harfi; otasiga murojaatni boshlaydi.",
+    "uz": "ey"
+  },
+  "يَعْقُوبَ": {
+    "r": "اسم مجرور",
+    "rc": "اسم مجرور",
+    "e": "إِلَى jar harfi sababli majrur; Ya'qub ismi.",
+    "uz": "Ya'qub"
+  },
+  "يَعْقُوبُ": {
+    "r": "فاعل مرفوع",
+    "rc": "فاعل مرفوع",
+    "e": "سَمِعَ fe‘lining fo‘ili; Ya'qub ismi.",
+    "uz": "Ya'qub"
+  },
+  "يُوسُفَ": {
+    "r": "اسم مجرور",
+    "rc": "اسم مجرور",
+    "e": "فِي jar harfi sababli majrur; Yusuf ismi, g‘ayri munsarif bo‘lgani uchun fatha bilan.",
+    "uz": "Yusuf"
+  }
+}
