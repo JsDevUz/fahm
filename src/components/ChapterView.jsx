@@ -161,12 +161,30 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
       </div>
 
       <div className="glass-card chapter-card-padding" style={{ marginBottom: '24px' }}>
-        <h2 className="arabic-text" style={{
-          fontSize: '32px', textAlign: 'center', marginBottom: '40px', color: 'var(--accent-primary)',
-          borderBottom: '1px solid var(--border-color)', paddingBottom: '24px'
+        <div style={{
+          textAlign: 'center',
+          marginBottom: '40px',
+          borderBottom: '1px solid var(--border-color)',
+          paddingBottom: '24px'
         }}>
-          <bdi>{chapter.title}</bdi>
-        </h2>
+          <h2 className="arabic-text" style={{
+            fontSize: '32px',
+            marginBottom: chapter.tuz ? '8px' : 0,
+            color: 'var(--accent-primary)'
+          }}>
+            <bdi>{chapter.title}</bdi>
+          </h2>
+          {chapter.tuz && (
+            <div style={{
+              color: 'var(--text-secondary)',
+              fontSize: '16px',
+              fontWeight: 500,
+              lineHeight: 1.5
+            }}>
+              {chapter.tuz}
+            </div>
+          )}
+        </div>
 
         <div className="arabic-text sentence-text-container" style={{ color: 'var(--text-primary)', direction: 'rtl', textAlign: 'right', lineHeight: '2.5' }}>
           {(Array.isArray(chapter.sentences) ? chapter.sentences : Object.values(chapter.sentences)).map((s, si) => {

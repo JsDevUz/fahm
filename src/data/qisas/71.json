@@ -12,92 +12,99 @@
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َمَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َمَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "مَا",
+          "r": "اسم استفهام أو نفي",
+          "rc": "اسم استفهام أو نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "nima; emas"
         },
         {
           "w": "زَالَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "زَالَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «davom etdi» mazmunini beradi.",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
           "uz": "davom etdi"
         },
         {
           "w": "هُودٌ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "هُودٌ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Hud» mazmunini beradi.",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "Marfu’ ism; ko‘pincha mubtado yoki fo‘il vazifasida keladi.",
           "uz": "Hud"
         },
         {
           "w": "يَنْصَحُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يَنْصَحُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «nasihat qiladi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "nasihat qiladi"
         },
         {
           "w": "لِ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
+          "e": "Jar harfi; keyingi قَوْمِ bilan birikib majrur tarkib yasaydi.",
+          "uz": "uchun, -ga"
         },
         {
-          "w": "ِقَوْمِهِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِقَوْمِهِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "قَوْمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "qavm"
         },
         {
-          "w": "وَ",
-          "r": "حرف عطف",
-          "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
-          "uz": "va"
-        },
-        {
-          "w": "َيَدْعُوهُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َيَدْعُوهُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "بِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
-          "uz": "bilan"
-        },
-        {
-          "w": "ِحِكْمَةٍ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِحِكْمَةٍ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "هِ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "uni; uning"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َرِفْقٍ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َرِفْقٍ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يَدْعُو",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "da’vat qiladi"
+        },
+        {
+          "w": "هُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "ularni; ularning"
+        },
+        {
+          "w": "بِحِكْمَةٍ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "hikmat bilan"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "رِفْقٍ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "muloyimlik"
         }
       ]
     },
@@ -107,87 +114,108 @@
       "parts": [
         {
           "w": "قَالَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَالَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dedi» mazmunini beradi.",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
           "uz": "dedi"
         },
         {
           "w": "هُودٌ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "هُودٌ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Hud» mazmunini beradi.",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "Marfu’ ism; ko‘pincha mubtado yoki fo‘il vazifasida keladi.",
           "uz": "Hud"
         },
         {
           "w": "يَا",
           "r": "حرف نداء",
           "rc": "حرف نداء",
-          "e": "يَا — حرف نداء sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ey» mazmunini beradi.",
+          "e": "Murojaat harfi; keyingi ismni chaqirilayotgan shaxs yoki qavm sifatida kiritadi.",
           "uz": "ey"
         },
         {
           "w": "قَوْمِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَوْمِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qavmim» mazmunini beradi.",
-          "uz": "qavmim"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "qavm"
         },
         {
           "w": "أَنَا",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَنَا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «men» mazmunini beradi.",
+          "r": "ضمير منفصل",
+          "rc": "ضمير منفصل",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
           "uz": "men"
         },
         {
-          "w": "أَخُوكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَخُوكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «birodaringiz» mazmunini beradi.",
-          "uz": "birodaringiz"
+          "w": "أَخُو",
+          "r": "اسم مرفوع مضاف",
+          "rc": "اسم مرفوع مضاف",
+          "e": "Marfu’ ism; ko‘pincha gap egasi yoki fo‘il vazifasida keladi.",
+          "uz": "birodar"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َصَدِيقُكُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َصَدِيقُكُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "صَدِيقُ",
+          "r": "اسم مرفوع مضاف",
+          "rc": "اسم مرفوع مضاف",
+          "e": "Marfu’ ism; ko‘pincha gap egasi yoki fo‘il vazifasida keladi.",
+          "uz": "do‘st"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "بِ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi الْأَمْسِ bilan birikib majrur tarkib yasaydi.",
           "uz": "bilan"
         },
         {
-          "w": "ِالْأَمْسِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِالْأَمْسِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "الْأَمْسِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "kecha"
         },
         {
           "w": "أَلا",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَلا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "أداة تنبيه واستفهام",
+          "rc": "أداة تنبيه واستفهام",
+          "e": "So‘roq vositasi; bu uslubda tanbeh, inkor yoki o‘ylantirish ma’nosi ham bo‘lishi mumkin.",
+          "uz": "nahot"
         },
         {
-          "w": "تَعْرِفُونَنِي",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "تَعْرِفُونَنِي — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «meni taniysizlar» mazmunini beradi.",
-          "uz": "meni taniysizlar"
+          "w": "تَعْرِفُونَ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi.",
+          "uz": "taniysizlar"
+        },
+        {
+          "w": "نِي",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "meni"
         }
       ]
     },
@@ -199,105 +227,105 @@
           "w": "يَا",
           "r": "حرف نداء",
           "rc": "حرف نداء",
-          "e": "يَا — حرف نداء sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ey» mazmunini beradi.",
+          "e": "Murojaat harfi; keyingi ismni chaqirilayotgan shaxs yoki qavm sifatida kiritadi.",
           "uz": "ey"
         },
         {
           "w": "إِخْوَانِي",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "إِخْوَانِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «birodarlarim» mazmunini beradi.",
+          "r": "اسم منادى مضاف",
+          "rc": "اسم منادى مضاف",
+          "e": "Jumladagi mustaqil bo‘lak; atrofidagi so‘zlar bilan birikib ma’noni to‘ldiradi.",
           "uz": "birodarlarim"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
+          "w": "لِمَاذَا",
+          "r": "اسم استفهام للسبب",
+          "rc": "اسم استفهام للسبب",
+          "e": "So‘roq vositasi; bu uslubda tanbeh, inkor yoki o‘ylantirish ma’nosi ham bo‘lishi mumkin.",
+          "uz": "nima uchun"
         },
         {
-          "w": "ِمَاذَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِمَاذَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "تَخَافُونَ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "qo‘rqasizlar"
         },
         {
-          "w": "تَخَافُونَنِي",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "تَخَافُونَنِي — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «mendan qo‘rqasizlar» mazmunini beradi.",
-          "uz": "mendan qo‘rqasizlar"
+          "w": "نِي",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "meni"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َتَفِرُّونَ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َتَفِرُّونَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "تَفِرُّونَ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "qochasizlar"
         },
         {
           "w": "مِنِّي",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "مِنِّي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "mendan"
         },
         {
           "w": "إِنِّي",
           "r": "إن واسمها",
           "rc": "إن واسمها",
-          "e": "إِنِّي — إن واسمها sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "e": "Ta’kid va nasb omili; keyingi ismni mansub qiladi va xabarni kuchaytiradi.",
+          "uz": "albatta men"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "ا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "emas, -maydi"
         },
         {
           "w": "أُنْقِصُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أُنْقِصُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kamaytiraman» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "kamaytiraman"
         },
         {
           "w": "مِنْ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "مِنْ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi مَالِ bilan birikib majrur tarkib yasaydi.",
           "uz": "dan"
         },
         {
-          "w": "مَالِكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "مَالِكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «molingiz» mazmunini beradi.",
-          "uz": "molingiz"
+          "w": "مَالِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "mol"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "شَيْئاً",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "شَيْئاً — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «narsa» mazmunini beradi.",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
           "uz": "narsa"
         }
       ]
@@ -310,91 +338,98 @@
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َيَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َيَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يَا",
+          "r": "حرف نداء",
+          "rc": "حرف نداء",
+          "e": "Murojaat harfi; keyingi ismni chaqirilayotgan shaxs yoki qavm sifatida kiritadi.",
+          "uz": "ey"
         },
         {
           "w": "قَوْمِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَوْمِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qavmim» mazmunini beradi.",
-          "uz": "qavmim"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "qavm"
         },
         {
-          "w": "لِ",
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "emas, -maydi"
+        },
+        {
+          "w": "أَسْأَلُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi.",
+          "uz": "so‘rayman"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
+        },
+        {
+          "w": "عَلَيْ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
+          "e": "Jar harfi; keyingi هِ bilan birikib majrur tarkib yasaydi.",
+          "uz": "ustiga, -ga"
         },
         {
-          "w": "َا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "أَسْأَلُكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَسْأَلُكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «sizlardan so‘rayman» mazmunini beradi.",
-          "uz": "sizlardan so‘rayman"
-        },
-        {
-          "w": "عَلَيْهِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "عَلَيْهِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "هِ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "uni; uning"
         },
         {
           "w": "مَالًا",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "مَالًا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «mol» mazmunini beradi.",
+          "r": "اسم في السياق",
+          "rc": "اسم في السياق",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
           "uz": "mol"
         },
         {
           "w": "إِنْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "إِنْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "حرف شرط",
+          "rc": "حرف شرط",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "agar"
         },
         {
           "w": "أَجْرِيَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَجْرِيَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ajr-mukofotim» mazmunini beradi.",
-          "uz": "ajr-mukofotim"
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "ajrim"
         },
         {
           "w": "إِلَّا",
           "r": "أداة استثناء",
           "rc": "أداة استثناء",
-          "e": "إِلَّا — أداة استثناء sifatida kelgan; ushbu bo‘lak jumla ma’nosida «faqat» mazmunini beradi.",
-          "uz": "faqat"
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "faqat, bundan boshqa"
         },
         {
           "w": "عَلَى",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "عَلَى — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ustiga» mazmunini beradi.",
-          "uz": "ustiga"
+          "e": "Jar harfi; keyingi اللَّهِ bilan birikib majrur tarkib yasaydi.",
+          "uz": "ustiga, -ga"
         },
         {
           "w": "اللَّهِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "اللَّهِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Alloh» mazmunini beradi.",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
           "uz": "Alloh"
         }
       ]
@@ -407,141 +442,141 @@
           "w": "يَا",
           "r": "حرف نداء",
           "rc": "حرف نداء",
-          "e": "يَا — حرف نداء sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ey» mazmunini beradi.",
+          "e": "Murojaat harfi; keyingi ismni chaqirilayotgan shaxs yoki qavm sifatida kiritadi.",
           "uz": "ey"
         },
         {
           "w": "قَوْمِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَوْمِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qavmim» mazmunini beradi.",
-          "uz": "qavmim"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "qavm"
         },
         {
           "w": "مَاذَا",
           "r": "اسم استفهام",
           "rc": "اسم استفهام",
-          "e": "مَاذَا — اسم استفهام sifatida kelgan; ushbu bo‘lak jumla ma’nosida «nima» mazmunini beradi.",
+          "e": "So‘roq vositasi; bu uslubda tanbeh, inkor yoki o‘ylantirish ma’nosi ham bo‘lishi mumkin.",
           "uz": "nima"
         },
         {
           "w": "تَخَافُونَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "تَخَافُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qo‘rqasizlar» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "qo‘rqasizlar"
         },
         {
           "w": "إِنْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "إِنْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "حرف شرط",
+          "rc": "حرف شرط",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "agar"
         },
         {
           "w": "آمَنْتُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "آمَنْتُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «imon keltirsangiz» mazmunini beradi.",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
           "uz": "imon keltirsangiz"
         },
         {
           "w": "بِ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi اللَّهِ bilan birikib majrur tarkib yasaydi.",
           "uz": "bilan"
         },
         {
-          "w": "ِاللَّهِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِاللَّهِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "Alloh"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َاللَّهِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َاللَّهِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "Alloh"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "ا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "emas, -maydi"
         },
         {
           "w": "تَفْقِدُونَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "تَفْقِدُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yo‘qotasizlar» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "yo‘qotasizlar"
         },
         {
           "w": "مِنْ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "مِنْ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi أَمْوَالِ bilan birikib majrur tarkib yasaydi.",
           "uz": "dan"
         },
         {
-          "w": "أَمْوَالِكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَمْوَالِكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «mollaringiz» mazmunini beradi.",
-          "uz": "mollaringiz"
+          "w": "أَمْوَالِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "mollar"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "شَيْئًا",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "شَيْئًا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "اسم في السياق",
+          "rc": "اسم في السياق",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "narsa"
         },
         {
           "w": "إِذَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "إِذَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "ظرف لما يستقبل",
+          "rc": "ظرف لما يستقبل",
+          "e": "Jumladagi mustaqil bo‘lak; atrofidagi so‘zlar bilan birikib ma’noni to‘ldiradi.",
+          "uz": "agar, qachonki"
         },
         {
           "w": "آمَنْتُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "آمَنْتُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «imon keltirsangiz» mazmunini beradi.",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
           "uz": "imon keltirsangiz"
         },
         {
           "w": "بِ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi اللَّهِ bilan birikib majrur tarkib yasaydi.",
           "uz": "bilan"
         },
         {
-          "w": "ِاللَّهِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِاللَّهِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "Alloh"
         }
       ]
     },
@@ -550,102 +585,81 @@
       "tr": "Balki Alloh sizlar uchun rizqda baraka beradi va kuchingizni ziyoda qiladi.",
       "parts": [
         {
-          "w": "بِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
-          "uz": "bilan"
-        },
-        {
-          "w": "َلْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َلْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "بَلْ",
+          "r": "حرف إضراب",
+          "rc": "حرف إضراب",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "balki"
         },
         {
           "w": "يُبَارِكُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يُبَارِكُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «baraka beradi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "baraka beradi"
         },
         {
           "w": "اللَّهُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "اللَّهُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Alloh» mazmunini beradi.",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "Marfu’ ism; ko‘pincha mubtado yoki fo‘il vazifasida keladi.",
           "uz": "Alloh"
         },
         {
-          "w": "لِ",
+          "w": "لَكُمْ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "sizlar uchun"
+        },
+        {
+          "w": "فِي",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َكُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َكُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "فَ",
-          "r": "فاء تفريع",
-          "rc": "فاء تفريع",
-          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
-          "uz": "shunda"
-        },
-        {
-          "w": "ِي",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "e": "Jar harfi; keyingi الرِّزْقِ bilan birikib majrur tarkib yasaydi.",
+          "uz": "ichida, -da"
         },
         {
           "w": "الرِّزْقِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "الرِّزْقِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «rizq» mazmunini beradi.",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
           "uz": "rizq"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َيَزِيدُ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َيَزِيدُ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يَزِيدُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "ziyoda qiladi"
         },
         {
-          "w": "فَ",
-          "r": "فاء تفريع",
-          "rc": "فاء تفريع",
-          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
-          "uz": "shunda"
+          "w": "فِي",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi قُوَّتِ bilan birikib majrur tarkib yasaydi.",
+          "uz": "ichida, -da"
         },
         {
-          "w": "ِي",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "قُوَّتِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "kuch"
         },
         {
-          "w": "قُوَّتِكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قُوَّتِكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kuchingiz» mazmunini beradi.",
-          "uz": "kuchingiz"
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         }
       ]
     },
@@ -657,120 +671,99 @@
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َيَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َيَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يَا",
+          "r": "حرف نداء",
+          "rc": "حرف نداء",
+          "e": "Murojaat harfi; keyingi ismni chaqirilayotgan shaxs yoki qavm sifatida kiritadi.",
+          "uz": "ey"
         },
         {
           "w": "قَوْمِ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَوْمِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qavmim» mazmunini beradi.",
-          "uz": "qavmim"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "qavm"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "ِمَاذَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِمَاذَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لِمَاذَا",
+          "r": "اسم استفهام للسبب",
+          "rc": "اسم استفهام للسبب",
+          "e": "So‘roq vositasi; bu uslubda tanbeh, inkor yoki o‘ylantirish ma’nosi ham bo‘lishi mumkin.",
+          "uz": "nima uchun"
         },
         {
           "w": "تَتَعَجَّبُونَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "تَتَعَجَّبُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ajablanasizlar» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "ajablanasizlar"
         },
         {
           "w": "مِنْ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "مِنْ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dan» mazmunini beradi.",
+          "e": "Jar harfi; keyingi رِسَالَتِ bilan birikib majrur tarkib yasaydi.",
           "uz": "dan"
         },
         {
-          "w": "رِسَالَتِي",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "رِسَالَتِي — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «risolatim» mazmunini beradi.",
-          "uz": "risolatim"
+          "w": "رِسَالَتِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "risolat"
+        },
+        {
+          "w": "ي",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "mening"
         },
         {
           "w": "إِنَّ",
           "r": "حرف توكيد ونصب",
           "rc": "حرف توكيد ونصب",
-          "e": "إِنَّ — حرف توكيد ونصب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «albatta» mazmunini beradi.",
+          "e": "Ta’kid va nasb omili; keyingi ismni mansub qiladi va xabarni kuchaytiradi.",
           "uz": "albatta"
         },
         {
           "w": "اللَّهَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "اللَّهَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Allohni» mazmunini beradi.",
-          "uz": "Allohni"
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "Alloh"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "emas, -maydi"
         },
         {
           "w": "يُكَلِّمُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يُكَلِّمُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «gapiradi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "gapiradi"
         },
         {
-          "w": "وَ",
-          "r": "حرف عطف",
-          "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
-          "uz": "va"
+          "w": "وَاحِداً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "bir kishini"
         },
         {
-          "w": "َاحِداً",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َاحِداً — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "وَ",
-          "r": "حرف عطف",
-          "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
-          "uz": "va"
-        },
-        {
-          "w": "َاحِداً",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َاحِداً — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "وَاحِداً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "bir kishini"
         }
       ]
     },
@@ -782,120 +775,85 @@
           "w": "إِنَّ",
           "r": "حرف توكيد ونصب",
           "rc": "حرف توكيد ونصب",
-          "e": "إِنَّ — حرف توكيد ونصب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «albatta» mazmunini beradi.",
+          "e": "Ta’kid va nasb omili; keyingi ismni mansub qiladi va xabarni kuchaytiradi.",
           "uz": "albatta"
         },
         {
           "w": "اللَّهَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "اللَّهَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Allohni» mazmunini beradi.",
-          "uz": "Allohni"
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "Alloh"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Inkor vositasi; keyingi fe’l yoki xabarni rad qiladi.",
+          "uz": "emas, -maydi"
         },
         {
           "w": "يُخَاطِبُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يُخَاطِبُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «murojaat qiladi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "murojaat qiladi"
         },
         {
-          "w": "كِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "ُلَّ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ُلَّ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "كُلَّ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "har bir"
         },
         {
           "w": "أَحَدٍ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَحَدٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "biror kishi"
         },
         {
           "w": "يَقُولُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يَقُولُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «aytadi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "aytadi"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َهُ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َهُ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لَهُ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "unga"
         },
         {
           "w": "افْعَلْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "افْعَلْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qil» mazmunini beradi.",
+          "r": "فعل أمر مبني على حذف النون",
+          "rc": "فعل أمر مبني على حذف النون",
+          "e": "Buyruq fe’li; tinglovchilardan amal qilish talab qilinayotganini bildiradi.",
           "uz": "qil"
         },
         {
-          "w": "كِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "َذَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َذَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "كَذَا",
+          "r": "اسم كناية",
+          "rc": "اسم كناية",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "shunday"
         },
         {
           "w": "افْعَلْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "افْعَلْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qil» mazmunini beradi.",
+          "r": "فعل أمر مبني على حذف النون",
+          "rc": "فعل أمر مبني على حذف النون",
+          "e": "Buyruq fe’li; tinglovchilardan amal qilish talab qilinayotganini bildiradi.",
           "uz": "qil"
         },
         {
-          "w": "كِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "َذَا",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َذَا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "كَذَا",
+          "r": "اسم كناية",
+          "rc": "اسم كناية",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "shunday"
         }
       ]
     },
@@ -907,99 +865,99 @@
           "w": "إِنَّ",
           "r": "حرف توكيد ونصب",
           "rc": "حرف توكيد ونصب",
-          "e": "إِنَّ — حرف توكيد ونصب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «albatta» mazmunini beradi.",
+          "e": "Ta’kid va nasb omili; keyingi ismni mansub qiladi va xabarni kuchaytiradi.",
           "uz": "albatta"
         },
         {
           "w": "اللَّهَ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "اللَّهَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Allohni» mazmunini beradi.",
-          "uz": "Allohni"
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "Alloh"
         },
         {
           "w": "يُرْسِلُ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يُرْسِلُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yuboradi» mazmunini beradi.",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
           "uz": "yuboradi"
         },
         {
           "w": "إِلَى",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "إِلَى — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «-ga» mazmunini beradi.",
-          "uz": "-ga"
+          "e": "Jar harfi; keyingi كُلِّ bilan birikib majrur tarkib yasaydi.",
+          "uz": "-ga, tomon"
         },
         {
-          "w": "كِ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
-        },
-        {
-          "w": "ُلِّ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ُلِّ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "كُلِّ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "har bir"
         },
         {
           "w": "قَوْمٍ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "قَوْمٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «qavm» mazmunini beradi.",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
           "uz": "qavm"
         },
         {
           "w": "رَجُلاً",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "رَجُلاً — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "Mansub ism; maf’ul, hol yoki nasb qiluvchi omilning ismi bo‘lishi mumkin.",
+          "uz": "kishi"
         },
         {
-          "w": "مِنْهُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "مِنْهُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "مِنْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi هُمْ bilan birikib majrur tarkib yasaydi.",
+          "uz": "dan"
         },
         {
-          "w": "يُكَلِّمُهُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "يُكَلِّمُهُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ularga gapiradi» mazmunini beradi.",
-          "uz": "ularga gapiradi"
+          "w": "هُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "ularni; ularning"
+        },
+        {
+          "w": "يُكَلِّمُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "gapiradi"
+        },
+        {
+          "w": "هُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "ularni; ularning"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َيَنْصَحُ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َيَنْصَحُ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يَنْصَحُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "nasihat qiladi"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َهُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َهُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لَهُمْ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "ularga"
         }
       ]
     },
@@ -1011,141 +969,183 @@
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َقَدْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َقَدْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "haqiqatan"
         },
         {
-          "w": "أَرْسَلَنِي",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَرْسَلَنِي — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «meni yubordi» mazmunini beradi.",
-          "uz": "meni yubordi"
+          "w": "أَرْسَلَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
+          "uz": "yubordi"
         },
         {
-          "w": "إِلَيْكُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "إِلَيْكُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "نِي",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "meni"
         },
         {
-          "w": "أُكَلِّمُكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أُكَلِّمُكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «sizlarga gapiraman» mazmunini beradi.",
-          "uz": "sizlarga gapiraman"
+          "w": "إِلَيْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi كُمْ bilan birikib majrur tarkib yasaydi.",
+          "uz": "-ga, tomon"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
+        },
+        {
+          "w": "أُكَلِّمُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi.",
+          "uz": "gapiraman"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "وَ",
           "r": "حرف عطف",
           "rc": "حرف عطف",
-          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "e": "Bog‘lovchi harf; oldingi so‘z yoki jumlani keyingi ma’no bilan ulaydi.",
           "uz": "va"
         },
         {
-          "w": "َأَنْصَحُ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َأَنْصَحُ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "أَنْصَحُ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
+          "uz": "nasihat qilaman"
         },
         {
-          "w": "لِ",
-          "r": "حرف جر",
-          "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
-        },
-        {
-          "w": "َكُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "َكُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "لَكُمْ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli bog‘langan holda keladi.",
+          "uz": "sizlar uchun"
         },
         {
           "w": "أَوَعَجِبْتُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَوَعَجِبْتُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "استفهام إنكاري مع فعل",
+          "rc": "استفهام إنكاري مع فعل",
+          "e": "Jumladagi mustaqil bo‘lak; atrofidagi so‘zlar bilan birikib ma’noni to‘ldiradi.",
+          "uz": "ajablandingizmi?"
         },
         {
           "w": "أَن",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "أَن — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "حرف مصدري أو تفسير",
+          "rc": "حرف مصدري أو تفسير",
+          "e": "Jumladagi ism/so‘z; atrofidagi fe’l yoki harflar bilan bog‘lanib, gap ma’nosini to‘ldiradi.",
+          "uz": "-ki, -ishini"
         },
         {
-          "w": "جَاءَكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "جَاءَكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «sizlarga keldi» mazmunini beradi.",
-          "uz": "sizlarga keldi"
+          "w": "جَاءَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O‘tgan zamon fe’li; voqeaning bajarilganini bildiradi va jumladagi asosiy harakatni ko‘taradi.",
+          "uz": "keldi"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "ذِكْرٌ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ذِكْرٌ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «eslatma» mazmunini beradi.",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "Marfu’ ism; ko‘pincha mubtado yoki fo‘il vazifasida keladi.",
           "uz": "eslatma"
         },
         {
           "w": "مِّن",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "مِّن — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi رَّبِّ bilan birikib majrur tarkib yasaydi.",
+          "uz": "dan"
         },
         {
-          "w": "رَّبِّكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "رَّبِّكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "رَّبِّ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "عَلَىٰ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "عَلَىٰ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi رَجُلٍ bilan birikib majrur tarkib yasaydi.",
+          "uz": "ustiga, -ga"
         },
         {
           "w": "رَجُلٍ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "رَجُلٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "Majrur ism; jar harfi yoki izofa sababli kasra/fatha bilan bog‘langan.",
+          "uz": "kishi"
         },
         {
-          "w": "مِّنكُمْ",
-          "r": "كلمة في الجملة",
-          "rc": "كلمة في الجملة",
-          "e": "مِّنكُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "مِنْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; keyingi كُمْ bilan birikib majrur tarkib yasaydi.",
+          "uz": "dan"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         },
         {
           "w": "لِ",
           "r": "حرف جر",
           "rc": "حرف جر",
-          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
-          "uz": "uchun"
+          "e": "Jar harfi; keyingi يُنذِرَ bilan birikib majrur tarkib yasaydi.",
+          "uz": "uchun, -ga"
         },
         {
-          "w": "ِيُنذِرَكُمْ",
-          "r": "اسم أو تركيب",
-          "rc": "اسم أو تركيب",
-          "e": "ِيُنذِرَكُمْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
-          "uz": "kontekst bo‘yicha"
+          "w": "يُنذِرَ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe’li; davomiy yoki odatiy harakatni bildiradi, oldidagi omilga qarab holati o‘zgaradi.",
+          "uz": "ogohlantiradi"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "Biriktirilgan olmosh; oldingi so‘zga qo‘shilib egalik yoki maf’ul ma’nosini beradi.",
+          "uz": "sizlarni; sizning"
         }
       ]
     }
