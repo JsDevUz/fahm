@@ -1,0 +1,243 @@
+{
+  "title": "٥٧ ـ حُجَّةُ الْأَغْنِياءِ",
+  "page": 74,
+  "sentences": [
+    {
+      "ar": "وَقَالَ الْأَغْنِيَاءُ: الَّذِي يَدْعُوْ إِلَيْهِ نُوْحٌ لَيْسَ بِحَقٍّ وَلَيْسَ بِخَيْرٍ.",
+      "tr": "Boylar: “Nuh chaqirayotgan narsa haq emas va yaxshilik ham emas”, dedilar.",
+      "parts": [
+        {
+          "w": "وَقَالَ الْأَغْنِيَاءُ",
+          "r": "فعل وفاعل",
+          "rc": "فعل وفاعل",
+          "e": "الأغنياء fāil bo‘lib gap boylar tilidan keladi.",
+          "uz": "boylar dedilar"
+        },
+        {
+          "w": "الَّذِي يَدْعُوْ إِلَيْهِ نُوْحٌ",
+          "r": "اسم موصول وصلة",
+          "rc": "اسم موصول وصلة",
+          "e": "الذي da’vat qilinayotgan narsani bildiradi; إليه unga qaytadi.",
+          "uz": "Nuh chaqirayotgan narsa"
+        },
+        {
+          "w": "لَيْسَ بِحَقٍّ",
+          "r": "ليس وخبر بالباء",
+          "rc": "ليس وخبر بالباء",
+          "e": "باء inkorni kuchaytiradi; بحق majrur shaklda xabar.",
+          "uz": "haq emas"
+        },
+        {
+          "w": "وَلَيْسَ بِخَيْرٍ",
+          "r": "معطوف",
+          "rc": "معطوف",
+          "e": "Ikkinchi inkor hukmi; بخير yaxshilik emasligini bildiradi.",
+          "uz": "yaxshilik emas"
+        }
+      ]
+    },
+    {
+      "ar": "لِمَاذَا؟",
+      "tr": "Nega?",
+      "parts": [
+        {
+          "w": "لِمَاذَا",
+          "r": "اسم استفهام",
+          "rc": "اسم استفهام",
+          "e": "Sababni so‘rash uchun kelgan savol so‘zi.",
+          "uz": "nega"
+        }
+      ]
+    },
+    {
+      "ar": "لأَنَّا جَرَّبْنَا أَنَّا نَحْنُ السَّابِقُوْنَ فِي كُلِّ خَيْرٍ.",
+      "tr": "Chunki biz tajribada ko‘rdikki, har bir yaxshilikda biz oldindamiz.",
+      "parts": [
+        {
+          "w": "لأَنَّا",
+          "r": "لام التعليل وإن",
+          "rc": "لام التعليل وإن",
+          "e": "Sababni bildiradi; نا ism إن.",
+          "uz": "chunki biz"
+        },
+        {
+          "w": "جَرَّبْنَا",
+          "r": "فعل وفاعل",
+          "rc": "فعل وفاعل",
+          "e": "Tajriba qilishni bildiruvchi o‘tgan zamon fe’li.",
+          "uz": "tajriba qildik"
+        },
+        {
+          "w": "أَنَّا نَحْنُ السَّابِقُوْنَ",
+          "r": "أن وضمير فصل وخبر",
+          "rc": "أن وضمير فصل وخبر",
+          "e": "نحن ta’kid/fasl; السابقون xabar.",
+          "uz": "biz oldindamiz"
+        },
+        {
+          "w": "فِي كُلِّ خَيْرٍ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Qaysi sohada oldinda ekanini bildiradi.",
+          "uz": "har bir yaxshilikda"
+        }
+      ]
+    },
+    {
+      "ar": "لَنَا كُلُّ طَيِّبٍ مِنَ الطَّعَامِ، وَلَنَا كُلُّ جَمِيْلٍ مِنَ اللَّبَاسِ.",
+      "tr": "Ovqatning har bir pokiza-yaxshisi bizniki, kiyimning har bir chiroylisi bizniki.",
+      "parts": [
+        {
+          "w": "لَنَا كُلُّ طَيِّبٍ",
+          "r": "خبر مقدم ومبتدأ",
+          "rc": "خبر مقدم ومبتدأ",
+          "e": "لنا egalik xabari oldinda; كل مبتدأ.",
+          "uz": "bizda har bir yaxshi narsa bor"
+        },
+        {
+          "w": "مِنَ الطَّعَامِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Narsaning turini bildiradi: ovqatdan.",
+          "uz": "ovqatdan"
+        },
+        {
+          "w": "وَلَنَا كُلُّ جَمِيْلٍ",
+          "r": "معطوف",
+          "rc": "معطوف",
+          "e": "Ikkinchi egalik da’vosi.",
+          "uz": "bizda har bir chiroyli narsa bor"
+        },
+        {
+          "w": "مِنَ اللَّبَاسِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Bu safar kiyim turini bildiradi.",
+          "uz": "kiyimdan"
+        }
+      ]
+    },
+    {
+      "ar": "وَالنَّاسُ فِي كُلِّ شَيْءٍ لَنَا تَبَعٌ.",
+      "tr": "Odamlar har narsada bizga ergashuvchidir.",
+      "parts": [
+        {
+          "w": "وَالنَّاسُ",
+          "r": "مبتدأ",
+          "rc": "مبتدأ",
+          "e": "الناس umumiy ega sifatida kelgan.",
+          "uz": "odamlar"
+        },
+        {
+          "w": "فِي كُلِّ شَيْءٍ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Umumiylik doirasini bildiradi.",
+          "uz": "har bir narsada"
+        },
+        {
+          "w": "لَنَا تَبَعٌ",
+          "r": "خبر متعلق",
+          "rc": "خبر متعلق",
+          "e": "لنا bog‘lanish yo‘nalishi; تبع xabar.",
+          "uz": "bizga ergashuvchi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّا رَأَيْنَا أَنَّ الخَيْرَ لا يُخْطِئُنَا وَلَا يُجَاوِزُنَا فِي الْمَدِينَةِ.",
+      "tr": "Biz ko‘rdikki, bu shaharda yaxshilik bizni chetlab o‘tmaydi va bizdan nariga o‘tib ketmaydi.",
+      "parts": [
+        {
+          "w": "وَإِنَّا رَأَيْنَا",
+          "r": "إن واسمها وخبرها",
+          "rc": "إن واسمها وخبرها",
+          "e": "إن ta’kid; رأينا ko‘rish/bilish fe’li.",
+          "uz": "biz ko‘rdik"
+        },
+        {
+          "w": "أَنَّ الخَيْرَ",
+          "r": "أن واسمها",
+          "rc": "أن واسمها",
+          "e": "الخير ism أن bo‘lib hukm mavzusi.",
+          "uz": "yaxshilikni"
+        },
+        {
+          "w": "لا يُخْطِئُنَا",
+          "r": "نفي وفعل",
+          "rc": "نفي وفعل",
+          "e": "لا inkor; نا boylarga qaytadi.",
+          "uz": "bizni chetlab o‘tmaydi"
+        },
+        {
+          "w": "وَلَا يُجَاوِزُنَا",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Ikkinchi inkor fe’li: o‘tib ketmaslik.",
+          "uz": "bizdan o‘tib ketmaydi"
+        },
+        {
+          "w": "فِي الْمَدِينَةِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Hukm joyini bildiradi.",
+          "uz": "shaharda"
+        }
+      ]
+    },
+    {
+      "ar": "فَلَوْ كَانَ هَذَا الدِّيْنُ خَيْراً لأَتَانَا قَبْلَ هَؤُلَاءِ المَسَاكِينِ.",
+      "tr": "Agar bu din yaxshilik bo‘lganida, bu miskinlardan oldin bizga kelgan bo‘lardi.",
+      "parts": [
+        {
+          "w": "فَلَوْ كَانَ هَذَا الدِّيْنُ خَيْراً",
+          "r": "فاء ولو وكان",
+          "rc": "فاء ولو وكان",
+          "e": "لو faraziy shart; هذا الدين ism كان, خيراً xabar.",
+          "uz": "agar bu din yaxshilik bo‘lsa edi"
+        },
+        {
+          "w": "لأَتَانَا",
+          "r": "جواب لو",
+          "rc": "جواب لو",
+          "e": "لام javobni ta’kidlaydi; نا boylarga qaytadi.",
+          "uz": "albatta bizga kelardi"
+        },
+        {
+          "w": "قَبْلَ هَؤُلَاءِ المَسَاكِينِ",
+          "r": "ظرف ومضاف إليه",
+          "rc": "ظرف ومضاف إليه",
+          "e": "قبل vaqt/tartib oldinligini bildiradi; هؤلاء المساكين keyin kelgan guruh.",
+          "uz": "bu miskinlardan oldin"
+        }
+      ]
+    },
+    {
+      "ar": "﴿لَوْ كَانَ خَيْرًا مَّا سَبَقُونَا إِلَيْهِ﴾.",
+      "tr": "“Agar u yaxshilik bo‘lganida, ular bizdan oldin unga yetib bormagan bo‘lardi”.",
+      "parts": [
+        {
+          "w": "لَوْ كَانَ خَيْرًا",
+          "r": "شرط امتناعي",
+          "rc": "شرط امتناعي",
+          "e": "لو faraziy shart; خيراً xabar.",
+          "uz": "agar yaxshilik bo‘lganida"
+        },
+        {
+          "w": "مَّا سَبَقُونَا",
+          "r": "نفي وجواب",
+          "rc": "نفي وجواب",
+          "e": "ما inkor; سبقونا fe’l va maf’ul, “bizdan o‘zib ketishmadi” ma’nosida.",
+          "uz": "bizdan oldin o‘tmas edilar"
+        },
+        {
+          "w": "إِلَيْهِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Ular nazaridagi din/haqqa qaytadi.",
+          "uz": "unga"
+        }
+      ]
+    }
+  ]
+}

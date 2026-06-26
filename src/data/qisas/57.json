@@ -1,0 +1,455 @@
+{
+  "title": "٥٨ ـ دَعْوَةُ نُوْحٍ",
+  "page": 75,
+  "sentences": [
+    {
+      "ar": "وَدَعَا نُوْحٌ قَوْمَهُ، وَاجْتَهَدَ فِي النَّصِيحَةِ.",
+      "tr": "Nuh qavmini chaqirdi va nasihat qilishda jonbozlik ko‘rsatdi.",
+      "parts": [
+        {
+          "w": "وَدَعَا نُوْحٌ قَوْمَهُ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "فعل وفاعل ومفعول",
+          "e": "دعا da’vat qildi; نوح fāil, قومه maf’ul.",
+          "uz": "Nuh qavmini chaqirdi"
+        },
+        {
+          "w": "وَاجْتَهَدَ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Oldingi da’vatni kuchaytiruvchi sa’y-harakat fe’li.",
+          "uz": "va jonbozlik qildi"
+        },
+        {
+          "w": "فِي النَّصِيحَةِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Qaysi sohada jonbozlik qilganini bildiradi.",
+          "uz": "nasihatda"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: ﴿يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ * أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ * يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَى أَجَلٍ مُّسَمًّى إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ لَوْ كُنتُمْ تَعْلَمُونَ﴾.",
+      "tr": "U dedi: “Ey qavmim, men sizlar uchun ochiq ogohlantiruvchiman. Allohga ibodat qilinglar, Undan qo‘rqinglar va menga itoat qilinglar. U gunohlaringizdan mag‘firat qiladi va sizlarni belgilangan muddatgacha kechiktiradi. Allohning muddati kelganda kechiktirilmaydi, agar bilsangiz”.",
+      "parts": [
+        {
+          "w": "يَا قَوْمِ",
+          "r": "نداء",
+          "rc": "نداء",
+          "e": "يا murojaat; قومِ “qavmim” ma’nosida yā mutakallimga izofa.",
+          "uz": "ey qavmim"
+        },
+        {
+          "w": "إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ",
+          "r": "إن واسمها وخبرها",
+          "rc": "إن واسمها وخبرها",
+          "e": "إن ta’kid; نذير xabar, مبين sifat.",
+          "uz": "men sizlarga ochiq ogohlantiruvchiman"
+        },
+        {
+          "w": "أَنِ اعْبُدُوا اللَّهَ",
+          "r": "أن مفسرة وأمر",
+          "rc": "أن مفسرة وأمر",
+          "e": "أن vahiy/da’vat mazmunini ochadi; اعبدوا buyruq, الله maf’ul.",
+          "uz": "Allohga ibodat qilinglar"
+        },
+        {
+          "w": "وَاتَّقُوهُ وَأَطِيعُونِ",
+          "r": "أمر معطوف",
+          "rc": "أمر معطوف",
+          "e": "Ikki buyruq fe’li; هـ Allohga, نِ Nuhga qaytadi.",
+          "uz": "Undan qo‘rqinglar va menga itoat qilinglar"
+        },
+        {
+          "w": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ",
+          "r": "جواب الطلب",
+          "rc": "جواب الطلب",
+          "e": "Buyruqqa javob natijasi; يغفر majzum, لكم foyda yo‘nalishi.",
+          "uz": "U gunohlaringizdan kechiradi"
+        },
+        {
+          "w": "وَيُؤَخِّرْكُمْ إِلَى أَجَلٍ مُّسَمًّى",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Ikkinchi natija; أجل مسمى belgilangan muddat.",
+          "uz": "sizlarni belgilangan muddatgacha kechiktiradi"
+        },
+        {
+          "w": "إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ",
+          "r": "إن وشرط",
+          "rc": "إن وشرط",
+          "e": "إن ta’kid; إذا جاء vaqt sharti; لا يؤخر majhul inkor.",
+          "uz": "Allohning muddati kelsa kechiktirilmaydi"
+        },
+        {
+          "w": "لَوْ كُنتُمْ تَعْلَمُونَ",
+          "r": "شرط للتنبيه",
+          "rc": "شرط للتنبيه",
+          "e": "لو bu yerda ogohlantirish ohangida: “agar bilsangiz”.",
+          "uz": "agar bilsangiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ اللَّهَ حَبَسَ عَنْهُمُ الْمَطَرَ وَغَضِبَ عَلَيْهِمْ وَقَلَّ الحَرْثُ وَقَلَّ النَّسْلُ.",
+      "tr": "Alloh ulardan yomg‘irni to‘xtatgan, ularga g‘azab qilgan, ekin va nasl kamaygan edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ اللَّهَ حَبَسَ",
+          "r": "كان وفعل ماض",
+          "rc": "كان وفعل ماض",
+          "e": "كان + ماض oldinroq sodir bo‘lgan holatni bildiradi.",
+          "uz": "Alloh to‘xtatgan edi"
+        },
+        {
+          "w": "عَنْهُمُ الْمَطَرَ",
+          "r": "جار ومفعول",
+          "rc": "جار ومفعول",
+          "e": "عنهم mahrum qilinganlarni bildiradi; المطر maf’ul.",
+          "uz": "ulardan yomg‘irni"
+        },
+        {
+          "w": "وَغَضِبَ عَلَيْهِمْ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Allohning g‘azabi yo‘nalgan guruh عليهم bilan kelgan.",
+          "uz": "va ularga g‘azab qilgan edi"
+        },
+        {
+          "w": "وَقَلَّ الحَرْثُ وَقَلَّ النَّسْلُ",
+          "r": "جملتان معطوفتان",
+          "rc": "جملتان معطوفتان",
+          "e": "قلّ kamayishni bildiradi; الحرث va النسل fāil.",
+          "uz": "ekin va nasl kamaydi"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالَ نُوْحٌ: يَا قَوْمِ إِنْ آمَنْتُمْ رَضِيَ عَنْكُمُ اللَّهُ وَزَالَ هَذَا الْعَذَابُ.",
+      "tr": "Shunda Nuh dedi: “Ey qavmim, agar imon keltirsangiz, Alloh sizlardan rozi bo‘ladi va bu azob ketadi”.",
+      "parts": [
+        {
+          "w": "فَقَالَ نُوْحٌ",
+          "r": "فاء نتيجة وفعل",
+          "rc": "فاء نتيجة وفعل",
+          "e": "فاء oldingi holatdan keyingi nasihatni bog‘laydi.",
+          "uz": "shunda Nuh dedi"
+        },
+        {
+          "w": "يَا قَوْمِ",
+          "r": "نداء",
+          "rc": "نداء",
+          "e": "Mehribon da’vat murojaati.",
+          "uz": "ey qavmim"
+        },
+        {
+          "w": "إِنْ آمَنْتُمْ",
+          "r": "شرط",
+          "rc": "شرط",
+          "e": "إن shart; آمنتم fe’l va fāil.",
+          "uz": "agar imon keltirsangiz"
+        },
+        {
+          "w": "رَضِيَ عَنْكُمُ اللَّهُ",
+          "r": "جواب الشرط",
+          "rc": "جواب الشرط",
+          "e": "رضي javob fe’li; الله fāil, عنكم rozi bo‘linadiganlar.",
+          "uz": "Alloh sizlardan rozi bo‘ladi"
+        },
+        {
+          "w": "وَزَالَ هَذَا الْعَذَابُ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Azobning ketishi imon natijasi sifatida kelgan.",
+          "uz": "va bu azob ketadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرْسَلَ عَلَيْكُمُ الأَمْطَارَ وَبَارَكَ لَكُمْ فِي الرِّزْقِ وَالأَوْلادِ.",
+      "tr": "U sizlarga yomg‘irlarni yuboradi va rizq hamda farzandlarda sizlar uchun baraka beradi.",
+      "parts": [
+        {
+          "w": "وَأَرْسَلَ عَلَيْكُمُ الأَمْطَارَ",
+          "r": "فعل ومفعول",
+          "rc": "فعل ومفعول",
+          "e": "أرسل fe’li; الأمطار maf’ul, عليكم tushish yo‘nalishi.",
+          "uz": "sizlarga yomg‘irlarni yuboradi"
+        },
+        {
+          "w": "وَبَارَكَ لَكُمْ",
+          "r": "فعل وجار",
+          "rc": "فعل وجار",
+          "e": "بارك baraka berishni bildiradi; لكم foyda oluvchilar.",
+          "uz": "sizlar uchun baraka beradi"
+        },
+        {
+          "w": "فِي الرِّزْقِ وَالأَوْلادِ",
+          "r": "جار ومجرور معطوف",
+          "rc": "جار ومجرور معطوف",
+          "e": "Baraka tushadigan sohalar: rizq va farzandlar.",
+          "uz": "rizq va farzandlarda"
+        }
+      ]
+    },
+    {
+      "ar": "وَدَعَا نُوْحٌ قَوْمَهُ إِلَى اللَّهِ وَقَالَ لَهُمْ: أَلا تَعْرِفُوْنَ اللَّهَ؟",
+      "tr": "Nuh qavmini Allohga chaqirdi va ularga: “Allohni tanimaysizlarmi?” dedi.",
+      "parts": [
+        {
+          "w": "وَدَعَا نُوْحٌ قَوْمَهُ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "فعل وفاعل ومفعول",
+          "e": "Da’vatning davomiyligini bildiradi.",
+          "uz": "Nuh qavmini chaqirdi"
+        },
+        {
+          "w": "إِلَى اللَّهِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Da’vat yo‘nalishi: Allohga.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "وَقَالَ لَهُمْ",
+          "r": "فعل وجار",
+          "rc": "فعل وجار",
+          "e": "Ularga bevosita murojaat qilganini bildiradi.",
+          "uz": "va ularga dedi"
+        },
+        {
+          "w": "أَلا تَعْرِفُوْنَ اللَّهَ",
+          "r": "استفهام تحضيضي",
+          "rc": "استفهام تحضيضي",
+          "e": "ألا ogohlantiruvchi savol; الله maf’ul.",
+          "uz": "Allohni tanimaysizlarmi"
+        }
+      ]
+    },
+    {
+      "ar": "هَذِهِ آيَاتُ اللَّهِ حَوْلَكُمْ أَلا تَنْظُرُوْنَ إِلَيْهَا؟",
+      "tr": "Mana bular atrofingizdagi Allohning oyatlaridir; ularga qaramaysizlarmi?",
+      "parts": [
+        {
+          "w": "هَذِهِ آيَاتُ اللَّهِ",
+          "r": "مبتدأ وخبر ومضاف إليه",
+          "rc": "مبتدأ وخبر ومضاف إليه",
+          "e": "هذه مبتدأ; آيات xabar; الله mضاف إليه.",
+          "uz": "bular Allohning oyatlari"
+        },
+        {
+          "w": "حَوْلَكُمْ",
+          "r": "ظرف مكان",
+          "rc": "ظرف مكان",
+          "e": "Atrofingizda ekanini bildiradi; كم qavmga qaytadi.",
+          "uz": "atrofingizda"
+        },
+        {
+          "w": "أَلا تَنْظُرُوْنَ إِلَيْهَا",
+          "r": "استفهام تحضيضي",
+          "rc": "استفهام تحضيضي",
+          "e": "Qarashga undovchi savol; إليها oyatlarga qaytadi.",
+          "uz": "ularga qaramaysizlarmi"
+        }
+      ]
+    },
+    {
+      "ar": "أَلَا تَنْظُرُوْنَ إِلَى السَّمَاءِ وَالأَرْضِ؟ أَلا تَنْظُرُوْنَ إِلَى الشَّمْسِ وَالْقَمَرِ؟",
+      "tr": "Osmonga va yerga qaramaysizlarmi? Quyosh va oyga qaramaysizlarmi?",
+      "parts": [
+        {
+          "w": "أَلَا تَنْظُرُوْنَ",
+          "r": "استفهام تحضيضي",
+          "rc": "استفهام تحضيضي",
+          "e": "Takroriy savol tafakkurga undaydi.",
+          "uz": "qaramaysizlarmi"
+        },
+        {
+          "w": "إِلَى السَّمَاءِ وَالأَرْضِ",
+          "r": "جار ومجرور معطوف",
+          "rc": "جار ومجرور معطوف",
+          "e": "Nazar tashlanadigan ikki buyuk belgi.",
+          "uz": "osmon va yerga"
+        },
+        {
+          "w": "أَلا تَنْظُرُوْنَ",
+          "r": "تكرار للتنبيه",
+          "rc": "تكرار للتنبيه",
+          "e": "Ikkinchi savol e’tiborni yangilaydi.",
+          "uz": "qaramaysizlarmi"
+        },
+        {
+          "w": "إِلَى الشَّمْسِ وَالْقَمَرِ",
+          "r": "جار ومجرور معطوف",
+          "rc": "جار ومجرور معطوف",
+          "e": "Quyosh va oy dalil sifatida keltirilgan.",
+          "uz": "quyosh va oyga"
+        }
+      ]
+    },
+    {
+      "ar": "مَنْ خَلَقَ السَّمَوَاتِ؟ وَجَعَلَ القَمَرَ فِيهِنَّ نُوْراً وَجَعَلَ الشَّمْسَ سِرَاجاً؟",
+      "tr": "Osmonlarni kim yaratdi? Ularning ichida oyni nur, quyoshni esa chiroq qildi?",
+      "parts": [
+        {
+          "w": "مَنْ خَلَقَ السَّمَوَاتِ",
+          "r": "استفهام وفعل",
+          "rc": "استفهام وفعل",
+          "e": "من yaratuvchini so‘raydi; السماوات maf’ul.",
+          "uz": "osmonlarni kim yaratdi"
+        },
+        {
+          "w": "وَجَعَلَ القَمَرَ فِيهِنَّ نُوْراً",
+          "r": "فعل ومفعولان",
+          "rc": "فعل ومفعولان",
+          "e": "جعل ikki maf’ul bilan keladi; القمر birinchi, نوراً ikkinchi.",
+          "uz": "ularda oyni nur qildi"
+        },
+        {
+          "w": "وَجَعَلَ الشَّمْسَ سِرَاجاً",
+          "r": "فعل ومفعولان",
+          "rc": "فعل ومفعولان",
+          "e": "الشمس birinchi maf’ul, سراجاً ikkinchi maf’ul.",
+          "uz": "quyoshni chiroq qildi"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَنْ خَلَقَكُمْ؟ وَجَعَلَ لَكُمْ الأَرْضَ بِسَاطاً؟",
+      "tr": "Sizlarni kim yaratdi? Sizlar uchun yerni to‘shak qildi?",
+      "parts": [
+        {
+          "w": "وَمَنْ خَلَقَكُمْ",
+          "r": "استفهام",
+          "rc": "استفهام",
+          "e": "من savol olmoshi; كم maf’ul.",
+          "uz": "sizlarni kim yaratdi"
+        },
+        {
+          "w": "وَجَعَلَ لَكُمْ",
+          "r": "فعل وجار",
+          "rc": "فعل وجار",
+          "e": "جعل yaratib-tayyorlash ma’nosida; لكم foyda yo‘nalishi.",
+          "uz": "sizlar uchun qildi"
+        },
+        {
+          "w": "الأَرْضَ بِسَاطاً",
+          "r": "مفعولان",
+          "rc": "مفعولان",
+          "e": "الأرض birinchi maf’ul, بساطاً ikkinchi maf’ul.",
+          "uz": "yerni to‘shak"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ قَوْمَ نُوحٍ لَمْ يَعْقِلُوا وَلَكِنَّ قَوْمَ نُوحٍ لَمْ يُؤْمِنُوْا!",
+      "tr": "Lekin Nuh qavmi aql ishlatmadi, lekin Nuh qavmi imon keltirmadi!",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ قَوْمَ نُوحٍ",
+          "r": "لكن واسمها",
+          "rc": "لكن واسمها",
+          "e": "Oldingi dalillarga qaramay qarshi holatni bildiradi.",
+          "uz": "lekin Nuh qavmi"
+        },
+        {
+          "w": "لَمْ يَعْقِلُوا",
+          "r": "نفي وجزم",
+          "rc": "نفي وجزم",
+          "e": "لم muzori’ni jazm qiladi; aql ishlatmaslikni bildiradi.",
+          "uz": "aql ishlatmadilar"
+        },
+        {
+          "w": "وَلَكِنَّ قَوْمَ نُوحٍ",
+          "r": "تكرار للتأكيد",
+          "rc": "تكرار للتأكيد",
+          "e": "Takror qavmning qattiq inkorini ta’kidlaydi.",
+          "uz": "lekin Nuh qavmi"
+        },
+        {
+          "w": "لَمْ يُؤْمِنُوْا",
+          "r": "نفي وجزم",
+          "rc": "نفي وجزم",
+          "e": "Imon keltirmaslikni bildiradi.",
+          "uz": "imon keltirmadilar"
+        }
+      ]
+    },
+    {
+      "ar": "بَلْ إِذَا دَعَاهُمْ نُوحٌ إِلى اللَّهِ جَعَلُوْا أَصَابِعَهُمْ في آذَانِهِمْ.",
+      "tr": "Aksincha, Nuh ularni Allohga chaqirsa, ular barmoqlarini quloqlariga tiqib olardilar.",
+      "parts": [
+        {
+          "w": "بَلْ",
+          "r": "إضراب",
+          "rc": "إضراب",
+          "e": "Oldingi inkordan yanada kuchli holatga o‘tadi.",
+          "uz": "aksincha"
+        },
+        {
+          "w": "إِذَا دَعَاهُمْ نُوحٌ",
+          "r": "شرط متكرر",
+          "rc": "شرط متكرر",
+          "e": "إذا takrorlanadigan holat; دعاهم fe’l va maf’ul.",
+          "uz": "Nuh ularni chaqirsa"
+        },
+        {
+          "w": "إِلى اللَّهِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Da’vat yo‘nalishi.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "جَعَلُوْا أَصَابِعَهُمْ",
+          "r": "جواب الشرط",
+          "rc": "جواب الشرط",
+          "e": "جعلوا fe’li; أصابعهم maf’ul.",
+          "uz": "barmoqlarini qo‘yardilar"
+        },
+        {
+          "w": "في آذَانِهِمْ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Qayerga qo‘yganini bildiradi.",
+          "uz": "quloqlariga"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَيْفَ يَفْهَمُ مَنْ لا يَسْمَعُ؟ وَكَيْفَ يَسْمَعُ مَنْ لا يُرِيدُ أَنْ يَسْمَعَ؟",
+      "tr": "Eshitmaydigan odam qanday tushunadi? Eshitishni istamagan odam qanday eshitadi?",
+      "parts": [
+        {
+          "w": "وَكَيْفَ يَفْهَمُ",
+          "r": "استفهام إنكاري",
+          "rc": "استفهام إنكاري",
+          "e": "كيف inkoriy savol ohangida; يفهم muzori’.",
+          "uz": "qanday tushunadi"
+        },
+        {
+          "w": "مَنْ لا يَسْمَعُ",
+          "r": "اسم موصول وصلة",
+          "rc": "اسم موصول وصلة",
+          "e": "من umumiy shaxs; لا يسمع صلة.",
+          "uz": "eshitmaydigan kishi"
+        },
+        {
+          "w": "وَكَيْفَ يَسْمَعُ",
+          "r": "استفهام ثان",
+          "rc": "استفهام ثان",
+          "e": "Ikkinchi savol sababni chuqurlashtiradi.",
+          "uz": "qanday eshitadi"
+        },
+        {
+          "w": "مَنْ لا يُرِيدُ أَنْ يَسْمَعَ",
+          "r": "موصول وصلة ومصدر مؤول",
+          "rc": "موصول وصلة ومصدر مؤول",
+          "e": "لا يريد inkor; أن يسمع istalgan ishni bildiradi.",
+          "uz": "eshitishni istamagan kishi"
+        }
+      ]
+    }
+  ]
+}

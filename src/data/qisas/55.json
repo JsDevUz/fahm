@@ -1,0 +1,420 @@
+{
+  "title": "٥٦ ـ اتَّبَعَكَ الْأَرْذَلُونَ",
+  "page": 73,
+  "sentences": [
+    {
+      "ar": "وَاجْتَهَدَ نُوْحٌ كَثِيراً أَنْ يُؤْمِنَ قَوْمُهُ وَيَعْبُدُوا اللَّهَ وَيَتْرُكُوا الأَصْنَامَ.",
+      "tr": "Nuh qavmi imon keltirishi, Allohga ibodat qilishi va butlarni tark etishi uchun juda ko‘p harakat qildi.",
+      "parts": [
+        {
+          "w": "وَاجْتَهَدَ نُوْحٌ كَثِيراً",
+          "r": "فعل وفاعل ومفعول مطلق",
+          "rc": "فعل وفاعل ومفعول مطلق",
+          "e": "اجتهد sa’y-harakatni bildiradi; كثيراً miqdorni kuchaytiradi.",
+          "uz": "Nuh ko‘p harakat qildi"
+        },
+        {
+          "w": "أَنْ يُؤْمِنَ قَوْمُهُ",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "أن bilan kelgan fe’l maqsadni bildiradi; قومه fāil.",
+          "uz": "qavmi imon keltirishi"
+        },
+        {
+          "w": "وَيَعْبُدُوا اللَّهَ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "يعبدوا oldingi يؤمن ga bog‘langan; الله maf’ul.",
+          "uz": "Allohga ibodat qilishlari"
+        },
+        {
+          "w": "وَيَتْرُكُوا الأَصْنَامَ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Butlarni tark etish imon natijasi sifatida kelgan.",
+          "uz": "butlarni tark etishlari"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنْ مَا آمَنَ بِنُوحٍ إِلَّا بَعْضُ الْأَفْرَادِ مِنْ قَوْمِهِ.",
+      "tr": "Lekin qavmidan faqat ayrim kishilargina Nuhga imon keltirdi.",
+      "parts": [
+        {
+          "w": "وَلَكِنْ",
+          "r": "استدراك",
+          "rc": "استدراك",
+          "e": "Oldingi kuchli da’vatga qaramay natija oz bo‘lganini bildiradi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "مَا آمَنَ بِنُوحٍ إِلَّا",
+          "r": "أسلوب قصر",
+          "rc": "أسلوب قصر",
+          "e": "ما ... إلا cheklash uslubi, “faqatgina” ma’nosi.",
+          "uz": "Nuhga faqat"
+        },
+        {
+          "w": "بَعْضُ الْأَفْرَادِ",
+          "r": "فاعل",
+          "rc": "فاعل",
+          "e": "بعضُ fāil; الأفراد mضاف إليه.",
+          "uz": "ayrim kishilar"
+        },
+        {
+          "w": "مِنْ قَوْمِهِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Mo‘minlarning Nuh qavmidan ekanini bildiradi.",
+          "uz": "uning qavmidan"
+        }
+      ]
+    },
+    {
+      "ar": "مَا آمَنَ بِهِ إِلَّا بَعْضُ الأَفْرَادِ الَّذِينَ يَعْمَلُوْنَ بِأَيْدِيْهِمْ وَيَأْكُلُونَ الحلال.",
+      "tr": "Unga faqat qo‘llari bilan mehnat qilib, halol yeydigan ayrim kishilargina imon keltirdi.",
+      "parts": [
+        {
+          "w": "مَا آمَنَ بِهِ إِلَّا",
+          "r": "قصر بالنفي والاستثناء",
+          "rc": "قصر بالنفي والاستثناء",
+          "e": "Inkor va istisno imon keltirganlar doirasini cheklaydi; به Nuhga qaytadi.",
+          "uz": "unga faqat imon keltirdi"
+        },
+        {
+          "w": "بَعْضُ الأَفْرَادِ",
+          "r": "فاعل",
+          "rc": "فاعل",
+          "e": "Imon keltirgan ozchilik fāil sifatida kelgan.",
+          "uz": "ayrim kishilar"
+        },
+        {
+          "w": "الَّذِينَ يَعْمَلُوْنَ بِأَيْدِيْهِمْ",
+          "r": "صفة موصولة",
+          "rc": "صفة موصولة",
+          "e": "الذين oldingi أفرادni sifatlaydi; بأيديهم mehnat vositasi.",
+          "uz": "qo‘llari bilan ishlaydiganlar"
+        },
+        {
+          "w": "وَيَأْكُلُونَ الحلال",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Halol rizq bilan yashash sifatini qo‘shadi.",
+          "uz": "va halol yeydiganlar"
+        }
+      ]
+    },
+    {
+      "ar": "أَمَّا الْأَغْنِيَاءُ مِنْ قَوْمِهِ فَقَدْ مَنَعَهُمْ كِبْرُهُمْ أَنْ يُطِيعُوا نُوحاً.",
+      "tr": "Qavmidagi boylarga kelsak, ularning kibrlari Nuhga itoat qilishdan to‘sdi.",
+      "parts": [
+        {
+          "w": "أَمَّا الْأَغْنِيَاءُ",
+          "r": "تفصيل ومبتدأ",
+          "rc": "تفصيل ومبتدأ",
+          "e": "أما mavzuni alohida ajratadi; الأغنياء haqida hukm keladi.",
+          "uz": "boylarga kelsak"
+        },
+        {
+          "w": "مِنْ قَوْمِهِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Boylarni Nuh qavmiga nisbatlaydi.",
+          "uz": "uning qavmidan"
+        },
+        {
+          "w": "فَقَدْ مَنَعَهُمْ كِبْرُهُمْ",
+          "r": "فاء جواب أما",
+          "rc": "فاء جواب أما",
+          "e": "فاء أما javobi; كبرهم fāil, هم maf’ul.",
+          "uz": "ularni kibrlari to‘sdi"
+        },
+        {
+          "w": "أَنْ يُطِيعُوا نُوحاً",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "أن + fe’l man’ qilingan ishni bildiradi; نوحاً maf’ul.",
+          "uz": "Nuhga itoat qilishdan"
+        }
+      ]
+    },
+    {
+      "ar": "وَشَغَلَتْهُمْ أَمْوَالُهُمْ وَأَوْلَادُهُمْ أَنْ يُفَكِّرُوا فِي الآخِرَةِ.",
+      "tr": "Ularni mol-dunyolari va bolalari oxirat haqida o‘ylashdan mashg‘ul qilib qo‘ydi.",
+      "parts": [
+        {
+          "w": "وَشَغَلَتْهُمْ",
+          "r": "فعل ومفعول مقدم",
+          "rc": "فعل ومفعول مقدم",
+          "e": "شغلت fe’li mashg‘ul qilishni bildiradi; هم maf’ul oldin kelgan.",
+          "uz": "ularni mashg‘ul qildi"
+        },
+        {
+          "w": "أَمْوَالُهُمْ وَأَوْلَادُهُمْ",
+          "r": "فاعل معطوف",
+          "rc": "فاعل معطوف",
+          "e": "Ikki fāil sabab sifatida kelgan; هم egalik olmoshi.",
+          "uz": "mollari va bolalari"
+        },
+        {
+          "w": "أَنْ يُفَكِّرُوا",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "Mashg‘ul bo‘lish sababli tark qilingan ish.",
+          "uz": "o‘ylashdan"
+        },
+        {
+          "w": "فِي الآخِرَةِ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Fikr mavzusini bildiradi.",
+          "uz": "oxirat haqida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا يَقُولُونَ: نَحْنُ أَشْرَافٌ وَهَؤُلَاءِ أَرَاذِلُ.",
+      "tr": "Ular: “Biz sharafli kishilarmiz, bular esa past tabaqalardir”, der edilar.",
+      "parts": [
+        {
+          "w": "وَكَانُوا يَقُولُونَ",
+          "r": "كان وخبرها",
+          "rc": "كان وخبرها",
+          "e": "Takrorlanadigan da’voni bildiradi.",
+          "uz": "ular der edilar"
+        },
+        {
+          "w": "نَحْنُ أَشْرَافٌ",
+          "r": "مبتدأ وخبر",
+          "rc": "مبتدأ وخبر",
+          "e": "نحن مبتدأ, أشراف xabar; o‘zlarini ulug‘lash.",
+          "uz": "biz sharaflilarmiz"
+        },
+        {
+          "w": "وَهَؤُلَاءِ أَرَاذِلُ",
+          "r": "مبتدأ وخبر",
+          "rc": "مبتدأ وخبر",
+          "e": "هؤلاء yaqin ishora; أراذل xabar, haqorat ma’nosida.",
+          "uz": "bular past tabaqalar"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا دَعَاهُمْ نُوْحٌ إِلى اللَّهَ قَالُوْا: ﴿أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ﴾.",
+      "tr": "Nuh ularni Allohga chaqirganida, ular: “Senga past tabaqalar ergashgan bo‘lsa, biz senga imon keltiramizmi?” dedilar.",
+      "parts": [
+        {
+          "w": "وَلَمَّا دَعَاهُمْ نُوْحٌ",
+          "r": "لما وفعل",
+          "rc": "لما وفعل",
+          "e": "لمّا vaqt bog‘lovchisi; دعاهم fe’l va maf’ul, نوح fāil.",
+          "uz": "Nuh ularni chaqirganida"
+        },
+        {
+          "w": "إِلى اللَّهَ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Da’vat yo‘nalishini bildiradi.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "قَالُوْا",
+          "r": "جواب لما",
+          "rc": "جواب لما",
+          "e": "لمّا javobi, qavmning reaksiyasi.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "أَنُؤْمِنُ لَكَ",
+          "r": "استفهام إنكاري",
+          "rc": "استفهام إنكاري",
+          "e": "Hamza e’tirozli savol; لك Nuhga imonni bildiradi.",
+          "uz": "senga imon keltiramizmi"
+        },
+        {
+          "w": "وَاتَّبَعَكَ الْأَرْذَلُونَ",
+          "r": "حال",
+          "rc": "حال",
+          "e": "Senga ergashganlarning holatini kamsitib keltirishadi; ك Nuhga qaytadi.",
+          "uz": "holbuki senga pastlar ergashgan"
+        }
+      ]
+    },
+    {
+      "ar": "وَطَلَبُوا مِنْ نُوحٍ أَنْ يَطْرُدَ هَؤُلَاءِ الْمَسَاكِينَ.",
+      "tr": "Ular Nuhdan bu miskinlarni haydab yuborishni talab qildilar.",
+      "parts": [
+        {
+          "w": "وَطَلَبُوا مِنْ نُوحٍ",
+          "r": "فعل وفاعل وجار",
+          "rc": "فعل وفاعل وجار",
+          "e": "طلبوا fe’li talabni bildiradi; من نوح talab qilingan shaxs.",
+          "uz": "Nuhdan talab qildilar"
+        },
+        {
+          "w": "أَنْ يَطْرُدَ",
+          "r": "مصدر مؤول",
+          "rc": "مصدر مؤول",
+          "e": "Talab qilingan ishni bildiradi.",
+          "uz": "haydab yuborishni"
+        },
+        {
+          "w": "هَؤُلَاءِ الْمَسَاكِينَ",
+          "r": "مفعول به وبدل/صفة",
+          "rc": "مفعول به وبدل/صفة",
+          "e": "هؤلاء ko‘rsatish olmoshi; المساكين izoh sifatida kelgan.",
+          "uz": "bu miskinlarni"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ نُوْحاً أَبَى وَقَالَ: ﴿وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ﴾.",
+      "tr": "Lekin Nuh rad etdi va: “Men mo‘minlarni haydab yuboruvchi emasman”, dedi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ نُوْحاً أَبَى",
+          "r": "لكن واسمها وخبرها",
+          "rc": "لكن واسمها وخبرها",
+          "e": "لكن qarshi javobni bildiradi; أبى rad etdi ma’nosida.",
+          "uz": "lekin Nuh rad etdi"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "فعل معطوف",
+          "rc": "فعل معطوف",
+          "e": "Rad etishdan keyingi izohiy gap.",
+          "uz": "va dedi"
+        },
+        {
+          "w": "وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ",
+          "r": "نفي مؤكد بالباء",
+          "rc": "نفي مؤكد بالباء",
+          "e": "ما inkor; باء xabarni kuchaytiradi; المؤمنين maf’ul ma’nosida.",
+          "uz": "men mo‘minlarni haydab yuboruvchi emasman"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ بَابِي لَيْسَ بَابَ مَلِكٍ، إِنْ أَنَا إِلَّا نَذِيرٌ مُّبِينٌ.",
+      "tr": "Mening eshigim podshoh eshigi emas; men faqat ochiq ogohlantiruvchiman.",
+      "parts": [
+        {
+          "w": "إِنَّ بَابِي",
+          "r": "إن واسمها",
+          "rc": "إن واسمها",
+          "e": "إن ta’kid; بابي ism إن, ي egalik olmoshi.",
+          "uz": "albatta mening eshigim"
+        },
+        {
+          "w": "لَيْسَ بَابَ مَلِكٍ",
+          "r": "ليس وخبر",
+          "rc": "ليس وخبر",
+          "e": "ليس inkor; بابَ خبر ليس, ملك mضاف إليه.",
+          "uz": "podshoh eshigi emas"
+        },
+        {
+          "w": "إِنْ أَنَا إِلَّا",
+          "r": "قصر",
+          "rc": "قصر",
+          "e": "إن bu yerda ما ma’nosida inkor; إلا cheklash beradi.",
+          "uz": "men faqat"
+        },
+        {
+          "w": "نَذِيرٌ مُّبِينٌ",
+          "r": "خبر وصفة",
+          "rc": "خبر وصفة",
+          "e": "نذير xabar, مبين sifat.",
+          "uz": "ochiq ogohlantiruvchi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ نُوْحٌ يَعْرِفُ أَنَّ هَؤُلَاءِ المَسَاكِيْنَ مُؤْمِنُوْنَ مُخْلِصُونَ.",
+      "tr": "Nuh bu miskinlarning ixlosli mo‘minlar ekanini bilardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ نُوْحٌ يَعْرِفُ",
+          "r": "كان وخبرها",
+          "rc": "كان وخبرها",
+          "e": "Nuhning aniq bilimi ifodalanadi.",
+          "uz": "Nuh bilardi"
+        },
+        {
+          "w": "أَنَّ هَؤُلَاءِ المَسَاكِيْنَ",
+          "r": "أن واسمها",
+          "rc": "أن واسمها",
+          "e": "هؤلاء اسم أن; المساكين izoh/sifat.",
+          "uz": "bu miskinlar"
+        },
+        {
+          "w": "مُؤْمِنُوْنَ مُخْلِصُونَ",
+          "r": "خبر أن وصفة",
+          "rc": "خبر أن وصفة",
+          "e": "Mo‘minun xabar; مخلصون sifat/ikkinchi xabar.",
+          "uz": "ixlosli mo‘minlar ekanini"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ يَغْضَبُ إِذَا طُرِدَ هَؤُلَاءِ المَسَاكِينُ، وَإِذَنْ لا يَنْصُرُهُ أَحَدٌ.",
+      "tr": "U bu miskinlar haydalsa, Alloh g‘azab qilishini va unda hech kim unga yordam bermasligini bilardi.",
+      "parts": [
+        {
+          "w": "وَأَنَّ اللَّهَ يَغْضَبُ",
+          "r": "معطوف على مفعول يعرف",
+          "rc": "معطوف على مفعول يعرف",
+          "e": "Nuh bilgan ikkinchi haqiqat; يغضب xabar.",
+          "uz": "Alloh g‘azab qilishini"
+        },
+        {
+          "w": "إِذَا طُرِدَ هَؤُلَاءِ المَسَاكِينُ",
+          "r": "شرط مبني للمجهول",
+          "rc": "شرط مبني للمجهول",
+          "e": "إذا shart; طرد majhul fe’l, هؤلاء نائب فاعل.",
+          "uz": "agar bu miskinlar haydalsa"
+        },
+        {
+          "w": "وَإِذَنْ لا يَنْصُرُهُ أَحَدٌ",
+          "r": "جواب ونتيجة",
+          "rc": "جواب ونتيجة",
+          "e": "إذن natijani bildiradi; أحدٌ fāil, هـ Nuhga qaytadi.",
+          "uz": "unda unga hech kim yordam bermaydi"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالَ نُوحٌ: ﴿وَيَا قَوْمِ مَن يَنصُرُنِي مِنَ اللَّهِ إِن طَرَدتُّهُمْ﴾.",
+      "tr": "Shunda Nuh dedi: “Ey qavmim, agar men ularni haydasam, Allohdan meni kim himoya qiladi?”",
+      "parts": [
+        {
+          "w": "فَقَالَ نُوحٌ",
+          "r": "فاء نتيجة وفعل",
+          "rc": "فاء نتيجة وفعل",
+          "e": "فاء oldingi sababdan keyingi javobni bildiradi.",
+          "uz": "shunda Nuh dedi"
+        },
+        {
+          "w": "وَيَا قَوْمِ",
+          "r": "نداء",
+          "rc": "نداء",
+          "e": "يا chaqiriq; قومِ “qavmim” ma’nosida.",
+          "uz": "ey qavmim"
+        },
+        {
+          "w": "مَن يَنصُرُنِي مِنَ اللَّهِ",
+          "r": "استفهام",
+          "rc": "استفهام",
+          "e": "من savol olmoshi; ينصرني fe’l, من الله Allohdan himoya ma’nosida.",
+          "uz": "Allohdan meni kim himoya qiladi"
+        },
+        {
+          "w": "إِن طَرَدتُّهُمْ",
+          "r": "شرط",
+          "rc": "شرط",
+          "e": "إن shart; طردتّ fe’l, هم miskinlarga qaytadi.",
+          "uz": "agar ularni haydasam"
+        }
+      ]
+    }
+  ]
+}

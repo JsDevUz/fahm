@@ -93,14 +93,14 @@
       ]
     },
     {
-      "ar": "وَقَدْ مَاتَ هَؤُلاءِ وَانْتَقَلُوا إلى رَحْمَةِ اللَّهِ.",
+      "ar": "وَقَدْ مَاتَ هَؤُلَاءِ وَانْتَقَلُوا إلى رَحْمَةِ اللَّهِ.",
       "tr": "Bu kishilar vafot etib, Allohning rahmatiga ko‘chgan edilar.",
       "parts": [
         {
-          "w": "وَقَدْ مَاتَ هَؤُلاءِ",
+          "w": "وَقَدْ مَاتَ هَؤُلَاءِ",
           "r": "قد وفعل وفاعل",
           "rc": "tf",
-          "e": "قَدْ voqeaning amalga oshganini bildiradi, هَؤُلاءِ solih kishilarga ishora.",
+          "e": "قَدْ voqeaning amalga oshganini bildiradi, هَؤُلَاءِ solih kishilarga ishora.",
           "uz": "bu kishilar vafot etdi"
         },
         {
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "ar": "ذَهَبَ الشَّيْطَانُ إِلى النَّاسِ وَذَكَرَ هُؤلاءِ الرِّجَالَ.",
+      "ar": "ذَهَبَ الشَّيْطَانُ إِلى النَّاسِ وَذَكَرَ هَؤُلَاءِ الرِّجَالَ.",
       "tr": "Shayton odamlarning oldiga bordi va bu kishilarni eslatdi.",
       "parts": [
         {
@@ -124,7 +124,7 @@
           "uz": "shayton odamlarga bordi"
         },
         {
-          "w": "وَذَكَرَ هُؤلاءِ الرِّجَالَ",
+          "w": "وَذَكَرَ هَؤُلَاءِ الرِّجَالَ",
           "r": "فعل معطوف ومفعول",
           "rc": "tf",
           "e": "U solihlarni eslatib odamlarning muhabbatidan foydalanadi.",
