@@ -1,0 +1,275 @@
+{
+  "title": "٦٥ ـ بَعْدَ نُوحٍ",
+  "page": 83,
+  "sentences": [
+    {
+      "ar": "بَارَكَ اللَّهُ فِي ذُرِّيَّةِ نُوحٍ فَانْتَشَرَتْ فِي الْأَرْضِ.",
+      "tr": "Alloh Nuhning zurriyotiga baraka berdi, ular yer yuziga tarqaldilar.",
+      "parts": [
+        {
+          "w": "بَارَكَ اللَّهُ",
+          "r": "فعل وفاعل",
+          "rc": "فعل وفاعل",
+          "e": "بارك fe’li baraka berishni bildiradi; الله fāil.",
+          "uz": "Alloh baraka berdi"
+        },
+        {
+          "w": "فِي ذُرِّيَّةِ نُوحٍ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Baraka berilgan naslni bildiradi; نوح mضاف إليه.",
+          "uz": "Nuh zurriyotiga"
+        },
+        {
+          "w": "فَانْتَشَرَتْ فِي الْأَرْضِ",
+          "r": "فاء نتيجة وفعل",
+          "rc": "فاء نتيجة وفعل",
+          "e": "فاء natija; انتشرت zurriyotga qaytgan muannas fe’l.",
+          "uz": "yer yuziga tarqaldi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ مِنْهَا أُمَّةٌ يُقَالُ لَهَا عَادٌ.",
+      "tr": "Ulardan Od deb ataladigan bir ummat bor edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ مِنْهَا أُمَّةٌ",
+          "r": "كان وظرف واسم",
+          "rc": "كان وظرف واسم",
+          "e": "منها Nuh zurriyotiga qaytadi; أمةٌ mavjud bo‘lgan jamoa.",
+          "uz": "undan bir ummat bor edi"
+        },
+        {
+          "w": "يُقَالُ لَهَا عَادٌ",
+          "r": "جملة صفة مبنية للمجهول",
+          "rc": "جملة صفة مبنية للمجهول",
+          "e": "Majhul fe’l أمةni sifatlaydi; عادٌ nom sifatida kelgan.",
+          "uz": "unga Od deyilardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانُوا رِجَالاً أَقْوِيَاءَ، أَجْسَامُهُمْ كَأَنَّهَا مِنْ حَدِيدٍ.",
+      "tr": "Ular kuchli kishilar edi, tanalari go‘yo temirdan edi.",
+      "parts": [
+        {
+          "w": "وَكَانُوا رِجَالاً أَقْوِيَاءَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "كان واسمها وخبرها",
+          "e": "واو ism كان; رجالاً xabar, أقوياء sifat.",
+          "uz": "ular kuchli kishilar edi"
+        },
+        {
+          "w": "أَجْسَامُهُمْ",
+          "r": "مبتدأ ومضاف إليه",
+          "rc": "مبتدأ ومضاف إليه",
+          "e": "Yangi ismiy jumla boshlanadi; هم Od qavmiga qaytadi.",
+          "uz": "ularning tanalari"
+        },
+        {
+          "w": "كَأَنَّهَا مِنْ حَدِيدٍ",
+          "r": "كأن واسمها وخبرها",
+          "rc": "كأن واسمها وخبرها",
+          "e": "كأن o‘xshatish; ها tanalarga qaytadi, من حديد xabar.",
+          "uz": "go‘yo temirdan edi"
+        }
+      ]
+    },
+    {
+      "ar": "يَغْلِبُونَ كُلَّ وَاحِدٍ وَلَا يَغْلِبُهُمْ أَحَدٌ.",
+      "tr": "Ular har bir kishini yengar, ularni esa hech kim yenga olmas edi.",
+      "parts": [
+        {
+          "w": "يَغْلِبُونَ كُلَّ وَاحِدٍ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "فعل وفاعل ومفعول",
+          "e": "Muzori’ fe’l odatiy qudratni bildiradi; كل واحد maf’ul.",
+          "uz": "har bir kishini yengadilar"
+        },
+        {
+          "w": "وَلَا يَغْلِبُهُمْ أَحَدٌ",
+          "r": "نفي وفعل ومفعول وفاعل",
+          "rc": "نفي وفعل ومفعول وفاعل",
+          "e": "لا inkor; هم maf’ul oldin kelgan, أحد fāil.",
+          "uz": "ularni hech kim yengmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَا يَخَافُونَ أَحَداً وَيَخَافُهُمْ كُلُّ أَحَدٍ.",
+      "tr": "Ular hech kimdan qo‘rqmas, har kim ulardan qo‘rqardi.",
+      "parts": [
+        {
+          "w": "وَلَا يَخَافُونَ أَحَداً",
+          "r": "نفي وفعل ومفعول",
+          "rc": "نفي وفعل ومفعول",
+          "e": "لا inkor; أحداً umumiy maf’ul.",
+          "uz": "hech kimdan qo‘rqmaydilar"
+        },
+        {
+          "w": "وَيَخَافُهُمْ كُلُّ أَحَدٍ",
+          "r": "فعل ومفعول وفاعل",
+          "rc": "فعل ومفعول وفاعل",
+          "e": "هم maf’ul, كل أحد fāil; kuch ta’siri teskari ko‘rsatilgan.",
+          "uz": "har kim ulardan qo‘rqadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَارَكَ اللَّهُ لِعَادٍ فِي كُلِّ شَيْءٍ، فَكَانَتْ إِبِلُ عَادٍ وَغَنَمُهَا تَمْلَأُ الْوَادِي.",
+      "tr": "Alloh Od uchun har narsada baraka berdi, Odning tuyalar va qo‘ylari vodiyni to‘ldirardi.",
+      "parts": [
+        {
+          "w": "وَبَارَكَ اللَّهُ لِعَادٍ",
+          "r": "فعل وفاعل وجار",
+          "rc": "فعل وفاعل وجار",
+          "e": "لام foyda oluvchi qavmni bildiradi.",
+          "uz": "Alloh Odga baraka berdi"
+        },
+        {
+          "w": "فِي كُلِّ شَيْءٍ",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Barakaning keng doirasini bildiradi.",
+          "uz": "har bir narsada"
+        },
+        {
+          "w": "فَكَانَتْ إِبِلُ عَادٍ وَغَنَمُهَا",
+          "r": "فاء نتيجة وكان",
+          "rc": "فاء نتيجة وكان",
+          "e": "كان muannas shaklda; إبل va غنم ne’matlar sifatida sanaladi.",
+          "uz": "Odning tuyalari va qo‘ylari edi"
+        },
+        {
+          "w": "تَمْلَأُ الْوَادِي",
+          "r": "خبر كان جملة فعلية",
+          "rc": "خبر كان جملة فعلية",
+          "e": "Fe’l xabar bo‘lib, ko‘pligini bildiradi; الوادي maf’ul.",
+          "uz": "vodiyni to‘ldirar edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ خَيْلُ عَادٍ تَمْلَأُ المَيْدَانَ.",
+      "tr": "Odning otlari maydonni to‘ldirardi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ خَيْلُ عَادٍ",
+          "r": "كان واسمها",
+          "rc": "كان واسمها",
+          "e": "خيل ism كان; عاد mضاف إليه.",
+          "uz": "Odning otlari edi"
+        },
+        {
+          "w": "تَمْلَأُ المَيْدَانَ",
+          "r": "خبر كان",
+          "rc": "خبر كان",
+          "e": "Fe’liy xabar ko‘plik va harakat manzarasini bildiradi.",
+          "uz": "maydonni to‘ldirardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ أَوْلادُ عَادٍ تَمْلَأُ البُيُوتَ.",
+      "tr": "Odning bolalari uylarni to‘ldirardi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ أَوْلادُ عَادٍ",
+          "r": "كان واسمها",
+          "rc": "كان واسمها",
+          "e": "أولاد siniq ko‘plik bo‘lsa ham muannas fe’l bilan muomala qilingan.",
+          "uz": "Odning bolalari edi"
+        },
+        {
+          "w": "تَمْلَأُ البُيُوتَ",
+          "r": "خبر كان",
+          "rc": "خبر كان",
+          "e": "Fe’l bolalarning ko‘pligini tasvirlaydi; البيوت maf’ul.",
+          "uz": "uylarni to‘ldirardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِذَا خَرَجَتْ إِبِلُ عَادٍ وَغَنَمُهَا إِلَى الْمُرْعَى كَانَ لَهَا مَنْظَرٌ جَمِيلٌ جِدًّا.",
+      "tr": "Odning tuyalari va qo‘ylari yaylovga chiqqanda, ular juda chiroyli ko‘rinishga ega bo‘lardi.",
+      "parts": [
+        {
+          "w": "وَإِذَا خَرَجَتْ إِبِلُ عَادٍ وَغَنَمُهَا",
+          "r": "إذا شرطية وفعل",
+          "rc": "إذا شرطية وفعل",
+          "e": "إذا takrorlanadigan holat; chiqadigan ne’matlar fāil.",
+          "uz": "tuyalari va qo‘ylari chiqqanda"
+        },
+        {
+          "w": "إِلَى الْمُرْعَى",
+          "r": "جار ومجرور",
+          "rc": "جار ومجرور",
+          "e": "Chiqish yo‘nalishi: yaylov.",
+          "uz": "yaylovga"
+        },
+        {
+          "w": "كَانَ لَهَا مَنْظَرٌ جَمِيلٌ جِدًّا",
+          "r": "جواب إذا وكان",
+          "rc": "جواب إذا وكان",
+          "e": "لها xabar oldinda; منظر ism كان, جميل sifat, جداً kuchaytiradi.",
+          "uz": "ularning juda chiroyli ko‘rinishi bor edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِذَا خَرَجَ الأَطْفَالُ فِي الصَّبَاحِ يَلْعَبُونَ كَانَ لَهُمْ مَنْظَرٌ جَمِيلٌ جِدًّا.",
+      "tr": "Bolalar ertalab o‘ynab chiqqanlarida, ular ham juda chiroyli manzara bo‘lardi.",
+      "parts": [
+        {
+          "w": "وَإِذَا خَرَجَ الأَطْفَالُ",
+          "r": "إذا وفعل وفاعل",
+          "rc": "إذا وفعل وفاعل",
+          "e": "إذا takroriy vaqt holatini bildiradi.",
+          "uz": "bolalar chiqqanda"
+        },
+        {
+          "w": "فِي الصَّبَاحِ يَلْعَبُونَ",
+          "r": "ظرف وحال",
+          "rc": "ظرف وحال",
+          "e": "في الصباح vaqt; يلعبون holat.",
+          "uz": "ertalab o‘ynab"
+        },
+        {
+          "w": "كَانَ لَهُمْ مَنْظَرٌ جَمِيلٌ جِدًّا",
+          "r": "جواب إذا",
+          "rc": "جواب إذا",
+          "e": "لهم xabar oldinda; منظر ism كان.",
+          "uz": "ularning juda chiroyli ko‘rinishi bor edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتْ أَرْضُ عَادٍ كَذَلِكَ أَرْضاً جَمِيلَةً خَضْرَاءَ فِيهَا بَسَاتِينُ وَعُيُونٌ كَثِيرَةٌ.",
+      "tr": "Odning yeri ham shunday go‘zal, yam-yashil yer edi; unda ko‘p bog‘lar va buloqlar bor edi.",
+      "parts": [
+        {
+          "w": "وَكَانَتْ أَرْضُ عَادٍ",
+          "r": "كان واسمها",
+          "rc": "كان واسمها",
+          "e": "أرض ism كان; عاد mضاف إليه.",
+          "uz": "Odning yeri edi"
+        },
+        {
+          "w": "كَذَلِكَ أَرْضاً جَمِيلَةً خَضْرَاءَ",
+          "r": "خبر وصفات",
+          "rc": "خبر وصفات",
+          "e": "أرضاً xabar; جميلة وخضراء sifatlar.",
+          "uz": "shunday chiroyli, yashil yer"
+        },
+        {
+          "w": "فِيهَا بَسَاتِينُ وَعُيُونٌ كَثِيرَةٌ",
+          "r": "جملة صفة/حال",
+          "rc": "جملة صفة/حال",
+          "e": "فيها oldinga chiqqan xabar; بساتين وعيون mavjud narsalar.",
+          "uz": "unda ko‘p bog‘lar va buloqlar bor edi"
+        }
+      ]
+    }
+  ]
+}
