@@ -2,12 +2,14 @@ import { useState } from 'react';
 import { ArrowLeft } from 'lucide-react';
 import GrammarModal from './GrammarModal';
 import WordTooltip from './WordTooltip';
+import PracticeView from './PracticeView';
 
 export default function ChapterView({ chapter, words, onBack, chapterIndex, totalChapters, onNavigateChapter }) {
   const [modalSentence, setModalSentence] = useState(null);
   const [tooltipState, setTooltipState] = useState({ isVisible: false, x: 0, y: 0, arabic: '', uzbek: '' });
+  const [showPractice, setShowPractice] = useState(false);
 
-  const norm = (w) => w.replace(/[،؟!.،:؛﴿﴾۝\-\u0651\u064B\u064C\u064D\u0652\u0650\u064E\u064F,'"[\]«»()]/g, '').replace(/\s+/g, ' ').trim();
+  const norm = (w) => w.replace(/[،؟!.،:؛﴿﴾۝\-\u0651\u064B\u064C\u064D\u0652\u0650\u064E\u064F,'\"[\]«»()]/g, '').replace(/\s+/g, ' ').trim();
 
   const lookupWord = (raw) => {
     const n = norm(raw);
@@ -115,15 +117,34 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
     return elements;
   };
 
+  /* ── PRACTICE VIEW ── */
+  if (showPractice) {
+    return (
+      <div className="animate-slide-in" style={{ maxWidth: '760px', margin: '0 auto', paddingBottom: '40px' }}>
+        <PracticeView chapter={chapter} onBack={() => setShowPractice(false)} />
+      </div>
+    );
+  }
+
+  /* ── READING VIEW ── */
   return (
     <div className="animate-slide-in" style={{ maxWidth: '760px', margin: '0 auto', paddingBottom: '40px' }}>
-      <button
-        className="btn btn-ghost"
-        onClick={onBack}
-        style={{ marginBottom: '24px', padding: '8px 16px' }}
-      >
-        <ArrowLeft size={16} /> Mavzularga qaytish
-      </button>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '24px' }}>
+        <button
+          className="btn btn-ghost"
+          onClick={onBack}
+          style={{ padding: '8px 16px' }}
+        >
+          <ArrowLeft size={16} /> Mavzularga qaytish
+        </button>
+
+        <button
+          className="btn btn-ghost"
+          onClick={() => setShowPractice(true)}
+        >
+          Mashiq
+        </button>
+      </div>
 
       <WordTooltip {...tooltipState} />
       <GrammarModal
@@ -173,7 +194,8 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
         Sahifa {chapter.page}
       </div>
 
-      <div style={{ display: 'flex', justifyContent: 'space-between', gap: '16px' }}>
+      {/* Bottom: prev / practice / next */}
+      <div style={{ display: 'flex', justifyContent: 'space-between', gap: '12px', alignItems: 'center' }}>
         <button
           className="btn btn-ghost"
           disabled={chapterIndex === 0}
@@ -182,6 +204,15 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
         >
           &larr; Oldingi
         </button>
+
+        <button
+          className="btn btn-ghost"
+          onClick={() => setShowPractice(true)}
+          style={{ padding: '12px 20px' }}
+        >
+          Mashiq
+        </button>
+
         <button
           className="btn btn-primary"
           disabled={chapterIndex === totalChapters - 1}
