@@ -9,25 +9,67 @@
       "tr": "Yusuf dedi: «Bu Robbim menga o'rgatgan narsalardandir».",
       "parts": [
         {
-          "w": "قَالَ يُوسُفُ",
-          "r": "فعل ماض وفاعل",
+          "w": "قَالَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ o'tgan zamon fe'li, يُوسُفُ esa uning fo'ili bo'lib raf holatida kelgan; gap Yusufning nutqini boshlaydi.",
-          "uz": "Yusuf dedi"
+          "e": "قَالَ — o'tgan zamon fe'li (فِعل مَاضٍ) bo'lib, 'dedi' ma'nosini bildiradi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — قَالَ fe'lining fo'ili bo'lib, damma bilan marfu'.",
+          "uz": "Yusuf"
         },
         {
           "w": "ذَلِكُمَا",
-          "r": "اسم إشارة مبتدأ",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
           "rc": "tm",
-          "e": "ذَلِكُمَا ikkilikka murojaat qilingan ishora ismi bo'lib, oldingi ta'bir ilmini ko'rsatadi va ismiy gapning mavzusi vazifasida kelgan.",
-          "uz": "bu ikkingizga aytilgan narsa"
+          "e": "ذَلِكُمَا — ikkilikka murojaat qilingan ishora ismi bo'lib, mubtado vazifasida kelgan.",
+          "uz": "bu"
         },
         {
-          "w": "مِمَّا عَلَّمَنِي رَبِّي",
-          "r": "خبر وجملة صلة",
-          "rc": "tx",
-          "e": "مِمَّا tarkibi مِن va مَاdan tuzilib xabar vazifasida kelgan; عَلَّمَنِي رَبِّي jumlasi مَاni aniqlaydi, رَبِّي esa عَلَّمَ fe'lining fo'ili.",
-          "uz": "Robbim menga o'rgatgan narsalardan"
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ — boshlang'ich nuqta yoki bo'linishni bildiruvchi jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "مَا",
+          "r": "اسم مَوصُول",
+          "rc": "tb",
+          "e": "مَا — nisbiy bog'lovchi ism (ism mavsul) bo'lib, jar harfidan keyin kelgani sababli mahallan majrur.",
+          "uz": "narsa"
+        },
+        {
+          "w": "عَلَّمَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tmt",
+          "e": "عَلَّمَ — o'tgan zamon fe'li, 'o'rgatdi' ma'nosini bildiradi.",
+          "uz": "o'rgatdi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "نِي — birinchi shaxs birlik mutakallim zamiri bo'lib, allama fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "menga"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "فَاعِل / مُضَاف",
+          "rc": "tmt",
+          "e": "رَبِّ — allama fe'lining fo'ili bo'lib, taqdiriy damma bilan marfu' va muzofdir.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "ي — mutakallim zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "mening"
         }
       ]
     },
@@ -36,25 +78,67 @@
       "tr": "Lekin Alloh O'z ilmini har kimga bermaydi.",
       "parts": [
         {
-          "w": "وَلَكِنَّ اللَّهَ",
-          "r": "حرف استدراك واسم لكن",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَ oldingi gapga ulaydi, لَكِنَّ esa istidrok va nasb harfi; اللَّهَ uning ismi bo'lib mansub kelgan.",
-          "uz": "lekin Alloh"
+          "e": "وَ — oldingi gapga ulovchi atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "لَا يُؤْتِي",
-          "r": "خبر لكن جملة فعلية منفية",
+          "w": "لَكِنَّ",
+          "r": "حَرف اسْتِdrāk",
+          "rc": "tb",
+          "e": "لَكِنَّ — istidrok (cheklash/aniqlashtirish) harfi bo'lib, inna guruhiga kiradi, ismni nasb qiladi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم لَكِنَّ (مَنصُوب)",
+          "rc": "tb",
+          "e": "اللَّهَ — lakinna ning ismi bo'lib, fatha bilan mansub.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi",
           "rc": "tx",
-          "e": "لَا fe'lni inkor qiladi, يُؤْتِي esa لَكِنَّning xabari bo'lgan fe'liy jumlaning asosiy fe'li.",
-          "uz": "bermaydi"
+          "e": "لَا — mudori' fe'lini inkor qiluvchi nafiy harfi.",
+          "uz": "emas"
         },
         {
-          "w": "عِلْمَهُ كُلَّ أَحَدٍ",
-          "r": "مفعولان",
+          "w": "يُؤْتِي",
+          "r": "خَبَر لَكِنَّ (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يُؤْتِي — taqdiriy damma bilan marfu' bo'lgan mudori' fe'li, lakinna ning xabari bo'lgan fe'liy jumla tarkibidadir.",
+          "uz": "beradi"
+        },
+        {
+          "w": "عِلْمَ",
+          "r": "مَفعُول بِهِ أَوَّل / مُضَاف",
           "rc": "tb",
-          "e": "عِلْمَهُ beriladigan narsa sifatida birinchi maf'ul, كُلَّ أَحَدٍ esa berish yetib boradigan shaxs doirasini bildiruvchi ikkinchi maf'uldir.",
-          "uz": "O'z ilmini har kimga"
+          "e": "عِلْمَ — yu'ti fe'lining birinchi maf'ul bihi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "ilm"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — uchinchi shaxs birlik muzakkar muttasil zamiri, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "O'z"
+        },
+        {
+          "w": "كُلَّ",
+          "r": "مَفعُول بِهِ ثَانٍ / مُضَاف",
+          "rc": "tb",
+          "e": "كُلَّ — yu'ti fe'lining ikkinchi maf'ul bihi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "har"
+        },
+        {
+          "w": "أَحَدٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "أَحَدٍ — izofada muzofun ilayh bo'lib, kasra tanvini bilan majrur.",
+          "uz": "kimga"
         }
       ]
     },
@@ -63,24 +147,52 @@
       "tr": "Albatta, Alloh O'z ilmini mushrikka bermaydi.",
       "parts": [
         {
-          "w": "إِنَّ اللَّهَ",
-          "r": "حرف توكيد ونصب واسم إن",
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "إِنَّ gapdagi hukmni ta'kidlaydi va اللَّهَni ism إن sifatida nasb qiladi.",
-          "uz": "albatta Alloh"
+          "e": "إِنَّ — gapdagi hukmni ta'kidlovchi va ismni nasb qiluvchi harf.",
+          "uz": "albatta"
         },
         {
-          "w": "لَا يُؤْتِي عِلْمَهُ",
-          "r": "خبر إن جملة فعلية",
+          "w": "اللَّهَ",
+          "r": "اسم إِنَّ (مَنصُوب)",
+          "rc": "tb",
+          "e": "اللَّهَ — inna ning ismi bo'lib, fatha bilan mansub.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi",
           "rc": "tx",
-          "e": "لَا يُؤْتِي jumlasi إِنَّning xabari bo'lib, inkor qilingan berish harakatini bildiradi; عِلْمَهُ fe'lning maf'uli.",
-          "uz": "O'z ilmini bermaydi"
+          "e": "لَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يُؤْتِي",
+          "r": "خَبَر إِنَّ (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يُؤْتِي — taqdiriy damma bilan marfu' mudori' fe'li bo'lib, inna ning xabari bo'lgan fe'liy jumla tarkibidadir.",
+          "uz": "beradi"
+        },
+        {
+          "w": "عِلْمَ",
+          "r": "مَفعُول بِهِ أَوَّل / مُضَاف",
+          "rc": "tx",
+          "e": "عِلْمَ — yu'ti fe'lining birinchi maf'ul bihi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "ilm"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tx",
+          "e": "هُ — muttasil zamir bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "O'z"
         },
         {
           "w": "المُشْرِكَ",
-          "r": "مفعول ثان",
+          "r": "مَفعُول بِهِ ثَانٍ",
           "rc": "tb",
-          "e": "المُشْرِكَ ikkinchi maf'ul sifatida ilm berilmaydigan kishini aniq ko'rsatadi.",
+          "e": "المُشْرِكَ — yu'ti fe'lining ikkinchi maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "mushrikka"
         }
       ]
@@ -90,25 +202,60 @@
       "tr": "Robbim nima uchun menga o'rgatganini bilasizmi?",
       "parts": [
         {
-          "w": "هَلْ تَعْرِفَانِ",
-          "r": "أداة استفهام وفعل مضارع مثنى",
+          "w": "هَلْ",
+          "r": "حَرف اسْتِفْهَام",
           "rc": "tb",
-          "e": "هَلْ so'roq harfi, تَعْرِفَانِ esa ikkilik muhotabga qaratilgan mudore' fe'l bo'lib, savolni ikki mahbusga yo'naltiradi.",
+          "e": "هَلْ — so'roq harfi.",
+          "uz": "-mi"
+        },
+        {
+          "w": "تَعْرِفَانِ",
+          "r": "فِعل مُضَارِع (مُثَنَّى)",
+          "rc": "tb",
+          "e": "تَعْرِفَانِ — ikkilik muhotabga qaratilgan mudore' fe'li bo'lib, raf' alomati nunning sobitligidir, fo'ili alifdir.",
           "uz": "bilasizlarmi"
         },
         {
-          "w": "لِمَاذَا",
-          "r": "جار ومجرور للاستفهام عن السبب",
+          "w": "لِ",
+          "r": "حَرف جَر",
           "rc": "tmt",
-          "e": "لِمَاذَا sababni so'raydigan tarkib bo'lib, keyingi عَلَّمَنِي jumlasining sababini izlatadi.",
-          "uz": "nima uchun"
+          "e": "لِ — sabab yoki yo'nalish bildiruvchi jar harfi.",
+          "uz": "uchun"
         },
         {
-          "w": "عَلَّمَنِي رَبِّي",
-          "r": "فعل ومفعول وفاعل",
+          "w": "مَاذَا",
+          "r": "اسم اسْتِفْهَام",
+          "rc": "tmt",
+          "e": "مَاذَا — so'roq ismi bo'lib, jar harfidan keyin kelganligi uchun mahallan majrur.",
+          "uz": "nima"
+        },
+        {
+          "w": "عَلَّمَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "عَلَّمَنِي fe'lida نِي maf'ul zamiri Yusufga qaytadi, رَبِّي esa fo'il bo'lib o'rgatuvchi Zotni bildiradi.",
-          "uz": "Robbim menga o'rgatdi"
+          "e": "عَلَّمَ — o'tgan zamon fe'li.",
+          "uz": "o'rgatdi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "نِي — mutakallim zamiri, allama fe'lining maf'uli.",
+          "uz": "menga"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "فَاعِل / مُضَاف",
+          "rc": "tf",
+          "e": "رَبِّ — allama fe'lining fo'ili bo'lib, taqdiriy damma bilan marfu' va muzofdir.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "ي — mutakallim zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "mening"
         }
       ]
     },
@@ -117,25 +264,53 @@
       "tr": "Chunki men shirk ahlining yo'lini tark etdim.",
       "parts": [
         {
-          "w": "لأَنِّي",
-          "r": "حرف تعليل واسم أن",
+          "w": "لِ",
+          "r": "حَرف جَر (تَعْلِيل)",
           "rc": "tb",
-          "e": "لِ sababni bildiradi, أَنِّي tarkibida ي mutakallim zamiri ism أن bo'lib, keyingi hukm sabab sifatida kelmoqda.",
-          "uz": "chunki men"
+          "e": "لِ — sababni bildiruvchi jar harfi.",
+          "uz": "chunki"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "أَنَّ — inna kabi ta'kid va nasb harfi.",
+          "uz": "haqiqatda"
+        },
+        {
+          "w": "ي",
+          "r": "اسم أَنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "ي — mutakallim zamiri bo'lib, anna ning ismi sifatida mahallan mansub.",
+          "uz": "men"
         },
         {
           "w": "تَرَكْتُ",
-          "r": "فعل ماض وفاعل",
+          "r": "فِعل مَاضٍ وَفَاعِل",
           "rc": "tf",
-          "e": "تَرَكْتُ birinchi shaxs o'tgan zamon fe'li; فاعل uning ichidagi تُ zamiridir.",
+          "e": "تَرَكْتُ — o'tgan zamon fe'li, uning fo'ili oxiridagi mustaqil bo'lmagan 'tu' zamiridir.",
           "uz": "tark etdim"
         },
         {
-          "w": "طَرِيقَ أَهْلِ الشَّرْكِ",
-          "r": "مفعول به ومضاف إليه",
+          "w": "طَرِيقَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
           "rc": "tb",
-          "e": "طَرِيقَ maf'ul bih sifatida mansub, أَهْلِ الشَّرْكِ esa izofa zanjiri bo'lib qaysi yo'l tark etilganini aniqlaydi.",
-          "uz": "shirk ahlining yo'lini"
+          "e": "طَرِيقَ — taraktu fe'lining maf'ul bihi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "yo'lini"
+        },
+        {
+          "w": "أَهْلِ",
+          "r": "مُضَاف إِلَيه / مُضَاف",
+          "rc": "tb",
+          "e": "أَهْلِ — izofada birinchi muzofun ilayh bo'lib, kasra bilan majrur, ayni paytda keyingi so'zga muzofdir.",
+          "uz": "ahlining"
+        },
+        {
+          "w": "الشَّرْكِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الشَّرْكِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "shirk"
         }
       ]
     },
@@ -144,25 +319,74 @@
       "tr": "Va Ibrohim, Ishoq va Ya'qub ota-bobolarimning diniga ergashdim.",
       "parts": [
         {
-          "w": "وَاتَّبَعْتُ",
-          "r": "فعل ماض معطوف",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tf",
-          "e": "وَ fe'lni oldingi تَرَكْتُga bog'laydi, اتَّبَعْتُ esa birinchi shaxs fe'li bo'lib Yusufning ijobiy yo'l tanlaganini bildiradi.",
-          "uz": "va ergashdim"
+          "e": "وَ — oldingi gapga ulovchi atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "مِلَّةَ وَآبَاءِ",
-          "r": "مفعول به ومعطوف",
+          "w": "اتَّبَعْتُ",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "اتَّبَعْتُ — o'tgan zamon fe'li, uning fo'ili oxiridagi 'tu' zamiridir.",
+          "uz": "ergashdim"
+        },
+        {
+          "w": "مِلَّةَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
           "rc": "tb",
-          "e": "مِلَّةَ اتَّبَعْتُ fe'lining maf'uli, وَآبَاءِ esa unga bog'langan izofiy tarkib bo'lib nasab silsilasini eslatadi.",
-          "uz": "diniga va otalariga"
+          "e": "مِلَّةَ — ittaba'tu fe'lining maf'ul bihi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "diniga"
         },
         {
-          "w": "إِبْرَاهِيمَ وَإِسْحَقَ وَيَعْقُوبَ",
-          "r": "مضاف إليه ومعطوفات",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf (bog'lovchi) harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "آبَاءِ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "آبَاءِ — millata so'ziga ma'no jihatdan atf qilingan yoki unga bog'langan muzof ism.",
+          "uz": "otalariga"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "مُضَاف إِلَيه",
           "rc": "tmt",
-          "e": "Uch payg'ambar nomi izofa va atf orqali bir silsilada kelib, Yusuf ergashgan tavhid merosini ko'rsatadi.",
-          "uz": "Ibrohim, Ishoq va Ya'qub"
+          "e": "إِبْرَاهِيمَ — izofada muzofun ilayh (yoki badal) bo'lib, g'ayri munsarif bo'lgani uchun fatha bilan majrur.",
+          "uz": "Ibrohim"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tmt",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "إِسْحَقَ",
+          "r": "مَعطُوف",
+          "rc": "tmt",
+          "e": "إِسْحَقَ — Ibrohimga atf qilingan ism bo'lib, g'ayri munsarifligi uchun fatha bilan majrur.",
+          "uz": "Ishoq"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tmt",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَعْقُوبَ",
+          "r": "مَعطُوف",
+          "rc": "tmt",
+          "e": "يَعْقُوبَ — Ibrohimga atf qilingan ism bo'lib, g'ayri munsarifligi uchun fatha bilan majrur.",
+          "uz": "Ya'qub"
         }
       ]
     },
@@ -171,25 +395,74 @@
       "tr": "«Biz uchun Allohga biror narsani sherik qilish mumkin emas».",
       "parts": [
         {
-          "w": "مَا كَانَ لَنَا",
-          "r": "نفي وكان ناقصة وخبر مقدم",
+          "w": "مَا",
+          "r": "حَرف نَfi",
           "rc": "tb",
-          "e": "مَا inkor, كَانَ noqis fe'l; لَنَا jar-majrur tarkibi ruxsat yoki munosiblik yo'qligini bildiruvchi oldingi xabar vazifasida kelgan.",
-          "uz": "bizga mumkin emas edi"
+          "e": "مَا — o'tgan zamon fe'lini inkor qiluvchi nafiy harfi.",
+          "uz": "emas"
         },
         {
-          "w": "أَن نُّشْرِكَ بِاللَّهِ",
-          "r": "مصدر مؤول اسم كان",
+          "w": "كَانَ",
+          "r": "فِعل نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — ismni raf, xabarni nasb qiluvchi noqis fe'l.",
+          "uz": "edi"
+        },
+        {
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لَ — egalik yoki munosiblikni bildiruvchi jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "نَا",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نَا — birinchi shaxs ko'plik muttasil zamiri bo'lib, jar harfidan keyin kelgani uchun mahallan majrur.",
+          "uz": "biz"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف مَصْدَرِيّ وَنَاصِب",
           "rc": "tm",
-          "e": "أَن نُّشْرِكَ masdar muavval bo'lib كَانَning ismi vazifasida kelgan; بِاللَّهِ jar-majruri shirk fe'lining kimga nisbatan bo'lishini bildiradi.",
-          "uz": "Allohga sherik qilish"
+          "e": "أَن — mudori' fe'lini nasb qiluvchi va uni masdarga aylantiruvchi harf.",
+          "uz": "sherik qilish"
         },
         {
-          "w": "مِن شَيْءٍ",
-          "r": "جار ومجرور للتنصيص على العموم",
+          "w": "نُشْرِكَ",
+          "r": "فِعل مُضَارِع مَنصُوب (بِأَنْ)",
+          "rc": "tm",
+          "e": "نُشْرِكَ — an harfi ta'sirida fatha bilan mansub bo'lgan mudori' fe'li, fo'ili mustatir 'nahnu' zamiridir.",
+          "uz": "sherik qilishimiz"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "بِ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم الجَلَالَةِ (مَجرُور)",
+          "rc": "tm",
+          "e": "اللَّهِ — ulug'vorlik ismi bo'lib, jar harfi sababli kasra bilan majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر (زَائِد لِلتَّوكِيد)",
           "rc": "tmt",
-          "e": "مِن شَيْءٍ inkor ichida kelib, shirkning har qanday ko'rinishini butunlay rad etadi.",
-          "uz": "hech narsani"
+          "e": "مِنْ — inkor gap ichida kelib, umumlashtirish va ta'kid uchun kelgan qo'shimcha jar harfi.",
+          "uz": "biror"
+        },
+        {
+          "w": "شَيْءٍ",
+          "r": "اسم مَجرُور (لَفْظًا)",
+          "rc": "tmt",
+          "e": "شَيْءٍ — lafzan kasra bilan majrur, lekin nushrika fe'lining o'rinbosar maf'ul bihi sifatida mahallan mansub.",
+          "uz": "narsani"
         }
       ]
     },
@@ -198,11 +471,18 @@
       "tr": "Yusuf dedi:",
       "parts": [
         {
-          "w": "قَالَ يُوسُفُ",
-          "r": "فعل ماض وفاعل",
+          "w": "قَالَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ nutqni kirituvchi fe'l, يُوسُفُ esa uning fo'ili bo'lib yangi bayon boshlanishini ko'rsatadi.",
-          "uz": "Yusuf dedi"
+          "e": "قَالَ nutqni kirituvchi fe'l bo'lib, gapdagi asosiy harakat — 'dedi' ma'nosini bildiradi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — qola fe'lining fo'ili bo'lib, damma bilan marfu'.",
+          "uz": "Yusuf"
         }
       ]
     },
@@ -211,24 +491,52 @@
       "tr": "Bu tavhid faqat biz uchun emas.",
       "parts": [
         {
-          "w": "وَهَذَا التَّوْحِيدُ",
-          "r": "مبتدأ وبدل أو عطف بيان",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tm",
-          "e": "هَذَا mubtado, التَّوْحِيدُ esa ishora olmoshini aniqlovchi badal yoki atf bayon bo'lib mavzuni ochadi.",
-          "uz": "bu tavhid"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "لَيْسَ لَنَا",
-          "r": "فعل ناقص وخبره",
+          "w": "هَذَا",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
+          "rc": "tm",
+          "e": "هَذَا — yaqindagi narsaga ishora qiluvchi ishora ismi bo'lib, mubtado sifatida mahallan marfu'.",
+          "uz": "bu"
+        },
+        {
+          "w": "التَّوْحِيدُ",
+          "r": "بَدَل (مَرْفُوع)",
+          "rc": "tm",
+          "e": "التَّوْحِيدُ — ishora ismidan badal bo'lib, damma bilan marfu'.",
+          "uz": "tavhid"
+        },
+        {
+          "w": "لَيْسَ",
+          "r": "فِعل نَاقِص (لِلنَّفْي)",
           "rc": "tx",
-          "e": "لَيْسَ inkor qiluvchi noqis fe'l, لَنَا esa uning xabari bo'lib tavhid faqat bir guruhga xos emasligini bildiradi.",
-          "uz": "biz uchungina emas"
+          "e": "لَيْسَ — inkor ma'nosini ifodalovchi, ismni raf, xabarni nasb qiluvchi noqis fe'l.",
+          "uz": "emas"
+        },
+        {
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tx",
+          "e": "لَ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "نَا",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tx",
+          "e": "نَا — muttasil zamir bo'lib, jar harfi sababli mahallan majrur, jumlasi layso ning xabari bo'lib mahallan mansub.",
+          "uz": "biz"
         },
         {
           "w": "فَقَطْ",
-          "r": "أداة حصر",
+          "r": "حَرف حَصْر",
           "rc": "tb",
-          "e": "فَقَطْ cheklash ma'nosini bildiradi; bu yerda inkor bilan kelib tavhidni faqat payg'ambarlar oilasiga xos deb tushunishni rad etadi.",
+          "e": "فَقَطْ — faqat ma'nosidagi cheklovchi yuklama.",
           "uz": "faqat"
         }
       ]
@@ -239,23 +547,37 @@
       "parts": [
         {
           "w": "بَلْ",
-          "r": "حرف إضراب",
+          "r": "حَرف إِضْرَاب",
           "rc": "tb",
-          "e": "بَلْ oldingi cheklash tasavvuridan burib, to'g'riroq va kengroq hukmga o'tkazadi.",
+          "e": "بَلْ — oldingi gapdagi ma'noni burib, yangi ma'noni ta'kidlash uchun kelgan idrob harfi.",
           "uz": "balki"
         },
         {
-          "w": "هُوَ لِلنَّاسِ",
-          "r": "مبتدأ وخبر",
+          "w": "هُوَ",
+          "r": "مُبتَدَأ (ضَمِير مُنْفَصِل)",
           "rc": "tm",
-          "e": "هُوَ mubtado, لِلنَّاسِ esa jar-majrur xabar bo'lib tavhidning butun insoniyatga tegishli ekanini bildiradi.",
-          "uz": "u insonlar uchundir"
+          "e": "هُوَ — uchinchi shaxs birlik muzakkar mustaqil zamiri bo'lib, mubtado sifatida mahallan marfu'.",
+          "uz": "u"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "لِ — yo'nalish yoki tegishlilik bildiruvchi jar harfi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "النَّاسِ",
+          "r": "اسم مَجرُور",
+          "rc": "tm",
+          "e": "النَّاسِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "insonlar"
         },
         {
           "w": "جَمِيعاً",
-          "r": "حال أو توكيد",
+          "r": "حَال (مَنصُوب)",
           "rc": "th",
-          "e": "جَمِيعاً hol yoki ta'kid vazifasida kelib النَّاسِ doirasini to'liq qamrab oladi.",
+          "e": "جَمِيعاً — hol bo'lib, fatha tanvini bilan mansub.",
           "uz": "barchasiga"
         }
       ]
@@ -265,25 +587,109 @@
       "tr": "«Bu Allohning bizga va odamlarga bo'lgan fazlidandir, lekin odamlarning ko'pi shukr qilmaydi».",
       "parts": [
         {
-          "w": "ذلِكَ مِن فَضْلِ اللَّهِ",
-          "r": "مبتدأ وخبر جار ومجرور",
+          "w": "ذلِكَ",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
           "rc": "tm",
-          "e": "ذلِكَ ishora ismi mubtado, مِن فَضْلِ اللَّهِ esa xabar bo'lib tavhid ne'matining manbaini Alloh fazliga bog'laydi.",
-          "uz": "bu Allohning fazlidandir"
+          "e": "ذلِكَ — ishora ismi bo'lib, mubtado vazifasida mahallan marfu'.",
+          "uz": "bu"
         },
         {
-          "w": "عَلَيْنَا وَعَلَى النَّاسِ",
-          "r": "متعلق بفضل",
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "مِنْ — boshlanish yoki qismanlikni bildiruvchi jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "فَضْلِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tm",
+          "e": "فَضْلِ — jar harfi ta'sirida kasra bilan majrur va muzofdir.",
+          "uz": "fazlidan"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "اللَّهِ — ulug'vorlik ismi bo'lib, izofada muzofun ilayh sifatida kasra bilan majrur.",
+          "uz": "Allohning"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
           "rc": "tmt",
-          "e": "Ikki عَلَى tarkibi فَضْلِ so'ziga bog'lanib, fazl kimlarga yo'nalganini bildiradi.",
-          "uz": "bizga va odamlarga"
+          "e": "عَلَى — ustilik yoki yo'nalishni bildiruvchi jar harfi.",
+          "uz": "bizga"
         },
         {
-          "w": "وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ",
-          "r": "استدراك واسم لكن وخبرها",
+          "w": "نَا",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "نَا — muttasil zamir bo'lib, jar harfidan keyin kelganligi uchun mahallan majrur.",
+          "uz": "biz"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tmt",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "عَلَى — jar harfi.",
+          "uz": "odamlarga"
+        },
+        {
+          "w": "النَّاسِ",
+          "r": "اسم مَجرُور",
+          "rc": "tmt",
+          "e": "النَّاسِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "odamlarga"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "لَكِنَّ istidrok uchun kelgan; أَكْثَرَ النَّاسِ uning ismi, لَا يَشْكُرُونَ esa xabari bo'lgan fe'liy jumla.",
-          "uz": "lekin odamlarning ko'pi shukr qilmaydi"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَكِنَّ",
+          "r": "حَرف اسْتِدرَاك",
+          "rc": "tb",
+          "e": "لَكِنَّ — istidrok harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "r": "اسم لَكِنَّ (مَنصُوب) / مُضَاف",
+          "rc": "tb",
+          "e": "أَكْثَرَ — lakinna ning ismi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "ko'pi"
+        },
+        {
+          "w": "النَّاسِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "النَّاسِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "odamlarning"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfy",
+          "rc": "tb",
+          "e": "لَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَشْكُرُونَ",
+          "r": "خَبَر لَكِنَّ (فِعل مُضَارِع)",
+          "rc": "tb",
+          "e": "يَشْكُرُونَ — mudori' fe'li bo'lib, raf' alomati nunning sobitligi bilan marfu', fo'ili esa vavdir.",
+          "uz": "shukr qiladilar"
         }
       ]
     },
@@ -292,25 +698,53 @@
       "tr": "Shu yerda Yusuf to'xtadi va ikkisidan so'radi:",
       "parts": [
         {
-          "w": "وَهُنَا",
-          "r": "ظرف مكان متعلق بالفعل",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "th",
-          "e": "هُنَا makon yoki nutq bosqichi zarfidir; وَ uni oldingi bayonga bog'laydi.",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "هُنَا",
+          "r": "ظَرف مَكَان",
+          "rc": "th",
+          "e": "هُنَا — yaqin joyni ko'rsatuvchi zarf.",
           "uz": "shu yerda"
         },
         {
-          "w": "وَقَفَ يُوسُفُ",
-          "r": "فعل وفاعل",
+          "w": "وَقَفَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَقَفَ o'tgan zamon fe'li, يُوسُفُ fo'il; nasihat ichida pauza qilinganini bildiradi.",
-          "uz": "Yusuf to'xtadi"
+          "e": "وَقَفَ — o'tgan zamon fe'li.",
+          "uz": "to'xtadi"
         },
         {
-          "w": "وَسَأَلَهُمَا",
-          "r": "فعل معطوف ومفعول",
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
           "rc": "tf",
-          "e": "سَأَلَ fe'li وَ orqali وَقَفَga atf qilingan, هُمَا zamiri ikki zindondoshga maf'ul bo'lib qaytadi.",
-          "uz": "va ikkisidan so'radi"
+          "e": "يُوسُفُ — waqafa fe'lining fo'ili bo'lib, damma bilan marfu'.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "سَأَلَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "سَأَلَ — o'tgan zamon fe'li.",
+          "uz": "so'radi"
+        },
+        {
+          "w": "هُمَا",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُمَا — ikkilik muttasil zamiri bo'lib, sa'ala fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "ikkisidan"
         }
       ]
     },
@@ -320,24 +754,87 @@
       "parts": [
         {
           "w": "تَقُولُونَ",
-          "r": "فعل مضارع وفاعل واو الجماعة",
+          "r": "فِعل مُضَارِع وَفَاعِل",
           "rc": "tf",
-          "e": "تَقُولُونَ muhotab jam'ga qaratilgan mudore' fe'l bo'lib, ularning e'tiqodiy iborasini hikoya qiladi.",
+          "e": "تَقُولُونَ — mudori' fe'li, vav esa uning fo'ilidir (jam' muzakkar muhotab).",
           "uz": "sizlar deysizlar"
         },
         {
-          "w": "رَبُّ البَرِّ وَرَبُّ الْبَحْرِ",
-          "r": "مقول القول ومعطوف",
+          "w": "رَبُّ",
+          "r": "مَقُول القَوْل / مُضَاف",
           "rc": "tb",
-          "e": "Bu izofali iboralar قَوْل mazmuni sifatida kelgan; رَبُّ so'zining takrori ularning xudolarni bo'lib tashlashini ko'rsatadi.",
-          "uz": "quruqlik Robbisi va dengiz Robbisi"
+          "e": "رَبُّ — gapiruvchining gapi tarkibidagi muzof ism bo'lib, damma bilan marfu'.",
+          "uz": "Rabb"
         },
         {
-          "w": "وَرَبُّ الرِّزْقِ وَرَبُّ الْمَطَرِ",
-          "r": "معطوف على مقول القول",
+          "w": "البَرِّ",
+          "r": "مُضَاف إِلَيه",
           "rc": "tb",
-          "e": "Atf bilan kelgan yana ikki izofa oldingi iboralar bilan bir turkumda bo'lib, ko'pxudolik tasavvurini sanab beradi.",
-          "uz": "rizq Robbisi va yomg'ir Robbisi"
+          "e": "البَرِّ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "quruqlik"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْبَحْرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "dengiz"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الرِّزْقِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الرِّزْقِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "rizq"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْمَطَرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْمَطَرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "yomg'ir"
         }
       ]
     },
@@ -346,18 +843,46 @@
       "tr": "Biz esa: Alloh olamlarning Robbisidir, deymiz.",
       "parts": [
         {
-          "w": "وَنَحْنُ نَقُولُ",
-          "r": "مبتدأ وخبر جملة فعلية",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tm",
-          "e": "نَحْنُ mubtado bo'lib, نَقُولُ fe'liy jumlasi uning xabari; وَ qarama-qarshi e'tiqod bayoniga ulaydi.",
-          "uz": "biz esa deymiz"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "اللَّهُ رَبُّ الْعَالَمِينَ",
-          "r": "مقول القول جملة اسمية",
+          "w": "نَحْنُ",
+          "r": "مُبتَدَأ (ضَمِير مُنْفَصِل)",
+          "rc": "tm",
+          "e": "نَحْنُ — birinchi shaxs ko'plik mustaqil zamiri, mubtado sifatida mahallan marfu'.",
+          "uz": "biz"
+        },
+        {
+          "w": "نَقُولُ",
+          "r": "خَبَر (فِعل مُضَارِع)",
+          "rc": "tm",
+          "e": "نَقُولُ — damma bilan marfu' bo'lgan mudori' fe'li, fo'ili mustatir 'nahnu'dir; fe'l jumlasi mubtadoning xabaridir.",
+          "uz": "deymiz"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "مُبتَدَأ (اسم الجَلَالَةِ)",
           "rc": "tb",
-          "e": "اللَّهُ mubtado, رَبُّ الْعَالَمِينَ xabar; bu ismiy jumla قَوْلning mazmuni bo'lib tavhid hukmini beradi.",
-          "uz": "Alloh olamlarning Robbisidir"
+          "e": "اللَّهُ — ismi jalola, ismiy gapning mubtadosi bo'lib, damma bilan marfu'.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "خَبَر / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — mubtadoning xabari bo'lib, damma bilan marfu' va muzofdir.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْعَالَمِينَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْعَالَمِينَ — izofada muzofun ilayh bo'lib, ko'plikda ya (ي) bilan majrur.",
+          "uz": "olamlar"
         }
       ]
     },
@@ -366,25 +891,60 @@
       "tr": "«Turli-tuman robblarmi yaxshiroq yoki yagona, g'olib Allohmi?»",
       "parts": [
         {
-          "w": "أَأَرْبَابٌ مُّتَفَرِّقُونَ",
-          "r": "استفهام ومبتدأ موصوف",
+          "w": "أَ",
+          "r": "حَرف اسْتِفْهَام",
           "rc": "tm",
-          "e": "Hamza inkoriy-taqriri so'roq uchun kelgan; أَرْبَابٌ mubtado, مُّتَفَرِّقُونَ uning sifati bo'lib ko'pxudolikning tarqoqligini bildiradi.",
-          "uz": "turli robblarmi"
+          "e": "أَ So'roq hamzasi bo'lib, ikki holatdan birini aniqlash uchun ishlatiladi.",
+          "uz": "-mi"
+        },
+        {
+          "w": "أَرْبَابٌ",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "أَرْبَابٌ — mubtado bo'lib, damma tanvini bilan marfu', robb so'zining ko'pligi.",
+          "uz": "robblar"
+        },
+        {
+          "w": "مُّتَفَرِّقُونَ",
+          "r": "صِفَة (مَرْفُوع)",
+          "rc": "tm",
+          "e": "مُّتَفَرِّقُونَ — arbabun ismining sifati bo'lib, jam' muzakkar solimda vav bilan marfu'.",
+          "uz": "turli-tuman"
         },
         {
           "w": "خَيْرٌ",
-          "r": "خبر",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "خَيْرٌ qiyos hukmini bildiruvchi xabar bo'lib, so'roq orqali botil e'tiqodning asossizligini ochadi.",
+          "e": "خَيْرٌ — mubtadoning xabari bo'lib, damma tanvini bilan marfu'.",
           "uz": "yaxshiroq"
         },
         {
-          "w": "أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ",
-          "r": "أم متصلة ومعطوف",
+          "w": "أَمْ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "أَمْ qiyosning ikkinchi tomonini keltiradi; اللَّهُ ma'tuf, الْوَاحِدُ va الْقَهَّارُ esa Allohning sifatlari.",
-          "uz": "yoki yagona, g'olib Allohmi"
+          "e": "أَمْ — ikki narsadan birini tanlash yoki tenglashtirish uchun keladigan atf harfi.",
+          "uz": "yoki"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "مَعطُوف (مَرْفُوع)",
+          "rc": "tb",
+          "e": "اللَّهُ — arbab so'ziga atf qilingan ism bo'lib, damma bilan marfu'.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "الْوَاحِدُ",
+          "r": "صِفَة",
+          "rc": "tb",
+          "e": "الْوَاحِدُ — Alloh ismining sifati bo'lib, damma bilan marfu'.",
+          "uz": "yagona"
+        },
+        {
+          "w": "الْقَهَّارُ",
+          "r": "صِفَة ثَانِيَة",
+          "rc": "tb",
+          "e": "الْقَهَّارُ — Alloh ismining ikkinchi sifati bo'lib, damma bilan marfu'.",
+          "uz": "g'olib"
         }
       ]
     },
@@ -394,24 +954,87 @@
       "parts": [
         {
           "w": "أَيْنَ",
-          "r": "اسم استفهام خبر مقدم",
+          "r": "اسم اسْتِفْهَام (خَبَر مُقَدَّم)",
           "rc": "tb",
-          "e": "أَيْنَ makon so'rog'i bo'lib, mavjudlikni talab qiluvchi oldingi xabar vazifasida kelgan.",
+          "e": "أَيْنَ — makon so'rog'i ismi bo'lib, gapda xabar muqaddam sifatida mahallan marfu'.",
           "uz": "qayerda"
         },
         {
-          "w": "رَبُّ البَرِّ وَرَبُّ الْبَحْرِ",
-          "r": "مبتدأ مؤخر ومعطوف",
+          "w": "رَبُّ",
+          "r": "مُبتَدَأ مُؤَخَّر / مُضَاف",
           "rc": "tm",
-          "e": "Izofali iboralar mubtado muaxxar sifatida kelib, so'roq ularning haqiqiy borligi va qudratini inkoriy tarzda tekshiradi.",
-          "uz": "quruqlik va dengiz Robbisi"
+          "e": "رَبُّ — keyin kelgan mubtado bo'lib, damma bilan marfu' va muzofdir.",
+          "uz": "Rabb"
         },
         {
-          "w": "وَرَب الرِّزْقِ وَرَبُّ الْمَطَرِ",
-          "r": "معطوفات",
+          "w": "البَرِّ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "البَرِّ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "quruqlik"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tm",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tm",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْبَحْرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "الْبَحْرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "dengiz"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "Atf bilan davom etgan iboralar oldingi soxta robblar sanog'ini to'ldiradi.",
-          "uz": "rizq va yomg'ir Robbisi"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَب",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَب — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الرِّزْقِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الرِّزْقِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "rizq"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْمَطَرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْمَطَرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "yomg'ir"
         }
       ]
     },
@@ -420,25 +1043,88 @@
       "tr": "«Menga ko'rsating: ular yerda nimani yaratdilar yoki osmonlarda ularning sherikligi bormi?»",
       "parts": [
         {
-          "w": "أَرُونِي",
-          "r": "فعل أمر ومفعول",
+          "w": "أَرُوا",
+          "r": "فِعل أَمْر وَفَاعِل",
           "rc": "tf",
-          "e": "أَرُوا buyruq fe'li bo'lib isbot talab qiladi, نِي esa so'zlovchiga qaytgan maf'ul zamiridir.",
-          "uz": "menga ko'rsating"
+          "e": "أَرُوا — buyruq fe'li bo'lib, oxiridagi vav uning fo'ilidir (jam' muzakkar).",
+          "uz": "ko'rsating"
         },
         {
-          "w": "مَاذَا خَلَقُوا مِنَ الْأَرْضِ",
-          "r": "استفهام ومفعول وجار ومجرور",
-          "rc": "tb",
-          "e": "مَاذَا خَلَقُوا so'roq jumlasi ko'rsatilishi talab qilingan narsani bildiradi; مِنَ الْأَرْضِ yaratilish maydonini chegaralaydi.",
-          "uz": "yerda nimani yaratdilar"
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "نِي — mutakallim zamiri bo'lib, ariva fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "menga"
         },
         {
-          "w": "أَمْ لَهُمْ شِرْكٌ فِي السَّمَوَاتِ",
-          "r": "أم منقطعة وجملة اسمية",
+          "w": "مَاذَا",
+          "r": "اسم اسْتِفْهَام (مَفعُول بِهِ)",
           "rc": "tb",
-          "e": "أَمْ ikkinchi ehtimolni keltiradi; لَهُمْ oldingi xabar, شِرْكٌ mubtado, فِي السَّمَوَاتِ esa sheriklik sohasini bildiradi.",
-          "uz": "yoki osmonlarda ularga sheriklik bormi"
+          "e": "مَاذَا — so'roq ismi bo'lib, xalaqu fe'lining maf'uli sifatida mansub.",
+          "uz": "nimani"
+        },
+        {
+          "w": "خَلَقُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tb",
+          "e": "خَلَقُوا — o'tgan zamon fe'li, vav uning fo'ilidir.",
+          "uz": "yaratdilar"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ — jar harfi, bu yerda o'rin yoki qismlik ma'nosini beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الْأَرْضِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْأَرْضِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "yer"
+        },
+        {
+          "w": "أَمْ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "أَمْ — gaplarni ulovchi atf harfi.",
+          "uz": "yoki"
+        },
+        {
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لَ — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "هُمْ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُمْ — muttasil zamir, jar harfi sababli mahallan majrur va shibh jumla bo'lib xabar muqaddamdir.",
+          "uz": "ular"
+        },
+        {
+          "w": "شِرْكٌ",
+          "r": "مُبتَدَأ مُؤَخَّر",
+          "rc": "tb",
+          "e": "شِرْكٌ — keyin kelgan mubtado bo'lib, damma tanvini bilan marfu'.",
+          "uz": "sheriklik"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "السَّمَوَاتِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "السَّمَوَاتِ — jar harfi sababli kasra bilan majrur, osmonlar ma'nosida.",
+          "uz": "osmonlar"
         }
       ]
     },
@@ -447,25 +1133,74 @@
       "tr": "Yerga qaranglar, osmonga qaranglar va insonga qaranglar.",
       "parts": [
         {
-          "w": "أنْظُرُوا إِلى الأَرْضِ",
-          "r": "فعل أمر وجار ومجرور",
+          "w": "أنْظُرُوا",
+          "r": "فِعل أَمْر وَفَاعِل",
           "rc": "tf",
-          "e": "أنْظُرُوا buyruq fe'li bo'lib jam'ga qaratilgan, إِلى الأَرْضِ esa nazarning yo'nalishini bildiradi.",
-          "uz": "yerga qaranglar"
+          "e": "أنْظُرُوا — buyruq fe'li bo'lib, vav uning fo'ilidir (jam' muzakkar).",
+          "uz": "qaranglar"
         },
         {
-          "w": "وَإِلَى السَّمَاءِ",
-          "r": "معطوف جار ومجرور",
+          "w": "إِلى",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "إِلى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "الأَرْضِ",
+          "r": "اسم مَجرُور",
+          "rc": "tf",
+          "e": "الأَرْضِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "yer"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tmt",
-          "e": "وَإِلَى السَّمَاءِ oldingi إِلى الأَرْضِga atf qilinib, mulohaza doirasini osmonga kengaytiradi.",
-          "uz": "va osmonga"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "وَانْظُرُوا إِلَى الإِنْسَانِ",
-          "r": "فعل أمر معطوف",
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "إِلَى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "السَّمَاءِ",
+          "r": "اسم مَجرُور",
+          "rc": "tmt",
+          "e": "السَّمَاءِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "osmon"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tf",
-          "e": "Ikkinchi انْظُرُوا takrori buyruqni kuchaytiradi; إِلَى الإِنْسَانِ yaratilish dalilini insonda ko'rishga chaqiradi.",
-          "uz": "va insonga qaranglar"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "انْظُرُوا",
+          "r": "فِعل أَمْر وَفَاعِل",
+          "rc": "tf",
+          "e": "انْظُرُوا — buyruq fe'li bo'lib, vav uning fo'ilidir.",
+          "uz": "qaranglar"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "إِلَى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "الإِنْسَانِ",
+          "r": "اسم مَجرُور",
+          "rc": "tf",
+          "e": "الإِنْسَانِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "inson"
         }
       ]
     },
@@ -474,25 +1209,88 @@
       "tr": "Bu Allohning yaratishidir. Bas, Undan boshqalar nimani yaratganini menga ko'rsating.",
       "parts": [
         {
-          "w": "هَذَا خَلْقُ اللَّهِ",
-          "r": "مبتدأ وخبر مضاف",
+          "w": "هَذَا",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
           "rc": "tm",
-          "e": "هَذَا mubtado, خَلْقُ اللَّهِ xabar bo'lib, ko'rilayotgan borliqni Alloh yaratishiga nisbat beradi.",
-          "uz": "bu Allohning yaratishidir"
+          "e": "هَذَا — ishora ismi bo'lib, mubtado vazifasida mahallan marfu'.",
+          "uz": "bu"
         },
         {
-          "w": "فَأَرُونِي",
-          "r": "فاء تفريع وفعل أمر",
+          "w": "خَلْقُ",
+          "r": "خَبَر / مُضَاف",
+          "rc": "tm",
+          "e": "خَلْقُ — mubtadoning xabari bo'lib, damma bilan marfu' va muzofdir.",
+          "uz": "yaratishi"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "اللَّهِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "Allohning"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف / فَاء التَّعقِيب",
           "rc": "tf",
-          "e": "فَ oldingi dalildan xulosa chiqaradi, أَرُونِي esa muxoliflardan isbot talab qiluvchi buyruqdir.",
-          "uz": "bas menga ko'rsating"
+          "e": "فَ — sababiyat yoki natija bildiruvchi atf harfi.",
+          "uz": "bas"
         },
         {
-          "w": "مَاذَا خَلَقَ الَّذِينَ مِن دُونِهِ",
-          "r": "استفهام وصلة موصول",
+          "w": "أَرُوا",
+          "r": "فِعل أَمْر وَفَاعِل",
+          "rc": "tf",
+          "e": "أَرُوا — buyruq fe'li, vav uning fo'ili.",
+          "uz": "ko'rsating"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "نِي — mutakallim zamiri, allama/ariya fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "menga"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "اسم اسْتِفْهَام",
           "rc": "tb",
-          "e": "مَاذَا خَلَقَ so'roq-maf'ul tarkibi, الَّذِينَ مِن دُونِهِ esa Allohdan boshqa deb sig'inilganlarni bildiruvchi mavsul tarkibidir.",
-          "uz": "Undan boshqalar nimani yaratdi"
+          "e": "مَاذَا — so'roq ismi.",
+          "uz": "nimani"
+        },
+        {
+          "w": "خَلَقَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "خَلَقَ — o'tgan zamon fe'li.",
+          "uz": "yaratdi"
+        },
+        {
+          "w": "الَّذِينَ",
+          "r": "فَاعِل (اسم مَوصُول)",
+          "rc": "tb",
+          "e": "الَّذِينَ — mavsul ismi bo'lib, xalaqa fe'lining fo'ili sifatida mahallan marfu'.",
+          "uz": "o'shalar"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "دُونِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "دُونِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "boshqa"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ — uchinchi shaxs birlik muzakkar muttasil zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "Undan"
         }
       ]
     },
@@ -501,25 +1299,95 @@
       "tr": "Quruqlik Robbisi, dengiz Robbisi, rizq Robbisi va yomg'ir Robbisi qanday bo'lishi mumkin?!",
       "parts": [
         {
-          "w": "وَكَيْفَ",
-          "r": "واو واستفهام إنكاري",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "كَيْفَ holat so'rog'i, bu yerda inkoriy ma'noda kelib soxta robblar tasavvurini rad etadi.",
-          "uz": "qanday qilib"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "رَبُّ البَرِّ وَرَبُّ البَحْرِ",
-          "r": "مبتدأ مؤخر ومعطوف",
+          "w": "كَيْفَ",
+          "r": "اسم اسْتِفْهَام (خَبَر مُقَدَّم)",
+          "rc": "tb",
+          "e": "كَيْفَ — holat so'rog'i ismi bo'lib, gapda xabar muqaddam vazifasida mahallan marfu'.",
+          "uz": "qanday"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مُبتَدَأ مُؤَخَّر / مُضَاف",
           "rc": "tm",
-          "e": "Takrorlangan رَبُّ izofalari soxta taqsimotni keltiradi; so'roq esa bunday taqsimotning mantiqsizligini ko'rsatadi.",
-          "uz": "quruqlik Robbisi va dengiz Robbisi"
+          "e": "رَبُّ — keyin kelgan mubtado bo'lib, damma bilan marfu' va muzofdir.",
+          "uz": "Rabb"
         },
         {
-          "w": "وَرَبُّ الرِّزْقِ وَرَبُّ الْمَطَرِ",
-          "r": "معطوفات",
+          "w": "البَرِّ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "البَرِّ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "quruqlik"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tm",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tm",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "البَحْرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "البَحْرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "dengiz"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "Atf bilan sanalgan iboralar oldingi inkoriy savolga qo'shilib, rizq va yomg'ir ham yagona Robbga tegishli ekanini anglatadi.",
-          "uz": "rizq Robbisi va yomg'ir Robbisi"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الرِّزْقِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الرِّزْقِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "rizq"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "رَبُّ",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tb",
+          "e": "رَبُّ — atf qilingan muzof ism.",
+          "uz": "Rabb"
+        },
+        {
+          "w": "الْمَطَرِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْمَطَرِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "yomg'ir"
         }
       ]
     },
@@ -529,24 +1397,52 @@
       "parts": [
         {
           "w": "أَسْمَاءٌ",
-          "r": "خبر لمبتدأ محذوف",
+          "r": "خَبَر (لِمُبْتَدَأٍ مَحْذُوفٍ)",
           "rc": "tx",
-          "e": "أَسْمَاءٌ marfu' xabar bo'lib, ma'noda 'ular faqat nomlardir' degan hazf qilingan mubtadoga bog'lanadi.",
+          "e": "أَسْمَاءٌ — hazf bo'lgan mubtadoning xabari bo'lib, damma tanvini bilan marfu'.",
           "uz": "nomlar"
         },
         {
-          "w": "سَمَّيْتُمُوهَا",
-          "r": "جملة صفة",
+          "w": "سَمَّيْتُمْ",
+          "r": "فِعل مَاضٍ وَفَاعِل",
           "rc": "ts",
-          "e": "سَمَّيْتُمُوهَا jumlasi أَسْمَاءٌni sifatlaydi; تُمْ fo'il, هَا esa qo'yilgan nomlarga qaytgan maf'ul zamiri.",
-          "uz": "sizlar ularni nomladingiz"
+          "e": "سَمَّيْتُمْ — o'tgan zamon fe'li, tum zamiri uning fo'ilidir (jam' muzakkar muhotab).",
+          "uz": "nomladingiz"
         },
         {
-          "w": "أَنتُمْ وَآبَاؤُكُم",
-          "r": "توكيد وفاعل معطوف",
+          "w": "هَا",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "ts",
+          "e": "هَا — uchinchi shaxs birlik muannas muttasil zamiri bo'lib, sammaytum fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "ularni"
+        },
+        {
+          "w": "أَنْتُمْ",
+          "r": "تَوْكِيد لِلْفَاعِل",
           "rc": "tb",
-          "e": "أَنتُمْ mustaqil zamir sifatida fo'ilni ta'kidlaydi, وَآبَاؤُكُم esa unga atf qilinib bu nomlash ota-bobolardan davom etganini bildiradi.",
-          "uz": "sizlar va ota-bobolaringiz"
+          "e": "أَنْتُمْ — fo'il bo'lgan 'tum' zamirini ta'kidlash uchun kelgan mustaqil zamir.",
+          "uz": "sizlar"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "آباءُ",
+          "r": "مَعطُوف (مَرْفُوع) / مُضَاف",
+          "rc": "tb",
+          "e": "آباءُ — ta'kidlangan fo'ilga atf qilingan ism bo'lib, damma bilan marfu' va muzofdir.",
+          "uz": "ota-bobolaringiz"
+        },
+        {
+          "w": "كُمْ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كُمْ — ikkinchi shaxs ko'plik muttasil zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "-ingiz"
         }
       ]
     },
@@ -555,25 +1451,88 @@
       "tr": "Hukm Allohniki, mulk Allohniki, yer Allohniki, ish Allohnikidir.",
       "parts": [
         {
-          "w": "الحُكْمُ لِلَّهِ",
-          "r": "مبتدأ وخبر",
+          "w": "الحُكْمُ",
+          "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "الحُكْمُ mubtado, لِلَّهِ jar-majrur xabar bo'lib hukm qilish huquqini faqat Allohga nisbatlaydi.",
-          "uz": "hukm Allohniki"
+          "e": "الحُكْمُ — mubtado bo'lib, damma bilan marfu'.",
+          "uz": "hukm"
         },
         {
-          "w": "المُلْكُ لِلَّهِ",
-          "r": "جملة اسمية معطوفة",
+          "w": "لِ",
+          "r": "حَرف جَر",
           "rc": "tm",
-          "e": "المُلْكُ لِلَّهِ oldingi jumlaga ma'no jihatdan parallel kelib mulk egaligini Allohga xoslaydi.",
-          "uz": "mulk Allohniki"
+          "e": "لِ — tegishlilik yoki xoslikni bildiruvchi jar harfi.",
+          "uz": "Allohniki"
         },
         {
-          "w": "الأَرْضُ لِلَّهِ، الأَمْرُ لِلَّهِ",
-          "r": "جملتان اسميتان",
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
           "rc": "tm",
-          "e": "Ikki ismiy jumla bir xil tuzilishda takrorlanib yer va buyruq-iroda ham Allohga tegishli ekanini ta'kidlaydi.",
-          "uz": "yer Allohniki, ish Allohniki"
+          "e": "اللَّهِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "المُلْكُ",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "المُلْكُ — mubtado bo'lib, damma bilan marfu'.",
+          "uz": "mulk"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "لِ — jar harfi.",
+          "uz": "Allohniki"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tm",
+          "e": "اللَّهِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "الأَرْضُ",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "الأَرْضُ — mubtado bo'lib, damma bilan marfu'.",
+          "uz": "yer"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "لِ — jar harfi.",
+          "uz": "Allohniki"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tm",
+          "e": "اللَّهِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "الأَمْرُ",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "الأَمْرُ — mubtado bo'lib, damma bilan marfu'.",
+          "uz": "ish"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "لِ — jar harfi.",
+          "uz": "Allohniki"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tm",
+          "e": "اللَّهِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "Alloh"
         }
       ]
     },
@@ -582,18 +1541,39 @@
       "tr": "«Faqat Ungagina ibodat qilinglar».",
       "parts": [
         {
-          "w": "أَلَّا تَعْبُدُوا",
-          "r": "أن ولا ناهية أو مصدرية مع فعل",
+          "w": "أَنْ",
+          "r": "حَرف مَصْدَرِيّ وَنَاصِب",
           "rc": "tb",
-          "e": "أَلَّا tarkibi ibodatni cheklovchi buyruq mazmunini beradi; تَعْبُدُوا jam' muhotab fe'li bo'lib ibodat amalini bildiradi.",
-          "uz": "ibodat qilmanglar"
+          "e": "أَنْ — keyingi fe'lni nasb qiluvchi va masdarga aylantiruvchi harf.",
+          "uz": "ibodat qilishingiz"
         },
         {
-          "w": "إِلَّا إِيَّاهُ",
-          "r": "أداة حصر ومفعول مقدم",
+          "w": "لَا",
+          "r": "حَرف نَfy",
           "rc": "tb",
-          "e": "إِلَّا istisno/hasr vositasi, إِيَّاهُ esa ajratilgan zamir bo'lib ibodat faqat Allohga qaratilishini bildiradi.",
-          "uz": "faqat Ungagina"
+          "e": "لَا — inkor harfi.",
+          "uz": "qilmanglar"
+        },
+        {
+          "w": "تَعْبُدُوا",
+          "r": "فِعل مُضَارِع مَنصُوب (بِأَنْ)",
+          "rc": "tb",
+          "e": "تَعْبُدُوا — an harfi ta'sirida nunning hazf bo'lishi bilan mansub bo'lgan mudori' fe'li, vav uning fo'ilidir.",
+          "uz": "ibodat qilishlaringiz"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "أَدَاةُ حَصْر",
+          "rc": "tb",
+          "e": "إِلَّا — inkor bilan birga kelib, ma'noni cheklovchi hasr vositasi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "إِيَّاهُ",
+          "r": "مَفعُول بِهِ مُقَدَّم (ضَمِير مُنْفَصِل)",
+          "rc": "tb",
+          "e": "إِيَّاهُ — mustaqil mansub zamir bo'lib, ta'budu fe'lining oldinga o'tgan maf'uli.",
+          "uz": "Ungagina"
         }
       ]
     },
@@ -603,17 +1583,24 @@
       "parts": [
         {
           "w": "ذَلِكَ",
-          "r": "مبتدأ",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
           "rc": "tm",
-          "e": "ذَلِكَ oldingi tavhid bayoniga ishora qilib ismiy gapning mubtadosi vazifasida kelgan.",
+          "e": "ذَلِكَ — ishora ismi bo'lib, mubtado vazifasida mahallan marfu'.",
           "uz": "mana shu"
         },
         {
-          "w": "الدِّينُ الْقَيِّمُ",
-          "r": "خبر وصفة",
+          "w": "الدِّينُ",
+          "r": "خَبَر",
           "rc": "tx",
-          "e": "الدِّينُ xabar, الْقَيِّمُ esa uning sifati bo'lib dinning tik, to'g'ri va barqaror ekanini bildiradi.",
-          "uz": "to'g'ri din"
+          "e": "الدِّينُ — mubtadoning xabari bo'lib, damma bilan marfu'.",
+          "uz": "din"
+        },
+        {
+          "w": "الْقَيِّمُ",
+          "r": "صِفَة",
+          "rc": "tx",
+          "e": "الْقَيِّمُ — addin ismining sifati bo'lib, damma bilan marfu'.",
+          "uz": "to'g'ri"
         }
       ]
     },
@@ -622,20 +1609,49 @@
       "tr": "«Lekin odamlarning ko'pi bilmaydi».",
       "parts": [
         {
-          "w": "وَلَكِنَّ أَكْثَرَ النَّاسِ",
-          "r": "استدراك واسم لكن",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "لَكِنَّ istidrok harfi bo'lib, أَكْثَرَ النَّاسِni ism لكن sifatida mansub qiladi.",
-          "uz": "lekin odamlarning ko'pi"
+          "e": "وَ — atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "لَا يَعْلَمُونَ",
-          "r": "خبر لكن جملة فعلية",
+          "w": "لَكِنَّ",
+          "r": "حَرف اسْتِدرَاك",
+          "rc": "tb",
+          "e": "لَكِنَّ — istidrok harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "أَكْثَرَ",
+          "r": "اسم لَكِنَّ (مَنصُوب) / مُضَاف",
+          "rc": "tb",
+          "e": "أَكْثَرَ — lakinna ning ismi bo'lib, fatha bilan mansub va muzofdir.",
+          "uz": "ko'pi"
+        },
+        {
+          "w": "النَّاسِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "النَّاسِ — izofada muzofun ilayh bo'lib, kasra bilan majrur.",
+          "uz": "odamlarning"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfy",
           "rc": "tx",
-          "e": "لَا يَعْلَمُونَ fe'liy jumla لَكِنَّning xabari bo'lib, ko'pchilikning tavhid haqiqatidan g'aflatini bildiradi.",
-          "uz": "bilmaydilar"
+          "e": "لَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَعْلَمُونَ",
+          "r": "خَبَر لَكِنَّ (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلَمُونَ — mudori' fe'li bo'lib, raf' alomati nunning sobitligi bilan marfu', fo'ili esa vavdir.",
+          "uz": "biladilar"
         }
       ]
     }
-  ]
+  ],
+  "bookId": "qisas"
 }

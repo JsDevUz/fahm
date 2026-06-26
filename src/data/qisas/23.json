@@ -26,15 +26,29 @@
           "w": "تُسَافِرُ",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "تُسَافِرُ كَانَتْ noqis fe'lining xabari (خبر كان) bo'lib, fe'l jumlasi (جملة فعلية) shaklida kelgan. كَان ning xabari fe'l jumlasi sifatida kelishi arab grammatikasida xos va keng tarqalgan hodisa; bu holda mudori' fe'li o'tmishdagi davomiy, uzluksiz harakatni tasvirlaydi. Shu tuzilma orqali karvon o'rmonda bir vaqtning o'zida sayohat qilib borayotganligi tasviri yaratiladi.",
+          "e": "تُسَافِرُ كَانَتْ noqis fe'lining xabari (خبر كان) bo'lib, fe'l jumlasi (جملة فعلية) shaklida kelgan. Mudori' fe'li o'tmishdagi davomiy, uzluksiz harakatni tasvirlaydi.",
           "uz": "sayohat qilardi"
         },
         {
-          "w": "فِي هَذِهِ الْغَابَةِ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "فِي هَذِهِ الْغَابَةِ tarkibi jar harfi فِي, muannas ism-ishorat هَذِهِ va aniq artikulli الْغَابَةِ dan iborat jar-majrur iborasi bo'lib, تُسَافِرُ fe'liga bog'liq ravishda joy zarfi (ظرف المكان) vazifasini bajaradi. هَذِهِ ko'rsatish olmoshi gapni aytuvchi uchun o'rmon ko'z o'ngida yoki yaqin o'tmishda ko'rilgan joy ekanini, ya'ni aniq bir geografik nuqtaga ishorat qilinayotganini bildiradi. Bu ibora hikoyaga joy va muhit tasvirini kiritib, voqeaning dekoratsiyasini o'rnatadi.",
-          "uz": "Bu o'rmonda"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي -da / ichida ma'nosidagi jar harfi (حرف جر) bo'lib, o'zidan keyingi ismni majrur qiladi.",
+          "uz": "ichida / -da"
+        },
+        {
+          "w": "هَذِهِ",
+          "r": "اسم إِشَارَة",
+          "rc": "tm",
+          "e": "هَذِهِ yaqindagi muannas ismga ishora qiluvchi ism-ishorat (اسم إشارة للمؤنث القريب) bo'lib, فِي jar harfidan keyin kelgani uchun mahallan majrur.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "r": "اسم مَجرُور (بَدَل)",
+          "rc": "tb",
+          "e": "الْغَابَةِ ko'rsatish olmoshi (هَذِهِ) dan keyin kelgan aniq artikulli ism bo'lib, badal (بدل) yoki atfi bayon sifatida kasra bilan majrur.",
+          "uz": "o'rmon"
         }
       ]
     },
@@ -46,28 +60,42 @@
           "w": "وَعَطِشُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "عَطِشُوا — فَعِلَ vaznidagi mâzî fe'l bo'lib, وَ atf harfi orqali oldingi voqeaga bog'langan; واو الجَمَاعَة qo'shimchasi fe'lning muzakkar ko'plik (جمع مذكر غائب) shakli ekanini ko'rsatadi. فَعِلَ vazni arab tilida ichki holat va his-tuyg'ularni (ačlik, chanqash, qo'rquv) ifodalaydigan fe'llarning xos vaznlaridan biri. Chanqash voqeasini zikr qilish keyingi harakat — quduq izlashning — tabiiy va mantiqiy sababini kiritadi.",
+          "e": "عَطِشُوا — o'tgan zamon fe'li bo'lib, atf harfi وَ orqali bog'langan; ko'plik vavi uning fo'ilidir. Bu fe'l ichki jismoniy holatni ifodalaydi.",
           "uz": "chanqadilar"
         },
         {
-          "w": "فِي الطَّرِيقِ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "فِي الطَّرِيقِ — jar harfi فِي va aniq artikulli الطَّرِيقِ dan tashkil topgan jar-majrur iborasi bo'lib, عَطِشُوا fe'liga bog'liq holda joy zarfi (ظرف مكان) vazifasini bajaradi. Aniq artikul الـ ko'pchilikka ma'lum, muayyan bir yo'lni anglatadi — karvon sayohat qilayotgan yo'l. Chanqashning aynan yo'lda, safar chog'ida yuz bergani ularning uzoq yo'l bosib kelayotganini va suv ehtiyoji jiddiy ekanligini ta'kidlaydi.",
-          "uz": "yo'lda"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي -da / ichida ma'nosidagi jar harfi.",
+          "uz": "ichida / -da"
+        },
+        {
+          "w": "الطَّرِيقِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الطَّرِيقِ jar harfi sababli kasra bilan majrur bo'lgan aniq artikulli ism.",
+          "uz": "yo'l"
         },
         {
           "w": "وَبَحَثُوا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَبَحَثُوا — وَ harfi atf orqali عَطِشُوا ga ulangan mâzî fe'l bo'lib, ketma-ket ikki voqeani — avval chanqash, so'ngra izlash — taqdim etadi. بَحَثَ 'faol ravishda qidirmoq, izlamoq' ma'nosida bo'lib, shunchaki kutishni emas, balki maqsadli axtarishni bildiradi. Arab hikoya uslubida voqealarni chronologik tartibda وَ bilan ulash rivoyatni dinamik va ketma-ket qiladi.",
+          "e": "وَبَحَثُوا — atf harfi وَ orqali bog'langan o'tgan zamon fe'li, ko'plik vavi uning fo'ilidir.",
           "uz": "izladilar"
         },
         {
-          "w": "عَنْ بِئْرٍ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَنْ بِئْرٍ — بَحَثَ عَنْ iborasining boshqaruv tarkibi; بَحَثَ fe'li عَنْ jar harfi orqali o'tuvchi (متعدٍّ بحرف الجر) fe'l hisoblanadi. بِئْرٍ noaniq (نكرة) tanvin bilan kelgani ularning muayyan bir quduqni emas, topilishi mumkin bo'lgan istalgan bir quduqni izlayotganini anglatadi. Noaniqlik ularning nochor va umidvor holatini grammatik jihatdan ham ifodalaydi.",
+          "w": "عَنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَنْ yo'nalish / haqida / -dan ma'nosidagi jar harfi bo'lib, bahasa fe'lini to'ldiruvchiga bog'laydi.",
+          "uz": "-dan / haqida"
+        },
+        {
+          "w": "بِئْرٍ",
+          "r": "اسم مَجرُور (بِعَن)",
+          "rc": "tb",
+          "e": "بِئْرٍ jar harfi sababli kasra tanvini bilan majrur bo'lgan noaniq ism.",
           "uz": "quduq"
         }
       ]
@@ -80,56 +108,84 @@
           "w": "وَرَأَوْا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَرَأَوْا — رَأَى fe'lining muzakkar ko'plik mâzî shakli; وَ atf harfi orqali بَحَثُوا ga bog'langan bo'lib, izlash harakatidan so'ng topish voqeasini bildiradi. واو الجماعة qo'shimchasi tushishida اَلِف حَذف qoidasi ishlagan: رَأَوُا → رَأَوْا — chunki واو الجماعة bilan tugagan fe'lga qo'shimcha ا qo'shilmaydi. Bu fe'l hikoyada kutilgan natijani tasdiqlaydi: izlagan topdi.",
+          "e": "وَرَأَوْا — atf harfi وَ va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
           "uz": "ko'rdilar"
         },
         {
           "w": "بِئْرًا",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "بِئْرًا — رَأَوْا fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) tanvin bilan kelgan. Noaniqlik (نكرة) ular topgan quduq avvaldan ma'lum bo'lmagan, tasodifan ko'rilgan quduq ekanini anglatadi. Hikoyaning dramaturgiyasi nuqtai nazaridan bu shunchaki quduq emas — Yusuf yotgan quduqdir, biroq buni hali hech kim bilmaydi.",
+          "e": "بِئْرًا ra'av fe'lining maf'ul bihi bo'lib, fatha tanvini bilan mansub.",
           "uz": "quduq"
         },
         {
           "w": "فَأَرْسَلُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَأَرْسَلُوا — فَاء السَّبَبِيَّة (natija-sabab fa'si) bilan kelgan mâzî fe'l; bu فَاء quduqni ko'rish (sabab) va odam yuborish (natija) o'rtasidagi to'g'ridan-to'g'ri mantiqiy bog'liqlikni ifodalaydi. فَاء السَّبَبِيَّة arab grammatikasida voqealar o'rtasidagi bevosita sabab-natija munosabatini ta'kidlash uchun قبله حدث، وبعده نتيجة sxemasida qo'llaniladi.",
+          "e": "فَأَرْسَلُوا — sababiyat fa'si va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
           "uz": "yubordilar"
         },
         {
-          "w": "إِلَيْهَا",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "إِلَيْهَا — إِلَى yo'nalish jar harfi va هَا muannas zamiri-majruriidan tashkil topgan ibora; هَا zamiri بِئْر so'ziga qaytadi. Bu ibora أَرْسَلُوا fe'liga bog'liq ravishda yuborish yo'nalishini ko'rsatadi. إِلَى + هَا tarkibida إِلَى ning oxiridagi اَلِف ya' (ى) ga aylanishi (إِلَيْ) arab fonetikasidagi muloqot qoidasi bilan izohlanadi.",
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى yo'nalish bildiruvchi jar harfi.",
+          "uz": "-ga / tomon"
+        },
+        {
+          "w": "هَا",
+          "r": "ضَمِير مُتَّصِل (مَجرُور بِإِلَى)",
+          "rc": "tb",
+          "e": "هَا birikkan muannas zamiri bo'lib, quduqqa (بِئْر) qaytadi, jar harfidan keyin kelganligi sababli mahallan majrur.",
           "uz": "unga"
         },
         {
           "w": "رَجُلًا",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "رَجُلًا — أَرْسَلُوا fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) tanvin bilan kelgan. Noaniqlik (نكرة) bu odamning hali hikoyada tanilmagan, belgilanmagan shaxs ekanini ko'rsatadi — 'bir odam'. Arab hikoya uslubida noaniq shaklda kiritilgan shaxslar keyinchalik aniq shaklda (معرفة) qaytadi; keyingi jumlada الرَّجُلُ deb kelishi shu qoidaning namunasidir.",
+          "e": "رَجُلًا arsalu fe'lining maf'ul bihi bo'lib, fatha tanvini bilan mansub.",
           "uz": "bir odam"
         },
         {
-          "w": "لِيَأْتِيَ",
-          "r": "فِعل مُضَارِع مَنصُوب بِلَام التَّعلِيل",
+          "w": "لِ",
+          "r": "لَام التَّعلِيل / حَرف جَر",
+          "rc": "tb",
+          "e": "لِـ maqsad bildiruvchi lam harfi bo'lib, o'zidan keyingi muzori' fe'lini yashirin (أن) sababli nasb qiladi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "يَأْتِيَ",
+          "r": "فِعل مُضَارِع مَنصُوب",
           "rc": "tf",
-          "e": "لِيَأْتِيَ — لَام التَّعلِيل (maqsad-sabab lomi) ta'sirida nasb holatiga (مَنصُوب) tushgan mudori' fe'li. لَام + فعل مضارع منصوب — arab grammatikasida maqsad bildiruvchi (الغرض والعلة) standart tarkib; 'falonchi narsa uchun' ma'nosini ifodalaydi. Bu tarkib أَرْسَلُوا fe'lining nima uchun sodir bo'lganini — odamni yuborishning maqsadini — grammatik jihatdan aniq belgilaydi.",
-          "uz": "olib kelishi uchun"
+          "e": "يَأْتِيَ lamut ta'lil ta'sirida fatha bilan mansub bo'lgan muzori' fe'li.",
+          "uz": "kelishi"
         },
         {
-          "w": "لَهُمْ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "لَهُمْ — لَام النَّفع (manfaat lomi) va هُمْ muzakkar ko'plik zamiriidan tashkil topgan jar-majrur iborasi; يَأْتِيَ fe'liga bog'liq ravishda suvni keltirish kimning manfaatiga ekanini bildiradi. هُمْ zamiri butun karvon a'zolarini qamrab oladi. لَام النَّفع arab grammatikasida kimdir uchun yoki kimning foydasiga ish qilinishini ifodalovchi keng qo'llaniladigan jar harfi hisoblanadi.",
-          "uz": "ularga"
+          "w": "لِ",
+          "r": "حَرف جَر / لَام النَّفع",
+          "rc": "tb",
+          "e": "لِـ manfaat bildiruvchi jar harfi.",
+          "uz": "uchun / -ga"
         },
         {
-          "w": "بِالْمَاءِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِالْمَاءِ — بِـ jar harfi va aniq artikulli الْمَاءِ dan tashkil topgan jar-majrur iborasi; يَأْتِيَ fe'li bilan birgalikda 'suv olib kelmoq' ma'nosini hosil qiladi. بِـ bu kontekstda vosita yoki birga olib kelinadigan narsa ma'nosini beradi (بِـ المصاحبة). Aniq artikul الـ suvni umumiy tushuncha — 'suv degan narsa' — sifatida ifodalab, nima kerakligi mutlaqo aniq ekanligi ta'kidlanadi.",
+          "w": "هُمْ",
+          "r": "ضَمِير مُتَّصِل (مَجرُور)",
+          "rc": "tb",
+          "e": "هُمْ ko'plik zamiri bo'lib, jar harfidan keyin kelgani sababli mahallan majrur.",
+          "uz": "ular"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِـ vosita bildiruvchi jar harfi.",
+          "uz": "bilan / orqali"
+        },
+        {
+          "w": "الْمَاءِ",
+          "r": "اسم مَجرُور (بِالْبَاء)",
+          "rc": "tb",
+          "e": "الْمَاءِ jar harfi sababli kasra bilan majrur bo'lgan ism.",
           "uz": "suv"
         }
       ]
@@ -142,36 +198,50 @@
           "w": "جَاءَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "جَاءَ — harakatni bildiradigan mâzî fe'l bo'lib, III shaxs mufradi muzakkar (هُوَ) shaklida kelgan; gapning asosiy predikatini tashkil etadi. Bu fe'l الرَّجُلُ ning quduqqa yetib borishini sodda va aniq ifodalaydi. Oldingi gapda أَرْسَلُوا bilan belgilangan buyruq endi باجاء bilan bajarila boshlanadi — hikoya mantiqiy ravishda rivojlanadi.",
+          "e": "جَاءَ o'tgan zamon fe'li.",
           "uz": "keldi"
         },
         {
           "w": "الرَّجُلُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الرَّجُلُ — جَاءَ fe'lining fa'ili (فاعل) bo'lib, raf' holatida (مَرفُوع) kelgan. Aniq artikul الـ oldingi gapda رَجُلًا (noaniq) sifatida kiritilgan ayni shu odam ekanini belgilaydi. Arab hikoyasida نكرة → معرفة o'tishi (noaniqdan aniqqa) shaxsning voqeaga faol kirib kelganini va endi rivoyatda mustahkam o'rin egallashini bildiruvchi grammatik signal hisoblanadi.",
+          "e": "الرَّجُلُ ja'a fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "odam"
         },
         {
-          "w": "إِلَى الْبِئْرِ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "إِلَى الْبِئْرِ — yo'nalish jar harfi إِلَى va aniq artikulli الْبِئْرِ dan tashkil topgan jar-majrur iborasi; جَاءَ fe'lining manzilini ko'rsatib, joy zarfi (ظرف مكان) vazifasini bajaradi. Aniq artikul الـ oldingi gapda بِئْرًا (noaniq) sifatida zikr qilingan shu quduqqa ishorat qiladi — yana نكرة → معرفة o'tishi. Bu grammatik o'tish hikoyada izlanayotgan narsaning topilganini tasdiqlovchi signal.",
-          "uz": "Quduqqa"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى yo'nalish bildiruvchi jar harfi.",
+          "uz": "-ga / tomon"
+        },
+        {
+          "w": "الْبِئْرِ",
+          "r": "اسم مَجرُور (بِإِلَى)",
+          "rc": "tb",
+          "e": "الْبِئْرِ jar harfi sababli kasra bilan majrur bo'lgan ism.",
+          "uz": "quduq"
         },
         {
           "w": "وَأَدْلَى",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَأَدْلَى — وَ atf harfi orqali جَاءَ ga ulangan mâzî fe'l; أَدْلَى fe'li دَلو (chelak) ismidan يُفْعِل vaznida yasalgan (الرُّبَاعِيّ المَزِيد) bo'lib, 'chelakni pastga tushirmoq' ma'nosini beradi. Bir so'z bir harakatni aniq tasvirlay olishi arabic leksik boyligining namunasi. Kelish va chelak tushirish ikki ketma-ket harakatni وَ bilan bir gapga birlashtirish rivoyatni tejamli va dinamik qiladi.",
+          "e": "وَأَدْلَى — atf vavi va o'tgan zamon fe'li.",
           "uz": "tushirdi"
         },
         {
-          "w": "دَلْوَهُ",
-          "r": "مَفعُول بِه",
+          "w": "دَلْوَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
           "rc": "tb",
-          "e": "دَلْوَهُ — أَدْلَى fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) kelgan; هُ egalik zamiri الرَّجُلُ ga qaytib, 'uning o'z chelagi' ma'nosini beradi. Egalik zamirining qo'llanilishi chelak bu odamga tegishli, u sayohat uchun zarur jihozni olib yurgan edi degan ma'noni yashirin ravishda anglatadi. Bu mayda detal hikoyaning hayotiyligini ta'minlaydi.",
-          "uz": "chelakni"
+          "e": "دَلْوَ adla fe'lining maf'ul bihi bo'lib, fatha bilan mansub va ayni paytda muzofdir.",
+          "uz": "chelak"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ uchinchi shaxs birlik muzakkar zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "uning / -ni"
         }
       ]
     },
@@ -183,36 +253,112 @@
           "w": "وَنَزَعَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَنَزَعَ — وَ atf harfi orqali avvalgi fe'lga ulangan mâzî fe'l; نَزَعَ 'kuch bilan tortib olmoq, yulib chiqarmoq' ma'nosida bo'lib, chelakni quduqdan chiqarish harakatini aniq va obrazli ifodalaydi. Fa'il zikr qilinmagan, chunki oldingi kontekstdan الرَّجُلُ ma'lum — arab grammatikasida استتار الضمير (zamirning yashirinishi) deyiladi. نَزَعَ لَازِم yoki متعدٍّ bo'la oladigan fe'l; bu yerda متعدٍّ shaklda to'ldiruvchi bilan kelgan.",
+          "e": "وَنَزَعَ — atf vavi va o'tgan zamon fe'li.",
           "uz": "tortib oldi"
         },
         {
           "w": "الدَّلْوَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الدَّلْوَ — نَزَعَ fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) kelgan. Aniq artikul الـ avval دَلْوَهُ (egalik zamirli) sifatida kiritilgan shu chelakka qaytadi. Ob'ektning noaniqdan aniqqa o'tishi rivoyatda chelakka o'quvchi diqqatini to'plash usuli bo'lib, keyingi kutilmagan hodisaga tayyorgarlik qiladi.",
+          "e": "الدَّلْوَ naza'a fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "chelakni"
         },
         {
-          "w": "فَإِذَا",
-          "r": "فَاء الفَجأَة مَعَ إِذَا المَفاجَأَة",
+          "w": "فَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "فَإِذَا — فَاء الفَجأَة (to'satdan yuz bergan voqea harfi) va إِذَا المَفاجأَة (kutilmagan hodisa zarfi) birikmasidan iborat arab tilining maxsus dramatik grammatik tarkibi. Bu tuzilma 'bas, birdan, kutilmaganda' ma'nosida bo'lib, o'quvchini to'satdan voqeaga tayyorlaydi. إِذَا المَفاجأَة dan keyingi gap ism jumlasi (جملة اسمية) shaklida kelib, voqeaning statik, tez his etilgan lahzasini tasvirlaydi.",
-          "uz": "bas, birdan"
+          "e": "فَـ to'satdan sodir bo'lgan voqeani bog'lovchi atf harfi.",
+          "uz": "bas / so'ng"
+        },
+        {
+          "w": "إِذَا",
+          "r": "إِذَا المَفاجَأَة",
+          "rc": "tb",
+          "e": "إِذَا kutilmaganda sodir bo'lgan voqeani anglatuvchi hayrat/kutilmaganlik zarfi.",
+          "uz": "to'satdan / birdan"
         },
         {
           "w": "الدَّلْوُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "الدَّلْوُ — فَإِذَا dan keyingi ism jumlasining mubtadosi (مبتدأ) bo'lib, raf' holatida (مَرفُوع) turadi. إِذَا المَفاجأَة dan keyin kelgan tarkib qonun-qoidasi bo'yicha ism jumlasi (المبتدأ والخبر) shaklida bo'ladi. Chelak ikkinchi marta mubtado sifatida alohida zikr qilinishi unga maxsus diqqat jalb qilish uchun grammatik vosita — bu hodisaning markazida chelak turadi.",
-          "uz": "chelakni"
+          "e": "الدَّلْوُ mubtado bo'lib, damma bilan marfu'.",
+          "uz": "chelak"
         },
         {
           "w": "ثَقِيلَةٌ",
           "r": "خَبَر مُبتَدَأ",
           "rc": "tx",
-          "e": "ثَقِيلَةٌ — الدَّلْوُ mubtadosining xabari (خبر) bo'lib, raf' holatida (مَرفُوع) tanvin bilan kelgan. Muannas shakl (تَاء التَّأنِيث ة) الدَّلْوُ so'zining grammatik muannasligiga moslashgan. Qisqa bir so'z xabar sifatida kelishi arab hikoya tilida hayrat paytidagi lo'nda his ifodasi (أُسلُوب التَّعجُّب) bo'lib, bu chelakda nimaning borligiga ishora qiluvchi qo'zg'atuvchi sifatida xizmat qiladi.",
-          "uz": "og'ir edi"
+          "e": "ثَقِيلَةٌ mubtadoning xabari bo'lib, damma tanvini bilan marfu'. U adad va jinsda mubtadoga moslashgan.",
+          "uz": "og'ir"
+        }
+      ]
+    },
+    {
+      "ar": "وَ... الْبِئْرُ فِي الْغَابَةِ، وَكَانَتِ الْغَابَةُ مُوحِشَةً.",
+      "tr": "Quduq o'rmonda edi va o'rmon vahimali edi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَتِ",
+          "r": "فِعل مَاضٍ نَاقِص (مُؤَنَّث)",
+          "rc": "tf",
+          "e": "كَانَتِ muannas noqis fe'li.",
+          "uz": "edi"
+        },
+        {
+          "w": "الْبِئْرُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الْبِئْرُ kananing ismi.",
+          "uz": "quduq"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "ichida"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الْغَابَةِ jar harfidan keyingi majrur ism.",
+          "uz": "o'rmon"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَتِ",
+          "r": "فِعل مَاضٍ نَاقِص (مُؤَنَّث)",
+          "rc": "tf",
+          "e": "كَانَتِ muannas noqis fe'li.",
+          "uz": "edi"
+        },
+        {
+          "w": "الْغَابَةُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الْغَابَةُ kananing ismi bo'lib, damma bilan marfu'.",
+          "uz": "o'rmon"
+        },
+        {
+          "w": "مُوحِشَةً",
+          "r": "خَبَر كَانَ",
+          "rc": "tx",
+          "e": "مُوحِشَةً kananing xabari bo'lib, fatha tanvini bilan mansub.",
+          "uz": "vahimali"
         }
       ]
     },
@@ -221,31 +367,52 @@
       "tr": "Uni chiqardi, bas, chelakda bir bola!",
       "parts": [
         {
-          "w": "وَأَخْرَجَهَا",
-          "r": "فِعل مَاضٍ مَعَ ضَمِير المَفعُول",
+          "w": "وَأَخْرَجَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَأَخْرَجَهَا — أَخْرَجَ (IV bo'g) fe'lining mâzî shakli va هَا muannas zamir-mafʿulidan iborat; هَا الدَّلْوُ ga qaytadi. IV bo'g أَفْعَلَ vaznida أَخْرَجَ 'tashqariga chiqarmoq' ma'nosida leksik intensivlikni bildiradi. وَ atf harfi rivoyatni davom ettiradi. Fe'lga birikib kelgan zamir-mafʿul (ضَمِير المَفعُول المُتَّصِل) arab tilining iqtisodiy ifodalash uslubini namoyon qiladi.",
-          "uz": "uni chiqardi"
+          "e": "وَأَخْرَجَ — atf vavi va o'tgan zamon fe'li (IV guruh).",
+          "uz": "va chiqardi"
         },
         {
-          "w": "فَإِذَا",
-          "r": "فَاء الفَجأَة مَعَ إِذَا المَفاجَأَة",
+          "w": "هَا",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
           "rc": "tb",
-          "e": "فَإِذَا — oldingi jumlada qo'llanilgan bir xil grammatik tuzilma yana takrorlanmoqda; avval chelak og'ir topildi (birinchi hayrat), endi ichida bola! (ikkinchi va asosiy hayrat). Bu takror (التَّكرَار الدَّرَامِيّ) arab hikoya uslubida ikki bosqichli hayrat tasvirida qo'llaniladi: birinchisi kutilmagan belgi, ikkinchisi asosiy kashfiyot. O'quvchi ham personaj kabi ikkala hayratni ketma-ket his qiladi.",
-          "uz": "bas, birdan"
+          "e": "هَا birikkan muannas zamiri bo'lib, axraja fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "uni"
         },
         {
-          "w": "فِي الدَّلْوِ",
-          "r": "خَبَر مُقَدَّم",
-          "rc": "tmt",
-          "e": "فِي الدَّلْوِ — jar-majrur iborasi bo'lib, bu kontekstda ism jumlasining muqaddam xabari (خبر مقدم) vazifasini bajaradi. Arab grammatikasida noaniq mubtado (نكرة) bor jumlada xabar — ayniqsa jar-majrur yoki zarf bo'lsa — muqaddim kelishi shart (وجوب تقديم الخبر). Bu tartib (xabar + mubtado) diqqatni chelak ichidagi joyga jalb qiladi: 'chelakda — bola!'.",
-          "uz": "Chelakda"
+          "w": "فَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "فَـ bog'lovchi.",
+          "uz": "bas"
+        },
+        {
+          "w": "إِذَا",
+          "r": "إِذَا المَفاجَأَة",
+          "rc": "tb",
+          "e": "إِذَا kutilmaganlik/hayrat bildiruvchi zarf.",
+          "uz": "to'satdan / birdan"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي -da / ichida ma'nosidagi jar harfi.",
+          "uz": "ichida / -da"
+        },
+        {
+          "w": "الدَّلْوِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الدَّلْوِ jar harfi ta'sirida kasra bilan majrur bo'lgan ism. Jar-majrur shibhi jumla bo'lib mubtadodan oldin kelgan xabardir (xabar muqaddam).",
+          "uz": "chelak"
         },
         {
           "w": "غُلَامٌ",
           "r": "مُبتَدَأ مُؤَخَّر",
           "rc": "tm",
-          "e": "غُلَامٌ — muaxhar mubtado (مبتدأ مؤخر) bo'lib, raf' holatida (مَرفُوع) tanvin bilan kelgan. Noaniqlik (نكرة) bu bolaning kim ekanligi hali noma'lum, kutilmaganda topilgan yangi shaxs ekanini ifodalaydi. Jumlaning ohangiga ünlem belgisi (!) qo'yilishi voqeaning badiiy-dramatik ta'sirini kuchaytiradi. Xabar muqaddam, mubtado muaxhar tarkibi — arab tilida hayrat va kutilmagan hodisalar uchun mo'ljallangan grammatik qurilma.",
+          "e": "غُلَامٌ kechiktirilgan mubtado (mubtado muaxhar) bo'lib, damma tanvini bilan marfu'.",
           "uz": "bola"
         }
       ]
@@ -258,42 +425,49 @@
           "w": "دَهِشَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "دَهِشَ — فَعِلَ vaznidagi mâzî fe'l bo'lib, 'hayrat va dovdirab qolmoq' ma'nosida odamning ichki psixologik holatini ifodalaydi. فَعِلَ vazni arab tilida kutilmagan holatga nisbatan his-tuyg'uni ifodalovchi fe'llarning keng qo'llaniladigan vaznlaridan biri. Bu fe'l نَادَى bilan ikkita predikat hosil qilib, avval ichki reaksiyani (hayrat), so'ngra tashqi ifodasini (nido) ketma-ket taqdim etadi.",
+          "e": "دَهِشَ o'tgan zamon fe'li.",
           "uz": "hayratda qoldi"
         },
         {
           "w": "الرَّجُلُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الرَّجُلُ — دَهِشَ va نَادَى ikki fe'lining umumiy fa'ili (فاعل مُشتَرَك) bo'lib, raf' holatida (مَرفُوع) kelgan. Arab grammatikasida bir fa'il ketma-ket bir necha maʿtuf fe'llar uchun umumiy fa'il bo'la olishi (الإسناد إلى فاعل واحد) keng tarqalgan usul. Aniq artikul الـ bu odamning hikoya davomida kuzatilgan shu kishi ekanligini ta'kidlaydi.",
+          "e": "الرَّجُلُ dahisha fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "odam"
         },
         {
           "w": "وَنَادَى",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَنَادَى — وَ atf harfi orqali دَهِشَ ga ulangan mâzî fe'l; نَادَى 'baland ovoz bilan nido qilmoq, e'lon qilmoq' ma'nosida bo'lib, odamning hayajonini tashqariga chiqarish usulini ifodalaydi. Bu fe'l to'g'ridan-to'g'ri nutqni (الكَلَام المُبَاشِر) kirituvchi hikoya fe'li sifatida ham xizmat qiladi. فِعل الكَلَام lardan biri sifatida نَادَى qo'tirmasdan nutqni bevosita keltiradi.",
-          "uz": "chaqirdi"
+          "e": "وَنَادَى — atf vavi va o'tgan zamon fe'li.",
+          "uz": "va chaqirdi"
         },
         {
-          "w": "يَا بُشْرَى",
-          "r": "أُسلُوب نِدَاء",
+          "w": "يَا",
+          "r": "حَرف نِدَاء",
           "rc": "tb",
-          "e": "يَا بُشْرَى — يَا nido harfi va مُنَادَى بُشْرَى dan iborat nido tarkibi (أُسلُوب النِّدَاء). Bu yerda nido shaxsga emas, xabar tushunchasining o'ziga yo'naltirilgan (نداء التعجب والاستحسان); 'mushtuluk yo'lga chiq!' ma'nosidagi taajjub nidosi. Bu Qur'on Karimning Yusuf surasidagi (12:19) haqiqiy oyatdan olingan ibora bo'lib, adabiy qiymatini va ma'naviy og'irligini oshiradi.",
-          "uz": "ey xushxabar"
+          "e": "يَا nido harfi.",
+          "uz": "ey"
+        },
+        {
+          "w": "بُشْرَى",
+          "r": "مُنَادَى",
+          "rc": "tb",
+          "e": "بُشْرَى munado bo'lib, oxiridagi alif sababli taqdiriy damma bilan marfu'.",
+          "uz": "xushxabar"
         },
         {
           "w": "هَذَا",
           "r": "مُبتَدَأ (اسم إِشَارَة)",
           "rc": "tm",
-          "e": "هَذَا — yaqindagi mufradi muzakkar ism-ishorat (اسم إشارة للمفرد المذكر القريب) bo'lib, ism jumlasining mubtadosi (مبتدأ) vazifasida raf' holatida turadi. Yaqinlikni ko'rsatuvchi هَذَا ishlatilishi bolaning hozir ko'z o'ngida, quduqdan chiqarilgan holatda turishiga ishora qiladi. Ism-ishorat mubtado sifatida kelishi gapchi uchun narsaning bevosita ko'rinib turishini grammatik jihatdan ta'kidlaydi.",
+          "e": "هَذَا ko'rsatish olmoshi bo'lib, mubtado sifatida mahallan marfu'.",
           "uz": "bu"
         },
         {
           "w": "غُلَامٌ",
           "r": "خَبَر مُبتَدَأ",
           "rc": "tx",
-          "e": "غُلَامٌ — هَذَا mubtadosining xabari (خبر) bo'lib, raf' holatida (مَرفُوع) tanvin bilan kelgan. Noaniqlik (نكرة) bu bolaning kim ekanligi hali aniqlanmagan ekanini ko'rsatadi — hayajonli topilma haqidagi xabar qisqa va lo'nda ifodalangan. Bu ixcham ism jumlasi (مُبتَدَأ + خَبَر) shakli odamning shoshqaloq, hayajonli nutqini tabiiy ifodalaydi.",
+          "e": "غُلَامٌ mubtadoning xabari bo'lib, damma tanvini bilan marfu'.",
           "uz": "bola"
         }
       ]
@@ -306,29 +480,36 @@
           "w": "وَفَرِحَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَفَرِحَ — فَعِلَ vaznidagi mâzî fe'l bo'lib, وَ atf harfi orqali oldingi rivoyat zanjiriga bog'langan. فَرِحَ 'sevinmoq, quvonmoq' ma'nosida his-tuyg'uni bildiruvchi fe'l (فِعل الحَالَة النَّفسِيَّة); فَعِلَ vazni chanqash (عَطِشَ) va hayrat (دَهِشَ) kabi holatlarni ifodalash uchun ham qo'llanilgan edi — bu butun hikoyada bir xil grammatik vazn orqali hissiy holatlar silsilasini hosil qiladi.",
-          "uz": "xursand bo'ldi"
+          "e": "وَفَرِحَ — atf vavi va o'tgan zamon fe'li.",
+          "uz": "va xursand bo'ldi"
         },
         {
           "w": "النَّاسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "النَّاسُ — فَرِحَ va أَخَذُوهُ ikki fe'lining umumiy fa'ili (فاعل) bo'lib, raf' holatida (مَرفُوع) kelgan. النَّاسُ jamlovchi ism (اسم الجَمع) bo'lib, butun karvon a'zolarini qamrab oladi. Avval الرَّجُلُ yakka shaxs sifatida tasvirlanay degan edi; endi النَّاسُ bilan butun karvon voqeaga ishtirok etmoqda — hikoyada shaxsdan jamoaga o'tish kuzatiladi.",
+          "e": "النَّاسُ fariha fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "odamlar"
         },
         {
           "w": "جِدًّا",
-          "r": "مَفعُول مُطلَق (لِلتَّأكِيد)",
+          "r": "مَفعُول مُطلَق",
           "rc": "th",
-          "e": "جِدًّا — nasb holatida kelgan va darajani kuchaytiruvchi ism bo'lib, فَرِحَ fe'lining darajasini (شِدَّة) ta'kidlash uchun qo'llaniladi. Arab grammatikasida جِدًّا mafʿul mutlaq (مفعول مطلق لبيان النوع أو التوكيد) sifatida tahlil qilinadi — fe'l yoki sifat ma'nosini intensivlashtiruvchi nasb holatidagi ism. Xursandlikning 'juda' darajada bo'lgani Yusuf topilishining qanchalik muhim va xursandovchi hodisa ekanligi ta'kidlaydi.",
+          "e": "جِدًّا fariha fe'lini ta'kidlovchi va uning darajasini bildiruvchi mutlaq maf'ul bo'lib, fatha tanvini bilan mansub.",
           "uz": "juda"
         },
         {
-          "w": "وَأَخَذُوهُ",
-          "r": "فِعل مَاضٍ مَعَ ضَمِير المَفعُول",
+          "w": "وَأَخَذُوا",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَأَخَذُوهُ — وَ atf harfi orqali فَرِحَ ga ulangan mâzî fe'l; هُ zamir-mafʿuli غُلَام (Yusuf) ga qaytadi. أَخَذَ 'olmoq, egalik qilmoq' ma'nosida bo'lib, Yusufning quduqdan savdogarlar qo'liga o'tishini yakunlovchi harakat. Bu qisqa fe'l Yusuf taqdirining keyingi bosqichiga — endi u savdogarlarning mulki — o'tishini tasdiqlaydi.",
-          "uz": "uni oldilar"
+          "e": "وَأَخَذُوا — atf vavi va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
+          "uz": "va oldilar"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ uchinchi shaxs birlik muzakkar zamiri bo'lib, axazu fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "uni"
         }
       ]
     },
@@ -340,57 +521,78 @@
           "w": "وَوَصَلُوا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَوَصَلُوا — وَ atf harfi orqali bog'langan mâzî fe'l; وَصَلَ 'yetib bormoq, manzilga etmoq' ma'nosida safar hikoyasining geografik so'nggi nuqtasini bildiradi. Fe'l boshida ikkita واو yonma-yon kelishi — واو العطف va واو الجماعة — arab imlosida to'liq ruxsat etilgan. Bu fe'l karvonning uzoq safar yo'lini yakunlab, yangi sahna — Misrni — ochadi.",
-          "uz": "yetib kelishdi"
+          "e": "وَوَصَلُوا — atf vavi va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
+          "uz": "va yetib kelishdi"
         },
         {
-          "w": "إِلَى مِصْرَ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "إِلَى مِصْرَ — yo'nalish bildiruvchi jar-majrur iborasi; مِصْرَ اسم العلم غير المنصرف (mamsur bo'lmagan atoqli ot) toifasiga kiradi, shuning uchun jar holatida kasra o'rniga fatḥa bilan kelgan. Mamlakatning atoqli otlari, chet el kelib chiqishlari va vazni (فِعَل) sababli غير المنصرف hisoblanishi arab morfologiyasining muhim qoidalaridan biri.",
-          "uz": "Misrga"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى yo'nalish bildiruvchi jar harfi.",
+          "uz": "-ga / tomon"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم مَجرُور (بِإِلَى)",
+          "rc": "tb",
+          "e": "مِصْرَ jar harfi ta'sirida fatha bilan majrur bo'lgan ismdir (chunki u g'ayri munsarifdir).",
+          "uz": "Misr"
         },
         {
           "w": "وَقَامُوا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَقَامُوا — وَ atf harfi orqali وَصَلُوا ga ulangan mâzî fe'l; قَامَ bu kontekstda leksik ko'chma ma'noda 'turmoq, faoliyat boshlash uchun o'rnashmoq' ma'nosida qo'llanilgan — harfiy 'ko'tarildi' ma'nosidan ko'chma ma'no (المجاز اللغوي). قَامَ فَعَلَ ma'nosida qo'llanilishi (قَامَ بِكَذَا, قَامَ فِي مَكَان) arab tilida keng tarqalgan usul.",
-          "uz": "turishdi"
+          "e": "وَقَامُوا — atf vavi va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
+          "uz": "va turishdi"
         },
         {
-          "w": "فِي السُّوقِ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "فِي السُّوقِ — joy zarfi vazifasidagi jar-majrur iborasi; قَامُوا fe'liga bog'liq ravishda faoliyat bo'lib o'tgan joyni ko'rsatadi. Aniq artikul الـ bilan السُّوقِ — Misrning mashhur, barcha bilgan bozori. Arab madaniyatida savdo bozori (السُّوق) nafaqat iqtisodiy, balki ijtimoiy va madaniy hayotning markazi bo'lgan.",
-          "uz": "bozorda"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي -da / ichida ma'nosidagi jar harfi.",
+          "uz": "ichida / -da"
+        },
+        {
+          "w": "السُّوقِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "السُّوقِ jar harfi ta'sirida kasra bilan majrur bo'lgan ism.",
+          "uz": "bozor"
         },
         {
           "w": "وَنَادَوْا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَنَادَوْا — وَ atf harfi orqali قَامُوا ga bog'langan mâzî fe'l; نَادَى 'baland ovoz bilan e'lon qilmoq' ma'nosida bozordagi savdo e'lonini ifodalaydi. واو الجماعة qo'shimchasidan oldin اَلِف تُحذَف qoidasi bo'yicha alif tushirilgan: نَادَوُا → نَادَوْا. Keyingi so'roq jumlalar (مَنْ يَشْتَرِي ...) ularning to'g'ridan-to'g'ri nutqi (الكَلَام المُبَاشِر) sifatida keltirilgan.",
-          "uz": "chaqirishdi"
+          "e": "وَنَادَوْا — atf vavi va o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
+          "uz": "va chaqirishdi"
         },
         {
           "w": "مَنْ",
           "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "مَنْ — عاقل (aqliy zot) uchun ishlatiladigan so'roq ismi (اسم الاستفهام للعاقل) bo'lib, يَشْتَرِي fe'lining fa'ili (فاعل) vazifasida turadi. مَنْ harf emas, ism ekani muhim: u gapda grammatik rol o'ynaydi. So'roq ismi fa'il o'rnida kelsa, raf' holatida (مَرفُوع) bo'lishi lozim — biroq مَنْ har doim bir ko'rinishda qoladi.",
+          "e": "مَنْ so'roq ismi bo'lib, gapda mubtado sifatida mahallan marfu'.",
           "uz": "kim"
         },
         {
           "w": "يَشْتَرِي",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "يَشْتَرِي — افْتَعَلَ vaznidagi mudori' fe'l bo'lib, so'roq kontekstida kelasi zamon yoki hozirgi imkoniyat ma'nosini ifodalaydi. اشْتَرَى fe'lining VIII bo'g' (الثلاثي المزيد بالافتعال) shakli 'sotib olmoq' ma'nosida; savdo muomalasi uchun mo'ljallangan ixtisoslashgan leksema. So'roqning ikki marta takrorlanishi (مَنْ يَشْتَرِي ... مَنْ يَشْتَرِي) bozor e'lonining hayotiy tasvirini beradi.",
+          "e": "يَشْتَرِي muzori' fe'li bo'lib, oxiridagi ya harfi tufayli taqdiriy damma bilan marfu'.",
           "uz": "sotib oladi"
         },
         {
-          "w": "هَذَا الْغُلَامَ",
-          "r": "مَفعُول بِه",
+          "w": "هَذَا",
+          "r": "اسم إِشَارَة / مَفعُول بِهِ",
           "rc": "tb",
-          "e": "هَذَا الْغُلَامَ — يَشْتَرِي fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida kelgan. هَذَا ism-ishorat sifat yoki badal, الْغُلَامَ esa asosiy mafʿul bih hisoblanadi — هَذَا + aniq ism tarkibida ism-ishorat muttabаʿ (تابع) sifatida nasb holatida moslashadi. هَذَا ko'rsatishi bolaning hozir ko'z o'ngida, sotuvda turishini ta'kidlaydi.",
-          "uz": "bu bolani"
+          "e": "هَذَا ko'rsatish olmoshi bo'lib, yashtari fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْغُلَامَ",
+          "r": "بَدَل",
+          "rc": "tb",
+          "e": "الْغُلَامَ ko'rsatish olmoshidan keyingi aniq artikulli ism bo'lib, undan badal (yoki atfi bayon) sifatida fatha bilan mansub.",
+          "uz": "bolani"
         }
       ]
     },
@@ -402,62 +604,97 @@
           "w": "اشْتَرَى",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "اشْتَرَى — افْتَعَلَ vaznidagi mâzî fe'l bo'lib, 'sotib olmoq' ma'nosini ifodalaydi; bozorda qilingan umumiy e'londan (مَنْ يَشْتَرِي) aniq amalga oshirilgan savdo muomalasiga (اشْتَرَى الْعَزِيزُ) o'tish hikoyaning bu bosqichini yakunlaydi. مضارع → ماضي o'tishi voqeaning sodir bo'lganini tasdiqlash vazifasini bajaradi.",
+          "e": "اشْتَرَى o'tgan zamon fe'li (VIII guruh).",
           "uz": "sotib oldi"
         },
         {
           "w": "الْعَزِيزُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْعَزِيزُ — اشْتَرَى fe'lining fa'ili (فاعل) bo'lib, raf' holatida (مَرفُوع) kelgan. الْعَزِيزُ Misr hoqimining rasmiy unvoni (لَقَب) bo'lib, 'qudratli, aziz martabali' ma'nosida. Bu so'z hikoyada birinchi marta ishlatilishi yangi, muhim shaxsning sahnaga kirishini bildiradi; aniq artikul الـ uning taniqli va ma'lum unvon egasi ekanini ko'rsatadi.",
+          "e": "الْعَزِيزُ ishtaro fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "Aziz"
         },
         {
           "w": "يُوسُفَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "يُوسُفَ — اشْتَرَى fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) tanvinsiz kelgan. يُوسُف اسم أعجمي (chet el atoqli oti) va اسم على وزن أَفعُل bo'lganligi uchun غير المنصرف toifasiga kiradi: jar va nasb holatlarida kasra emas fatḥa bilan keladi. Yusuf ismining birinchi marta to'g'ridan-to'g'ri zikr qilinishi bu sahnaning uning hayotidagi tub burilish nuqtasi ekanligini ta'kidlaydi.",
+          "e": "يُوسُفَ ishtaro fe'lining maf'ul bihi bo'lib, g'ayri munsarif bo'lganligi sababli fatha bilan mansub.",
           "uz": "Yusufni"
         },
         {
-          "w": "بِدَرَاهِمَ مَعْدُودَةٍ",
-          "r": "جَار وَمَجرُور (ثَمَن)",
-          "rc": "tmt",
-          "e": "بِدَرَاهِمَ مَعْدُودَةٍ — بِـ jar harfi va jar holatidagi دَرَاهِمَ مَعْدُودَةٍ dan tashkil topgan jar-majrur iborasi; بِـ bu kontekstda narx yoki bahoni bildiradi (بِـ الثَّمَن). دَرَاهِم جمع تكسير بر وزن فَعَالِل bo'lganligi va chet el kelib chiqishi (arabiy bo'lmagan) sababli غير المنصرف — jar holatida fatḥa bilan kelgan. مَعْدُودَة 'sanoqli, kam' sifati Yusufning ramziy jihatdan juda arzon narxga sotilganini — bu uning qanchalik past baholanganligi haqidagi Qur'oniy ta'sini — aks ettiradi.",
-          "uz": "sanogli dirhamlarga"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِـ narx/evaz bildiruvchi jar harfi.",
+          "uz": "-ga / evaziga"
+        },
+        {
+          "w": "دَرَاهِمَ",
+          "r": "اسم مَجرُور (بِالْبَاء)",
+          "rc": "tb",
+          "e": "دَرَاهِمَ jar harfi sababli fatha bilan majrur bo'lgan ism (g'ayri munsarif bo'lganligi uchun kasra o'rniga fatha qabul qilgan).",
+          "uz": "dirhamlar"
+        },
+        {
+          "w": "مَعْدُودَةٍ",
+          "r": "نَعت / صِفَة",
+          "rc": "tb",
+          "e": "مَعْدُودَةٍ darohima ismining sifati (na'ti) bo'lib, kasra tanvini bilan majrur (chunki sifat o'zi ergashayotgan so'zning asl jar holatiga moslashadi va u munsarif bo'lgani sababli kasra oladi).",
+          "uz": "sanoqli"
         }
       ]
     },
     {
-      "ar": "وَبَاعَهُ التُّجَّارُ وَمَا عَرَفُوا يُوسُفَ.",
+      "ar": "و... التُّجَّارُ وَمَا عَرَفُوا يُوسُفَ.",
       "tr": "Savdogarlar uni sotdilar va Yusufni tanimadilar.",
       "parts": [
         {
-          "w": "وَبَاعَهُ",
-          "r": "فِعل مَاضٍ مَعَ ضَمِير المَفعُول",
+          "w": "وَبَاعَ",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَبَاعَهُ — بَاعَ 'sotmoq' mâzî fe'li va هُ zamir-mafʿulidan iborat; هُ يُوسُف ga qaytadi. بَاعَ fe'li اشْتَرَى ning leksik antonimi — bir gapda sotish va sotib olish o'rtasidagi farq aniq ajratilgan. Savdogarlar sotdi, Aziz sotib oldi — bu jumlada ikki tomonning roli va munosabati grammatik jihatdan aniq ifodalangan.",
-          "uz": "uni sotdi"
+          "e": "وَبَاعَ — atf vavi va o'tgan zamon fe'li.",
+          "uz": "va sotdi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ uchinchi shaxs birlik muzakkar zamiri bo'lib, ba'a fe'lining maf'ul bihi sifatida mahallan mansub.",
+          "uz": "uni"
         },
         {
           "w": "التُّجَّارُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "التُّجَّارُ — بَاعَهُ fe'lining fa'ili (فاعل) bo'lib, raf' holatida (مَرفُوع) kelgan. التُّجَّار تَاجِر so'zining jamʿ taksiri (جمع التكسير) bo'lib, فُعَّال vaznida kelgan. Aniq artikul الـ bilan kelishi avvaldan ma'lum — quduq yonida e'lon qilgan — shu savdogarlar nazarda tutilganini ko'rsatadi. Bu so'z rivoyat bo'ylab karvon a'zolarini muayyan bir guruh sifatida yakunlovchi zikri.",
+          "e": "التُّجَّارُ ba'a fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "savdogarlar"
         },
         {
-          "w": "وَمَا عَرَفُوا",
-          "r": "فِعل مَاضٍ مَنفِيّ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَfi",
+          "rc": "tb",
+          "e": "مَا o'tgan zamon fe'lini inkor qiluvchi inkor harfi.",
+          "uz": "emas / yo'q"
+        },
+        {
+          "w": "عَرَفُوا",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَمَا عَرَفُوا — مَا النَّافِيَة للماضي (o'tgan zamon fe'lini inkor qiluvchi مَا) va عَرَفُوا mâzî fe'lidan tashkil topgan inkor tarkibi. مَا النَّافِيَة mâzî fe'l bilan kelganda 'qilmadi, bo'lmadi' ma'nosini beradi — لَمْ den farqli o'laroq, مَا ماضٍ ni o'z shaklida qoldiradi. Savdogarlarning Yusuf kim ekanligini bilmasligi hikoyaning chuqur ma'no qatlamini — insoniy bilmaslik bilan ilohiy taqdir o'rtasidagi ziddiyatni — bildiradi.",
-          "uz": "tanimadilar"
+          "e": "عَرَفُوا o'tgan zamon fe'li bo'lib, ko'plik vavi uning fo'ilidir.",
+          "uz": "tanidilar / bildilar"
         },
         {
           "w": "يُوسُفَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "يُوسُفَ — عَرَفُوا fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) tanvinsiz kelgan (غير المنصرف). Yusuf ismining jumlaning eng oxirida kelishi atayin diqqat jalb qilish (التأخير للتخصيص والتأكيد) usuli; o'quvchi butun jumla bo'yicha oldinga intiladi va Yusuf ismiga yetganda dramatik ironiyadagi asosiy nuqtani his qiladi.",
+          "e": "يُوسُفَ 'arafu fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "Yusufni"
         }
       ]
@@ -470,71 +707,120 @@
           "w": "وَذَهَبَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَذَهَبَ — وَ atf harfi orqali avvalgi rivoyat zanjiriga bog'langan mâzî fe'l; ذَهَبَ لَازِم (o'tuvchi bo'lmagan) fe'l bo'lib, odatda to'g'ri to'ldiruvchi olmaydi. Bu kontekstda بِهِ jar-majrur iborasi orqali متعدٍّ بحرف الجر sifatida 'uni olib ketdi' ma'nosini hosil qiladi. Bu arab grammatikasida فِعل المتعدِّي بواسطة حرف الجر deb ataladigan usul.",
-          "uz": "ketdi"
+          "e": "وَذَهَبَ — atf vavi va o'tgan zamon fe'li.",
+          "uz": "va ketdi"
         },
         {
-          "w": "بِهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِهِ — بِـ jar harfi va هِ muzakkar zamir-majruriidan tashkil topgan jar-majrur iborasi; هِ يُوسُف ga qaytadi. بِـ bu kontekstda birga olib ketish, musallahat ma'nosida (بِـ المُصَاحَبَة) ishlatilgan. ذَهَبَ بِهِ birikmasining umumiy ma'nosi 'uni olib ketmoq' — ya'ni birovni biror joyga birga olib borish.",
-          "uz": "uni"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِـ vosita va hamrohlik bildiruvchi jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هِ",
+          "r": "ضَمِير مُتَّصِل (مَجرُور)",
+          "rc": "tb",
+          "e": "هِ uchinchi shaxs birlik muzakkar zamiri bo'lib, jar harfidan keyin kelgani sababli mahallan majrur.",
+          "uz": "uni / u"
         },
         {
           "w": "الْعَزِيزُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْعَزِيزُ — ذَهَبَ va قَالَ ikki fe'lining umumiy fa'ili (فاعل) bo'lib, raf' holatida (مَرفُوع) kelgan. الْعَزِيزُ endi hikoyada ikkinchi marta zikr qilinmoqda — avval satib oluvchi sifatida, endi esa olib ketuvchi va xotiniga ko'rsatma beruvchi sifatida. Uning har xil kontekstlarda takroriy zikri hikoyada uning muhim va markaziy rol o'ynaydigan musbat shaxs ekanini mustahkamlaydi.",
+          "e": "الْعَزِيزُ zahaba fe'lining fo'ili bo'lib, damma bilan marfu'.",
           "uz": "Aziz"
         },
         {
-          "w": "إِلَى قَصْرِهِ",
-          "r": "جَار وَمَجرُور (ظَرف مَكَان)",
-          "rc": "tmt",
-          "e": "إِلَى قَصْرِهِ — yo'nalish jar harfi إِلَى va egalik zamirli قَصْرِهِ dan tashkil topgan jar-majrur iborasi; هِ الْعَزِيزُ ga qaytib, 'uning saroyiga' ma'nosini beradi. Bu ibora ذَهَبَ fe'lining manzilini aniqlashtiradi. Sarlavhada va'da qilingan بِئْر → قَصْر o'tishi (مِنَ الْبِئْرِ إِلَى الْقَصْرِ) aynan mana shu iborada grammatik jihatdan yakunlanadi.",
-          "uz": "o'z saroyiga"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى yo'nalish bildiruvchi jar harfi.",
+          "uz": "-ga / tomon"
+        },
+        {
+          "w": "قَصْرِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "قَصْرِ jar harfi sababli kasra bilan majrur bo'lgan ism va u ayni paytda muzofdir.",
+          "uz": "saroy"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ uchinchi shaxs birlik muzakkar zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "uning / o'z"
         },
         {
           "w": "وَقَالَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَقَالَ — وَ atf harfi orqali ذَهَبَ ga ulangan mâzî fe'l; قَالَ arab hikoya va Qur'on dilida to'g'ridan-to'g'ri nutqni (الكَلَام المُبَاشِر) kirituvchi standart fe'l. Bu fe'l epik anlatmadan (rivoyat) muloqotga (dialog) o'tish uchun grammatik ko'prik vazifasini bajarib, keyingi buyruq va ta'kidlovchi jumlani kiritadi.",
+          "e": "وَقَالَ — atf vavi va o'tgan zamon fe'li.",
           "uz": "va dedi"
         },
         {
-          "w": "لِامْرَأَتِهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "لِامْرَأَتِهِ — لَام التَّبلِيغ (xabar yetkazish lomi) va egalik zamirli امْرَأَتِهِ dan tashkil topgan jar-majrur iborasi; هِ الْعَزِيزُ ga qaytib, 'uning xotiniga' ma'nosini beradi. قَالَ لِـ arab tilida nutqning kima yoki kimga qaratilganini ko'rsatuvchi standart tarkib. Bu ibora sahnani turar joy ichiga — Azizning xususiy hayotiga — olib kiradi.",
-          "uz": "xotiniga"
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لِـ yo'nalish va tegishlilik bildiruvchi jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "امْرَأَتِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "امْرَأَتِ jar harfi sababli kasra bilan majrur bo'lgan ism va muzofdir.",
+          "uz": "xotin"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ uchinchi shaxs birlik muzakkar zamiri bo'lib, muzofun ilayh sifatida mahallan majrur.",
+          "uz": "uning"
         },
         {
           "w": "أَكْرِمِي",
           "r": "فِعل أَمر",
           "rc": "tf",
-          "e": "أَكْرِمِي — أَكْرَمَ (IV bo'g) fe'lining muannas muxotab (مؤنث مخاطب) uchun buyruq mayli shakli (فِعل الأَمر); ي qo'shimchasi xotaband (muannas muxotab) ekanini belgilaydi. أَكْرَمَ 'izzat-hurmat ko'rsatmoq, yaxshi muomala qilmoq' ma'nosida bo'lib, Azizning Yusufga birinchi ko'rishdan uning alohida ekanligini anglab, xotiniga maxsus ko'rsatma berayotganini ifodalaydi.",
+          "e": "أَكْرِمِي muannas ikkinchi shaxsga qaratilgan buyruq fe'li bo'lib, oxiridagi yo harfi uning fo'ilidir.",
           "uz": "izzat qil"
         },
         {
           "w": "يُوسُفَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "يُوسُفَ — أَكْرِمِي fe'lining to'g'ri to'ldiruvchisi (مفعول به) bo'lib, nasb holatida (مَنصُوب) tanvinsiz kelgan (غير المنصرف). Bu gapda Yusuf ismi yana bir bor zikr qilinib, hikoya oxiriga qadar u asosiy qahramonligini mustahkamlamoqda. Azizning xotiniga bevosita nom bilan buyurishi Yusufning ularning hayotida alohida o'rin tutishini belgilaydi.",
+          "e": "يُوسُفَ akrimi fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "Yusufni"
         },
         {
-          "w": "إِنَّهُ",
-          "r": "إِنَّ (حَرف تَوكِيد وَنَصب) مَعَ اسمِها",
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "إِنَّهُ — إِنَّ ta'kid-nasb harfi va هُ zamir-ismidan iborat; إِنَّ o'zidan keyingi ismni nasb holatiga, xabarini raf' holatiga o'tkazadi (إِنَّ وَأَخَواتُها). هُ يُوسُف ga qaytib, bu buyruqning sababini ta'kidlab tushuntiruvchi jumlani kiritadi. إِنَّ ning ishlatilishi sababning qat'iy, shak-shubhasiz ekanligini grammatik jihatdan ta'kidlaydi.",
-          "uz": "chunki u"
+          "e": "إِنَّ ta'kid va nasb qiluvchi harf.",
+          "uz": "albatta / chunki"
         },
         {
-          "w": "وَلَدٌ رَشِيدٌ",
-          "r": "خَبَر إِنَّ",
+          "w": "هُ",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ birikkan zamir bo'lib, inna ning ismi sifatida mahallan mansub.",
+          "uz": "u"
+        },
+        {
+          "w": "وَلَدٌ",
+          "r": "خَبَر إِنَّ / مَنعُوت",
           "rc": "tx",
-          "e": "وَلَدٌ رَشِيدٌ — إِنَّهُ tarkibining xabari (خبر إنّ) bo'lib, raf' holatida (مَرفُوع) tanvin bilan kelgan; وَلَدٌ + رَشِيدٌ sifat birikmasidan iborat. رَشِيدٌ فَعِيل vaznida shaxsiy fazilatni bildiruvchi sifat bo'lib, shunchaki aqlli emas, balki ulg'aygan, mas'uliyatli, to'g'ri yo'lni tanlaydigan, etuk bir kishi ma'nosini anglatadi. Azizning Yusufni birinchi ko'rishda uning chuqur salohiyatini anglashi — bu so'zning grammatik jihatdan ham, mazmun jihatdan ham hikoyaning kulminatsion nuqtasi.",
-          "uz": "aqlli bola"
+          "e": "وَلَدٌ inna ning xabari bo'lib, damma tanvini bilan marfu' va sifatlanuvchi (man'ut) ism.",
+          "uz": "bola"
+        },
+        {
+          "w": "رَشِيدٌ",
+          "r": "نَعت / صِفَة",
+          "rc": "tx",
+          "e": "رَشِيدٌ valadun ismining sifati (na'ti) bo'lib, damma tanvini bilan marfu'.",
+          "uz": "aqlli / to'g'ri yo'ldagi"
         }
       ]
     }
