@@ -1,0 +1,172 @@
+{
+  "title": "٣١ ـ المَلِكُ يُرْسِلُ إِلَى يُوسُفَ",
+  "tuz": "Podshoh Yusufga odam yuboradi",
+  "sub": "Podshoh Yusufning ta'biri va tadbiridan xursand bo'ladi",
+  "page": 43,
+  "sentences": [
+    {
+      "ar": "وَلَمَّا سَمِعَ المَلِكُ هَذَا التَّأْوِيلَ وَالتَّدْبِيرَ فَرِحَ جِدًّا، وَقَالَ: مَنْ صَاحِبُ هَذَا التَّأْوِيلِ؟",
+      "tr": "Podshoh bu ta'bir va tadbirni eshitgach juda xursand bo'ldi va: Bu ta'bir egasi kim? — dedi.",
+      "parts": [
+        {
+          "w": "وَلَمَّا سَمِعَ المَلِكُ",
+          "r": "ظرف شرط وفعل وفاعل",
+          "rc": "tb",
+          "e": "لَمَّا vaqt-shart ma'nosini beradi; سَمِعَ fe'li voqeani boshlaydi, المَلِكُ esa eshitgan shaxs sifatida fo'il bo'lib kelgan.",
+          "uz": "podshoh eshitgach"
+        },
+        {
+          "w": "هَذَا التَّأْوِيلَ وَالتَّدْبِيرَ",
+          "r": "مفعول به ومعطوف",
+          "rc": "tb",
+          "e": "هَذَا ishora ismi ta'bir va tadbirga ishora qiladi; التَّأْوِيلَ maf'ul bih, وَالتَّدْبِيرَ esa unga atf qilingan ikkinchi narsa.",
+          "uz": "bu ta'bir va tadbirni"
+        },
+        {
+          "w": "فَرِحَ جِدًّا",
+          "r": "جواب لما وفعل وحال",
+          "rc": "tf",
+          "e": "فَرِحَ لَمَّاning javobi bo'lib podshohning holatini bildiradi; جِدًّا esa xursandlik darajasini kuchaytiruvchi hol yoki maf'ul mutlaq ma'nosida kelgan.",
+          "uz": "juda xursand bo'ldi"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "قَالَ fe'li وَ orqali فَرِحَga bog'lanib, xursandlikdan keyingi savolni kiritadi.",
+          "uz": "va dedi"
+        },
+        {
+          "w": "مَنْ صَاحِبُ هَذَا التَّأْوِيلِ",
+          "r": "استفهام ومبتدأ وخبر",
+          "rc": "tm",
+          "e": "مَنْ so'roq ismi, صَاحِبُ esa xabar yoki mubtado tarkibida kelib ta'bir kimga mansub ekanini so'raydi; هَذَا التَّأْوِيلِ izofa orqali so'ralayotgan narsani aniqlaydi.",
+          "uz": "bu ta'bir egasi kim"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ المَلِكُ: مَنْ هَذَا الرَّجُلُ الْكَرِيمُ الَّذِي نَصَحَ لَنَا وَدَلَّ عَلَى التَّدْبِيرِ؟",
+      "tr": "Podshoh dedi: Bizga nasihat qilgan va tadbirga yo'l ko'rsatgan bu olijanob odam kim?",
+      "parts": [
+        {
+          "w": "وَقَالَ المَلِكُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالَ nutqni kirituvchi fe'l, المَلِكُ esa fo'il bo'lib savolning podshoh tomonidan aytilganini bildiradi.",
+          "uz": "podshoh dedi"
+        },
+        {
+          "w": "مَنْ هَذَا الرَّجُلُ الْكَرِيمُ",
+          "r": "استفهام ومشار إليه وصفة",
+          "rc": "tm",
+          "e": "مَنْ shaxs haqida so'roq qiladi; هَذَا الرَّجُلُ ko'rsatilayotgan kishini bildiradi, الْكَرِيمُ esa uning olijanob sifatini beradi.",
+          "uz": "bu olijanob odam kim"
+        },
+        {
+          "w": "الَّذِي نَصَحَ لَنَا",
+          "r": "صفة بجملة صلة",
+          "rc": "ts",
+          "e": "الَّذِي mavsul ism bo'lib الرَّجُلُni sifatlaydi; نَصَحَ لَنَا sila jumlasi, لَنَا esa nasihat kimlar foydasiga bo'lganini ko'rsatadi.",
+          "uz": "bizga nasihat qilgan"
+        },
+        {
+          "w": "وَدَلَّ عَلَى التَّدْبِيرِ",
+          "r": "معطوف على الصلة",
+          "rc": "tf",
+          "e": "دَلَّ fe'li نَصَحَga atf qilingan; عَلَى التَّدْبِيرِ esa ko'rsatma qaysi narsaga qaratilganini bildiradi.",
+          "uz": "va tadbirga yo'l ko'rsatgan"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ السَّاقِي: هَذَا يُوسُفُ الصِّدِّيقُ وَهُوَ الَّذِي أَخْبَرَ أَنِّي سَأَكُونُ سَاقِياً لِسَيِّدِي المَلِكِ.",
+      "tr": "Soqi dedi: Bu rostgo'y Yusufdir. U menga xo'jayinim podshohga soqi bo'lishimni xabar qilgan edi.",
+      "parts": [
+        {
+          "w": "قَالَ السَّاقِي",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالَ javobni boshlaydi, السَّاقِي esa fo'il bo'lib Yusufni tanigan va voqeani eslagan kishini bildiradi.",
+          "uz": "soqi dedi"
+        },
+        {
+          "w": "هَذَا يُوسُفُ الصِّدِّيقُ",
+          "r": "مبتدأ وخبر وصفة",
+          "rc": "tm",
+          "e": "هَذَا mubtado, يُوسُفُ xabar, الصِّدِّيقُ esa Yusufning rostgo'yligini bildiruvchi sifat yoki laqabdir.",
+          "uz": "bu rostgo'y Yusufdir"
+        },
+        {
+          "w": "وَهُوَ الَّذِي أَخْبَرَ",
+          "r": "مبتدأ وخبر موصول",
+          "rc": "tm",
+          "e": "هُوَ mubtado, الَّذِي أَخْبَرَ esa xabar bo'lib Yusufning oldingi ta'bir xabarini eslatadi.",
+          "uz": "u xabar bergan zot"
+        },
+        {
+          "w": "أَنِّي سَأَكُونُ سَاقِياً",
+          "r": "مصدر مؤول مفعول به",
+          "rc": "tb",
+          "e": "أَنِّي tarkibi أَخْبَرَ fe'lining mazmuniy maf'uli; سَأَكُونُ kelajakdagi holatni bildiradi, سَاقِياً esa كَانَning xabari.",
+          "uz": "men soqi bo'lishimni"
+        },
+        {
+          "w": "لِسَيِّدِي المَلِكِ",
+          "r": "جار ومجرور ومضاف إليه",
+          "rc": "tmt",
+          "e": "لِسَيِّدِي tarkibi سَاقِياًga bog'lanib kimga xizmat qilinishini bildiradi; المَلِكِ esa سَيِّدِي so'zini izohlaydi.",
+          "uz": "xo'jayinim podshohga"
+        }
+      ]
+    },
+    {
+      "ar": "وَاشْتَاقَ المَلِكُ إِلى لقاء يُوسُفَ، وَأَرْسَلَ إِلى يوسفَ، وَقَالَ المَلِك: ﴿ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي﴾.",
+      "tr": "Podshoh Yusuf bilan uchrashishga mushtoq bo'ldi, Yusufga odam yubordi va: Uni menga keltiringlar, uni o'zim uchun xos qilib olaman, — dedi.",
+      "parts": [
+        {
+          "w": "وَاشْتَاقَ المَلِكُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "اشْتَاقَ o'tgan zamon fe'li bo'lib kuchli istakni bildiradi, المَلِكُ esa shu istak egasi bo'lgan fo'ildir.",
+          "uz": "podshoh mushtoq bo'ldi"
+        },
+        {
+          "w": "إِلى لقاء يُوسُفَ",
+          "r": "جار ومجرور متعلق بالفعل",
+          "rc": "tmt",
+          "e": "إِلى لقاء يُوسُفَ tarkibi اشْتَاقَ fe'liga bog'lanib istakning yo'nalishini, ya'ni Yusuf bilan uchrashishni bildiradi.",
+          "uz": "Yusuf bilan uchrashishga"
+        },
+        {
+          "w": "وَأَرْسَلَ إِلى يوسفَ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "أَرْسَلَ oldingi fe'lga atf qilingan; إِلى يوسفَ yuborish qaysi shaxsga qaratilganini ko'rsatadi.",
+          "uz": "va Yusufga odam yubordi"
+        },
+        {
+          "w": "وَقَالَ المَلِك",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالَ fe'li podshohning farmonini kiritadi, المَلِك esa fo'il sifatida takror zikr qilingan.",
+          "uz": "podshoh dedi"
+        },
+        {
+          "w": "ائْتُونِي بِهِ",
+          "r": "فعل أمر ومفعول وجار ومجرور",
+          "rc": "tf",
+          "e": "ائْتُوا buyruq fe'li jam'ga qaratilgan, نِي maf'ul zamiri podshohga qaytadi, بِهِ esa Yusufni keltirish vositasini bildiradi.",
+          "uz": "uni menga keltiringlar"
+        },
+        {
+          "w": "أَسْتَخْلِصْهُ لِنَفْسِي",
+          "r": "جواب الطلب وفعل ومفعول",
+          "rc": "tf",
+          "e": "أَسْتَخْلِصْهُ buyruqdan keyingi maqsadni bildiradi; هُ Yusufga qaytgan maf'ul, لِنَفْسِي esa uni podshoh o'ziga xos qilmoqchi ekanini ko'rsatadi.",
+          "uz": "uni o'zim uchun xos qilib olaman"
+        }
+      ]
+    }
+  ]
+}

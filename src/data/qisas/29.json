@@ -1,0 +1,454 @@
+{
+  "title": "٣٠ ـ رُؤْيَا المَلِكِ",
+  "tuz": "Podshohning tushi",
+  "sub": "Podshoh tushi va Yusufning ta'biri",
+  "page": 41,
+  "sentences": [
+    {
+      "ar": "وَرَأَى مَلِكُ مِصْرَ رُؤْيَا عَجِيبَةً.",
+      "tr": "Misr podshohi g'alati bir tush ko'rdi.",
+      "parts": [
+        {
+          "w": "وَرَأَى",
+          "r": "فعل ماض",
+          "rc": "tf",
+          "e": "رَأَى o'tgan zamon fe'li bo'lib ko'rish harakatini bildiradi, وَ uni oldingi voqealar oqimiga bog'laydi.",
+          "uz": "ko'rdi"
+        },
+        {
+          "w": "مَلِكُ مِصْرَ",
+          "r": "فاعل ومضاف إليه",
+          "rc": "tm",
+          "e": "مَلِكُ fo'il sifatida marfu' kelgan, مِصْرَ esa izofada podshoh qaysi mamlakatniki ekanini bildiradi.",
+          "uz": "Misr podshohi"
+        },
+        {
+          "w": "رُؤْيَا عَجِيبَةً",
+          "r": "مفعول به وصفة",
+          "rc": "tb",
+          "e": "رُؤْيَا رَأَى fe'lining maf'uli, عَجِيبَةً esa unga ergashgan sifat bo'lib tushning g'alati ekanini bildiradi.",
+          "uz": "g'alati tush"
+        }
+      ]
+    },
+    {
+      "ar": "رأى فِي الْمَنامِ سَبْعَ بَقَرَاتٍ سِمَانٍ.",
+      "tr": "U uyqusida yetti semiz sigirni ko'rdi.",
+      "parts": [
+        {
+          "w": "رأى فِي الْمَنامِ",
+          "r": "فعل وجار ومجرور",
+          "rc": "tf",
+          "e": "رأى fe'lining fo'ili oldingi podshohga qaytgan yashirin zamir, فِي الْمَنامِ esa ko'rish holati uyquda bo'lganini bildiradi.",
+          "uz": "uyqusida ko'rdi"
+        },
+        {
+          "w": "سَبْعَ بَقَرَاتٍ",
+          "r": "مفعول به عدد ومعدود",
+          "rc": "tb",
+          "e": "سَبْعَ بَقَرَاتٍ son va sanalmish tarkibi bo'lib, رَأَى fe'lining maf'uli vazifasida kelgan.",
+          "uz": "yetti sigirni"
+        },
+        {
+          "w": "سِمَانٍ",
+          "r": "صفة",
+          "rc": "ts",
+          "e": "سِمَانٍ بَقَرَاتٍning sifati bo'lib, kasra bilan majrur shaklda sanalmishga ergashgan.",
+          "uz": "semiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَأْكُلُ هَذِهِ البَقَرَاتِ سَبْعُ بَقَرَاتٍ عِجَافٍ.",
+      "tr": "Bu sigirlarni yetti ozg'in sigir yeyayotgan edi.",
+      "parts": [
+        {
+          "w": "وَيَأْكُلُ",
+          "r": "فعل مضارع",
+          "rc": "tf",
+          "e": "يَأْكُلُ mudore' fe'l bo'lib tushdagi davomli manzarani jonli tasvirlaydi; وَ oldingi ko'rilgan holatga ulaydi.",
+          "uz": "yeyapti"
+        },
+        {
+          "w": "هَذِهِ البَقَرَاتِ",
+          "r": "مفعول به مقدم",
+          "rc": "tb",
+          "e": "هَذِهِ البَقَرَاتِ maf'ul bih bo'lib fe'ldan keyin kelgan, ko'rsatilayotgan semiz sigirlarga qaytadi.",
+          "uz": "bu sigirlarni"
+        },
+        {
+          "w": "سَبْعُ بَقَرَاتٍ عِجَافٍ",
+          "r": "فاعل عدد ومعدود وصفة",
+          "rc": "tm",
+          "e": "سَبْعُ بَقَرَاتٍ fo'il vazifasida kelgan son-sanalmish tarkibi, عِجَافٍ esa ularning ozg'in sifatini bildiradi.",
+          "uz": "yetti ozg'in sigir"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَأَى المَلِكُ سَبْعَ سُنْبُلاتٍ خُضْرٍ وَسَبْعَ سُنْبُلَاتٍ يَابِسَاتٍ.",
+      "tr": "Podshoh yetti yashil boshoq va yetti quruq boshoqni ham ko'rdi.",
+      "parts": [
+        {
+          "w": "وَرَأَى المَلِكُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "رَأَى fe'li tushdagi ikkinchi manzarani kiritadi, المَلِكُ fo'il sifatida kelgan.",
+          "uz": "podshoh ko'rdi"
+        },
+        {
+          "w": "سَبْعَ سُنْبُلاتٍ خُضْرٍ",
+          "r": "مفعول به عدد ومعدود وصفة",
+          "rc": "tb",
+          "e": "سَبْعَ سُنْبُلاتٍ birinchi maf'ul tarkibi, خُضْرٍ esa boshoqlarning yashil sifatini bildiradi.",
+          "uz": "yetti yashil boshoq"
+        },
+        {
+          "w": "وَسَبْعَ سُنْبُلَاتٍ يَابِسَاتٍ",
+          "r": "معطوف على المفعول",
+          "rc": "tb",
+          "e": "Ikkinchi son-sanalmish tarkibi birinchisiga atf qilingan, يَابِسَاتٍ quruqlik sifatini bildiradi.",
+          "uz": "va yetti quruq boshoq"
+        }
+      ]
+    },
+    {
+      "ar": "تَعَجَّبَ الْمَلِكُ مِنْ هَذِهِ الرُّؤْيَا العَجِيبَةِ وَسَأَلَ جُلَسَاءَهُ عَنْ تَأْوِيلِ الرُّؤْيَا.",
+      "tr": "Podshoh bu g'alati tushdan ajablandi va majlis ahlidan uning ta'birini so'radi.",
+      "parts": [
+        {
+          "w": "تَعَجَّبَ الْمَلِكُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "تَعَجَّبَ ajablanish fe'li, الْمَلِكُ esa fo'il bo'lib tushdan ta'sirlangan shaxsni bildiradi.",
+          "uz": "podshoh ajablandi"
+        },
+        {
+          "w": "مِنْ هَذِهِ الرُّؤْيَا العَجِيبَةِ",
+          "r": "جار ومجرور متعلق بالفعل",
+          "rc": "tmt",
+          "e": "مِنْ tarkibi ajablanish sababini bildiradi; العَجِيبَةِ الرُّؤْيَاga sifat bo'lib ergashadi.",
+          "uz": "bu g'alati tushdan"
+        },
+        {
+          "w": "وَسَأَلَ جُلَسَاءَهُ عَنْ تَأْوِيلِ الرُّؤْيَا",
+          "r": "فعل معطوف ومفعول وجار ومجرور",
+          "rc": "tf",
+          "e": "سَأَلَ oldingi fe'lga atf qilingan; جُلَسَاءَهُ maf'ul, عَنْ تَأْوِيلِ الرُّؤْيَا esa so'ralgan mavzuni bildiradi.",
+          "uz": "majlis ahlidan tush ta'birini so'radi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: هَذَا لَيْسَ بِشَيْءٍ، النَّائِمُ يَرَى أَشْيَاءَ كَثِيرَةً لا حَقِيقَةَ لَهَا.",
+      "tr": "Ular dedilar: bu hech narsa emas, uxlagan odam haqiqatga ega bo'lmagan ko'p narsalarni ko'radi.",
+      "parts": [
+        {
+          "w": "قَالُوا",
+          "r": "فعل وفاعل واو الجماعة",
+          "rc": "tf",
+          "e": "قَالُوا majlisdagilarning javobini kiritadi; واو الجماعة fo'il vazifasida kelgan.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "هَذَا لَيْسَ بِشَيْءٍ",
+          "r": "مبتدأ وليس وخبرها",
+          "rc": "tm",
+          "e": "هَذَا mubtado sifatida tushga ishora qiladi; لَيْسَ inkor fe'li, بِشَيْءٍ esa ortiqcha ب bilan kuchaygan xabar.",
+          "uz": "bu hech narsa emas"
+        },
+        {
+          "w": "النَّائِمُ يَرَى أَشْيَاءَ كَثِيرَةً",
+          "r": "مبتدأ وخبر فعلي",
+          "rc": "tm",
+          "e": "النَّائِمُ mubtado, يَرَى jumlasi xabar; أَشْيَاءَ كَثِيرَةً ko'riladigan narsalarni bildiruvchi maf'ul va sifatdir.",
+          "uz": "uxlagan odam ko'p narsalarni ko'radi"
+        },
+        {
+          "w": "لا حَقِيقَةَ لَهَا",
+          "r": "لا النافية للجنس واسمها وخبرها",
+          "rc": "tb",
+          "e": "لا jinsni inkor qiluvchi harf, حَقِيقَةَ uning ismi, لَهَا esa xabari bo'lib bu ko'rilgan narsalarda haqiqat yo'qligini bildiradi.",
+          "uz": "ularning haqiqati yo'q"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنْ قَالَ السَّاقِي: لا، بَلْ أُخْبِرُكُمْ بِتَأْوِيلِ هَذِهِ الرُّؤْيَا.",
+      "tr": "Lekin soqi dedi: yo'q, balki men sizlarga bu tushning ta'birini xabar qilaman.",
+      "parts": [
+        {
+          "w": "وَلَكِنْ قَالَ السَّاقِي",
+          "r": "استدراك وفعل وفاعل",
+          "rc": "tf",
+          "e": "لَكِنْ oldingi rad javobidan istidrok qiladi, قَالَ fe'l, السَّاقِي esa fo'il bo'lib Yusufni eslagan kishini bildiradi.",
+          "uz": "lekin soqi dedi"
+        },
+        {
+          "w": "لا، بَلْ",
+          "r": "نفي وإضراب",
+          "rc": "tb",
+          "e": "لا oldingi fikrni rad etadi, بَلْ esa yangi va to'g'riroq bayonga o'tkazadi.",
+          "uz": "yo'q, balki"
+        },
+        {
+          "w": "أُخْبِرُكُمْ بِتَأْوِيلِ هَذِهِ الرُّؤْيَا",
+          "r": "فعل مضارع ومفعول وجار ومجرور",
+          "rc": "tf",
+          "e": "أُخْبِرُكُمْ mudore' fe'l, كُمْ maf'ul zamiri, بِتَأْوِيلِ tarkibi esa xabar qilinadigan mazmunni bildiradi.",
+          "uz": "sizlarga bu tushning ta'birini xabar qilaman"
+        }
+      ]
+    },
+    {
+      "ar": "وَذَهَبَ السَّاقِي إِلى السِّجْنِ وَسَأَلَ يُوسُفَ عَنْ تَأْوِيلِ رُؤْيَا الْمَلِكِ.",
+      "tr": "Soqi zindonga bordi va Yusufdan podshoh tushining ta'birini so'radi.",
+      "parts": [
+        {
+          "w": "وَذَهَبَ السَّاقِي إِلى السِّجْنِ",
+          "r": "فعل وفاعل وجار ومجرور",
+          "rc": "tf",
+          "e": "ذَهَبَ fe'li harakatni bildiradi, السَّاقِي fo'il, إِلى السِّجْنِ esa yo'nalish manzilini ko'rsatadi.",
+          "uz": "soqi zindonga bordi"
+        },
+        {
+          "w": "وَسَأَلَ يُوسُفَ",
+          "r": "فعل معطوف ومفعول به",
+          "rc": "tf",
+          "e": "سَأَلَ oldingi ذَهَبَga atf qilingan, يُوسُفَ esa so'ralgan shaxs sifatida maf'ul bih.",
+          "uz": "va Yusufdan so'radi"
+        },
+        {
+          "w": "عَنْ تَأْوِيلِ رُؤْيَا الْمَلِكِ",
+          "r": "جار ومجرور متعلق بسأل",
+          "rc": "tmt",
+          "e": "عَنْ tarkibi سَأَلَ fe'liga bog'lanib savol mavzusini bildiradi; رُؤْيَا الْمَلِكِ izofa orqali tush egasini aniqlaydi.",
+          "uz": "podshoh tushining ta'biri haqida"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ يُوسُفُ جَوَاداً كَرِيماً مُشْفِقاً عَلَى خَلْقِ اللَّهِ فَأَخْبَرَهُ بِالتَّأْوِيلِ.",
+      "tr": "Yusuf saxiy, oliyjanob va Allohning maxluqlariga mehribon edi, shuning uchun unga ta'birni xabar qildi.",
+      "parts": [
+        {
+          "w": "كَانَ يُوسُفُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "كَانَ noqis fe'l, يُوسُفُ uning ismi bo'lib keyingi sifatlar Yusufning holatini bayon qiladi.",
+          "uz": "Yusuf edi"
+        },
+        {
+          "w": "جَوَاداً كَرِيماً مُشْفِقاً",
+          "r": "أخبار كان متعددة",
+          "rc": "tx",
+          "e": "Uch mansub sifat كَانَning xabarlari bo'lib, Yusufning saxovat, karam va rahm-shafqatini ketma-ket tasvirlaydi.",
+          "uz": "saxiy, karim, mehribon"
+        },
+        {
+          "w": "عَلَى خَلْقِ اللَّهِ",
+          "r": "جار ومجرور متعلق بمشفق",
+          "rc": "tmt",
+          "e": "عَلَى خَلْقِ اللَّهِ مُشْفِقاً sifatiga bog'lanib, shafqat kimlarga qaratilganini ko'rsatadi.",
+          "uz": "Allohning maxluqlariga"
+        },
+        {
+          "w": "فَأَخْبَرَهُ بِالتَّأْوِيلِ",
+          "r": "فاء تفريع وفعل ومفعول",
+          "rc": "tf",
+          "e": "فَ natijani bildiradi; أَخْبَرَهُ fe'l va maf'ul zamiri, بِالتَّأْوِيلِ esa xabar mazmunini bildiradi.",
+          "uz": "unga ta'birni xabar qildi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ جَوَاداً كَرِيماً لا يَعْرِفُ البُخْلَ.",
+      "tr": "Yusuf saxiy va karim edi, baxillikni bilmas edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "وَكَانَ oldingi sifat bayonini davom ettiradi, يُوسُفُ ism كان vazifasida kelgan.",
+          "uz": "Yusuf edi"
+        },
+        {
+          "w": "جَوَاداً كَرِيماً",
+          "r": "خبران لكان",
+          "rc": "tx",
+          "e": "جَوَاداً va كَرِيماً mansub xabarlar bo'lib Yusufning axloqiy sifatlarini beradi.",
+          "uz": "saxiy va karim"
+        },
+        {
+          "w": "لا يَعْرِفُ البُخْلَ",
+          "r": "جملة حالية أو صفة",
+          "rc": "th",
+          "e": "لا يَعْرِفُ البُخْلَ jumlasi Yusufning saxovatini kuchaytiradi; البُخْلَ يَعْرِفُ fe'lining maf'uli.",
+          "uz": "baxillikni bilmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "فَأَخْبَرَ يُوسُفُ بِالتَّأْوِيلِ وَدَلَّ عَلَى التَّدْبِيرِ.",
+      "tr": "Yusuf ta'birni aytdi va tadbirga yo'l ko'rsatdi.",
+      "parts": [
+        {
+          "w": "فَأَخْبَرَ يُوسُفُ",
+          "r": "فاء تفريع وفعل وفاعل",
+          "rc": "tf",
+          "e": "فَ oldingi saxovat sababidan natijani chiqaradi, أَخْبَرَ fe'l, يُوسُفُ fo'il.",
+          "uz": "Yusuf xabar qildi"
+        },
+        {
+          "w": "بِالتَّأْوِيلِ",
+          "r": "جار ومجرور متعلق بأخبر",
+          "rc": "tmt",
+          "e": "بِالتَّأْوِيلِ xabar qilingan narsaning mazmunini bildiradi va أَخْبَرَ fe'liga bog'langan.",
+          "uz": "ta'birni"
+        },
+        {
+          "w": "وَدَلَّ عَلَى التَّدْبِيرِ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "دَلَّ fe'li أَخْبَرَga atf qilingan; عَلَى التَّدْبِيرِ esa qanday choraga yo'l ko'rsatilganini bildiradi.",
+          "uz": "va tadbirga yo'l ko'rsatdi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: تَزْرَعُونَ سَبْعَ سِنِينَ، وَاتْرُكُوا مَا حَصَدْتُمْ فِي سُنْبُلِهِ إِلَّا قَلِيلاً مِمَّا تَأْكُلُونَ.",
+      "tr": "Dedi: yetti yil ekasizlar; yegan ozgina narsangizdan boshqa o'rganingizni boshoqlarida qoldiringlar.",
+      "parts": [
+        {
+          "w": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ",
+          "r": "فعل قول ومقول القول",
+          "rc": "tf",
+          "e": "قَالَ ta'bir nutqini kiritadi; تَزْرَعُونَ muhotab jam' fe'li, سَبْعَ سِنِينَ esa muddatni bildiruvchi zarf.",
+          "uz": "dedi: yetti yil ekasizlar"
+        },
+        {
+          "w": "وَاتْرُكُوا مَا حَصَدْتُمْ",
+          "r": "فعل أمر ومفعول موصول",
+          "rc": "tf",
+          "e": "اتْرُكُوا buyruq fe'li, مَا حَصَدْتُمْ esa uning maf'uli bo'lgan mavsul tarkibdir.",
+          "uz": "o'rgan narsangizni qoldiringlar"
+        },
+        {
+          "w": "فِي سُنْبُلِهِ إِلَّا قَلِيلاً مِمَّا تَأْكُلُونَ",
+          "r": "جار ومجرور واستثناء",
+          "rc": "tmt",
+          "e": "فِي سُنْبُلِهِ qoldirish holatini bildiradi; إِلَّا قَلِيلاً istisno bo'lib, yeyiladigan oz miqdorni ajratadi.",
+          "uz": "boshoqlarida, faqat yeydigan ozgina narsadan tashqari"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَكُونُ بَعْدَ ذَلِكَ قَحْطٌ عَامٌّ تَأْكُلُونَ فِيهِ مَا خَزَنْتُمْ إِلَّا قَلِيلاً.",
+      "tr": "Shundan keyin umumiy qahatchilik bo'ladi; unda sizlar jamg'argan narsangizni yeysizlar, ozginasi bundan mustasno.",
+      "parts": [
+        {
+          "w": "وَيَكُونُ بَعْدَ ذَلِكَ",
+          "r": "فعل ناقص وظرف",
+          "rc": "tb",
+          "e": "يَكُونُ kelajakdagi holatni bildiradi, بَعْدَ ذَلِكَ esa qahatchilik yetti yildan keyin bo'lishini ko'rsatadi.",
+          "uz": "shundan keyin bo'ladi"
+        },
+        {
+          "w": "قَحْطٌ عَامٌّ",
+          "r": "اسم يكون وصفة",
+          "rc": "tm",
+          "e": "قَحْطٌ يَكُونُning ismi bo'lib, عَامٌّ sifati qahatchilik keng tarqalishini bildiradi.",
+          "uz": "umumiy qahatchilik"
+        },
+        {
+          "w": "تَأْكُلُونَ فِيهِ مَا خَزَنْتُمْ إِلَّا قَلِيلاً",
+          "r": "جملة صفة واستثناء",
+          "rc": "ts",
+          "e": "تَأْكُلُونَ jumlasi قَحْطٌ holatini tushuntiradi; فِيهِ zamiri qahatchilik davriga qaytadi, مَا خَزَنْتُمْ maf'ul, إِلَّا قَلِيلاً istisno.",
+          "uz": "unda jamg'arganingizni yeysizlar, ozginasi mustasno"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَطُولُ هَذَا القَحْطُ إِلَى سَبْعِ سِنِينَ.",
+      "tr": "Bu qahatchilik yetti yilgacha cho'ziladi.",
+      "parts": [
+        {
+          "w": "وَيَطُولُ",
+          "r": "فعل مضارع",
+          "rc": "tf",
+          "e": "يَطُولُ mudore' fe'l bo'lib qahatchilikning davomiyligini bildiradi.",
+          "uz": "cho'ziladi"
+        },
+        {
+          "w": "هَذَا القَحْطُ",
+          "r": "فاعل وبدل",
+          "rc": "tm",
+          "e": "هَذَا القَحْطُ fo'il vazifasida kelib, oldingi qahatchilikka ishora qiladi; القَحْطُ ishora olmoshini aniqlaydi.",
+          "uz": "bu qahatchilik"
+        },
+        {
+          "w": "إِلَى سَبْعِ سِنِينَ",
+          "r": "جار ومجرور للغاية",
+          "rc": "tmt",
+          "e": "إِلَى tarkibi muddat chegarasini bildiradi; سَبْعِ سِنِينَ son-sanalmish shaklida kelgan.",
+          "uz": "yetti yilgacha"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَعْدَ ذَلِكَ يَأْتِي النَّصْرُ وَيُخْصِبُ النَّاسُ.",
+      "tr": "Shundan keyin yordam keladi va odamlar farovonlikka chiqadi.",
+      "parts": [
+        {
+          "w": "وَبَعْدَ ذَلِكَ",
+          "r": "ظرف زمان مقدم",
+          "rc": "th",
+          "e": "بَعْدَ ذَلِكَ oldingi qahatchilik davridan keyingi bosqichni bildiruvchi zarfdir.",
+          "uz": "shundan keyin"
+        },
+        {
+          "w": "يَأْتِي النَّصْرُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "يَأْتِي fe'l, النَّصْرُ fo'il bo'lib qutulish va yordam kelishini bildiradi.",
+          "uz": "yordam keladi"
+        },
+        {
+          "w": "وَيُخْصِبُ النَّاسُ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "يُخْصِبُ oldingi يَأْتِيga atf qilingan; النَّاسُ fo'il bo'lib odamlarning mo'lchilikka chiqishini anglatadi.",
+          "uz": "odamlar farovonlashadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَذَهَبَ السَّاقِي وَأَخْبَرَ المَلِكَ بِتَأْوِيلِ رُؤْيَاهُ.",
+      "tr": "Soqi ketdi va podshohga tushining ta'birini xabar qildi.",
+      "parts": [
+        {
+          "w": "وَذَهَبَ السَّاقِي",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "ذَهَبَ fe'li harakatni bildiradi, السَّاقِي fo'il bo'lib zindondan podshoh huzuriga borayotgan kishini ko'rsatadi.",
+          "uz": "soqi ketdi"
+        },
+        {
+          "w": "وَأَخْبَرَ المَلِكَ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "أَخْبَرَ ذَهَبَga atf qilingan fe'l, المَلِكَ esa xabar yetkazilgan shaxs sifatida maf'uldir.",
+          "uz": "va podshohga xabar qildi"
+        },
+        {
+          "w": "بِتَأْوِيلِ رُؤْيَاهُ",
+          "r": "جار ومجرور ومضاف إليه",
+          "rc": "tmt",
+          "e": "بِتَأْوِيلِ tarkibi xabar mazmunini bildiradi, رُؤْيَاهُ izofasidagi هُ zamiri podshohga qaytadi.",
+          "uz": "uning tushining ta'birini"
+        }
+      ]
+    }
+  ]
+}

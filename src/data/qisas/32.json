@@ -1,0 +1,480 @@
+{
+  "title": "٣٣ ـ عَلَى خَزائِنِ الْأَرْضِ",
+  "tuz": "Yer xazinalari ustida",
+  "sub": "Yusuf omonat va ilm bilan Misr xazinalarini boshqaradi",
+  "page": 45,
+  "sentences": [
+    {
+      "ar": "وَكَانَ يُوسُفُ يَعْلَمُ أَنَّ الأَمَانَةَ قَلِيلَةٌ فِي النَّاسِ.",
+      "tr": "Yusuf odamlar orasida omonatdorlik kamligini bilardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ يَعْلَمُ",
+          "r": "كان واسمها وخبرها جملة فعلية",
+          "rc": "tb",
+          "e": "كَانَ davomiy o'tgan holatni bildiradi, يُوسُفُ ism كان, يَعْلَمُ esa xabar bo'lgan fe'liy jumla.",
+          "uz": "Yusuf bilardi"
+        },
+        {
+          "w": "أَنَّ الأَمَانَةَ قَلِيلَةٌ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi يَعْلَمُ fe'lining mazmuniy maf'uli; الأَمَانَةَ ism أن, قَلِيلَةٌ esa uning xabari.",
+          "uz": "omonatdorlik kamligini"
+        },
+        {
+          "w": "فِي النَّاسِ",
+          "r": "جار ومجرور متعلق بقليلة",
+          "rc": "tmt",
+          "e": "فِي النَّاسِ omonatdorlik kam ko'rinadigan doirani bildiradi.",
+          "uz": "odamlar orasida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَعْلَمُ أَنَّ الْخِيَانَةَ كَثِيرَةٌ فِي النَّاسِ.",
+      "tr": "Yusuf odamlar orasida xiyonat ko'pligini bilardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ يَعْلَمُ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "Takrorlangan كَانَ يُوسُفُ يَعْلَمُ Yusufning bu masalani doimiy anglab turganini bildiradi.",
+          "uz": "Yusuf bilardi"
+        },
+        {
+          "w": "أَنَّ الْخِيَانَةَ كَثِيرَةٌ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "الْخِيَانَةَ ism أن sifatida mansub, كَثِيرَةٌ esa xabar bo'lib xiyonatning ko'pligini bildiradi.",
+          "uz": "xiyonat ko'pligini"
+        },
+        {
+          "w": "فِي النَّاسِ",
+          "r": "جار ومجرور",
+          "rc": "tmt",
+          "e": "فِي النَّاسِ xiyonat ko'p uchraydigan ijtimoiy muhitni bildiradi.",
+          "uz": "odamlar orasida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَرَى أَنَّ النَّاسَ يَخُونُونَ فِي أَمْوَالِ اللَّهِ.",
+      "tr": "Yusuf odamlar Allohning mollari borasida xiyonat qilishlarini ko'rardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ يَرَى",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "يَرَى bu yerda bilish va kuzatish ma'nosida kelgan xabar fe'li; Yusufning ijtimoiy holatni ko'rib turganini bildiradi.",
+          "uz": "Yusuf ko'rardi"
+        },
+        {
+          "w": "أَنَّ النَّاسَ يَخُونُونَ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi يَرَى fe'lining mazmuniy maf'uli, النَّاسَ ism أن, يَخُونُونَ esa xabar jumlasi.",
+          "uz": "odamlar xiyonat qilishlarini"
+        },
+        {
+          "w": "فِي أَمْوَالِ اللَّهِ",
+          "r": "جار ومجرور متعلق بيخونون",
+          "rc": "tmt",
+          "e": "فِي أَمْوَالِ اللَّهِ xiyonat qaysi sohada bo'layotganini ko'rsatadi; izofa mol-mulk Allohniki ekanini eslatadi.",
+          "uz": "Allohning mollarida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَرَى أَنَّ فِي الْأَرْضِ خَزَائِنَ كَثِيرَةٌ ولكنها ضَائِعَةٌ.",
+      "tr": "U yerda ko'p xazinalar borligini, lekin ular zoye bo'layotganini ko'rardi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يَرَى",
+          "r": "كان وخبرها فعل",
+          "rc": "tb",
+          "e": "كَانَning ismi oldingi Yusufga qaytgan yashirin zamir, يَرَى esa xabar bo'lib uning kuzatuvini davom ettiradi.",
+          "uz": "u ko'rardi"
+        },
+        {
+          "w": "أَنَّ فِي الْأَرْضِ خَزَائِنَ كَثِيرَةٌ",
+          "r": "أن وخبر مقدم واسم مؤخر",
+          "rc": "tb",
+          "e": "فِي الْأَرْضِ oldingi xabar, خَزَائِنَ ism أن bo'lib mansub kelgan, كَثِيرَةٌ esa uning sifati.",
+          "uz": "yerda ko'p xazinalar borligini"
+        },
+        {
+          "w": "ولكنها ضَائِعَةٌ",
+          "r": "استدراك واسم وخبر",
+          "rc": "tb",
+          "e": "لَكِنَّ istidrok ma'nosida kelib oldingi ko'plikka qarshi ularning zoye bo'layotganini bildiradi; ها xazinalarga qaytadi.",
+          "uz": "lekin ular zoye bo'lgan"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّهَا ضَائِعَةٌ لأَنَّ الأمراء لا يَخَافُونَ اللَّهَ فيها.",
+      "tr": "Ular zoye bo'lgan, chunki amirlar bu xazinalarda Allohdan qo'rqmaydilar.",
+      "parts": [
+        {
+          "w": "إِنَّهَا ضَائِعَةٌ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid uchun kelgan, ها xazinalarga qaytgan ism إن, ضَائِعَةٌ esa xabar.",
+          "uz": "ular zoye bo'lgan"
+        },
+        {
+          "w": "لأَنَّ الأمراء لا يَخَافُونَ اللَّهَ",
+          "r": "تعليل وأن واسمها وخبرها",
+          "rc": "tb",
+          "e": "لِ sababni bildiradi; الأمراء ism أن, لا يَخَافُونَ اللَّهَ esa sabab mazmunidagi xabar jumlasi.",
+          "uz": "chunki amirlar Allohdan qo'rqmaydilar"
+        },
+        {
+          "w": "فيها",
+          "r": "جار ومجرور متعلق بالفعل",
+          "rc": "tmt",
+          "e": "فيها zamiri xazinalarga qaytadi va qo'rqmaslik aynan mol-mulk boshqaruvida ekanini bildiradi.",
+          "uz": "ularda"
+        }
+      ]
+    },
+    {
+      "ar": "فَتَأْكُلُ كِلابُهُمْ وَلَا يَجِدُ النَّاسُ مَا يَأْكُلُونَ.",
+      "tr": "Natijada ularning itlari yeydi, odamlar esa yeydigan narsa topolmaydi.",
+      "parts": [
+        {
+          "w": "فَتَأْكُلُ كِلابُهُمْ",
+          "r": "فاء تفريع وفعل وفاعل",
+          "rc": "tf",
+          "e": "فَ oldingi xiyonatning natijasini bildiradi; كِلابُهُمْ تَأْكُلُ fe'lining fo'ili bo'lib nohaq isrof manzarasini beradi.",
+          "uz": "ularning itlari yeydi"
+        },
+        {
+          "w": "وَلَا يَجِدُ النَّاسُ",
+          "r": "فعل منفي وفاعل",
+          "rc": "tf",
+          "e": "لا يَجِدُ inkor qilingan fe'l, النَّاسُ fo'il; umum xalqning mahrumligini ko'rsatadi.",
+          "uz": "odamlar topolmaydi"
+        },
+        {
+          "w": "مَا يَأْكُلُونَ",
+          "r": "مفعول به وجملة صلة",
+          "rc": "tb",
+          "e": "مَا yegulik narsani bildiruvchi mavsul ism, يَأْكُلُونَ esa uni aniqlovchi sila jumlasidir.",
+          "uz": "yeydigan narsa"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَلْبَسُ بُيُوتُهُمْ وَلَا يَجِدُ النَّاسُ مَا يَلْبَسُونَ.",
+      "tr": "Ularning uylari kiyimga to'ladi, odamlar esa kiyadigan narsa topolmaydi.",
+      "parts": [
+        {
+          "w": "وَتَلْبَسُ بُيُوتُهُمْ",
+          "r": "فعل وفاعل مجازي",
+          "rc": "tf",
+          "e": "تَلْبَسُ bu yerda majoziy tasvir bo'lib, بُيُوتُهُمْ fo'il sifatida boylik va kiyimlarning uylarida jamlanishini bildiradi.",
+          "uz": "ularning uylari kiyadi"
+        },
+        {
+          "w": "وَلَا يَجِدُ النَّاسُ",
+          "r": "فعل منفي وفاعل",
+          "rc": "tf",
+          "e": "وَ qarama-qarshi holatni ulaydi; لا يَجِدُ النَّاسُ xalqning ehtiyoj ichida qolganini bildiradi.",
+          "uz": "odamlar topolmaydi"
+        },
+        {
+          "w": "مَا يَلْبَسُونَ",
+          "r": "مفعول به وجملة صلة",
+          "rc": "tb",
+          "e": "مَا kiyiladigan narsani bildiradi, يَلْبَسُونَ esa uning sila jumlasi.",
+          "uz": "kiyadigan narsa"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَا يَنْفَعُ النَّاسَ بِخَزَائِنِ الْأَرْضِ إِلَّا مَنْ كَانَ حَفِيظاً عَلِيماً.",
+      "tr": "Yer xazinalari bilan odamlarga faqat saqlovchi va bilimli kishi foyda beradi.",
+      "parts": [
+        {
+          "w": "وَلَا يَنْفَعُ النَّاسَ",
+          "r": "فعل منفي ومفعول مقدم",
+          "rc": "tf",
+          "e": "لا يَنْفَعُ inkor qilingan fe'l, النَّاسَ esa foyda yetadigan tomon sifatida maf'ul bih.",
+          "uz": "odamlarga foyda bermaydi"
+        },
+        {
+          "w": "بِخَزَائِنِ الْأَرْضِ",
+          "r": "جار ومجرور متعلق بينفع",
+          "rc": "tmt",
+          "e": "بِخَزَائِنِ الْأَرْضِ foyda berish vositasini bildiradi; الْأَرْضِ izofada xazinalar sohasini aniqlaydi.",
+          "uz": "yer xazinalari bilan"
+        },
+        {
+          "w": "إِلَّا مَنْ كَانَ حَفِيظاً عَلِيماً",
+          "r": "استثناء واسم موصول وكان",
+          "rc": "tb",
+          "e": "إِلَّا istisno vositasi, مَنْ esa istisno qilingan shaxs; كَانَ حَفِيظاً عَلِيماً bu shaxsda saqlovchanlik va ilm jam bo'lishi shartligini bildiradi.",
+          "uz": "faqat saqlovchi va bilimli kishi"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَنْ كَانَ حَفِيظاً وَمَا كَانَ عَلِيماً لَا يَعْلَمُ أَيْنَ خَزَائِنُ الْأَرْضِ وَكَيْفَ يَنْتَفِعُ بِهَا.",
+      "tr": "Kim saqlovchi bo'lib, bilimli bo'lmasa, yer xazinalari qayerda va ulardan qanday foydalanishni bilmaydi.",
+      "parts": [
+        {
+          "w": "وَمَنْ كَانَ حَفِيظاً",
+          "r": "اسم شرط وكان وخبرها",
+          "rc": "tb",
+          "e": "مَنْ shart ma'nosidagi ism, كَانَ noqis fe'l, حَفِيظاً esa birinchi sifat sifatida xabar.",
+          "uz": "kim saqlovchi bo'lsa"
+        },
+        {
+          "w": "وَمَا كَانَ عَلِيماً",
+          "r": "نفي معطوف",
+          "rc": "tb",
+          "e": "مَا كَانَ عَلِيماً oldingi sifatga qarama-qarshi holda ilmning yo'qligini bildiradi.",
+          "uz": "bilimli bo'lmasa"
+        },
+        {
+          "w": "لَا يَعْلَمُ أَيْنَ خَزَائِنُ الْأَرْضِ",
+          "r": "جواب الشرط واستفهام معلق",
+          "rc": "tf",
+          "e": "لا يَعْلَمُ shart natijasi, أَيْنَ خَزَائِنُ الْأَرْضِ esa bilish fe'liga muallaq bo'lgan so'roq jumla.",
+          "uz": "yer xazinalari qayerdaligini bilmaydi"
+        },
+        {
+          "w": "وَكَيْفَ يَنْتَفِعُ بِهَا",
+          "r": "معطوف على الاستفهام المعلق",
+          "rc": "tb",
+          "e": "كَيْفَ ikkinchi muallaq so'roq bo'lib, بِهَا zamiri xazinalarga qaytadi va ulardan foydalanish usulini bildiradi.",
+          "uz": "va ulardan qanday foydalanishni"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَنْ كَانَ عَلِيماً وَمَا كَانَ حَفِيظاً يَأْكُلُ مِنْهَا وَيَخُونُ فيها.",
+      "tr": "Kim bilimli bo'lib, saqlovchi bo'lmasa, ulardan yeydi va ularda xiyonat qiladi.",
+      "parts": [
+        {
+          "w": "وَمَنْ كَانَ عَلِيماً",
+          "r": "اسم شرط وكان وخبرها",
+          "rc": "tb",
+          "e": "مَنْ shart ismi, كَانَ noqis fe'l, عَلِيماً esa ilm sifatini bildiruvchi xabar.",
+          "uz": "kim bilimli bo'lsa"
+        },
+        {
+          "w": "وَمَا كَانَ حَفِيظاً",
+          "r": "نفي معطوف",
+          "rc": "tb",
+          "e": "مَا كَانَ حَفِيظاً saqlovchanlikning yo'qligini bildiradi va oldingi ilm sifatini yetarli emas qilib ko'rsatadi.",
+          "uz": "saqlovchi bo'lmasa"
+        },
+        {
+          "w": "يَأْكُلُ مِنْهَا",
+          "r": "جواب الشرط وفعل ومتعلق",
+          "rc": "tf",
+          "e": "يَأْكُلُ shart javobi bo'lib xiyonatning bir ko'rinishini bildiradi; مِنْهَا zamiri xazinalarga qaytadi.",
+          "uz": "ulardan yeydi"
+        },
+        {
+          "w": "وَيَخُونُ فيها",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "يَخُونُ oldingi fe'lga atf qilingan; فيها xiyonat qaysi sohada ekanini ko'rsatadi.",
+          "uz": "va ularda xiyonat qiladi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ حَفِيظاً عَلِيماً.",
+      "tr": "Yusuf saqlovchi va bilimli edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "كَانَ Yusufning doimiy sifatini bayon qiladi, يُوسُفُ esa ism كان.",
+          "uz": "Yusuf edi"
+        },
+        {
+          "w": "حَفِيظاً عَلِيماً",
+          "r": "خبران لكان",
+          "rc": "tx",
+          "e": "حَفِيظاً va عَلِيماً mansub xabarlar bo'lib, oldingi shartda talab qilingan ikki sifat Yusufda jam bo'lganini bildiradi.",
+          "uz": "saqlovchi va bilimli"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ لا يُرِيدُ أَنْ يَتْرُكَ الأَمَرَاءَ يَأْكُلُونَ أَمْوَالَ النَّاسِ.",
+      "tr": "Yusuf amirlarni odamlarning mollarini yeyishga tashlab qo'yishni istamas edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ لا يُرِيدُ",
+          "r": "كان واسمها وخبرها منفي",
+          "rc": "tb",
+          "e": "لا يُرِيدُ كَانَning xabari bo'lib Yusufning istamasligini bildiradi.",
+          "uz": "Yusuf istamas edi"
+        },
+        {
+          "w": "أَنْ يَتْرُكَ الأَمَرَاءَ",
+          "r": "مصدر مؤول ومفعول",
+          "rc": "tb",
+          "e": "أَنْ يَتْرُكَ masdar muavval bo'lib يُرِيدُning maf'uli; الأَمَرَاءَ esa يَتْرُكَ fe'lining maf'uli.",
+          "uz": "amirlarni tashlab qo'yishni"
+        },
+        {
+          "w": "يَأْكُلُونَ أَمْوَالَ النَّاسِ",
+          "r": "جملة حالية أو مفعول ثان",
+          "rc": "th",
+          "e": "يَأْكُلُونَ jumlasi amirlarning qanday holatda tashlab qo'yilishini bildiradi; أَمْوَالَ النَّاسِ yeyilayotgan mol sifatida maf'ul.",
+          "uz": "odamlarning mollarini yeyishlarini"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ لا يَقْدِرُ أَنْ يَرَى النَّاسَ يَجُوعُونَ وَيَمُوتُونَ.",
+      "tr": "Yusuf odamlarning och qolib, o'lib ketishini ko'rishga chiday olmas edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ لا يَقْدِرُ",
+          "r": "كان واسمها وخبرها منفي",
+          "rc": "tb",
+          "e": "لا يَقْدِرُ كَانَning xabar jumlasi bo'lib Yusufning bunday manzaraga chiday olmasligini bildiradi.",
+          "uz": "Yusuf qodir emas edi"
+        },
+        {
+          "w": "أَنْ يَرَى النَّاسَ",
+          "r": "مصدر مؤول ومفعول",
+          "rc": "tb",
+          "e": "أَنْ يَرَى masdar muavval bo'lib لا يَقْدِرُga bog'langan; النَّاسَ ko'riladigan shaxslar sifatida maf'ul.",
+          "uz": "odamlarni ko'rishga"
+        },
+        {
+          "w": "يَجُوعُونَ وَيَمُوتُونَ",
+          "r": "حالان أو جملة حالية",
+          "rc": "th",
+          "e": "Ikki mudore' fe'l النَّاسَning holini bildiradi: ular och qolayotgan va o'layotgan holatda tasvirlanadi.",
+          "uz": "och qolib va o'lib ketishlarini"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ لَا يَسْتَحِي مِنَ الحَقِّ.",
+      "tr": "Yusuf haqdan uyalmaydigan edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "كَانَ Yusufning axloqiy sifatini bayon qilish uchun kelgan, يُوسُفُ ism كان.",
+          "uz": "Yusuf edi"
+        },
+        {
+          "w": "لَا يَسْتَحِي مِنَ الحَقِّ",
+          "r": "خبر كان جملة فعلية منفية",
+          "rc": "tx",
+          "e": "لا يَسْتَحِي inkor qilingan fe'liy xabar, مِنَ الحَقِّ esa uyalmaydigan narsa emas, balki haqiqatni ochiq aytish sohasi sifatida kelgan.",
+          "uz": "haqdan uyalmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالَ لِلْمَلِكِ:",
+      "tr": "Shuning uchun podshohga dedi:",
+      "parts": [
+        {
+          "w": "فَقَالَ",
+          "r": "فاء تفريع وفعل",
+          "rc": "tf",
+          "e": "فَ oldingi sifat va zaruratlardan natija chiqaradi; قَالَ Yusufning podshohga aytgan so'zini kiritadi.",
+          "uz": "shuning uchun dedi"
+        },
+        {
+          "w": "لِلْمَلِكِ",
+          "r": "جار ومجرور متعلق بقال",
+          "rc": "tmt",
+          "e": "لِلْمَلِكِ gap kimga qaratilganini bildiradi.",
+          "uz": "podshohga"
+        }
+      ]
+    },
+    {
+      "ar": "﴿اجْعَلْنِي عَلَى خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ﴾.",
+      "tr": "«Meni yer xazinalari ustiga qo'ying. Albatta men saqlovchi va bilimdonman».",
+      "parts": [
+        {
+          "w": "اجْعَلْنِي",
+          "r": "فعل أمر ومفعول",
+          "rc": "tf",
+          "e": "اجْعَلْ buyruq fe'li, نِي esa Yusufga qaytgan maf'ul zamiri; bu yerda mansabga tayinlashni so'raydi.",
+          "uz": "meni qo'ying"
+        },
+        {
+          "w": "عَلَى خَزَائِنِ الْأَرْضِ",
+          "r": "جار ومجرور متعلق باجعل",
+          "rc": "tmt",
+          "e": "عَلَى tarkibi boshqaruv va mas'uliyat ustida turishni bildiradi; خَزَائِنِ الْأَرْضِ izofasi moliyaviy zaxiralarni anglatadi.",
+          "uz": "yer xazinalari ustiga"
+        },
+        {
+          "w": "إِنِّي حَفِيظٌ عَلِيمٌ",
+          "r": "إن واسمها وخبران",
+          "rc": "tb",
+          "e": "إِنِّي Yusufning o'z malakasini ta'kidlaydi; حَفِيظٌ va عَلِيمٌ xabarlar bo'lib, omonat va bilim sifatlari tayinlov sababini ko'rsatadi.",
+          "uz": "albatta men saqlovchi va bilimdonman"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَكَذَا كَانَ يُوسُفُ أَمِيناً لِخَزَائِنِ مِصْرَ.",
+      "tr": "Shunday qilib Yusuf Misr xazinalariga ishonchli boshqaruvchi bo'ldi.",
+      "parts": [
+        {
+          "w": "وَهَكَذَا",
+          "r": "اسم إشارة للحال",
+          "rc": "tb",
+          "e": "هَكَذَا oldingi voqealardan kelib chiqqan natija tarzini bildiradi.",
+          "uz": "shunday qilib"
+        },
+        {
+          "w": "كَانَ يُوسُفُ أَمِيناً",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "كَانَ noqis fe'l, يُوسُفُ ism كان, أَمِيناً esa xabar bo'lib Yusufning vazifasidagi ishonchliligini bildiradi.",
+          "uz": "Yusuf ishonchli bo'ldi"
+        },
+        {
+          "w": "لِخَزَائِنِ مِصْرَ",
+          "r": "جار ومجرور متعلق بأمين",
+          "rc": "tmt",
+          "e": "لِخَزَائِنِ مِصْرَ Yusufning ishonchli boshqaruvi qaysi xazinalarga tegishli ekanini bildiradi.",
+          "uz": "Misr xazinalariga"
+        }
+      ]
+    },
+    {
+      "ar": "واسْتَرَاحَ النَّاسُ جِدًّا وَحَمِدُوا اللَّهَ.",
+      "tr": "Odamlar juda rohat topdilar va Allohga hamd aytdilar.",
+      "parts": [
+        {
+          "w": "واسْتَرَاحَ النَّاسُ جِدًّا",
+          "r": "فعل وفاعل وحال",
+          "rc": "tf",
+          "e": "اسْتَرَاحَ fe'li odamlarning yengillik va xotirjamlik topganini bildiradi, النَّاسُ fo'il, جِدًّا esa darajani kuchaytiradi.",
+          "uz": "odamlar juda rohat topdilar"
+        },
+        {
+          "w": "وَحَمِدُوا اللَّهَ",
+          "r": "فعل معطوف وفاعل ومفعول",
+          "rc": "tf",
+          "e": "حَمِدُوا oldingi fe'lga atf qilingan; واو الجماعة fo'il, اللَّهَ esa hamd aytilgan Zot sifatida maf'ul.",
+          "uz": "va Allohga hamd aytdilar"
+        }
+      ]
+    }
+  ]
+}

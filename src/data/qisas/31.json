@@ -1,0 +1,286 @@
+{
+  "title": "٣٢ ـ يُوسُفُ يَسْأَلُ التَّفْتِيشَ",
+  "tuz": "Yusuf tekshiruv so'raydi",
+  "sub": "Yusuf zindondan pokligi aniqlanmasdan chiqishni istamaydi",
+  "page": 44,
+  "sentences": [
+    {
+      "ar": "وَلَمَّا جَاءَ الرَّسُولُ إِلى يُوسُفَ وَقَالَ لَهُ إِنَّ الْمَلِكَ يَدْعُوكَ!",
+      "tr": "Elchi Yusufning oldiga kelib: Albatta podshoh seni chaqiryapti, — deganida...",
+      "parts": [
+        {
+          "w": "وَلَمَّا جَاءَ الرَّسُولُ",
+          "r": "ظرف شرط وفعل وفاعل",
+          "rc": "tb",
+          "e": "لَمَّا vaqt-shart ma'nosini beradi; جَاءَ fe'li kelishni bildiradi, الرَّسُولُ esa podshoh yuborgan elchi sifatida fo'ildir.",
+          "uz": "elchi kelganida"
+        },
+        {
+          "w": "إِلى يُوسُفَ",
+          "r": "جار ومجرور متعلق بجاء",
+          "rc": "tmt",
+          "e": "إِلى يُوسُفَ tarkibi جَاءَ fe'liga bog'lanib elchining borish manzilini ko'rsatadi.",
+          "uz": "Yusufning oldiga"
+        },
+        {
+          "w": "وَقَالَ لَهُ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "قَالَ fe'li جَاءَga atf qilingan; لَهُ zamiri Yusufga qaytib gap kimga aytilganini bildiradi.",
+          "uz": "va unga dedi"
+        },
+        {
+          "w": "إِنَّ الْمَلِكَ يَدْعُوكَ",
+          "r": "إن واسمها وخبرها جملة فعلية",
+          "rc": "tb",
+          "e": "إِنَّ xabarni ta'kidlaydi, الْمَلِكَ uning ismi, يَدْعُوكَ esa xabari bo'lgan fe'liy jumla; كَ zamiri Yusufga qaytadi.",
+          "uz": "podshoh seni chaqiryapti"
+        }
+      ]
+    },
+    {
+      "ar": "مَا رَضِيَ يُوسُفُ أَنْ يَخْرُجَ مِنَ السِّجْنِ هَكَذَا، وَيَقُولُ النَّاسُ هَذَا يُوسُفُ! هَذَا كَانَ أَمْسِ فِي السِّجْنِ، إِنَّهُ خَانَ العزيز.",
+      "tr": "Yusuf zindondan shunday chiqishga rozi bo'lmadi, odamlar: Bu Yusuf-ku! Kecha zindonda edi, u Azizga xiyonat qilgan, — deyishlarini istamadi.",
+      "parts": [
+        {
+          "w": "مَا رَضِيَ يُوسُفُ",
+          "r": "نفي وفعل وفاعل",
+          "rc": "tf",
+          "e": "مَا inkor harfi, رَضِيَ o'tgan zamon fe'li, يُوسُفُ esa fo'il; Yusufning bunday chiqishga rozi emasligi bayon qilinadi.",
+          "uz": "Yusuf rozi bo'lmadi"
+        },
+        {
+          "w": "أَنْ يَخْرُجَ مِنَ السِّجْنِ هَكَذَا",
+          "r": "مصدر مؤول ومتممات",
+          "rc": "tb",
+          "e": "أَنْ يَخْرُجَ masdar muavval bo'lib رَضِيَ fe'lining mazmuniy to'ldiruvchisi; مِنَ السِّجْنِ chiqish joyini, هَكَذَا esa chiqish tarzini bildiradi.",
+          "uz": "zindondan shunday chiqishga"
+        },
+        {
+          "w": "وَيَقُولُ النَّاسُ",
+          "r": "واو حالية وفعل وفاعل",
+          "rc": "tf",
+          "e": "وَ bu yerda hol yoki natija ma'nosida; يَقُولُ fe'li, النَّاسُ fo'il bo'lib odamlarning gap-so'zini keltiradi.",
+          "uz": "odamlar deyishsa"
+        },
+        {
+          "w": "هَذَا يُوسُفُ",
+          "r": "جملة اسمية مقول القول",
+          "rc": "tm",
+          "e": "هَذَا mubtado, يُوسُفُ xabar bo'lib odamlar og'zidagi tanish-isbot jumlasi sifatida kelgan.",
+          "uz": "bu Yusuf"
+        },
+        {
+          "w": "هَذَا كَانَ أَمْسِ فِي السِّجْنِ",
+          "r": "مبتدأ وكان وخبرها",
+          "rc": "tm",
+          "e": "هَذَا mubtado, كَانَ fe'li oldingi holatni bildiradi; أَمْسِ vaqt zarfidir, فِي السِّجْنِ esa joy xabari.",
+          "uz": "bu kecha zindonda edi"
+        },
+        {
+          "w": "إِنَّهُ خَانَ العزيز",
+          "r": "إن واسمها وخبرها جملة فعلية",
+          "rc": "tb",
+          "e": "إِنَّهُ ta'kidli gap boshlaydi, هُ Yusufga qaytgan ism إن; خَانَ العزيز fe'liy jumlasi ayblov mazmunidagi xabardir.",
+          "uz": "u Azizga xiyonat qilgan"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ يُوسفَ كَانَ كَبِيرَ النَّفْسِ أَبِيًّا، إِنَّ يُوسُفَ كَانَ كَبِيرَ العَقْلِ ذَكِيًّا.",
+      "tr": "Albatta Yusuf oliy himmatli, izzatli edi; albatta Yusuf katta aql egasi va ziyrak edi.",
+      "parts": [
+        {
+          "w": "إِنَّ يُوسفَ",
+          "r": "حرف توكيد ونصب واسم إن",
+          "rc": "tb",
+          "e": "إِنَّ hukmni ta'kidlaydi, يُوسفَ uning ismi bo'lib mansub kelgan.",
+          "uz": "albatta Yusuf"
+        },
+        {
+          "w": "كَانَ كَبِيرَ النَّفْسِ أَبِيًّا",
+          "r": "كان وخبران",
+          "rc": "tx",
+          "e": "كَانَ إِنَّning xabari ichidagi noqis fe'l; كَبِيرَ النَّفْسِ va أَبِيًّا Yusufning ulug' himmati va pastlikka rozi bo'lmasligini bildiruvchi xabarlar.",
+          "uz": "oliy himmatli va izzatli edi"
+        },
+        {
+          "w": "إِنَّ يُوسُفَ كَانَ كَبِيرَ العَقْلِ ذَكِيًّا",
+          "r": "جملة مؤكدة ثانية",
+          "rc": "tb",
+          "e": "Ikkinchi إِنَّ jumlasi birinchi ma'noni davom ettirib, كَبِيرَ العَقْلِ va ذَكِيًّا orqali Yusufning aqliy yetukligini ta'kidlaydi.",
+          "uz": "Yusuf katta aql egasi va ziyrak edi"
+        }
+      ]
+    },
+    {
+      "ar": "لَوْ كَانَ أَحَدٌ مَكانَ يُوسُفَ فِي السِّجْنِ وَجَاءَهُ رَسُولُ المَلِك، وَقَالَ لَهُ رَسُولُ المَلِكُ إِنَّ المَلِكُ يَدْعُوكَ وَيَنْتَظِرُكَ لأَسْرَعَ هَذَا الرَّجُلُ إِلى بَابِ السِّجْنِ وَخَرَجَ.",
+      "tr": "Agar Yusufning o'rnida zindonda boshqa bir kishi bo'lsa, podshoh elchisi kelib: podshoh seni chaqiryapti va kutyapti, — desa, u kishi zindon eshigiga shoshilib borib chiqib ketardi.",
+      "parts": [
+        {
+          "w": "لَوْ كَانَ أَحَدٌ مَكانَ يُوسُفَ فِي السِّجْنِ",
+          "r": "شرط غير جازم وكان واسمها وخبرها",
+          "rc": "tb",
+          "e": "لَوْ faraziy shartni bildiradi; كَانَ noqis fe'l, أَحَدٌ uning ismi, مَكانَ يُوسُفَ va فِي السِّجْنِ esa holat va joyni ko'rsatadi.",
+          "uz": "agar zindonda Yusufning o'rnida bir kishi bo'lsa"
+        },
+        {
+          "w": "وَجَاءَهُ رَسُولُ المَلِك",
+          "r": "فعل معطوف ومفعول وفاعل",
+          "rc": "tf",
+          "e": "جَاءَهُ shart ichidagi ikkinchi fe'l, هُ o'sha kishiga qaytadi, رَسُولُ المَلِك esa fo'il.",
+          "uz": "podshoh elchisi uning oldiga kelsa"
+        },
+        {
+          "w": "وَقَالَ لَهُ رَسُولُ المَلِكُ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "قَالَ shart voqealariga atf qilingan, لَهُ gap kimga aytilganini bildiradi, رَسُولُ المَلِكُ fo'il sifatida takrorlangan.",
+          "uz": "elchi unga desa"
+        },
+        {
+          "w": "إِنَّ المَلِكُ يَدْعُوكَ وَيَنْتَظِرُكَ",
+          "r": "إن واسمها وخبران فعليان",
+          "rc": "tb",
+          "e": "إِنَّ xabarni ta'kidlaydi; المَلِكُ ism إن, يَدْعُوكَ va يَنْتَظِرُكَ esa unga bog'langan ikki fe'liy xabar.",
+          "uz": "podshoh seni chaqiryapti va kutyapti"
+        },
+        {
+          "w": "لأَسْرَعَ هَذَا الرَّجُلُ",
+          "r": "جواب لو وفاعل",
+          "rc": "tf",
+          "e": "لام javobni kiritadi; أَسْرَعَ fe'li faraziy natijani bildiradi, هَذَا الرَّجُلُ esa fo'il.",
+          "uz": "bu kishi shoshilgan bo'lardi"
+        },
+        {
+          "w": "إِلى بَابِ السِّجْنِ وَخَرَجَ",
+          "r": "جار ومجرور وفعل معطوف",
+          "rc": "tmt",
+          "e": "إِلى بَابِ السِّجْنِ shoshilish yo'nalishini bildiradi; وَخَرَجَ esa natijadagi chiqib ketish fe'lidir.",
+          "uz": "zindon eshigiga va chiqib ketardi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكنَّ يُوسُفَ لَمْ يُسْرِعْ.",
+      "tr": "Lekin Yusuf shoshilmadi.",
+      "parts": [
+        {
+          "w": "وَلَكنَّ يُوسُفَ",
+          "r": "استدراك واسم لكن",
+          "rc": "tb",
+          "e": "لَكِنَّ faraziy kishi holatidan Yusufning haqiqiy holatiga o'tkazadi, يُوسُفَ uning ismi.",
+          "uz": "lekin Yusuf"
+        },
+        {
+          "w": "لَمْ يُسْرِعْ",
+          "r": "خبر لكن جملة فعلية منفية",
+          "rc": "tx",
+          "e": "لَمْ mudore' fe'lni jazm qilib o'tgan zamon inkorini bildiradi; يُسْرِعْ Yusuf shoshilmaganini xabar qiladi.",
+          "uz": "shoshilmadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ يُوسُفَ لَمْ يَسْتَعْجِلْ.",
+      "tr": "Lekin Yusuf hovliqib shoshilmadi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ يُوسُفَ",
+          "r": "حرف استدراك واسم لكن",
+          "rc": "tb",
+          "e": "Takrorlangan لَكِنَّ Yusufning vazminligini yanada ta'kidlaydi; يُوسُفَ ism لكن sifatida kelgan.",
+          "uz": "lekin Yusuf"
+        },
+        {
+          "w": "لَمْ يَسْتَعْجِلْ",
+          "r": "خبر لكن جملة فعلية منفية",
+          "rc": "tx",
+          "e": "يَسْتَعْجِلْ istif'ol vaznidagi fe'l bo'lib, لَمْ bilan inkor va jazm qilingan; ma'noda shoshqaloqlikni rad etadi.",
+          "uz": "shoshilmadi"
+        }
+      ]
+    },
+    {
+      "ar": "بَلْ قَالَ لِرَسُولِ الملك: أَنَا أُرِيدُ التَّفْتِيشَ أَنَا أُرِيدُ البَحْثَ عَنْ قَضِيَّتي.",
+      "tr": "Balki podshoh elchisiga dedi: Men tekshiruvni istayman, men ishim haqida tadqiqni istayman.",
+      "parts": [
+        {
+          "w": "بَلْ قَالَ لِرَسُولِ الملك",
+          "r": "إضراب وفعل وجار ومجرور",
+          "rc": "tf",
+          "e": "بَلْ oldingi kutilgan harakatni rad etib Yusufning asl javobiga o'tkazadi; قَالَ fe'l, لِرَسُولِ الملك esa so'z kimga aytilganini bildiradi.",
+          "uz": "balki podshoh elchisiga dedi"
+        },
+        {
+          "w": "أَنَا أُرِيدُ التَّفْتِيشَ",
+          "r": "مبتدأ وخبر فعلي ومفعول",
+          "rc": "tm",
+          "e": "أَنَا mubtado bo'lib shaxsni ta'kidlaydi; أُرِيدُ fe'liy xabar, التَّفْتِيشَ esa talab qilingan narsani bildiruvchi maf'ul.",
+          "uz": "men tekshiruvni istayman"
+        },
+        {
+          "w": "أَنَا أُرِيدُ البَحْثَ عَنْ قَضِيَّتي",
+          "r": "جملة مؤكدة ومفعول ومتعلق",
+          "rc": "tm",
+          "e": "Ikkinchi أَنَا أُرِيدُ takrori qat'iyatni bildiradi; البَحْثَ maf'ul, عَنْ قَضِيَّتي esa tadqiq qilinadigan masalani ko'rsatadi.",
+          "uz": "men ishim haqida tadqiqni istayman"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَأَلَ المَلِكُ عَنْ يُوسُفَ وَعَلِمَ الْمَلِكُ وَعَلِمَ النَّاسُ أَنَّ يُوسُفَ بَرِيءٌ.",
+      "tr": "Podshoh Yusuf haqida so'radi, podshoh ham, odamlar ham Yusufning pok ekanini bildilar.",
+      "parts": [
+        {
+          "w": "وَسَأَلَ المَلِكُ عَنْ يُوسُفَ",
+          "r": "فعل وفاعل وجار ومجرور",
+          "rc": "tf",
+          "e": "سَأَلَ fe'li tergov-so'rovni bildiradi, المَلِكُ fo'il, عَنْ يُوسُفَ esa so'rov mavzusi.",
+          "uz": "podshoh Yusuf haqida so'radi"
+        },
+        {
+          "w": "وَعَلِمَ الْمَلِكُ وَعَلِمَ النَّاسُ",
+          "r": "فعلان معطوفان وفاعلان",
+          "rc": "tf",
+          "e": "عَلِمَ ikki marta kelib, bilish avval podshohga, keyin odamlarga yoyilganini ko'rsatadi.",
+          "uz": "podshoh bildi va odamlar bildi"
+        },
+        {
+          "w": "أَنَّ يُوسُفَ بَرِيءٌ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi عَلِمَ fe'lining mazmuniy maf'uli; يُوسُفَ ism أن, بَرِيءٌ esa uning xabari bo'lib Yusufning aybsizligini bildiradi.",
+          "uz": "Yusuf begunoh ekanini"
+        }
+      ]
+    },
+    {
+      "ar": "وَخَرَجَ يُوسُفُ بَرِيئاً وأَكْرَمَهُ المَلِكُ.",
+      "tr": "Yusuf begunoh holda chiqdi va podshoh uni izzat qildi.",
+      "parts": [
+        {
+          "w": "وَخَرَجَ يُوسُفُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "خَرَجَ zindondan chiqish fe'li, يُوسُفُ esa fo'il bo'lib chiqish endi poklik bilan amalga oshganini bildiradi.",
+          "uz": "Yusuf chiqdi"
+        },
+        {
+          "w": "بَرِيئاً",
+          "r": "حال",
+          "rc": "th",
+          "e": "بَرِيئاً hol bo'lib Yusuf zindondan qanday holatda chiqqanini, ya'ni aybsizligi tasdiqlangan holda chiqqanini bildiradi.",
+          "uz": "begunoh holda"
+        },
+        {
+          "w": "وأَكْرَمَهُ المَلِكُ",
+          "r": "فعل معطوف ومفعول وفاعل",
+          "rc": "tf",
+          "e": "أَكْرَمَ fe'li خَرَجَga atf qilingan; هُ Yusufga maf'ul, المَلِكُ esa izzat qilgan fo'il.",
+          "uz": "podshoh uni izzat qildi"
+        }
+      ]
+    }
+  ]
+}
