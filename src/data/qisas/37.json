@@ -1,0 +1,410 @@
+{
+  "title": "٣٨ ـ إِلَى يَعْقُوبَ",
+  "tuz": "Ya'qub huzuriga",
+  "sub": "Akalari Binyaminsiz qaytishdan hayron qolishadi",
+  "page": 54,
+  "sentences": [
+    {
+      "ar": "وَتَحَيَّرَ الإِخْوَةُ كَيْفَ يَرْجِعُونَ إِلى أَبِيهِمْ؟!",
+      "tr": "Akalari otalariga qanday qaytishni bilmay hayron bo'ldilar.",
+      "parts": [
+        {
+          "w": "وَتَحَيَّرَ الإِخْوَةُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "تَحَيَّرَ hayron qolish fe'li, الإِخْوَةُ esa fo'il bo'lib akalarning chorasiz holatini bildiradi.",
+          "uz": "akalar hayron bo'ldilar"
+        },
+        {
+          "w": "كَيْفَ يَرْجِعُونَ إِلى أَبِيهِمْ",
+          "r": "استفهام معلق",
+          "rc": "tb",
+          "e": "كَيْفَ yَرْجِعُونَ jumlasi hayronlikning mazmunini bildiradi: ular otalariga qanday qaytishni bilmayapti.",
+          "uz": "otalariga qanday qaytadilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَفَكَرَ الإِخْوَةُ مَاذَا يَقُولُونَ لأَبِيهِمْ؟!",
+      "tr": "Akalari otalariga nima deyishlarini o'yladilar.",
+      "parts": [
+        {
+          "w": "وَفَكَرَ الإِخْوَةُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "فَكَرَ o'ylash fe'li, الإِخْوَةُ fo'il bo'lib ularning javob izlayotganini bildiradi.",
+          "uz": "akalar o'yladilar"
+        },
+        {
+          "w": "مَاذَا يَقُولُونَ لأَبِيهِمْ",
+          "r": "استفهام معلق ومقول",
+          "rc": "tb",
+          "e": "مَاذَا so'roqli tarkib فَكَرَ fe'liga bog'lanib o'ylangan mazmunni bildiradi; لِأَبِيهِمْ gap kimga aytilishini ko'rsatadi.",
+          "uz": "otalariga nima deyishlarini"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّهُمْ فَجَعُوهُ أَمْسِ فِي يُوسُفَ، أَفَيَفْجَعُونَهُ اليَوْمَ فِي بِنْيَامِينَ!",
+      "tr": "Ular kecha Yusuf borasida uni musibatga solgan edilar, endi bugun Binyamin borasida ham musibatga soladilarmi!",
+      "parts": [
+        {
+          "w": "إِنَّهُمْ فَجَعُوهُ أَمْسِ فِي يُوسُفَ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "إِنَّهُمْ ta'kidli gap, فَجَعُوهُ xabar fe'li bo'lib هُ Ya'qubga qaytadi; فِي يُوسُفَ musibat qaysi masalada bo'lganini bildiradi.",
+          "uz": "ular kecha Yusuf borasida uni musibatga soldilar"
+        },
+        {
+          "w": "أَفَيَفْجَعُونَهُ اليَوْمَ فِي بِنْيَامِينَ",
+          "r": "استفهام إنكاري وفعل",
+          "rc": "tf",
+          "e": "أَفَ so'roq va natija ohangida kelib, yana shu ish takrorlanishining og'irligini bildiradi.",
+          "uz": "bugun Binyamin borasida ham musibatga soladilarmi"
+        }
+      ]
+    },
+    {
+      "ar": "أَمَّا كَبِيرُهُمْ فَأَبَى أَنْ يَرْجِعَ إِلَى يَعْقُوبَ وَقَالَ لِإِخْوَتِهِ:",
+      "tr": "Ularning kattasi esa Ya'qub huzuriga qaytishdan bosh tortdi va birodarlariga dedi:",
+      "parts": [
+        {
+          "w": "أَمَّا كَبِيرُهُمْ",
+          "r": "أداة تفصيل ومبتدأ",
+          "rc": "tm",
+          "e": "أَمَّا tafsil vositasi bo'lib guruh ichidan kattasini ajratadi; كَبِيرُهُمْ mubtado.",
+          "uz": "ularning kattasi esa"
+        },
+        {
+          "w": "فَأَبَى أَنْ يَرْجِعَ إِلَى يَعْقُوبَ",
+          "r": "خبر أما وفعل ومصدر مؤول",
+          "rc": "tx",
+          "e": "فَ أَمَّا javobini kiritadi; أَبَى rad etish fe'li, أَنْ يَرْجِعَ esa rad qilingan ish.",
+          "uz": "Ya'qubga qaytishdan bosh tortdi"
+        },
+        {
+          "w": "وَقَالَ لِإِخْوَتِهِ",
+          "r": "فعل معطوف ومتعلق",
+          "rc": "tf",
+          "e": "قَالَ oldingi fe'lga atf qilingan, لِإِخْوَتِهِ esa gap birodarlariga qaratilganini bildiradi.",
+          "uz": "birodarlariga dedi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿ارْجِعُوا إِلَى أَبِيكُمْ فَقُولُوا يَا أَبَانَا إِنَّ ابْنَكَ سَرَقَ وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ﴾.",
+      "tr": "«Otangizga qaytinglar va aytinglar: Ey otamiz, o'g'ling o'g'irlik qildi. Biz faqat bilgan narsamizga guvohlik berdik va g'aybni saqlovchi emas edik».",
+      "parts": [
+        {
+          "w": "ارْجِعُوا إِلَى أَبِيكُمْ",
+          "r": "فعل أمر ومتعلق",
+          "rc": "tf",
+          "e": "ارْجِعُوا buyruq fe'li bo'lib akalarga qaratilgan; إِلَى أَبِيكُمْ qaytish manzilini bildiradi.",
+          "uz": "otangizga qaytinglar"
+        },
+        {
+          "w": "فَقُولُوا يَا أَبَانَا",
+          "r": "فاء تعقيب وفعل أمر ونداء",
+          "rc": "tf",
+          "e": "فَ keyingi vazifani bildiradi; قُولُوا aytish buyrug'i, يَا أَبَانَا esa otaga murojaat.",
+          "uz": "ey otamiz deb aytinglar"
+        },
+        {
+          "w": "إِنَّ ابْنَكَ سَرَقَ",
+          "r": "إن واسمها وخبرها جملة فعلية",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid harfi, ابْنَكَ ism إن, سَرَقَ esa xabar bo'lgan fe'liy jumla.",
+          "uz": "o'g'ling o'g'irlik qildi"
+        },
+        {
+          "w": "وَمَا شَهِدْنَا إِلَّا بِمَا عَلِمْنَا",
+          "r": "نفي واستثناء",
+          "rc": "tb",
+          "e": "مَا ... إِلَّا cheklash uslubi bo'lib, ular faqat bilgan narsalariga guvohlik berganini bildiradi.",
+          "uz": "faqat bilganimizga guvohlik berdik"
+        },
+        {
+          "w": "وَمَا كُنَّا لِلْغَيْبِ حَافِظِينَ",
+          "r": "نفي وكان وخبرها",
+          "rc": "tb",
+          "e": "مَا كُنَّا inkor, لِلْغَيْبِ mutaalliq, حَافِظِينَ xabar bo'lib ular yashirin narsani bilmasligini bildiradi.",
+          "uz": "g'aybni saqlovchi emas edik"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا سَمِعَ يَعْقُوبُ الْقِصَّةَ عَلِمَ أَنَّ لِلَّهِ يَداً في ذَلِكَ.",
+      "tr": "Ya'qub voqeani eshitgach, bunda Allohning qo'li borligini bildi.",
+      "parts": [
+        {
+          "w": "وَلَمَّا سَمِعَ يَعْقُوبُ الْقِصَّةَ",
+          "r": "ظرف شرط وفعل وفاعل ومفعول",
+          "rc": "tb",
+          "e": "لَمَّا vaqt-shart ma'nosida; سَمِعَ fe'li, يَعْقُوبُ fo'il, الْقِصَّةَ esa eshitilgan voqea.",
+          "uz": "Ya'qub voqeani eshitgach"
+        },
+        {
+          "w": "عَلِمَ أَنَّ لِلَّهِ يَداً في ذَلِكَ",
+          "r": "جواب لما وأن واسمها وخبرها",
+          "rc": "tf",
+          "e": "عَلِمَ javob fe'li; أَنَّ لِلَّهِ يَداً tarkibida لِلَّهِ oldingi xabar, يَداً ism أن bo'lib ilohiy tadbir ma'nosini beradi.",
+          "uz": "bunda Allohning qo'li borligini bildi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ اللَّهَ مُمْتَحِنُهُ.",
+      "tr": "Va Alloh uni imtihon qilayotganini bildi.",
+      "parts": [
+        {
+          "w": "وَأَنَّ اللَّهَ",
+          "r": "معطوف على أن السابقة",
+          "rc": "tb",
+          "e": "وَأَنَّ oldingi bilish mazmuniga qo'shilgan ikkinchi haqiqatni bildiradi; اللَّهَ ism أن.",
+          "uz": "va Alloh"
+        },
+        {
+          "w": "مُمْتَحِنُهُ",
+          "r": "خبر أن واسم فاعل",
+          "rc": "tx",
+          "e": "مُمْتَحِنُهُ ism fo'il bo'lib Alloh Ya'qubni sinayotganini bildiradi; هُ Ya'qubga qaytadi.",
+          "uz": "uni imtihon qiluvchi"
+        }
+      ]
+    },
+    {
+      "ar": "أَمْسِ فُجِعَ فِي يُوسُفَ وَاليَوْمَ يُفْجَعُ فِي بِنْيَامِينَ.",
+      "tr": "Kecha Yusuf borasida musibatga uchradi, bugun esa Binyamin borasida musibatga uchraydimi?",
+      "parts": [
+        {
+          "w": "أَمْسِ فُجِعَ فِي يُوسُفَ",
+          "r": "ظرف وفعل مبني للمجهول",
+          "rc": "tb",
+          "e": "أَمْسِ vaqt zarfidir; فُجِعَ majhul fe'l bo'lib Ya'qub Yusuf sabab qayg'uga tushirilganini bildiradi.",
+          "uz": "kecha Yusuf borasida musibatga uchradi"
+        },
+        {
+          "w": "وَاليَوْمَ يُفْجَعُ فِي بِنْيَامِينَ",
+          "r": "معطوف واستفهام مقدر",
+          "rc": "tf",
+          "e": "اليَوْمَ ikkinchi vaqt zarfidir; يُفْجَعُ hozirgi majhul fe'l bo'lib Binyamin sabab yana musibat bo'lishi ehtimolini bildiradi.",
+          "uz": "bugun Binyamin borasida musibatga uchraydimi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ لا يَجْمَعُ عَلَيْهِ مُصِيبَتَيْنِ، إِنَّ اللَّهَ لا يَفْجَعُهُ في ابنين.",
+      "tr": "Albatta Alloh uning ustiga ikki musibatni jamlamaydi, albatta Alloh uni ikki o'g'il borasida musibatga solmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ اللَّهَ لا يَجْمَعُ عَلَيْهِ مُصِيبَتَيْنِ",
+          "r": "إن واسمها وخبرها فعل منفي",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid beradi, اللَّهَ ism إن, لا يَجْمَعُ xabar jumlasi; مُصِيبَتَيْنِ ikkilik maf'ul bo'lib ikki musibat jamlanmasligini bildiradi.",
+          "uz": "Alloh uning ustiga ikki musibatni jamlamaydi"
+        },
+        {
+          "w": "إِنَّ اللَّهَ لا يَفْجَعُهُ في ابنين",
+          "r": "جملة مؤكدة ثانية",
+          "rc": "tb",
+          "e": "Ikkinchi إِنَّ jumlasi avvalgi ma'noni izohlaydi; لا يَفْجَعُهُ fe'lida هُ Ya'qubga qaytadi.",
+          "uz": "Alloh uni ikki o'g'il borasida musibatga solmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ لا يَفْجَعُهُ فِي ابْنَيْنِ كَيُوسُفَ وَبِنْيَامِينَ.",
+      "tr": "Albatta Alloh uni Yusuf va Binyamindek ikki o'g'il borasida musibatga solmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ اللَّهَ لا يَفْجَعُهُ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid, اللَّهَ ism, لا يَفْجَعُهُ xabar jumlasi bo'lib Ya'qubning umidini bildiradi.",
+          "uz": "Alloh uni musibatga solmaydi"
+        },
+        {
+          "w": "فِي ابْنَيْنِ كَيُوسُفَ وَبِنْيَامِينَ",
+          "r": "جار ومجرور وتشبيه",
+          "rc": "tmt",
+          "e": "فِي ابْنَيْنِ musibat doirasini bildiradi, كَيُوسُفَ وَبِنْيَامِينَ esa bu ikki o'g'ilni aniqlaydi.",
+          "uz": "Yusuf va Binyamindek ikki o'g'il borasida"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ لِلَّهِ فِي ذَلِكَ يَداً خَفِيَّةً.",
+      "tr": "Albatta bunda Allohning yashirin qo'li bor.",
+      "parts": [
+        {
+          "w": "إِنَّ لِلَّهِ فِي ذَلِكَ",
+          "r": "إن وخبران مقدمان",
+          "rc": "tb",
+          "e": "لِلَّهِ va فِي ذَلِكَ oldinga chiqqan xabarlar bo'lib voqeada ilohiy tadbir borligini bildiradi.",
+          "uz": "bunda Alloh uchun"
+        },
+        {
+          "w": "يَداً خَفِيَّةً",
+          "r": "اسم إن وصفة",
+          "rc": "tm",
+          "e": "يَداً ism إن bo'lib, خَفِيَّةً sifati bu tadbir ko'zga darhol ko'rinmasligini bildiradi.",
+          "uz": "yashirin qo'l"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ لِلَّهِ فِي ذَلِكَ حِكْمَةً مَخْفِيَّةً.",
+      "tr": "Albatta bunda Allohning yashirin hikmati bor.",
+      "parts": [
+        {
+          "w": "إِنَّ لِلَّهِ فِي ذَلِكَ",
+          "r": "إن وخبران مقدمان",
+          "rc": "tb",
+          "e": "Bu tarkib oldingi jumla bilan bir xil qurilib, hodisa Allohga tegishli hikmat bilan bog'langanini ta'kidlaydi.",
+          "uz": "bunda Alloh uchun"
+        },
+        {
+          "w": "حِكْمَةً مَخْفِيَّةً",
+          "r": "اسم إن وصفة",
+          "rc": "tm",
+          "e": "حِكْمَةً ism إن, مَخْفِيَّةً sifat bo'lib hikmat hali ochilmaganini bildiradi.",
+          "uz": "yashirin hikmat"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ لَمْ يَزَلْ يَمْتَحِنُ عِبَادَهُ ثُمَّ يَسُرُّهُمْ وَيُنْعِمُ عَلَيْهِمْ.",
+      "tr": "Albatta Alloh bandalarini doimo imtihon qiladi, so'ng ularni xursand qiladi va ularga ne'mat beradi.",
+      "parts": [
+        {
+          "w": "إِنَّ اللَّهَ لَمْ يَزَلْ يَمْتَحِنُ عِبَادَهُ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "لَمْ يَزَلْ davomiylik ma'nosini beradi; يَمْتَحِنُ عِبَادَهُ Allohning bandalarini sinash odatini bildiradi.",
+          "uz": "Alloh bandalarini doimo imtihon qiladi"
+        },
+        {
+          "w": "ثُمَّ يَسُرُّهُمْ وَيُنْعِمُ عَلَيْهِمْ",
+          "r": "حرف عطف وفعلان",
+          "rc": "tf",
+          "e": "ثُمَّ tartib va kechikishni bildiradi; يَسُرُّهُمْ va يُنْعِمُ عَلَيْهِمْ imtihondan keyingi quvonch va ne'matni bayon qiladi.",
+          "uz": "so'ng ularni xursand qiladi va ne'mat beradi"
+        }
+      ]
+    },
+    {
+      "ar": "ثُمَّ إِنَّ الاِبْنَ الْكَبِيرَ بَقِيَ فِي مِصْرَ أَيْضاً وَأَبَى أَنْ يَرْجِعَ إِلَى كَنْعَانَ.",
+      "tr": "So'ng katta o'g'il ham Misrda qoldi va Kan'onga qaytishdan bosh tortdi.",
+      "parts": [
+        {
+          "w": "ثُمَّ إِنَّ الاِبْنَ الْكَبِيرَ",
+          "r": "حرف عطف وإن واسمها",
+          "rc": "tb",
+          "e": "ثُمَّ yangi mulohazani kiritadi; الاِبْنَ الْكَبِيرَ ism إن bo'lib katta o'g'ilni ajratadi.",
+          "uz": "so'ng katta o'g'il"
+        },
+        {
+          "w": "بَقِيَ فِي مِصْرَ أَيْضاً",
+          "r": "خبر إن جملة فعلية",
+          "rc": "tx",
+          "e": "بَقِيَ fe'li إن ning xabari bo'lib, فِي مِصْرَ joyni, أَيْضاً qo'shimcha holni bildiradi.",
+          "uz": "Misrda ham qoldi"
+        },
+        {
+          "w": "وَأَبَى أَنْ يَرْجِعَ إِلَى كَنْعَانَ",
+          "r": "فعل معطوف ومصدر مؤول",
+          "rc": "tf",
+          "e": "أَبَى bosh tortishni bildiradi, أَنْ يَرْجِعَ esa rad qilingan ish - Kan'onga qaytish.",
+          "uz": "Kan'onga qaytishdan bosh tortdi"
+        }
+      ]
+    },
+    {
+      "ar": "أَفَيُفْجَعُ في الثَّالِثِ أَيْضاً وَقَدْ فُجِعَ مِنْ قَبْلُ فِي اثْنَيْنِ.",
+      "tr": "Oldin ikki o'g'il borasida musibatga uchragan bo'lsa, endi uchinchisida ham musibatga uchraydimi?",
+      "parts": [
+        {
+          "w": "أَفَيُفْجَعُ في الثَّالِثِ أَيْضاً",
+          "r": "استفهام إنكاري وفعل مبني للمجهول",
+          "rc": "tb",
+          "e": "أَفَ so'roq va natija ma'nosini beradi; يُفْجَعُ majhul fe'l, في الثَّالِثِ esa uchinchi farzand masalasini bildiradi.",
+          "uz": "uchinchisida ham musibatga uchraydimi"
+        },
+        {
+          "w": "وَقَدْ فُجِعَ مِنْ قَبْلُ فِي اثْنَيْنِ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "وَقَدْ bilan kelgan hol jumlasi oldin ikki farzand borasida qayg'u ko'rilganini eslatadi.",
+          "uz": "oldin ikki o'g'il borasida musibatga uchragan bo'lsa"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ هَذَا لَا يَكُونُ.",
+      "tr": "Albatta bu bo'lmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ هَذَا",
+          "r": "إن واسمها",
+          "rc": "tb",
+          "e": "إِنَّ qat'iy ishonchni bildiradi, هَذَا esa bunday uchinchi musibat ehtimoliga ishora qiladi.",
+          "uz": "albatta bu"
+        },
+        {
+          "w": "لَا يَكُونُ",
+          "r": "خبر إن جملة فعلية",
+          "rc": "tx",
+          "e": "لَا يَكُونُ inkor xabar bo'lib Ya'qub bunday bo'lishini rad etayotganini bildiradi.",
+          "uz": "bo'lmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُنَا اطْمَأَنَّ يَعْقُوبُ وَقَالَ:",
+      "tr": "Shu yerda Ya'qub xotirjam bo'ldi va dedi:",
+      "parts": [
+        {
+          "w": "وَهُنَا",
+          "r": "ظرف",
+          "rc": "th",
+          "e": "هُنَا fikriy burilish nuqtasini bildiradi: Ya'qubning qalbida xotirjamlik paydo bo'lgan payt.",
+          "uz": "shu yerda"
+        },
+        {
+          "w": "اطْمَأَنَّ يَعْقُوبُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "اطْمَأَنَّ xotirjam bo'lish fe'li, يَعْقُوبُ esa fo'il.",
+          "uz": "Ya'qub xotirjam bo'ldi"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "قَالَ keyingi duo-umid oyatini kiritadi.",
+          "uz": "va dedi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿عَسَى اللَّهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ﴾.",
+      "tr": "«Shoyad Alloh ularning barchasini menga keltirsa. Albatta U bilimdon va hikmatlidir».",
+      "parts": [
+        {
+          "w": "عَسَى اللَّهُ أَن يَأْتِيَنِي بِهِمْ جَمِيعًا",
+          "r": "فعل رجاء واسم ومصدر مؤول",
+          "rc": "tb",
+          "e": "عَسَى umid fe'li, اللَّهُ uning ismi, أَن يَأْتِيَنِي esa umid qilingan ish; بِهِمْ جَمِيعًا uch farzandning barchasiga ishora qiladi.",
+          "uz": "shoyad Alloh ularning barchasini menga keltirsa"
+        },
+        {
+          "w": "إِنَّهُ هُوَ الْعَلِيمُ الْحَكِيمُ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "إِنَّهُ ta'kid, هُوَ fasl yoki ta'kid zamiri, الْعَلِيمُ الْحَكِيمُ esa Allohning ilm va hikmat sifatlarini bildiradi.",
+          "uz": "U bilimdon va hikmatlidir"
+        }
+      ]
+    }
+  ]
+}

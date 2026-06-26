@@ -1,0 +1,521 @@
+{
+  "title": "٣٤ ـ جَاءَ إِخْوَةُ يُوسُفَ",
+  "tuz": "Yusufning akalari keldi",
+  "sub": "Qahatchilik sabab Yusufning akalari Misrga kelishadi",
+  "page": 47,
+  "sentences": [
+    {
+      "ar": "وَكَانَ فِي مِصْرَ وَالشَّامِ مَجَاعَةٌ كَمَا أَخْبَرَ يُوسُفُ.",
+      "tr": "Yusuf xabar berganidek, Misr va Shomda qahatchilik bo'ldi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "فعل ناقص",
+          "rc": "tb",
+          "e": "كَانَ noqis fe'l bo'lib voqeaning o'tgan zamonda yuz bergan holatini bildiradi; وَ uni oldingi voqealar oqimiga bog'laydi.",
+          "uz": "va bo'ldi"
+        },
+        {
+          "w": "فِي مِصْرَ وَالشَّامِ",
+          "r": "خبر كان مقدم",
+          "rc": "tmt",
+          "e": "Jar-majrur tarkibi كَانَning oldinga chiqqan xabari bo'lib, qahatchilik yuz bergan joylarni ko'rsatadi.",
+          "uz": "Misr va Shomda"
+        },
+        {
+          "w": "مَجَاعَةٌ",
+          "r": "اسم كان مؤخر",
+          "rc": "tm",
+          "e": "مَجَاعَةٌ كَانَning keyin kelgan ismi bo'lib, gapdagi asosiy holat - qahatchilikni bildiradi.",
+          "uz": "qahatchilik"
+        },
+        {
+          "w": "كَمَا أَخْبَرَ يُوسُفُ",
+          "r": "تشبيه وجملة فعلية",
+          "rc": "tb",
+          "e": "كَمَا oldingi holat Yusuf bergan xabarga muvofiq kelganini bildiradi; أَخْبَرَ fe'li va يُوسُفُ fo'ili ta'birning rost chiqqanini ko'rsatadi.",
+          "uz": "Yusuf xabar berganidek"
+        }
+      ]
+    },
+    {
+      "ar": "وَسَمِعَ أَهْلُ الشَّامِ وَسَمِعَ يَعْقُوبُ أَنَّ فِي مِصْرَ رَجُلاً رَحِيماً.",
+      "tr": "Shom ahli ham, Ya'qub ham Misrda rahmli bir kishi borligini eshitdilar.",
+      "parts": [
+        {
+          "w": "وَسَمِعَ أَهْلُ الشَّامِ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "سَمِعَ eshitish fe'li, أَهْلُ الشَّامِ esa izofali fo'il bo'lib xabar Shom ahliga yetganini bildiradi.",
+          "uz": "Shom ahli eshitdi"
+        },
+        {
+          "w": "وَسَمِعَ يَعْقُوبُ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "Ikkinchi سَمِعَ oldingi fe'lga atf qilingan, يَعْقُوبُ esa xabarni eshitgan alohida shaxs sifatida kelgan.",
+          "uz": "Ya'qub ham eshitdi"
+        },
+        {
+          "w": "أَنَّ فِي مِصْرَ رَجُلاً رَحِيماً",
+          "r": "أن واسمها المؤخر وخبر مقدم",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi سَمِعَ fe'lining mazmuniy maf'uli; فِي مِصْرَ oldingi xabar, رَجُلاً ism أن, رَحِيماً esa uning sifati.",
+          "uz": "Misrda rahmli bir kishi borligini"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ فِي مِصْرَ جَواداً كَرِيماً، وَهُوَ عَلَى خَزَائِنِ الأَرْضِ.",
+      "tr": "Misrda saxiy, karim bir kishi borligini, u yer xazinalari ustida ekanini eshitdilar.",
+      "parts": [
+        {
+          "w": "وَأَنَّ فِي مِصْرَ",
+          "r": "معطوف على أن السابقة",
+          "rc": "tb",
+          "e": "وَأَنَّ oldingi eshitilgan xabarga yana bir mazmunni qo'shadi; فِي مِصْرَ xabar o'rnida kelib joyni bildiradi.",
+          "uz": "va Misrda borligini"
+        },
+        {
+          "w": "جَواداً كَرِيماً",
+          "r": "اسم أن وصفة",
+          "rc": "tm",
+          "e": "جَواداً ism أن sifatida mansub, كَرِيماً esa unga ergashib Yusufning saxovat va karam sifatini bildiradi.",
+          "uz": "saxiy, karim kishi"
+        },
+        {
+          "w": "وَهُوَ عَلَى خَزَائِنِ الأَرْضِ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "هُوَ Yusufga qaytgan mubtado, عَلَى خَزَائِنِ الأَرْضِ xabar bo'lib uning mas'uliyat va boshqaruv maqomini bildiradi.",
+          "uz": "u yer xazinalari ustida"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ النَّاسُ يَذْهَبُونَ إِلَيْهِ وَيَأْخُذُونَ الطَّعَامَ.",
+      "tr": "Odamlar uning oldiga borib, oziq-ovqat olar edilar.",
+      "parts": [
+        {
+          "w": "وَكَانَ النَّاسُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "كَانَ davomiy o'tgan holatni bildiradi, النَّاسُ esa uning ismi bo'lib umum odamlarni ko'rsatadi.",
+          "uz": "odamlar edi"
+        },
+        {
+          "w": "يَذْهَبُونَ إِلَيْهِ",
+          "r": "خبر كان جملة فعلية",
+          "rc": "tx",
+          "e": "يَذْهَبُونَ كَانَning xabari bo'lgan fe'liy jumla, إِلَيْهِ esa Yusufga yo'nalishni bildiradi.",
+          "uz": "uning oldiga borardilar"
+        },
+        {
+          "w": "وَيَأْخُذُونَ الطَّعَامَ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "يَأْخُذُونَ oldingi fe'lga atf qilingan; الطَّعَامَ esa olinadigan narsa sifatida maf'ul bih.",
+          "uz": "va taomni olardilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرْسَلَ يَعْقُوبُ أَبْنَاءَهُ إِلى مِصْرَ بِالْمَالِ لِيَأْتُوا بِالطَّعَامِ.",
+      "tr": "Ya'qub o'g'illarini oziq-ovqat olib kelishlari uchun mol bilan Misrga yubordi.",
+      "parts": [
+        {
+          "w": "وَأَرْسَلَ يَعْقُوبُ أَبْنَاءَهُ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "أَرْسَلَ yuborish fe'li, يَعْقُوبُ fo'il, أَبْنَاءَهُ esa yuborilgan kishilar sifatida maf'ul bih.",
+          "uz": "Ya'qub o'g'illarini yubordi"
+        },
+        {
+          "w": "إِلى مِصْرَ بِالْمَالِ",
+          "r": "متعلقات بالفعل",
+          "rc": "tmt",
+          "e": "إِلى مِصْرَ yuborish yo'nalishini, بِالْمَالِ esa safar vositasi yoki olib borilgan mablag'ni bildiradi.",
+          "uz": "Misrga mol bilan"
+        },
+        {
+          "w": "لِيَأْتُوا بِالطَّعَامِ",
+          "r": "لام التعليل وفعل منصوب",
+          "rc": "tb",
+          "e": "لِ sabab-maqsadni bildiradi, يَأْتُوا esa undan keyin mansub fe'l bo'lib yuborishdan ko'zlangan maqsadni bildiradi.",
+          "uz": "taom olib kelishlari uchun"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَقِيَ بِنْيَامِينُ عِنْدَ وَالِدِهِ لأَنَّ يَعْقُوبَ كَانَ يُحِبُّهُ جِدًّا.",
+      "tr": "Binyamin otasining yonida qoldi, chunki Ya'qub uni juda yaxshi ko'rar edi.",
+      "parts": [
+        {
+          "w": "وَبَقِيَ بِنْيَامِينُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "بَقِيَ qolish fe'li, بِنْيَامِينُ esa fo'il bo'lib safarga chiqmagan o'g'ilni bildiradi.",
+          "uz": "Binyamin qoldi"
+        },
+        {
+          "w": "عِنْدَ وَالِدِهِ",
+          "r": "ظرف ومضاف إليه",
+          "rc": "th",
+          "e": "عِنْدَ zarf bo'lib qolish joyini bildiradi, وَالِدِهِ izofasi otasiga nisbatni ko'rsatadi.",
+          "uz": "otasining yonida"
+        },
+        {
+          "w": "لأَنَّ يَعْقُوبَ كَانَ يُحِبُّهُ جِدًّا",
+          "r": "تعليل وإن واسمها وخبرها",
+          "rc": "tb",
+          "e": "لِ sababni bildiradi; يَعْقُوبَ ism أن, كَانَ يُحِبُّهُ xabar mazmuni, جِدًّا esa muhabbat darajasini kuchaytiradi.",
+          "uz": "chunki Ya'qub uni juda yaxshi ko'rar edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَا كَانَ يُرِيدُ أَنْ يَبْعُدَ عَنْهُ وَكَانَ يَعْقُوبُ يَخَافُ عَلَيْهِ كَمَا كَانَ يَخَافُ عَلَى يُوسُفَ.",
+      "tr": "U undan uzoqlashishini istamas va Ya'qub Yusufdan qo'rqqanidek undan ham xavotirlanar edi.",
+      "parts": [
+        {
+          "w": "وَمَا كَانَ يُرِيدُ",
+          "r": "نفي وكان وخبرها",
+          "rc": "tb",
+          "e": "مَا كَانَ يُرِيدُ tarkibi Ya'qubning istagini inkor qiladi; yashirin ism oldingi Ya'qubga qaytadi.",
+          "uz": "u istamas edi"
+        },
+        {
+          "w": "أَنْ يَبْعُدَ عَنْهُ",
+          "r": "مصدر مؤول ومتمم",
+          "rc": "tb",
+          "e": "أَنْ يَبْعُدَ يُرِيدُ fe'lining mazmuniy maf'uli, عَنْهُ esa uzoqlashish kimdan ekanini bildiradi.",
+          "uz": "undan uzoqlashishini"
+        },
+        {
+          "w": "وَكَانَ يَعْقُوبُ يَخَافُ عَلَيْهِ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "كَانَ يَعْقُوبُ يَخَافُ tarkibi Ya'qubning doimiy xavotirini bildiradi; عَلَيْهِ zamiri Binyaminga qaytadi.",
+          "uz": "Ya'qub undan xavotirlanar edi"
+        },
+        {
+          "w": "كَمَا كَانَ يَخَافُ عَلَى يُوسُفَ",
+          "r": "تشبيه وجملة فعلية",
+          "rc": "tb",
+          "e": "كَمَا bu xavotirni Ya'qubning Yusuf haqidagi oldingi xavotiri bilan taqqoslaydi.",
+          "uz": "Yusufdan xavotirlanganidek"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَوَجَّهَ إِخْوَةُ يُوسُفَ إِلى يُوسُفَ وَهُمْ لَا يَعْرِفُونَ أَنَّهُ أَخُوهُمْ يُوسُفُ.",
+      "tr": "Yusufning akalari Yusufning oldiga yo'l oldilar, holbuki ularning akasi Yusuf ekanini bilmas edilar.",
+      "parts": [
+        {
+          "w": "وَتَوَجَّهَ إِخْوَةُ يُوسُفَ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "تَوَجَّهَ yo'nalish olish fe'li, إِخْوَةُ يُوسُفَ esa izofali fo'il bo'lib harakat qilgan kishilarni bildiradi.",
+          "uz": "Yusufning akalari yo'l oldilar"
+        },
+        {
+          "w": "إِلى يُوسُفَ",
+          "r": "جار ومجرور متعلق بالفعل",
+          "rc": "tmt",
+          "e": "إِلى يُوسُفَ harakatning manzilini bildiradi, bu yerda dramatik ravishda ular aynan Yusufga borayotganini ko'rsatadi.",
+          "uz": "Yusufga"
+        },
+        {
+          "w": "وَهُمْ لَا يَعْرِفُونَ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "وَهُمْ bilan boshlangan jumla hol bo'lib, ularning borayotgan paytdagi bilimsiz holatini bildiradi.",
+          "uz": "ular bilmas edilar"
+        },
+        {
+          "w": "أَنَّهُ أَخُوهُمْ يُوسُفُ",
+          "r": "أن واسمها وخبرها وبدل",
+          "rc": "tb",
+          "e": "أَنَّهُ يَعْرِفُونَ fe'lining mazmuniy maf'uli; هُ يوسفga qaytadi, أَخُوهُمْ xabar, يُوسُفُ esa aniqlovchi badal.",
+          "uz": "u ularning akasi Yusuf ekanini"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُمْ لا يَعْرِفُونَ أَنَّهُ يُوسُفُ الَّذِي كَانَ فِي الْبِئْرِ.",
+      "tr": "Ular uning quduqda bo'lgan Yusuf ekanini bilmas edilar.",
+      "parts": [
+        {
+          "w": "وَهُمْ لا يَعْرِفُونَ",
+          "r": "جملة حالية منفية",
+          "rc": "th",
+          "e": "Bu hol jumlasi avvalgi ma'noni davom ettirib, akalarning Yusufni tanimaganini ta'kidlaydi.",
+          "uz": "ular bilmas edilar"
+        },
+        {
+          "w": "أَنَّهُ يُوسُفُ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّهُ tarkibi يَعْرِفُونَ fe'lining mazmuniy maf'uli; يُوسُفُ xabar bo'lib shaxsni ochadi.",
+          "uz": "u Yusuf ekanini"
+        },
+        {
+          "w": "الَّذِي كَانَ فِي الْبِئْرِ",
+          "r": "صفة بجملة صلة",
+          "rc": "ts",
+          "e": "الَّذِي mavsul sifatida يُوسُفُni aniqlaydi; كَانَ فِي الْبِئْرِ uning o'tmishdagi holatini eslatadi.",
+          "uz": "quduqda bo'lgan"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُمْ يَظُنُّونَ أَنَّهُ قَدْ مَاتَ.",
+      "tr": "Ular uni allaqachon vafot etgan deb o'ylardilar.",
+      "parts": [
+        {
+          "w": "وَهُمْ يَظُنُّونَ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "Hol jumlasi ularning ichki gumonini ko'rsatadi; يَظُنُّونَ ikki maf'ulli fe'l sifatida keyingi أَنَّ jumlasini talab qiladi.",
+          "uz": "ular o'ylardilar"
+        },
+        {
+          "w": "أَنَّهُ قَدْ مَاتَ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّهُ tarkibi ظن fe'lining mazmuniy to'ldiruvchisi; قَدْ مَاتَ Yusuf haqida qat'iylashgan gumonni bildiradi.",
+          "uz": "u vafot etgan deb"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَيْفَ لا يَمُوتُ وَقَدْ كَانَ فِي الْبِئْرِ.",
+      "tr": "Qanday qilib o'lmasin, axir u quduqda bo'lgan edi.",
+      "parts": [
+        {
+          "w": "وَكَيْفَ لا يَمُوتُ",
+          "r": "استفهام إنكاري",
+          "rc": "tb",
+          "e": "كَيْفَ bu yerda inkoriy-taajjubiy so'roq bo'lib, ularning nazarida Yusufning omon qolishi mumkin emasdek tuyulganini bildiradi.",
+          "uz": "qanday o'lmasin"
+        },
+        {
+          "w": "وَقَدْ كَانَ فِي الْبِئْرِ",
+          "r": "حال مؤكدة",
+          "rc": "th",
+          "e": "وَقَدْ bilan kelgan jumla sabab-hol ma'nosini beradi: u quduqda bo'lganligi ularning gumoniga asos sifatida keltirilmoqda.",
+          "uz": "axir quduqda bo'lgan edi"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ فِي الْبِئْرِ وَكَانَتِ الْبِئْرُ عَمِيقَةً.",
+      "tr": "U quduqda edi va quduq chuqur edi.",
+      "parts": [
+        {
+          "w": "كَانَ فِي الْبِئْرِ",
+          "r": "كان وخبرها",
+          "rc": "tb",
+          "e": "كَانَning ismi yashirin bo'lib Yusufga qaytadi; فِي الْبِئْرِ xabar bo'lib joyni bildiradi.",
+          "uz": "quduqda edi"
+        },
+        {
+          "w": "وَكَانَتِ الْبِئْرُ عَمِيقَةً",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "كَانَتْ muannas kelgani الْبِئْرُ so'ziga mos; عَمِيقَةً xabar bo'lib quduqning xavfli chuqurligini bildiradi.",
+          "uz": "quduq chuqur edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَتِ الْبِئْرُ فِي الْغَابَةِ، وَكَانَتِ الْغَابَةُ مُوحِشَةً.",
+      "tr": "Quduq o'rmonda edi va o'rmon vahimali edi.",
+      "parts": [
+        {
+          "w": "وَكَانَتِ الْبِئْرُ فِي الْغَابَةِ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "الْبِئْرُ ism كان, فِي الْغَابَةِ xabar bo'lib quduqning yolg'iz joyda ekanini ko'rsatadi.",
+          "uz": "quduq o'rmonda edi"
+        },
+        {
+          "w": "وَكَانَتِ الْغَابَةُ مُوحِشَةً",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "الْغَابَةُ ism كان, مُوحِشَةً xabar bo'lib o'rmonning qo'rqinchli, vahimali holatini bildiradi.",
+          "uz": "o'rmon vahimali edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ ذَلِكَ فِي اللَّيْلِ، وَكَانَ اللَّيْلُ مُظْلِماً.",
+      "tr": "Bu kechasi bo'lgan edi va tun qorong'i edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ ذَلِكَ فِي اللَّيْلِ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "ذَلِكَ ism كان bo'lib voqeaga ishora qiladi, فِي اللَّيْلِ esa xabar sifatida vaqtni bildiradi.",
+          "uz": "bu kechasi edi"
+        },
+        {
+          "w": "وَكَانَ اللَّيْلُ مُظْلِماً",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "اللَّيْلُ ism كان, مُظْلِماً xabar bo'lib voqeaning xavf va qorong'ilik muhitini kuchaytiradi.",
+          "uz": "tun qorong'i edi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿وَجَاءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُ مُنكِرُونَ﴾.",
+      "tr": "«Yusufning akalari keldi, uning oldiga kirdilar. U ularni tanidi, ular esa uni tanimadilar».",
+      "parts": [
+        {
+          "w": "وَجَاءَ إِخْوَةُ يُوسُفَ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "جَاءَ kelish fe'li, إِخْوَةُ يُوسُفَ esa fo'il bo'lib oyatdagi voqeani boshlaydi.",
+          "uz": "Yusufning akalari keldi"
+        },
+        {
+          "w": "فَدَخَلُوا عَلَيْهِ",
+          "r": "فاء تعقيب وفعل ومتعلق",
+          "rc": "tf",
+          "e": "فَ ketma-ketlikni bildiradi; دَخَلُوا fe'li jam' fo'il bilan kelgan, عَلَيْهِ esa Yusuf huzuriga kirilganini bildiradi.",
+          "uz": "uning oldiga kirdilar"
+        },
+        {
+          "w": "فَعَرَفَهُمْ",
+          "r": "فعل ومفعول",
+          "rc": "tf",
+          "e": "عَرَفَ fe'li Yusufning ularni taniganini bildiradi, هُمْ zamiri akalarga qaytgan maf'uldir.",
+          "uz": "u ularni tanidi"
+        },
+        {
+          "w": "وَهُمْ لَهُ مُنكِرُونَ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "Hol jumlasi qarama-qarshi holatni beradi: ular Yusufni inkor qiluvchi, ya'ni tanimagan holda edilar.",
+          "uz": "ular esa uni tanimas edilar"
+        }
+      ]
+    },
+    {
+      "ar": "كَانُوا مُنْكِرِينَ لِيُوسُفَ لَا يَعْرِفُونَهُ، وَلَكِنْ مَا أَنْكَرَهُمْ يُوسُفُ بَلْ عَرَفَهُمْ.",
+      "tr": "Ular Yusufni tanimagan edilar, lekin Yusuf ularni tanimay qolmadi, aksincha ularni tanidi.",
+      "parts": [
+        {
+          "w": "كَانُوا مُنْكِرِينَ لِيُوسُفَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "واو الجماعة ism كان, مُنْكِرِينَ xabar bo'lib ularning tanimaslik holatini bildiradi; لِيُوسُفَ tanilmagan shaxsni ko'rsatadi.",
+          "uz": "ular Yusufni tanimas edilar"
+        },
+        {
+          "w": "لَا يَعْرِفُونَهُ",
+          "r": "جملة تفسيرية",
+          "rc": "tb",
+          "e": "Bu fe'liy jumla مُنْكِرِينَ ma'nosini izohlaydi; هُ zamiri Yusufga qaytadi.",
+          "uz": "uni tanimas edilar"
+        },
+        {
+          "w": "وَلَكِنْ مَا أَنْكَرَهُمْ يُوسُفُ",
+          "r": "استدراك ونفي وفعل",
+          "rc": "tf",
+          "e": "لَكِنْ qarama-qarshi holatni kiritadi; مَا أَنْكَرَهُمْ Yusuf ularni tanimay qolmaganini bildiradi.",
+          "uz": "lekin Yusuf ularni tanimay qolmadi"
+        },
+        {
+          "w": "بَلْ عَرَفَهُمْ",
+          "r": "إضراب وفعل ومفعول",
+          "rc": "tf",
+          "e": "بَلْ inkordan tasdiqqa o'tkazadi, عَرَفَهُمْ esa Yusuf ularni aniq taniganini bildiradi.",
+          "uz": "balki ularni tanidi"
+        }
+      ]
+    },
+    {
+      "ar": "عَرَفَ يُوسُفُ أَنَّ هَؤُلاءِ هُمُ الَّذِينَ أَلْقُوهُ فِي الْبِئْرِ.",
+      "tr": "Yusuf bular uni quduqqa tashlaganlar ekanini bildi.",
+      "parts": [
+        {
+          "w": "عَرَفَ يُوسُفُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "عَرَفَ bilish-tanish fe'li, يُوسُفُ esa fo'il sifatida kelgan.",
+          "uz": "Yusuf bildi"
+        },
+        {
+          "w": "أَنَّ هَؤُلاءِ هُمُ الَّذِينَ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi عَرَفَ fe'lining mazmuniy maf'uli; هَؤُلاءِ ism أن, هُمُ الَّذِينَ esa xabar bo'lib tanilgan guruhni aniqlaydi.",
+          "uz": "bular o'shalar ekanini"
+        },
+        {
+          "w": "أَلْقُوهُ فِي الْبِئْرِ",
+          "r": "صلة الموصول",
+          "rc": "ts",
+          "e": "أَلْقُوهُ mavsulning sila jumlasi; هُ Yusufga qaytgan maf'ul, فِي الْبِئْرِ esa tashlangan joyni bildiradi.",
+          "uz": "uni quduqqa tashlaganlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَنَّ هَؤُلاءِ هُمُ الَّذِينَ كَانُوا يُرِيدُونَ قَتْلَهُ وَلَكِنَّ اللَّهَ حَفِظَهُ.",
+      "tr": "Va bular uni o'ldirishni istaganlar, lekin Alloh uni saqlaganini bildi.",
+      "parts": [
+        {
+          "w": "وَأَنَّ هَؤُلاءِ هُمُ الَّذِينَ",
+          "r": "معطوف على مفعول عرف",
+          "rc": "tb",
+          "e": "وَأَنَّ oldingi أَنَّ tarkibiga atf qilinib Yusuf bilgan ikkinchi haqiqatni bildiradi.",
+          "uz": "va bular o'shalar ekanini"
+        },
+        {
+          "w": "كَانُوا يُرِيدُونَ قَتْلَهُ",
+          "r": "صلة الموصول وكان وخبرها",
+          "rc": "ts",
+          "e": "كَانُوا يُرِيدُونَ davomiy o'tgan niyatni bildiradi; قَتْلَهُ ularning xohlagan narsasi bo'lib هُ Yusufga qaytadi.",
+          "uz": "uni o'ldirishni istaganlar"
+        },
+        {
+          "w": "وَلَكِنَّ اللَّهَ حَفِظَهُ",
+          "r": "استدراك واسم لكن وخبرها",
+          "rc": "tb",
+          "e": "لَكِنَّ qarama-qarshi natijani kiritadi; اللَّهَ ism لكن, حَفِظَهُ esa Alloh Yusufni asraganini bildiruvchi xabar jumla.",
+          "uz": "lekin Alloh uni saqladi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّ يُوسُفَ لَمْ يَقُلْ لَهُمْ شَيْئاً وَلَمْ يَفْضَحْهُمْ.",
+      "tr": "Lekin Yusuf ularga hech narsa demadi va ularni sharmanda qilmadi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ يُوسُفَ",
+          "r": "استدراك واسم لكن",
+          "rc": "tb",
+          "e": "لَكِنَّ Yusufning bilishiga qaramay qilgan yumshoq muomalasini kiritadi, يُوسُفَ ism لكن.",
+          "uz": "lekin Yusuf"
+        },
+        {
+          "w": "لَمْ يَقُلْ لَهُمْ شَيْئاً",
+          "r": "خبر لكن جملة فعلية",
+          "rc": "tx",
+          "e": "لَمْ يَقُلْ inkor qilingan fe'l, لَهُمْ gap yo'nalishini, شَيْئاً esa aytilmagan narsani bildiradi.",
+          "uz": "ularga hech narsa demadi"
+        },
+        {
+          "w": "وَلَمْ يَفْضَحْهُمْ",
+          "r": "فعل معطوف منفي",
+          "rc": "tf",
+          "e": "يَفْضَحْهُمْ oldingi inkor fe'liga atf qilingan; هُمْ akalarga qaytib ularni sharmanda qilmaganini bildiradi.",
+          "uz": "va ularni sharmanda qilmadi"
+        }
+      ]
+    }
+  ]
+}

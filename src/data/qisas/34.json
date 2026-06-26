@@ -1,0 +1,432 @@
+{
+  "title": "٣٥ ـ بَيْنَ يُوسُفَ وَإِخْوَتِهِ",
+  "tuz": "Yusuf va akalari orasida",
+  "sub": "Yusuf akalaridan oilasi haqida so'raydi",
+  "page": 49,
+  "sentences": [
+    {
+      "ar": "وَعَامَلَهُمْ يُوسُفُ وَقَالَ لَهُمْ:",
+      "tr": "Yusuf ularga muomala qildi va ularga dedi:",
+      "parts": [
+        {
+          "w": "وَعَامَلَهُمْ يُوسُفُ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "Matndagi ma'no bo'yicha عَامَلَ fe'li muomala qilishni bildiradi; هُمْ akalarga qaytgan maf'ul, يُوسُفُ esa fo'il.",
+          "uz": "Yusuf ularga muomala qildi"
+        },
+        {
+          "w": "وَقَالَ لَهُمْ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "قَالَ fe'li عَامَلَga atf qilingan, لَهُمْ esa savol kimlarga qaratilganini bildiradi.",
+          "uz": "va ularga dedi"
+        }
+      ]
+    },
+    {
+      "ar": "مِنْ أَيْنَ أَنْتُمْ؟",
+      "tr": "Sizlar qayerdansiz?",
+      "parts": [
+        {
+          "w": "مِنْ أَيْنَ",
+          "r": "جار واسم استفهام خبر مقدم",
+          "rc": "tb",
+          "e": "مِنْ أَيْنَ kelib chiqish joyini so'raydi va ismiy gapda oldinga chiqqan xabar vazifasida keladi.",
+          "uz": "qayerdan"
+        },
+        {
+          "w": "أَنْتُمْ",
+          "r": "مبتدأ مؤخر",
+          "rc": "tm",
+          "e": "أَنْتُمْ mustaqil zamir bo'lib so'ralayotgan shaxslarni bildiradi.",
+          "uz": "sizlar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: مِنْ كَنْعَانَ!",
+      "tr": "Ular: Kan'ondanmiz, — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالُوا javobni kiritadi, واو الجماعة esa akalarga qaytgan fo'il.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "مِنْ كَنْعَانَ",
+          "r": "جار ومجرور خبر محذوف",
+          "rc": "tmt",
+          "e": "مِنْ كَنْعَانَ kelib chiqish joyini bildiradi; ma'noda 'biz Kan'ondanmiz' degan hazf qilingan gapga xabar bo'ladi.",
+          "uz": "Kan'ondan"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: مَنْ أَبُوكُمْ؟",
+      "tr": "U dedi: Otangiz kim?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "فعل ماض",
+          "rc": "tf",
+          "e": "قَالَning yashirin fo'ili Yusufga qaytadi va navbatdagi savolni kiritadi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "مَنْ أَبُوكُمْ",
+          "r": "استفهام ومبتدأ وخبر",
+          "rc": "tm",
+          "e": "مَنْ shaxs haqida so'roq qiladi, أَبُوكُمْ esa izofali ism bo'lib otalari kimligini so'raydi.",
+          "uz": "otangiz kim"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: يَعْقُوبُ بنُ إسحاقَ بنِ إِبْرَاهِيمَ (عَلَيْهِمُ الصَّلواتُ والسَّلامُ).",
+      "tr": "Ular: Ibrohimning o'g'li Ishoqning o'g'li Ya'qub, ularga salovot va salomlar bo'lsin, — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالُوا javobni kiritadi, fo'il akalarga qaytgan jam' zamiridir.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "يَعْقُوبُ بنُ إسحاقَ بنِ إِبْرَاهِيمَ",
+          "r": "خبر لمبتدأ محذوف وسلسلة نسب",
+          "rc": "tx",
+          "e": "Bu nasab zanjiri savolga javob bo'lib keladi; بنُ so'zlari izofa orqali Ya'qubning otalari silsilasini bildiradi.",
+          "uz": "Ibrohimning o'g'li Ishoqning o'g'li Ya'qub"
+        },
+        {
+          "w": "عَلَيْهِمُ الصَّلواتُ والسَّلامُ",
+          "r": "جملة دعائية",
+          "rc": "tb",
+          "e": "Bu duo jumlasi payg'ambarlarga hurmat bildirib, asosiy javobdan tashqari iltifot sifatida kelgan.",
+          "uz": "ularga salovot va salomlar bo'lsin"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: هَلْ لَكُمْ أَخٌ آخَرُ؟",
+      "tr": "U dedi: Sizlarning boshqa akangiz bormi?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "فعل ماض",
+          "rc": "tf",
+          "e": "Yashirin fo'il Yusufga qaytadi va yangi savolni boshlaydi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "هَلْ لَكُمْ أَخٌ آخَرُ",
+          "r": "استفهام وخبر مقدم ومبتدأ مؤخر",
+          "rc": "tm",
+          "e": "هَلْ so'roq harfi, لَكُمْ oldingi xabar, أَخٌ mubtado, آخَرُ esa boshqa birodar borligini so'ragan sifat.",
+          "uz": "sizlarda boshqa aka-uka bormi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: نَعَمْ لَنَا أَخٌ اسْمُهُ بِنْيَامِينُ!",
+      "tr": "Ular: Ha, Binyamin ismli birodarimiz bor, — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا نَعَمْ",
+          "r": "فعل وجواب",
+          "rc": "tf",
+          "e": "قَالُوا javobni kiritadi, نَعَمْ esa tasdiq javobi sifatida keladi.",
+          "uz": "ular ha dedilar"
+        },
+        {
+          "w": "لَنَا أَخٌ",
+          "r": "خبر مقدم ومبتدأ مؤخر",
+          "rc": "tm",
+          "e": "لَنَا egalik ma'nosidagi oldingi xabar, أَخٌ esa keyin kelgan mubtado.",
+          "uz": "bizda birodar bor"
+        },
+        {
+          "w": "اسْمُهُ بِنْيَامِينُ",
+          "r": "جملة صفة",
+          "rc": "ts",
+          "e": "اسْمُهُ mubtado, بِنْيَامِينُ xabar bo'lib أَخٌni aniqlaydi.",
+          "uz": "ismi Binyamin"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: لِمَاذَا لَم يَأْتِ مَعَكُمْ؟",
+      "tr": "U dedi: Nima uchun sizlar bilan kelmadi?",
+      "parts": [
+        {
+          "w": "قَالَ",
+          "r": "فعل ماض",
+          "rc": "tf",
+          "e": "قَالَ Yusufning savoli davom etayotganini bildiradi.",
+          "uz": "dedi"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "جار واستفهام عن السبب",
+          "rc": "tb",
+          "e": "لِمَاذَا sababni so'raydi va keyingi kelmaslik fe'liga bog'lanadi.",
+          "uz": "nima uchun"
+        },
+        {
+          "w": "لَم يَأْتِ مَعَكُمْ",
+          "r": "فعل مضارع مجزوم ومتعلق",
+          "rc": "tf",
+          "e": "لَمْ يَأْتِ o'tgan zamon inkorini bildiradi; مَعَكُمْ Binyamin akalari bilan birga kelmaganini ko'rsatadi.",
+          "uz": "sizlar bilan kelmadi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: لأَنَّ وَالِدَنَا لا يَتْرُكُهُ وَلَا يُحِبُّ أَنْ يَبْعُدَ عَنْهُ.",
+      "tr": "Ular: Chunki otamiz uni qo'yib yubormaydi va undan uzoqlashishini yoqtirmaydi, — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا لأَنَّ وَالِدَنَا",
+          "r": "فعل وتعليل واسم أن",
+          "rc": "tb",
+          "e": "لأَنَّ javob sababini kiritadi; وَالِدَنَا ism أن bo'lib Ya'qubga ishora qiladi.",
+          "uz": "ular dedilar: chunki otamiz"
+        },
+        {
+          "w": "لا يَتْرُكُهُ",
+          "r": "خبر أن جملة فعلية منفية",
+          "rc": "tx",
+          "e": "لا يَتْرُكُهُ otaning Binyaminni qo'yib yubormasligini bildiradi; هُ Binyaminga qaytadi.",
+          "uz": "uni qo'yib yubormaydi"
+        },
+        {
+          "w": "وَلَا يُحِبُّ أَنْ يَبْعُدَ عَنْهُ",
+          "r": "معطوف ومصدر مؤول",
+          "rc": "tf",
+          "e": "لا يُحِبُّ oldingi inkor xabariga atf qilingan; أَنْ يَبْعُدَ عَنْهُ otadan uzoqlashish ma'nosidagi masdar muavval.",
+          "uz": "va undan uzoqlashishini yoqtirmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: لأَيِّ شَيْءٍ لَا يَتْرُكُهُ، هَلْ هُوَ وَلَدٌ صَغِيرٌ جِدًّا؟",
+      "tr": "U dedi: Nima uchun uni qo'yib yubormaydi? U juda kichik bolami?",
+      "parts": [
+        {
+          "w": "قَالَ لأَيِّ شَيْءٍ",
+          "r": "فعل واستفهام عن السبب",
+          "rc": "tb",
+          "e": "لأَيِّ شَيْءٍ sababni so'raydigan tarkib bo'lib, Yusufning savolni chuqurlashtirayotganini ko'rsatadi.",
+          "uz": "dedi: nima uchun"
+        },
+        {
+          "w": "لَا يَتْرُكُهُ",
+          "r": "فعل مضارع منفي",
+          "rc": "tf",
+          "e": "لا يَتْرُكُهُ Ya'qubning Binyaminni safarga qo'ymasligini bildiradi.",
+          "uz": "uni qo'yib yubormaydi"
+        },
+        {
+          "w": "هَلْ هُوَ وَلَدٌ صَغِيرٌ جِدًّا",
+          "r": "استفهام وجملة اسمية",
+          "rc": "tm",
+          "e": "هَلْ so'roq harfi, هُوَ mubtado, وَلَدٌ xabar, صَغِيرٌ جِدًّا esa sabab ehtimolini bildiruvchi sifat va kuchaytirgich.",
+          "uz": "u juda kichik bolami"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: لا، وَلَكِنْ كَانَ لَهُ أَخٌ اسْمُهُ يُوسُفُ، ذَهَبَ مَعَنَا مَرَّةً، وَذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِنْدَ مَتاعِنَا فَأكَلَهُ الذِّئبُ.",
+      "tr": "Ular: Yo'q, lekin uning Yusuf ismli akasi bor edi. Bir kuni biz bilan borgan edi. Biz musobaqalashgani ketdik, Yusufni narsalarimiz oldida qoldirdik, uni bo'ri yedi, — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا لا",
+          "r": "فعل وجواب نفي",
+          "rc": "tf",
+          "e": "قَالُوا javobni kiritadi, لا esa Yusufning ehtimoliy savolini inkor qiladi.",
+          "uz": "ular yo'q dedilar"
+        },
+        {
+          "w": "وَلَكِنْ كَانَ لَهُ أَخٌ اسْمُهُ يُوسُفُ",
+          "r": "استدراك وكان وخبر مقدم",
+          "rc": "tb",
+          "e": "لَكِنْ yangi izohga o'tkazadi; لَهُ oldingi xabar, أَخٌ ism كان, اسْمُهُ يُوسُفُ esa birodarni aniqlovchi jumla.",
+          "uz": "lekin uning Yusuf ismli akasi bor edi"
+        },
+        {
+          "w": "ذَهَبَ مَعَنَا مَرَّةً",
+          "r": "فعل ومتعلقات",
+          "rc": "tf",
+          "e": "ذَهَبَ fe'lining yashirin fo'ili Yusufga qaytadi; مَعَنَا birga borishni, مَرَّةً esa hodisa bir marta bo'lganini bildiradi.",
+          "uz": "bir marta biz bilan bordi"
+        },
+        {
+          "w": "وَذَهَبْنَا نَسْتَبِقُ",
+          "r": "فعل وحال",
+          "rc": "tf",
+          "e": "ذَهَبْنَا akalarning ketishini bildiradi, نَسْتَبِقُ esa ketishdan maqsad yoki hol sifatida musobaqalashishni ko'rsatadi.",
+          "uz": "biz musobaqalashgani ketdik"
+        },
+        {
+          "w": "وَتَرَكْنَا يُوسُفَ عِنْدَ مَتاعِنَا",
+          "r": "فعل ومفعول وظرف",
+          "rc": "tf",
+          "e": "تَرَكْنَا fe'li ularning Yusufni qoldirganini bildiradi; عِنْدَ مَتاعِنَا qoldirilgan joyni ko'rsatadi.",
+          "uz": "Yusufni narsalarimiz oldida qoldirdik"
+        },
+        {
+          "w": "فَأكَلَهُ الذِّئبُ",
+          "r": "فاء تعقيب وفعل وفاعل",
+          "rc": "tf",
+          "e": "فَ natija ketma-ketligini bildiradi; أكَلَهُ fe'lida هُ Yusufga qaytadi, الذِّئبُ esa fo'il sifatida keltirilgan.",
+          "uz": "uni bo'ri yedi"
+        }
+      ]
+    },
+    {
+      "ar": "وَضَحِكَ يُوسُفُ فِي نَفْسِهِ وَلَكِنْ لَمْ يَقُلْ شَيْئاً وَاشْتَاقَ يُوسُفُ إِلى أَخِيهِ بِنْيَامِينَ.",
+      "tr": "Yusuf ichida kuldi, lekin hech narsa demadi va akasi Binyaminni sog'indi.",
+      "parts": [
+        {
+          "w": "وَضَحِكَ يُوسُفُ فِي نَفْسِهِ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "ضَحِكَ fe'li Yusufning ichki munosabatini bildiradi; فِي نَفْسِهِ bu kulgi tashqariga chiqarilmaganini ko'rsatadi.",
+          "uz": "Yusuf ichida kuldi"
+        },
+        {
+          "w": "وَلَكِنْ لَمْ يَقُلْ شَيْئاً",
+          "r": "استدراك وفعل منفي",
+          "rc": "tf",
+          "e": "لَكِنْ kulgiga qaramay sukutni bildiradi; لَمْ يَقُلْ شَيْئاً hech qanday so'z aytilmaganini ifodalaydi.",
+          "uz": "lekin hech narsa demadi"
+        },
+        {
+          "w": "وَاشْتَاقَ يُوسُفُ إِلى أَخِيهِ بِنْيَامِينَ",
+          "r": "فعل معطوف وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "اشْتَاقَ sog'inish fe'li, يُوسُفُ fo'il, إِلى أَخِيهِ بِنْيَامِينَ esa sog'inilgan shaxsni bildiradi.",
+          "uz": "Yusuf akasi Binyaminni sog'indi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ اللَّهُ أَنْ يَمْتَحِنَ يَعْقُوبَ مَرَّةً ثَانِيَةً.",
+      "tr": "Alloh Ya'qubni yana bir marta imtihon qilishni iroda qildi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ اللَّهُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "أَرَادَ fe'li iroda qilishni bildiradi, اللَّهُ esa fo'il bo'lib voqea ilohiy hikmat bilan bog'langanini ko'rsatadi.",
+          "uz": "Alloh iroda qildi"
+        },
+        {
+          "w": "أَنْ يَمْتَحِنَ يَعْقُوبَ",
+          "r": "مصدر مؤول ومفعول",
+          "rc": "tb",
+          "e": "أَنْ يَمْتَحِنَ masdar muavval bo'lib أَرَادَ fe'lining maf'uli, يَعْقُوبَ esa imtihon qilinadigan shaxs.",
+          "uz": "Ya'qubni imtihon qilishni"
+        },
+        {
+          "w": "مَرَّةً ثَانِيَةً",
+          "r": "ظرف عدد وصفة",
+          "rc": "th",
+          "e": "مَرَّةً vaqt-miqdor zarfidir, ثَانِيَةً esa unga ergashib imtihon takrorlanayotganini bildiradi.",
+          "uz": "ikkinchi marta"
+        }
+      ]
+    },
+    {
+      "ar": "فَأَمَرَ لَهُمْ يُوسُفُ بِالطَّعَام.",
+      "tr": "Yusuf ularga oziq-ovqat berishni buyurdi.",
+      "parts": [
+        {
+          "w": "فَأَمَرَ لَهُمْ يُوسُفُ",
+          "r": "فاء تفريع وفعل وفاعل",
+          "rc": "tf",
+          "e": "فَ voqealar ketma-ketligini bildiradi; أَمَرَ buyurish fe'li, يُوسُفُ fo'il, لَهُمْ esa buyruq foydasi kimlarga qaratilganini bildiradi.",
+          "uz": "Yusuf ularga buyurdi"
+        },
+        {
+          "w": "بِالطَّعَام",
+          "r": "جار ومجرور متعلق بأمر",
+          "rc": "tmt",
+          "e": "بِالطَّعَام buyruq mavzusini bildiradi: ularga oziq-ovqat berilishi kerak.",
+          "uz": "oziq-ovqat bilan"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ لَهُمْ: ﴿ائْتُونِي بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ﴾.",
+      "tr": "Ularga dedi: «Otangiz tomondan bo'lgan birodaringizni menga olib kelinglar».",
+      "parts": [
+        {
+          "w": "وَقَالَ لَهُمْ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "قَالَ Yusufning shartini kiritadi; لَهُمْ gap akalarga qaratilganini bildiradi.",
+          "uz": "ularga dedi"
+        },
+        {
+          "w": "ائْتُونِي",
+          "r": "فعل أمر ومفعول",
+          "rc": "tf",
+          "e": "ائْتُوا buyruq fe'li, نِي esa Yusufga qaytgan maf'ul zamiri bo'lib 'menga olib kelinglar' ma'nosini beradi.",
+          "uz": "menga olib kelinglar"
+        },
+        {
+          "w": "بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ",
+          "r": "جار ومجرور وصفة",
+          "rc": "tmt",
+          "e": "بِأَخٍ olib kelinadigan shaxsni bildiradi; لَّكُم va مِّنْ أَبِيكُمْ uning akalarga tegishli va ota tomondan ekanini aniqlaydi.",
+          "uz": "otangizdan bo'lgan birodaringizni"
+        }
+      ]
+    },
+    {
+      "ar": "وَلا تَجِدُونَ طَعَامًا إِذَا لَمْ تَأْتُوا بِهِ.",
+      "tr": "Agar uni olib kelmasangiz, oziq-ovqat topmaysiz.",
+      "parts": [
+        {
+          "w": "وَلا تَجِدُونَ طَعَامًا",
+          "r": "فعل مضارع منفي ومفعول",
+          "rc": "tf",
+          "e": "لا تَجِدُونَ inkor qilingan mudore' fe'l, طَعَامًا esa topilmaydigan narsa sifatida maf'ul bih.",
+          "uz": "taom topmaysiz"
+        },
+        {
+          "w": "إِذَا لَمْ تَأْتُوا بِهِ",
+          "r": "شرط ظرفي وفعل منفي",
+          "rc": "tb",
+          "e": "إِذَا shart-vaziyatni bildiradi; لَمْ تَأْتُوا بِهِ shart jumlasi bo'lib هِ Binyaminga qaytadi.",
+          "uz": "agar uni olib kelmasangiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَمَرَ يُوسُفُ بِمَالِهِمْ فَوُضِعَ فِي مَتَاعِهِمْ.",
+      "tr": "Yusuf ularning mollari haqida buyurdi va u narsalarining ichiga qo'yildi.",
+      "parts": [
+        {
+          "w": "وَأَمَرَ يُوسُفُ بِمَالِهِمْ",
+          "r": "فعل وفاعل وجار ومجرور",
+          "rc": "tf",
+          "e": "أَمَرَ buyruq fe'li, يُوسُفُ fo'il, بِمَالِهِمْ esa buyruq mavzusi - ularning olib kelgan moli.",
+          "uz": "Yusuf ularning mollari haqida buyurdi"
+        },
+        {
+          "w": "فَوُضِعَ فِي مَتَاعِهِمْ",
+          "r": "فعل مبني للمجهول وجار ومجرور",
+          "rc": "tf",
+          "e": "فَوُضِعَ majhul fe'l bo'lib mol kim tomonidan qo'yilgani aytilmaydi; فِي مَتَاعِهِمْ joyni bildiradi.",
+          "uz": "narsalarining ichiga qo'yildi"
+        }
+      ]
+    }
+  ]
+}

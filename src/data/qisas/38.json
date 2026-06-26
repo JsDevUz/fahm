@@ -1,0 +1,594 @@
+{
+  "title": "٣٩ ـ يَظْهَرُ السِّرُّ",
+  "tuz": "Sir ochiladi",
+  "sub": "Yusuf akalariga o'zini tanitadi",
+  "page": 56,
+  "sentences": [
+    {
+      "ar": "وَلَكِنَّ يَعْقُوبَ كَانَ بَشَراً في صَدْرِهِ قَلْبُ بَشَرٍ لا قِطْعَةُ حَجَرٍ.",
+      "tr": "Lekin Ya'qub inson edi; uning ko'ksida tosh bo'lagi emas, inson qalbi bor edi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ يَعْقُوبَ",
+          "r": "استدراك واسم لكن",
+          "rc": "tb",
+          "e": "لَكِنَّ oldingi xotirjamlik bilan insoniy qayg'u orasidagi nozik farqni kiritadi; يَعْقُوبَ ism لكن.",
+          "uz": "lekin Ya'qub"
+        },
+        {
+          "w": "كَانَ بَشَراً",
+          "r": "خبر لكن جملة كان",
+          "rc": "tx",
+          "e": "كَانَ بَشَراً Ya'qubning payg'ambar bo'lsa ham insoniy tabiatga ega ekanini bildiradi.",
+          "uz": "inson edi"
+        },
+        {
+          "w": "في صَدْرِهِ قَلْبُ بَشَرٍ لا قِطْعَةُ حَجَرٍ",
+          "r": "جملة اسمية بيانية",
+          "rc": "tm",
+          "e": "فِي صَدْرِهِ oldingi xabar, قَلْبُ بَشَرٍ mubtado ma'nosida; لا قِطْعَةُ حَجَرٍ tashbehni inkor qilib rahmli qalbni ta'kidlaydi.",
+          "uz": "ko'ksida tosh emas, inson qalbi bor edi"
+        }
+      ]
+    },
+    {
+      "ar": "فَذَكَرَ يُوسُفَ وَتَجَدَّدَ حُزْنُهُ وَقَالَ: ﴿يَا أَسَفَى عَلَى يُوسُفَ﴾.",
+      "tr": "U Yusufni esladi, qayg'usi yangilandi va: «Oh Yusufga hasratim!» — dedi.",
+      "parts": [
+        {
+          "w": "فَذَكَرَ يُوسُفَ",
+          "r": "فاء تفريع وفعل ومفعول",
+          "rc": "tf",
+          "e": "فَ insoniy qalbdan kelib chiqqan natijani bildiradi; ذَكَرَ fe'li, يُوسُفَ esa eslangan shaxs.",
+          "uz": "Yusufni esladi"
+        },
+        {
+          "w": "وَتَجَدَّدَ حُزْنُهُ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "تَجَدَّدَ yangilanish fe'li, حُزْنُهُ fo'il bo'lib qayg'u yana kuchayganini bildiradi.",
+          "uz": "qayg'usi yangilandi"
+        },
+        {
+          "w": "وَقَالَ يَا أَسَفَى عَلَى يُوسُفَ",
+          "r": "فعل وندبة",
+          "rc": "tb",
+          "e": "يَا أَسَفَى nadba va hasrat iborasi bo'lib, عَلَى يُوسُفَ hasrat nimaga qaratilganini bildiradi.",
+          "uz": "oh Yusufga hasratim dedi"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَامَهُ أَبْنَاؤُهُ وَقَالُوا إِنَّكَ لا تَزَالُ تَذْكُرُ يُوسُفَ حَتَّى تَهْلِكَ.",
+      "tr": "O'g'illari uni malomat qildilar va: Sen halok bo'lguningcha Yusufni eslashda davom etasan, — dedilar.",
+      "parts": [
+        {
+          "w": "وَلَامَهُ أَبْنَاؤُهُ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "لَامَ malomat qilish fe'li, هُ Ya'qubga qaytgan maf'ul, أَبْنَاؤُهُ esa fo'il.",
+          "uz": "o'g'illari uni malomat qildilar"
+        },
+        {
+          "w": "وَقَالُوا إِنَّكَ لا تَزَالُ تَذْكُرُ يُوسُفَ",
+          "r": "قول وإن وخبرها",
+          "rc": "tb",
+          "e": "إِنَّكَ ta'kidli murojaat, لا تَزَالُ davomiylik fe'li, تَذْكُرُ يُوسُفَ esa davom etayotgan eslash amalidir.",
+          "uz": "sen Yusufni eslashda davom etasan"
+        },
+        {
+          "w": "حَتَّى تَهْلِكَ",
+          "r": "غاية وفعل منصوب",
+          "rc": "tb",
+          "e": "حَتَّى chegara bildiradi, تَهْلِكَ esa ularning mubolag'ali tanbehini ifodalaydi.",
+          "uz": "halok bo'lguningcha"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ يَعْقُوبُ: ﴿إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ﴾.",
+      "tr": "Ya'qub dedi: «Men g'amim va qayg'umni faqat Allohga arz qilaman va Allohdan sizlar bilmaydigan narsani bilaman».",
+      "parts": [
+        {
+          "w": "قَالَ يَعْقُوبُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالَ javobni kiritadi, يَعْقُوبُ esa fo'il.",
+          "uz": "Ya'qub dedi"
+        },
+        {
+          "w": "إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
+          "r": "أداة حصر وفعل ومفاعيل",
+          "rc": "tb",
+          "e": "إِنَّمَا hasr bildiradi; أَشْكُو fe'li, بَثِّي وَحُزْنِي shikoyat qilingan holatlar, إِلَى اللَّهِ esa shikoyat yo'nalishi.",
+          "uz": "g'amim va qayg'umni faqat Allohga arz qilaman"
+        },
+        {
+          "w": "وَأَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "أَعْلَمُ oldingi fe'lga atf qilingan; مَا لَا تَعْلَمُونَ esa Ya'qub bilgan, o'g'illari bilmagan ilohiy umidni bildiradi.",
+          "uz": "sizlar bilmaydigan narsani Allohdan bilaman"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْقُوبُ يَعْلَمُ أَنَّ اليَأْسَ كُفْرٌ، وَكَانَ يَعْقُوبُ لَهُ رَجَاءٌ كَبِيرٌ فِي اللَّهِ.",
+      "tr": "Ya'qub noumidlik kufr ekanini bilardi va Ya'qubda Allohdan katta umid bor edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يَعْقُوبُ يَعْلَمُ أَنَّ اليَأْسَ كُفْرٌ",
+          "r": "كان واسمها وخبرها وأن",
+          "rc": "tb",
+          "e": "يَعْلَمُ كَانَning xabar jumlasi, أَنَّ اليَأْسَ كُفْرٌ esa bilish mazmunini bildiradi.",
+          "uz": "Ya'qub noumidlik kufr ekanini bilardi"
+        },
+        {
+          "w": "وَكَانَ يَعْقُوبُ لَهُ رَجَاءٌ كَبِيرٌ فِي اللَّهِ",
+          "r": "كان واسمها وخبر مقدم ومبتدأ مؤخر",
+          "rc": "tb",
+          "e": "لَهُ رَجَاءٌ كَبِيرٌ tarkibi Ya'qub qalbidagi katta umidni bildiradi, فِي اللَّهِ bu umidning Allohga bog'langanini ko'rsatadi.",
+          "uz": "Ya'qubda Allohdan katta umid bor edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرْسَلَ يَعْقُوبُ أَبْنَاءَهُ إِلَى مِصْرَ لِيَبْحَثُوا عَنْ يُوسُفَ وَبِنْيَامِينَ وَيَجْتَهِدُوا فِي ذَلِكَ.",
+      "tr": "Ya'qub o'g'illarini Yusuf va Binyaminni qidirishlari va bu ishda tirishishlari uchun Misrga yubordi.",
+      "parts": [
+        {
+          "w": "وَأَرْسَلَ يَعْقُوبُ أَبْنَاءَهُ إِلَى مِصْرَ",
+          "r": "فعل وفاعل ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "أَرْسَلَ yuborish fe'li, يَعْقُوبُ fo'il, أَبْنَاءَهُ maf'ul, إِلَى مِصْرَ manzil.",
+          "uz": "Ya'qub o'g'illarini Misrga yubordi"
+        },
+        {
+          "w": "لِيَبْحَثُوا عَنْ يُوسُفَ وَبِنْيَامِينَ",
+          "r": "لام التعليل وفعل منصوب",
+          "rc": "tb",
+          "e": "لِ sabab-maqsadni bildiradi, يَبْحَثُوا qidirish fe'li, عَنْ يُوسُفَ وَبِنْيَامِينَ qidiriladigan shaxslar.",
+          "uz": "Yusuf va Binyaminni qidirishlari uchun"
+        },
+        {
+          "w": "وَيَجْتَهِدُوا فِي ذَلِكَ",
+          "r": "فعل معطوف ومتعلق",
+          "rc": "tf",
+          "e": "يَجْتَهِدُوا oldingi maqsad fe'liga atf qilingan, فِي ذَلِكَ esa shu qidiruv ishida tirishishni bildiradi.",
+          "uz": "bu ishda tirishishlari uchun"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَنَعَهُمْ يَعْقُوبُ مِنْ أَنْ يَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ، وَذَهَبَ الإِخْوَةُ إِلَى مِصْرَ مَرَّةً ثَالِثَةً.",
+      "tr": "Ya'qub ularni Allohning rahmatidan noumid bo'lishdan qaytardi va akalari uchinchi marta Misrga ketdilar.",
+      "parts": [
+        {
+          "w": "وَمَنَعَهُمْ يَعْقُوبُ مِنْ أَنْ يَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ",
+          "r": "فعل وفاعل ومصدر مؤول",
+          "rc": "tf",
+          "e": "مَنَعَهُمْ fe'li qaytarishni bildiradi, يَعْقُوبُ fo'il; مِنْ أَنْ يَقْنَطُوا noumid bo'lishdan man qilinganini ko'rsatadi.",
+          "uz": "Ya'qub ularni Alloh rahmatidan noumid bo'lishdan qaytardi"
+        },
+        {
+          "w": "وَذَهَبَ الإِخْوَةُ إِلَى مِصْرَ مَرَّةً ثَالِثَةً",
+          "r": "فعل وفاعل ومتعلقات",
+          "rc": "tf",
+          "e": "ذَهَبَ fe'li yangi safarni bildiradi; مَرَّةً ثَالِثَةً bu borish uchinchi marta ekanini ko'rsatadi.",
+          "uz": "akalar uchinchi marta Misrga ketdilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَدَخَلُوا عَلَى يُوسُفَ وَشَكَوْا إِلَيْهِ فَقْرَهُمْ وَمُصِيبَتَهُمْ وَسَأَلُوهُ الْفَضْلَ.",
+      "tr": "Ular Yusufning oldiga kirdilar, unga faqirliklari va musibatlarini arz qildilar va undan fazl so'radilar.",
+      "parts": [
+        {
+          "w": "وَدَخَلُوا عَلَى يُوسُفَ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "دَخَلُوا kirish fe'li, عَلَى يُوسُفَ esa ular Yusuf huzuriga kirganini bildiradi.",
+          "uz": "Yusufning oldiga kirdilar"
+        },
+        {
+          "w": "وَشَكَوْا إِلَيْهِ فَقْرَهُمْ وَمُصِيبَتَهُمْ",
+          "r": "فعل معطوف ومفاعيل",
+          "rc": "tf",
+          "e": "شَكَوْا arz qilish fe'li, إِلَيْهِ Yusufga yo'nalishni, فَقْرَهُمْ وَمُصِيبَتَهُمْ arz qilingan narsalarni bildiradi.",
+          "uz": "unga faqirliklari va musibatlarini arz qildilar"
+        },
+        {
+          "w": "وَسَأَلُوهُ الْفَضْلَ",
+          "r": "فعل ومفعولان",
+          "rc": "tf",
+          "e": "سَأَلُوهُ fe'lida هُ Yusufga qaytadi, الْفَضْلَ esa so'ralgan narsa.",
+          "uz": "undan fazl so'radilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُنَا هَاجَ الحُزْنُ وَالحُبُّ في يُوسُفَ وَلَمْ يَمْلِكْ نَفْسَهُ.",
+      "tr": "Shu yerda Yusufning ichida qayg'u va muhabbat qo'zg'aldi va u o'zini tutib turolmadi.",
+      "parts": [
+        {
+          "w": "وَهُنَا هَاجَ الحُزْنُ وَالحُبُّ في يُوسُفَ",
+          "r": "ظرف وفعل وفاعل",
+          "rc": "tf",
+          "e": "هُنَا voqea burilish nuqtasi, هَاجَ qo'zg'alish fe'li; الحُزْنُ وَالحُبُّ Yusuf ichidagi ikki kuchli tuyg'u sifatida fo'il.",
+          "uz": "Yusufda qayg'u va muhabbat qo'zg'aldi"
+        },
+        {
+          "w": "وَلَمْ يَمْلِكْ نَفْسَهُ",
+          "r": "فعل منفي ومفعول",
+          "rc": "tf",
+          "e": "لَمْ يَمْلِكْ نَفْسَهُ iborasi o'zini ushlab turolmaslik ma'nosini beradi.",
+          "uz": "o'zini tutib turolmadi"
+        }
+      ]
+    },
+    {
+      "ar": "أَبْنَاءُ أَبِي وَأَبْنَاءُ الأَنْبِيَاءِ يَشْكُونَ فَقَرَهُمْ وَمُصِيبَتَهُمْ إِلى مَلِكٍ مِنَ المُلُوكِ.",
+      "tr": "Otamning o'g'illari, payg'ambarlar avlodlari faqirliklari va musibatlarini podshohlardan bir podshohga arz qilmoqdalar.",
+      "parts": [
+        {
+          "w": "أَبْنَاءُ أَبِي وَأَبْنَاءُ الأَنْبِيَاءِ",
+          "r": "مبتدأ ومعطوف",
+          "rc": "tm",
+          "e": "Bu izofali iboralar Yusufning ichki hayratini bildiruvchi mubtado bo'lib, akalarining sharafli nasabini eslatadi.",
+          "uz": "otamning o'g'illari va payg'ambarlar avlodlari"
+        },
+        {
+          "w": "يَشْكُونَ فَقَرَهُمْ وَمُصِيبَتَهُمْ",
+          "r": "خبر جملة فعلية",
+          "rc": "tx",
+          "e": "يَشْكُونَ xabar fe'li, فَقَرَهُمْ وَمُصِيبَتَهُمْ arz qilinayotgan holatlardir.",
+          "uz": "faqirliklari va musibatlarini arz qilmoqdalar"
+        },
+        {
+          "w": "إِلى مَلِكٍ مِنَ المُلُوكِ",
+          "r": "جار ومجرور",
+          "rc": "tmt",
+          "e": "إِلى مَلِكٍ arz yo'nalishini bildiradi; مِنَ المُلُوكِ bu podshoh oddiy dunyoviy podshohlardan biri ekanini ko'rsatadi.",
+          "uz": "podshohlardan bir podshohga"
+        }
+      ]
+    },
+    {
+      "ar": "إلى مَتَى أُخْفِي الأَمْرَ عَنْهُمْ وَإِلَى مَتَى أَرَى حَالَهُمْ وَإِلَى مَتَى لا أَرَى أَبِي؟",
+      "tr": "Qachongacha ishni ulardan yashiraman, qachongacha ularning holini ko'raman va qachongacha otamni ko'rmayman?",
+      "parts": [
+        {
+          "w": "إلى مَتَى أُخْفِي الأَمْرَ عَنْهُمْ",
+          "r": "استفهام زمان وفعل",
+          "rc": "tb",
+          "e": "إلى مَتَى muddat chegarasini so'raydi; أُخْفِي fe'li sirni yashirish holatini bildiradi.",
+          "uz": "qachongacha ishni ulardan yashiraman"
+        },
+        {
+          "w": "وَإِلَى مَتَى أَرَى حَالَهُمْ",
+          "r": "معطوف على الاستفهام",
+          "rc": "tb",
+          "e": "Ikkinchi savol Yusufning akalari og'ir holatini ko'rishda davom eta olmasligini bildiradi.",
+          "uz": "qachongacha ularning holini ko'raman"
+        },
+        {
+          "w": "وَإِلَى مَتَى لا أَرَى أَبِي",
+          "r": "استفهام معطوف منفي",
+          "rc": "tb",
+          "e": "Uchinchi savol otasi bilan uchrashish sog'inchini ochadi; لا أَرَى inkor qilingan ko'rish fe'li.",
+          "uz": "qachongacha otamni ko'rmayman"
+        }
+      ]
+    },
+    {
+      "ar": "لَمْ يَمْلِكُ يُوسُفُ نَفْسَهُ وَقَالَ لَهُمْ.",
+      "tr": "Yusuf o'zini tutib turolmadi va ularga dedi.",
+      "parts": [
+        {
+          "w": "لَمْ يَمْلِكُ يُوسُفُ نَفْسَهُ",
+          "r": "فعل منفي وفاعل ومفعول",
+          "rc": "tf",
+          "e": "لَمْ bilan kelgan fe'l Yusuf endi hislarini bosib turolmaganini bildiradi; نَفْسَهُ maf'ul.",
+          "uz": "Yusuf o'zini tutib turolmadi"
+        },
+        {
+          "w": "وَقَالَ لَهُمْ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "قَالَ sir ochiladigan nutqni boshlaydi, لَهُمْ akalarga qaratilganini bildiradi.",
+          "uz": "va ularga dedi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَاهِلُونَ﴾.",
+      "tr": "«Johil bo'lgan paytingizda Yusuf va uning ukasiga nima qilganingizni bildingizmi?»",
+      "parts": [
+        {
+          "w": "هَلْ عَلِمْتُم",
+          "r": "استفهام وفعل",
+          "rc": "tf",
+          "e": "هَلْ so'roq harfi, عَلِمْتُم bilish fe'li bo'lib akalarga bevosita murojaat qiladi.",
+          "uz": "bildingizmi"
+        },
+        {
+          "w": "مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ",
+          "r": "اسم موصول وجملة صلة",
+          "rc": "tb",
+          "e": "مَا qilingan ishni bildiradi; فَعَلْتُم sila jumlasi, بِيُوسُفَ وَأَخِيهِ ish kimlarga qaratilganini ko'rsatadi.",
+          "uz": "Yusuf va uning ukasiga nima qilganingizni"
+        },
+        {
+          "w": "إِذْ أَنتُمْ جَاهِلُونَ",
+          "r": "ظرف زمان وجملة اسمية",
+          "rc": "th",
+          "e": "إِذْ o'tgan paytni bildiradi; أَنتُمْ جَاهِلُونَ ularning o'sha vaqtdagi johil holatini ko'rsatadi.",
+          "uz": "johil bo'lgan paytingizda"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ الإِخْوَةُ يَعْلَمُونَ أَنَّ هَذَا السِّرَّ لَا يَعْلَمُهُ إِلَّا يُوسُفُ وَنَحْنُ.",
+      "tr": "Akalari bu sirni faqat Yusuf va biz bilamiz, deb bilardilar.",
+      "parts": [
+        {
+          "w": "وَكَانَ الإِخْوَةُ يَعْلَمُونَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "يَعْلَمُونَ كَانَning xabar jumlasi bo'lib akalarning ichki bilishini bildiradi.",
+          "uz": "akalar bilardilar"
+        },
+        {
+          "w": "أَنَّ هَذَا السِّرَّ",
+          "r": "أن واسمها",
+          "rc": "tb",
+          "e": "هَذَا السِّرَّ ism أن bo'lib Yusuf voqeasidagi maxfiy ishga ishora qiladi.",
+          "uz": "bu sirni"
+        },
+        {
+          "w": "لَا يَعْلَمُهُ إِلَّا يُوسُفُ وَنَحْنُ",
+          "r": "خبر أن بأسلوب الحصر",
+          "rc": "tx",
+          "e": "لا ... إِلَّا hasr uslubi bo'lib bu sirni faqat Yusuf va akalar bilishini bildiradi.",
+          "uz": "faqat Yusuf va biz bilamiz"
+        }
+      ]
+    },
+    {
+      "ar": "فَعَلِمُوا أَنَّهُ يُوسُفُ.",
+      "tr": "Shunda ular uning Yusuf ekanini bildilar.",
+      "parts": [
+        {
+          "w": "فَعَلِمُوا",
+          "r": "فاء تفريع وفعل",
+          "rc": "tf",
+          "e": "فَ oldingi dalildan xulosa chiqaradi, عَلِمُوا esa akalarning tanib qolganini bildiradi.",
+          "uz": "shunda bildilar"
+        },
+        {
+          "w": "أَنَّهُ يُوسُفُ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّهُ عَلِمُوا fe'lining mazmuniy maf'uli, يُوسُفُ esa xabar bo'lib shaxsni ochadi.",
+          "uz": "u Yusuf ekanini"
+        }
+      ]
+    },
+    {
+      "ar": "سُبْحَانَ اللَّهِ! هَلْ يُوسُفُ حَيٌّ، أَمَا مَاتَ فِي الْبِئْرِ؟ يا سَلامُ هَلْ يُوسُفُ هُوَ عَزِيزُ مِصْرَ؟",
+      "tr": "Subhanalloh! Yusuf tirikmi? Quduqda o'lmaganmi? Voy ajab, Yusuf Misr Azizimi?",
+      "parts": [
+        {
+          "w": "سُبْحَانَ اللَّهِ",
+          "r": "مصدر تنزيه",
+          "rc": "tb",
+          "e": "سُبْحَانَ اللَّهِ hayrat va Allohni poklash iborasi bo'lib kutilmagan sir ochilganini bildiradi.",
+          "uz": "Subhanalloh"
+        },
+        {
+          "w": "هَلْ يُوسُفُ حَيٌّ",
+          "r": "استفهام وجملة اسمية",
+          "rc": "tm",
+          "e": "هَلْ so'roq, يُوسُفُ mubtado, حَيٌّ xabar bo'lib ularning hayratini bildiradi.",
+          "uz": "Yusuf tirikmi"
+        },
+        {
+          "w": "أَمَا مَاتَ فِي الْبِئْرِ",
+          "r": "استفهام إنكاري",
+          "rc": "tb",
+          "e": "أَمَا savol-hayrat ohangida kelib, quduqda o'lgan degan eski gumonni eslatadi.",
+          "uz": "quduqda o'lmaganmi"
+        },
+        {
+          "w": "يا سَلامُ هَلْ يُوسُفُ هُوَ عَزِيزُ مِصْرَ",
+          "r": "تعجب واستفهام",
+          "rc": "tb",
+          "e": "يا سَلامُ taajjub iborasi, هَلْ يُوسُفُ هُوَ عَزِيزُ مِصْرَ esa Yusufning maqomi haqidagi hayratli savol.",
+          "uz": "voy ajab, Yusuf Misr Azizimi"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ الَّذِي عَلَى خَزَائِنِ الْأَرْضِ؟",
+      "tr": "Yer xazinalari ustida turgan u kishimi?",
+      "parts": [
+        {
+          "w": "هُوَ الَّذِي",
+          "r": "مبتدأ وخبر موصول",
+          "rc": "tm",
+          "e": "هُوَ mubtado, الَّذِي xabar bo'lib avvalgi hayratli savolni davom ettiradi.",
+          "uz": "u kishimi"
+        },
+        {
+          "w": "عَلَى خَزَائِنِ الْأَرْضِ",
+          "r": "صلة الموصول",
+          "rc": "tmt",
+          "e": "Jar-majrur tarkibi الَّذِيga bog'lanib Yusufning boshqaruv maqomini eslatadi.",
+          "uz": "yer xazinalari ustida"
+        }
+      ]
+    },
+    {
+      "ar": "هُوَ الَّذِي كَانَ يَأْمُرُ لَنَا بِالطَّعَامِ؟",
+      "tr": "Biz uchun taom berishni buyurgan u kishimi?",
+      "parts": [
+        {
+          "w": "هُوَ الَّذِي",
+          "r": "مبتدأ وخبر موصول",
+          "rc": "tm",
+          "e": "Bu takror akalarning hayratini kuchaytiradi, الَّذِي keyingi sila bilan aniqlanadi.",
+          "uz": "u kishimi"
+        },
+        {
+          "w": "كَانَ يَأْمُرُ لَنَا بِالطَّعَامِ",
+          "r": "صلة الموصول",
+          "rc": "ts",
+          "e": "كَانَ يَأْمُرُ davomiy o'tgan harakatni bildiradi; لَنَا va بِالطَّعَامِ taom berish buyrug'i ularga qaratilganini ko'rsatadi.",
+          "uz": "biz uchun taom berishni buyurgan"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَا بَقِيَ عِنْدَهُمْ شَكٌّ أَنَّ الَّذِي يُكَلِّمُهُمْ هُوَ يُوسُفُ بْنُ يَعْقُوبَ!",
+      "tr": "Ular bilan gaplashayotgan kishi Ya'qub o'g'li Yusuf ekaniga ularda hech shubha qolmadi.",
+      "parts": [
+        {
+          "w": "وَمَا بَقِيَ عِنْدَهُمْ شَكٌّ",
+          "r": "نفي وفعل وفاعل",
+          "rc": "tf",
+          "e": "مَا بَقِيَ inkor fe'li bo'lib shubha qolmaganini bildiradi; عِنْدَهُمْ kimda shubha qolmaganini ko'rsatadi.",
+          "uz": "ularda shubha qolmadi"
+        },
+        {
+          "w": "أَنَّ الَّذِي يُكَلِّمُهُمْ",
+          "r": "أن واسم موصول",
+          "rc": "tb",
+          "e": "أَنَّ tarkibi شَكٌّ mazmunini ochadi; الَّذِي يُكَلِّمُهُمْ ular bilan gaplashayotgan shaxsni bildiradi.",
+          "uz": "ular bilan gaplashayotgan kishi"
+        },
+        {
+          "w": "هُوَ يُوسُفُ بْنُ يَعْقُوبَ",
+          "r": "خبر أن",
+          "rc": "tx",
+          "e": "هُوَ ta'kid zamiri, يُوسُفُ بْنُ يَعْقُوبَ esa shaxsni to'liq nasabi bilan ochadi.",
+          "uz": "Ya'qub o'g'li Yusufdir"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا ﴿أَإِنَّكَ لَأَنتَ يُوسُفُ﴾.",
+      "tr": "Ular: «Rostdan ham sen Yusufmisan?» — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالُوا akalarning tan olish oldidagi savolini kiritadi.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "أَإِنَّكَ لَأَنتَ يُوسُفُ",
+          "r": "استفهام وإن وخبر مؤكد",
+          "rc": "tb",
+          "e": "Hamza so'roq, إِنَّكَ ta'kid, لَأَنتَ esa kuchli ta'kid bilan Yusuf ekanini tekshiradi.",
+          "uz": "sen rostdan Yusufmisan"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: ﴿أَنَا يُوسُفُ وَهَذَا أَخِي قَدْ مَنَّ اللَّهُ عَلَيْنَا إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ﴾.",
+      "tr": "U dedi: «Men Yusufman, bu esa ukam. Alloh bizga marhamat qildi. Kim taqvo qilsa va sabr qilsa, Alloh yaxshilik qiluvchilarning ajrini zoye qilmaydi».",
+      "parts": [
+        {
+          "w": "قَالَ أَنَا يُوسُفُ وَهَذَا أَخِي",
+          "r": "قول وجملتان اسميتان",
+          "rc": "tm",
+          "e": "أَنَا يُوسُفُ Yusufning o'zini ochiq tanitishi, وَهَذَا أَخِي esa Binyaminni ko'rsatishidir.",
+          "uz": "men Yusufman, bu ukam"
+        },
+        {
+          "w": "قَدْ مَنَّ اللَّهُ عَلَيْنَا",
+          "r": "قد وفعل وفاعل",
+          "rc": "tf",
+          "e": "قَدْ amalga oshgan ne'matni ta'kidlaydi, مَنَّ اللَّهُ Allohning minnat va ne'matini bildiradi.",
+          "uz": "Alloh bizga marhamat qildi"
+        },
+        {
+          "w": "إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ",
+          "r": "إن وشرط",
+          "rc": "tb",
+          "e": "مَن shart ismi, يَتَّقِ va يَصْبِرْ shart fe'llari bo'lib taqvo va sabrni jamlaydi.",
+          "uz": "kim taqvo qilsa va sabr qilsa"
+        },
+        {
+          "w": "فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+          "r": "جواب الشرط وإن وخبرها",
+          "rc": "tb",
+          "e": "فَ shart javobini kiritadi; لا يُضِيعُ أَجْرَ الْمُحْسِنِينَ Alloh yaxshilik qiluvchilar ajrini zoye qilmasligini bildiradi.",
+          "uz": "Alloh yaxshilik qiluvchilarning ajrini zoye qilmaydi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: ﴿تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَاطِئِينَ﴾.",
+      "tr": "Ular dedilar: «Allohga qasamki, Alloh seni bizdan ustun qildi, biz esa xato qilgan edik».",
+      "parts": [
+        {
+          "w": "قَالُوا تَاللَّهِ",
+          "r": "فعل وقسم",
+          "rc": "tf",
+          "e": "تَاللَّهِ qasam iborasi bo'lib, akalarning iqrorini kuchaytiradi.",
+          "uz": "ular Allohga qasam dedilar"
+        },
+        {
+          "w": "لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا",
+          "r": "لام وقد وفعل وفاعل",
+          "rc": "tf",
+          "e": "لام va قَدْ ta'kidlaydi; آثَرَكَ اللَّهُ Alloh Yusufni ulardan ustun qilganini bildiradi.",
+          "uz": "Alloh seni bizdan ustun qildi"
+        },
+        {
+          "w": "وَإِن كُنَّا لَخَاطِئِينَ",
+          "r": "إن مخففة وكان وخبرها",
+          "rc": "tb",
+          "e": "إِن bu yerda 'haqiqatan' ma'nosida yengillashgan ta'kid, كُنَّا لَخَاطِئِينَ esa ularning xatosini e'tirof etadi.",
+          "uz": "biz xato qilgan edik"
+        }
+      ]
+    },
+    {
+      "ar": "وَمَا لَامَهُمْ يُوسُفُ عَلَى فَعْلَتِهِمْ، بَلْ قَالَ: ﴿لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ﴾.",
+      "tr": "Yusuf ularni qilgan ishlari uchun malomat qilmadi, balki: «Bugun sizlarga malomat yo'q. Alloh sizlarni kechirsin, U rahm qiluvchilarning eng rahmlisidir», — dedi.",
+      "parts": [
+        {
+          "w": "وَمَا لَامَهُمْ يُوسُفُ عَلَى فَعْلَتِهِمْ",
+          "r": "نفي وفعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "مَا لَامَهُمْ inkor fe'li Yusuf ularni koyimaganini bildiradi; عَلَى فَعْلَتِهِمْ koyish sababi bo'lishi mumkin bo'lgan ishga ishora qiladi.",
+          "uz": "Yusuf ularni qilgan ishlari uchun malomat qilmadi"
+        },
+        {
+          "w": "بَلْ قَالَ",
+          "r": "إضراب وفعل",
+          "rc": "tf",
+          "e": "بَلْ malomatdan kechirim so'ziga o'tkazadi.",
+          "uz": "balki dedi"
+        },
+        {
+          "w": "لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ",
+          "r": "لا النافية للجنس واسمها وخبرها",
+          "rc": "tb",
+          "e": "لا تَثْرِيبَ jinsni inkor qiladi, عَلَيْكُمُ xabar, الْيَوْمَ esa shu kunda malomat yo'qligini bildiradi.",
+          "uz": "bugun sizlarga malomat yo'q"
+        },
+        {
+          "w": "يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+          "r": "دعاء وجملة اسمية",
+          "rc": "tb",
+          "e": "يَغْفِرُ اللَّهُ لَكُمْ duo ma'nosida, وَهُوَ أَرْحَمُ الرَّاحِمِينَ esa Allohning rahmatini ta'kidlaydi.",
+          "uz": "Alloh sizlarni kechirsin, U eng rahmlidir"
+        }
+      ]
+    }
+  ]
+}

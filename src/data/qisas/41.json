@@ -1,0 +1,231 @@
+{
+  "title": "٤٢ ـ حُسْنُ الْعَاقِبَةِ",
+  "tuz": "Chiroyli oqibat",
+  "sub": "Yusufning shukri va go'zal yakuni",
+  "page": 60,
+  "sentences": [
+    {
+      "ar": "وَلَمْ يَشْغَلْ يُوسُفَ هَذَا المُلْكُ العَظِيمُ عَنِ اللَّهِ وَلَمْ يُغَيِّرْهُ.",
+      "tr": "Bu buyuk mulk Yusufni Allohdan chalg'itmadi va uni o'zgartirmadi.",
+      "parts": [
+        {
+          "w": "وَلَمْ يَشْغَلْ يُوسُفَ هَذَا المُلْكُ العَظِيمُ",
+          "r": "فعل منفي ومفعول وفاعل",
+          "rc": "tf",
+          "e": "لَمْ يَشْغَلْ inkor qilingan fe'l, يُوسُفَ maf'ul, هَذَا المُلْكُ العَظِيمُ esa fo'il bo'lib mulk Yusufni band qilmaganini bildiradi.",
+          "uz": "bu buyuk mulk Yusufni chalg'itmadi"
+        },
+        {
+          "w": "عَنِ اللَّهِ",
+          "r": "جار ومجرور متعلق بالفعل",
+          "rc": "tmt",
+          "e": "عَنِ اللَّهِ chalg'ish nimadan bo'lishi mumkinligini bildiradi: Allohdan.",
+          "uz": "Allohdan"
+        },
+        {
+          "w": "وَلَمْ يُغَيِّرْهُ",
+          "r": "فعل معطوف منفي",
+          "rc": "tf",
+          "e": "يُغَيِّرْهُ oldingi inkorga atf qilingan; هُ Yusufga qaytib mulk uning axloqini o'zgartirmaganini bildiradi.",
+          "uz": "va uni o'zgartirmadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَذْكُرُ اللَّهَ وَيَعْبُدُهُ وَيَخَافُهُ.",
+      "tr": "Yusuf Allohni zikr qilar, Unga ibodat qilar va Undan qo'rqar edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "كَانَ davomiy odatni bildiradi, يُوسُفُ ism كان.",
+          "uz": "Yusuf edi"
+        },
+        {
+          "w": "يَذْكُرُ اللَّهَ وَيَعْبُدُهُ وَيَخَافُهُ",
+          "r": "خبر كان أفعال معطوفة",
+          "rc": "tx",
+          "e": "Uch fe'l Yusufning doimiy ibodat holatini bayon qiladi: zikr, ibodat va qo'rquv.",
+          "uz": "Allohni zikr qilar, ibodat qilar va Undan qo'rqar edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ يَحْكُمُ بِحُكْمِ اللَّهِ وَيُنَفِّذُ أَوَامِرَ اللَّهِ.",
+      "tr": "Yusuf Allohning hukmi bilan hukm qilar va Allohning buyruqlarini amalga oshirar edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ يَحْكُمُ بِحُكْمِ اللَّهِ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "يَحْكُمُ كَانَning xabar fe'li, بِحُكْمِ اللَّهِ esa hukm qilish mezonini bildiradi.",
+          "uz": "Yusuf Alloh hukmi bilan hukm qilar edi"
+        },
+        {
+          "w": "وَيُنَفِّذُ أَوَامِرَ اللَّهِ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "يُنَفِّذُ oldingi fe'lga atf qilingan; أَوَامِرَ اللَّهِ amalga oshiriladigan buyruqlarni bildiradi.",
+          "uz": "Allohning buyruqlarini amalga oshirar edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يُوسُفُ لا يَرَى المُلْكَ كَثِيراً وَلا يَعُدُّهُ شَيْئاً كَبِيراً وَكَانَ يُوسُفُ لا يُحِبُّ أَنْ يَمُوتَ مَوْتَ مَلِكٍ وَيُحْشَرَ مَعَ المُلوكِ.",
+      "tr": "Yusuf mulkni ko'p deb ko'rmas va uni katta narsa sanamas edi. Yusuf podshoh o'limi bilan o'lishni va podshohlar bilan tiriltirilishni yoqtirmas edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يُوسُفُ لا يَرَى المُلْكَ كَثِيراً",
+          "r": "كان وخبرها فعل منفي",
+          "rc": "tb",
+          "e": "لا يَرَى fe'li Yusufning dunyo mulkini ulug' sanamasligini bildiradi; المُلْكَ maf'ul.",
+          "uz": "Yusuf mulkni ko'p deb ko'rmas edi"
+        },
+        {
+          "w": "وَلا يَعُدُّهُ شَيْئاً كَبِيراً",
+          "r": "فعل معطوف ومفعولان",
+          "rc": "tf",
+          "e": "يَعُدُّهُ sanash fe'li ikki to'ldiruvchi bilan kelgan: هُ mulkka, شَيْئاً كَبِيراً esa bahoga ishora qiladi.",
+          "uz": "uni katta narsa sanamas edi"
+        },
+        {
+          "w": "وَكَانَ يُوسُفُ لا يُحِبُّ أَنْ يَمُوتَ مَوْتَ مَلِكٍ",
+          "r": "كان وخبرها ومصدر مؤول",
+          "rc": "tb",
+          "e": "لا يُحِبُّ Yusufning istagini inkor qiladi; أَنْ يَمُوتَ مَوْتَ مَلِكٍ podshohona o'limni bildiradi.",
+          "uz": "podshoh o'limi bilan o'lishni yoqtirmas edi"
+        },
+        {
+          "w": "وَيُحْشَرَ مَعَ المُلوكِ",
+          "r": "فعل معطوف منصوب",
+          "rc": "tf",
+          "e": "يُحْشَرَ oldingi أَنْ ta'sirida mansub bo'lib, podshohlar bilan tiriltirilishni bildiradi.",
+          "uz": "podshohlar bilan tiriltirilishni"
+        }
+      ]
+    },
+    {
+      "ar": "بَلْ كَانَ يُحِبُّ أَنْ يَمُوتَ مَوْتَ عَبْدٍ وَيُحْشَرَ مَعَ الصَّالِحِينَ.",
+      "tr": "Balki u banda o'limi bilan o'lishni va solihlar bilan tiriltirilishni yaxshi ko'rar edi.",
+      "parts": [
+        {
+          "w": "بَلْ كَانَ يُحِبُّ",
+          "r": "إضراب وكان وخبرها",
+          "rc": "tb",
+          "e": "بَلْ oldingi rad etilgan istakdan haqiqiy istakka o'tkazadi; يُحِبُّ xabar fe'li.",
+          "uz": "balki yaxshi ko'rar edi"
+        },
+        {
+          "w": "أَنْ يَمُوتَ مَوْتَ عَبْدٍ",
+          "r": "مصدر مؤول ومفعول مطلق",
+          "rc": "tb",
+          "e": "أَنْ يَمُوتَ masdar muavval, مَوْتَ عَبْدٍ esa o'lim turini bildiruvchi maf'ul mutlaq.",
+          "uz": "banda o'limi bilan o'lishni"
+        },
+        {
+          "w": "وَيُحْشَرَ مَعَ الصَّالِحِينَ",
+          "r": "فعل معطوف منصوب",
+          "rc": "tf",
+          "e": "يُحْشَرَ oldingi masdar tarkibiga atf qilingan, مَعَ الصَّالِحِينَ esa kimlar bilan tiriltirilishni bildiradi.",
+          "uz": "solihlar bilan tiriltirilishni"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ دُعَاءُ يُوسُفَ:",
+      "tr": "Yusufning duosi shunday edi:",
+      "parts": [
+        {
+          "w": "وَكَانَ دُعَاءُ يُوسُفَ",
+          "r": "كان واسمها",
+          "rc": "tb",
+          "e": "دُعَاءُ يُوسُفَ ism كان bo'lib, keyingi oyat uning duosi ekanini bildiradi.",
+          "uz": "Yusufning duosi edi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ الْأَحَادِيثِ فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ﴾.",
+      "tr": "«Robbim, Sen menga mulkdan berding, tushlar ta'biridan o'rgatding. Osmonlar va yerning yaratuvchisi! Dunyo va oxiratda mening do'stim Sensan. Meni musulmon holda vafot ettir va solihlarga qo'sh».",
+      "parts": [
+        {
+          "w": "رَبِّ",
+          "r": "نداء مضاف",
+          "rc": "tb",
+          "e": "رَبِّ aslida يَا رَبِّ bo'lib, nido harfi hazf qilingan mehrli duo murojaatidir.",
+          "uz": "Robbim"
+        },
+        {
+          "w": "قَدْ آتَيْتَنِي مِنَ الْمُلْكِ",
+          "r": "قد وفعل ومفعول",
+          "rc": "tf",
+          "e": "آتَيْتَنِي fe'lida نِي Yusufga qaytadi; مِنَ الْمُلْكِ berilgan ne'mat turini bildiradi.",
+          "uz": "menga mulkdan berding"
+        },
+        {
+          "w": "وَعَلَّمْتَنِي مِن تَأْوِيلِ الْأَحَادِيثِ",
+          "r": "فعل معطوف ومفعول",
+          "rc": "tf",
+          "e": "عَلَّمْتَنِي ikkinchi ne'matni bildiradi; مِن تَأْوِيلِ الْأَحَادِيثِ tush va hodisalar ta'biri ilmini ko'rsatadi.",
+          "uz": "tushlar ta'biridan o'rgatding"
+        },
+        {
+          "w": "فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ",
+          "r": "منادى أو صفة",
+          "rc": "tb",
+          "e": "فَاطِرَ osmonlar va yer yaratuvchisi ma'nosida Allohga murojaat sifatida kelgan.",
+          "uz": "osmonlar va yerning yaratuvchisi"
+        },
+        {
+          "w": "أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ",
+          "r": "مبتدأ وخبر",
+          "rc": "tm",
+          "e": "أَنتَ mubtado, وَلِيِّي xabar; فِي الدُّنْيَا وَالْآخِرَةِ Allohning do'stligi ikki dunyoni qamrashini bildiradi.",
+          "uz": "dunyo va oxiratda mening do'stim Sensan"
+        },
+        {
+          "w": "تَوَفَّنِي مُسْلِمًا",
+          "r": "فعل دعاء وحال",
+          "rc": "tf",
+          "e": "تَوَفَّنِي duo fe'li, مُسْلِمًا esa Yusuf vafot paytida istagan holatini bildiradi.",
+          "uz": "meni musulmon holda vafot ettir"
+        },
+        {
+          "w": "وَأَلْحِقْنِي بِالصَّالِحِينَ",
+          "r": "فعل أمر دعائي ومتعلق",
+          "rc": "tf",
+          "e": "أَلْحِقْنِي duo buyruq shaklida kelib, Yusufni solihlar qatoriga qo'shishni so'raydi.",
+          "uz": "meni solihlarga qo'sh"
+        }
+      ]
+    },
+    {
+      "ar": "وَتَوَفَّاهُ اللَّهُ مُسْلِماً وَأَلْحَقَهُ بِآبَائِهِ إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ صَلَّى اللَّهُ عَلَيْهِمْ وَعَلَى نَبِيِّنَا وَسَلَّمَ.",
+      "tr": "Alloh uni musulmon holda vafot ettirdi va uni otalari Ibrohim, Ishoq va Ya'qubga qo'shdi. Alloh ularga va Payg'ambarimizga salovot va salom yo'llasin.",
+      "parts": [
+        {
+          "w": "وَتَوَفَّاهُ اللَّهُ مُسْلِماً",
+          "r": "فعل وفاعل ومفعول وحال",
+          "rc": "tf",
+          "e": "تَوَفَّاهُ fe'lida هُ Yusufga qaytadi, اللَّهُ fo'il, مُسْلِماً esa vafot holatini bildiradi.",
+          "uz": "Alloh uni musulmon holda vafot ettirdi"
+        },
+        {
+          "w": "وَأَلْحَقَهُ بِآبَائِهِ إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ",
+          "r": "فعل معطوف ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "أَلْحَقَهُ fe'li Yusufning otalari silsilasiga qo'shilganini bildiradi; إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ badal yoki bayon.",
+          "uz": "uni otalari Ibrohim, Ishoq va Ya'qubga qo'shdi"
+        },
+        {
+          "w": "صَلَّى اللَّهُ عَلَيْهِمْ وَعَلَى نَبِيِّنَا وَسَلَّمَ",
+          "r": "جملة دعائية",
+          "rc": "tb",
+          "e": "Bu yakuniy duo jumlasi payg'ambarlarga va Nabiyimizga salovot-salom tilash uchun kelgan.",
+          "uz": "Alloh ularga va Payg'ambarimizga salovot va salom yo'llasin"
+        }
+      ]
+    }
+  ]
+}

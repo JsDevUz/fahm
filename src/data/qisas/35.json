@@ -1,0 +1,306 @@
+{
+  "title": "٣٦ ـ بَيْنَ يَعْقُوبَ وَأَبْنَائِهِ",
+  "tuz": "Ya'qub va o'g'illari orasida",
+  "sub": "Akalari Binyaminni olib ketish uchun Ya'qubdan ruxsat so'rashadi",
+  "page": 50,
+  "sentences": [
+    {
+      "ar": "وَرَجَعُوا إِلى أَبِيهِمْ وَأَخْبَرُوهُ بِالْخَبرِ وَقَالُوا لَهُ: أَرْسِلْ مَعَنَا أَخَانَا، وإِلَّا لَا نَجِدُ خَيْراً عِنْدَ الْعَزِيزِ.",
+      "tr": "Ular otalariga qaytdilar, unga xabarni aytdilar va: Ukamizni biz bilan yuboring, aks holda Aziz huzurida yaxshilik topmaymiz, — dedilar.",
+      "parts": [
+        {
+          "w": "وَرَجَعُوا إِلى أَبِيهِمْ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "رَجَعُوا qaytish fe'li, واو الجماعة akalarga qaytgan fo'il, إِلى أَبِيهِمْ esa qaytish manzilini bildiradi.",
+          "uz": "otalariga qaytdilar"
+        },
+        {
+          "w": "وَأَخْبَرُوهُ بِالْخَبرِ",
+          "r": "فعل معطوف ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "أَخْبَرُوهُ fe'lida هُ Ya'qubga qaytgan maf'ul, بِالْخَبرِ esa xabar mazmunini bildiradi.",
+          "uz": "unga xabarni aytdilar"
+        },
+        {
+          "w": "وَقَالُوا لَهُ",
+          "r": "فعل معطوف وجار ومجرور",
+          "rc": "tf",
+          "e": "قَالُوا keyingi iltimosni kiritadi, لَهُ esa gap Ya'qubga qaratilganini ko'rsatadi.",
+          "uz": "va unga dedilar"
+        },
+        {
+          "w": "أَرْسِلْ مَعَنَا أَخَانَا",
+          "r": "فعل أمر ومفعول",
+          "rc": "tf",
+          "e": "أَرْسِلْ buyruq fe'li, مَعَنَا safar hamrohligini, أَخَانَا esa yuborilishini so'ragan Binyaminni bildiradi.",
+          "uz": "ukamizni biz bilan yuboring"
+        },
+        {
+          "w": "وإِلَّا لَا نَجِدُ خَيْراً عِنْدَ الْعَزِيزِ",
+          "r": "شرط محذوف وفعل منفي",
+          "rc": "tb",
+          "e": "إِلَّا 'agar yubormasangiz' degan hazf qilingan shartga ishora qiladi; لا نَجِدُ خَيْراً natija, عِنْدَ الْعَزِيزِ esa yaxshilik topiladigan joy.",
+          "uz": "aks holda Aziz huzurida yaxshilik topmaymiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَطَلَبُوا مِنْ يَعْقُوبَ بِنْيَامِينَ وَقَالُوا: ﴿وَإِنَّا لَهُ لَحَافِظُونَ﴾.",
+      "tr": "Ular Ya'qubdan Binyaminni so'radilar va: «Albatta biz uni saqlovchimiz», — dedilar.",
+      "parts": [
+        {
+          "w": "وَطَلَبُوا مِنْ يَعْقُوبَ بِنْيَامِينَ",
+          "r": "فعل وفاعل ومتعلقات",
+          "rc": "tf",
+          "e": "طَلَبُوا fe'li akalarning iltimosini bildiradi; مِنْ يَعْقُوبَ so'ralgan shaxsni, بِنْيَامِينَ esa talab qilingan kishini ko'rsatadi.",
+          "uz": "Ya'qubdan Binyaminni so'radilar"
+        },
+        {
+          "w": "وَقَالُوا",
+          "r": "فعل معطوف",
+          "rc": "tf",
+          "e": "قَالُوا ularning va'da gapini kiritadi.",
+          "uz": "va dedilar"
+        },
+        {
+          "w": "وَإِنَّا لَهُ لَحَافِظُونَ",
+          "r": "إن واسمها وخبرها مؤكد",
+          "rc": "tb",
+          "e": "إِنَّا ta'kidli ismiy gapni boshlaydi, لَهُ Binyaminga qaytadi, لَحَافِظُونَdagi لام xabarni yanada ta'kidlaydi.",
+          "uz": "albatta biz uni saqlovchimiz"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ يَعْقُوبُ: ﴿هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنتُكُمْ عَلَى أَخِيهِ مِن قَبْلُ﴾.",
+      "tr": "Ya'qub dedi: «Men sizlarga uning haqida ilgari akasi haqida ishonganimdek ishonaymi?»",
+      "parts": [
+        {
+          "w": "قَالَ يَعْقُوبُ",
+          "r": "فعل وفاعل",
+          "rc": "tf",
+          "e": "قَالَ javobni kiritadi, يَعْقُوبُ esa fo'il bo'lib otaning ehtiyotkor munosabatini bildiradi.",
+          "uz": "Ya'qub dedi"
+        },
+        {
+          "w": "هَلْ آمَنُكُمْ عَلَيْهِ",
+          "r": "استفهام وفعل ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "هَلْ so'roq harfi, آمَنُكُمْ ishonish fe'li, كُمْ akalarga, عَلَيْهِ Binyaminga qaytadi.",
+          "uz": "sizlarga uning haqida ishonaymi"
+        },
+        {
+          "w": "إِلَّا كَمَا أَمِنتُكُمْ عَلَى أَخِيهِ مِن قَبْلُ",
+          "r": "استثناء وتشبيه",
+          "rc": "tb",
+          "e": "إِلَّا كَمَا bu ishonchni Yusuf voqeasidagi oldingi ishonch bilan taqqoslab, achchiq eslatma ma'nosini beradi.",
+          "uz": "ilgari akasi haqida ishonganimdek"
+        }
+      ]
+    },
+    {
+      "ar": "هَل نَسِيتُمْ قِصَّةَ يُوسُفَ أَتَحْفَظُونَ بِنْيَامِينَ كما حَفِظْتُمْ يُوسُفَ.",
+      "tr": "Yusuf qissasini unutdingizmi? Binyaminni Yusufni saqlaganingizdek saqlaysizmi?",
+      "parts": [
+        {
+          "w": "هَل نَسِيتُمْ قِصَّةَ يُوسُفَ",
+          "r": "استفهام وفعل ومفعول",
+          "rc": "tf",
+          "e": "هَلْ so'roq orqali tanbeh ma'nosini beradi; نَسِيتُمْ fe'li, قِصَّةَ يُوسُفَ esa unutilgan voqea sifatida maf'ul.",
+          "uz": "Yusuf qissasini unutdingizmi"
+        },
+        {
+          "w": "أَتَحْفَظُونَ بِنْيَامِينَ",
+          "r": "همزة استفهام وفعل ومفعول",
+          "rc": "tf",
+          "e": "أَ so'roq hamzasi tanbeh ohangini beradi; تَحْفَظُونَ saqlash fe'li, بِنْيَامِينَ saqlanishi da'vo qilingan shaxs.",
+          "uz": "Binyaminni saqlaysizmi"
+        },
+        {
+          "w": "كما حَفِظْتُمْ يُوسُفَ",
+          "r": "تشبيه ساخر",
+          "rc": "tb",
+          "e": "كَمَا taqqoslovchi vosita bo'lib, Ya'qubning achchiq eslatmasini bildiradi: ular Yusufni ham 'saqlagan' edilar.",
+          "uz": "Yusufni saqlaganingizdek"
+        }
+      ]
+    },
+    {
+      "ar": "﴿فَاللَّهُ خَيْرٌ حَافِظًا وَهُوَ أَرْحَمُ الرَّاحِمِينَ﴾.",
+      "tr": "«Alloh eng yaxshi saqlovchidir va U rahm qiluvchilarning eng rahmlisidir».",
+      "parts": [
+        {
+          "w": "فَاللَّهُ خَيْرٌ حَافِظًا",
+          "r": "فاء تفريع ومبتدأ وخبر وتمييز",
+          "rc": "tm",
+          "e": "فَ oldingi insoniy ishonchsizlikdan ilohiy ishonchga o'tkazadi; اللَّهُ mubtado, خَيْرٌ xabar, حَافِظًا esa tamyiz.",
+          "uz": "Alloh eng yaxshi saqlovchidir"
+        },
+        {
+          "w": "وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+          "r": "جملة اسمية معطوفة",
+          "rc": "tm",
+          "e": "هُوَ mubtado, أَرْحَمُ الرَّاحِمِينَ xabar bo'lib Allohning rahmati eng mukammal ekanini bildiradi.",
+          "uz": "U rahm qiluvchilarning eng rahmlisidir"
+        }
+      ]
+    },
+    {
+      "ar": "وَوَجَدُوا مَالَهُمْ فِي مَتَاعِهِمْ فَقَالُوا لأَبِيهِمْ: إِنَّ الْعَزِيزَ رَجُلٌ كَرِيمٌ، قَدْ رَدَّ مَالَنَا وَلَمْ يَأْخُذْ مِنَّا ثَمَناً.",
+      "tr": "Ular mollarini yuklari ichida topdilar va otalariga: Albatta Aziz karim kishidir, molimizni qaytaribdi va bizdan haq olmabdi, — dedilar.",
+      "parts": [
+        {
+          "w": "وَوَجَدُوا مَالَهُمْ فِي مَتَاعِهِمْ",
+          "r": "فعل وفاعل ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "وَجَدُوا fe'li topishni bildiradi, واو الجماعة fo'il, مَالَهُمْ maf'ul, فِي مَتَاعِهِمْ esa mol topilgan joyni ko'rsatadi.",
+          "uz": "mollarini yuklari ichida topdilar"
+        },
+        {
+          "w": "فَقَالُوا لأَبِيهِمْ",
+          "r": "فاء تعقيب وفعل ومتعلق",
+          "rc": "tf",
+          "e": "فَ topishdan keyingi darhol aytilgan gapni bildiradi; لِأَبِيهِمْ gap kimga qaratilganini ko'rsatadi.",
+          "uz": "otalariga dedilar"
+        },
+        {
+          "w": "إِنَّ الْعَزِيزَ رَجُلٌ كَرِيمٌ",
+          "r": "إن واسمها وخبرها وصفة",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid harfi, الْعَزِيزَ ism إن, رَجُلٌ xabar, كَرِيمٌ esa Azizning saxovatini bildiruvchi sifat.",
+          "uz": "Aziz karim kishidir"
+        },
+        {
+          "w": "قَدْ رَدَّ مَالَنَا وَلَمْ يَأْخُذْ مِنَّا ثَمَناً",
+          "r": "جملتان فعليتان",
+          "rc": "tf",
+          "e": "قَدْ رَدَّ birinchi fe'l qaytarishni tasdiqlaydi; وَلَمْ يَأْخُذْ ikkinchi inkor fe'li bo'lib ulardan haq olinmaganini bildiradi.",
+          "uz": "molimizni qaytardi va bizdan haq olmadi"
+        }
+      ]
+    },
+    {
+      "ar": "أَرْسِلْ مَعَنَا بِنْيَامِينَ نَأْخُذْ حَقَّهُ أَيْضاً.",
+      "tr": "Binyaminni biz bilan yuboring, uning hissasini ham olaylik.",
+      "parts": [
+        {
+          "w": "أَرْسِلْ مَعَنَا بِنْيَامِينَ",
+          "r": "فعل أمر ومفعول",
+          "rc": "tf",
+          "e": "أَرْسِلْ buyruq fe'li, مَعَنَا safar hamrohligini, بِنْيَامِينَ esa yuborilishi so'ralayotgan shaxsni bildiradi.",
+          "uz": "Binyaminni biz bilan yuboring"
+        },
+        {
+          "w": "نَأْخُذْ حَقَّهُ أَيْضاً",
+          "r": "جواب الطلب ومفعول",
+          "rc": "tf",
+          "e": "نَأْخُذْ buyruqdan ko'zlangan natija sifatida kelgan, حَقَّهُ Binyaminga tegishli ulush, أَيْضاً qo'shimchalik ma'nosini beradi.",
+          "uz": "uning hissasini ham olaylik"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ لَهُمْ يَعْقُوبُ لَنْ أُرْسِلَهُ مَعَكُمْ حَتَّى تُعَاهِدُوا اللَّهَ أَنَّكُمْ تَرْجِعُونَ بِهِ إِلَّا أَنْ تُغْلَبُوا عَلَى أَمْرِكُمْ.",
+      "tr": "Ya'qub ularga dedi: Sizlar Alloh nomi bilan uni qaytarib olib kelishga ahd bermaguningizcha, mag'lub bo'lib qolishingiz bundan mustasno, uni sizlar bilan yubormayman.",
+      "parts": [
+        {
+          "w": "قَالَ لَهُمْ يَعْقُوبُ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "قَالَ javobni kiritadi, يَعْقُوبُ fo'il, لَهُمْ esa gap o'g'illariga qaratilganini bildiradi.",
+          "uz": "Ya'qub ularga dedi"
+        },
+        {
+          "w": "لَنْ أُرْسِلَهُ مَعَكُمْ",
+          "r": "فعل مضارع منصوب بلن",
+          "rc": "tf",
+          "e": "لَنْ kelajak inkorini bildiradi va أُرْسِلَ fe'lini nasb qiladi; هُ Binyaminga qaytadi, مَعَكُمْ esa hamrohlikni bildiradi.",
+          "uz": "uni sizlar bilan yubormayman"
+        },
+        {
+          "w": "حَتَّى تُعَاهِدُوا اللَّهَ",
+          "r": "غاية وفعل منصوب ومفعول",
+          "rc": "tb",
+          "e": "حَتَّى shartga o'xshash chegara ma'nosini beradi; تُعَاهِدُوا اللَّهَ Alloh nomi bilan ahd qilishni bildiradi.",
+          "uz": "Allohga ahd bermaguningizcha"
+        },
+        {
+          "w": "أَنَّكُمْ تَرْجِعُونَ بِهِ",
+          "r": "أن واسمها وخبرها",
+          "rc": "tb",
+          "e": "أَنَّكُمْ tarkibi ahd mazmunini bayon qiladi; تَرْجِعُونَ بِهِ esa Binyaminni qaytarib olib kelish va'dasidir.",
+          "uz": "uni qaytarib olib kelishingizni"
+        },
+        {
+          "w": "إِلَّا أَنْ تُغْلَبُوا عَلَى أَمْرِكُمْ",
+          "r": "استثناء ومصدر مؤول",
+          "rc": "tb",
+          "e": "إِلَّا istisno kiritadi; أَنْ تُغْلَبُوا majhul fe'l bilan kelib ularning o'z ixtiyoridan tashqari yengilishi holatini bildiradi.",
+          "uz": "mag'lub bo'lib qolishingiz bundan mustasno"
+        }
+      ]
+    },
+    {
+      "ar": "وَعاهَدُوا اللَّهَ وَقَالَ يَعْقُوبُ: ﴿اللَّهُ عَلَى مَا نَقُولُ وَكِيلٌ﴾.",
+      "tr": "Ular Alloh nomi bilan ahd berdilar. Ya'qub dedi: «Alloh aytayotgan narsamiz ustida vakildir».",
+      "parts": [
+        {
+          "w": "وَعاهَدُوا اللَّهَ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "عاهَدُوا fe'li ahd qilishni bildiradi, واو الجماعة akalarga qaytadi, اللَّهَ esa ahd kim nomi bilan qilinganini ko'rsatadi.",
+          "uz": "Allohga ahd berdilar"
+        },
+        {
+          "w": "وَقَالَ يَعْقُوبُ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "قَالَ Ya'qubning yakuniy ishonch so'zini kiritadi.",
+          "uz": "Ya'qub dedi"
+        },
+        {
+          "w": "اللَّهُ عَلَى مَا نَقُولُ وَكِيلٌ",
+          "r": "مبتدأ وخبر ومتعلق",
+          "rc": "tm",
+          "e": "اللَّهُ mubtado, وَكِيلٌ xabar, عَلَى مَا نَقُولُ esa Alloh guvoh va vakil bo'lgan ahd mazmunini bildiradi.",
+          "uz": "Alloh aytayotganimizga vakildir"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ يَعْقُوبُ لِبَنِيهِ: ﴿يَا بَنِيَّ لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ وَادْخُلُوا مِنْ أَبْوَابٍ مُّتَفَرِّقَةٍ﴾.",
+      "tr": "Ya'qub o'g'illariga dedi: «Ey o'g'illarim, bir eshikdan kirmanglar, turli eshiklardan kiringlar».",
+      "parts": [
+        {
+          "w": "وَقَالَ يَعْقُوبُ لِبَنِيهِ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "قَالَ nasihatni kiritadi, يَعْقُوبُ fo'il, لِبَنِيهِ esa nasihat qabul qiluvchilarni bildiradi.",
+          "uz": "Ya'qub o'g'illariga dedi"
+        },
+        {
+          "w": "يَا بَنِيَّ",
+          "r": "نداء مضاف إلى ياء المتكلم",
+          "rc": "tb",
+          "e": "يَا nido harfi, بَنِيَّ esa mehr va otalik murojaatini bildiruvchi munodo.",
+          "uz": "ey o'g'illarim"
+        },
+        {
+          "w": "لَا تَدْخُلُوا مِن بَابٍ وَاحِدٍ",
+          "r": "نهي وفعل ومتعلق",
+          "rc": "tf",
+          "e": "لَا nahiyadir, تَدْخُلُوا man qilingan fe'l, مِن بَابٍ وَاحِدٍ esa bir eshikdan kirishni bildiradi.",
+          "uz": "bir eshikdan kirmanglar"
+        },
+        {
+          "w": "وَادْخُلُوا مِنْ أَبْوَابٍ مُّتَفَرِّقَةٍ",
+          "r": "فعل أمر ومتعلق وصفة",
+          "rc": "tf",
+          "e": "ادْخُلُوا buyruq fe'li, مِنْ أَبْوَابٍ مُّتَفَرِّقَةٍ esa tarqalgan eshiklardan kirish yo'lini bildiradi.",
+          "uz": "turli eshiklardan kiringlar"
+        }
+      ]
+    }
+  ]
+}

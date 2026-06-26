@@ -1,0 +1,324 @@
+{
+  "title": "٤١ ـ يَعْقُوبُ عِنْدَ يُوسُفَ",
+  "tuz": "Ya'qub Yusuf huzurida",
+  "sub": "Ya'qubning ko'zi ochiladi va oilasi Misrga keladi",
+  "page": 59,
+  "sentences": [
+    {
+      "ar": "وَلَمَّا سَارَ الرِّجَالُ بِقَمِيصِ يُوسُفَ إِلَى كَنْعَانَ، أَحَسَّ يَعْقُوبُ رَائِحَةَ يُوسُفَ، وَقَالَ: ﴿إِنِّي لَأَجِدُ رِيحَ يُوسُفَ﴾.",
+      "tr": "Erkaklar Yusufning ko'ylagi bilan Kan'onga yo'l olganlarida, Ya'qub Yusufning hidini sezdi va: «Men Yusufning hidini topyapman», — dedi.",
+      "parts": [
+        {
+          "w": "وَلَمَّا سَارَ الرِّجَالُ بِقَمِيصِ يُوسُفَ إِلَى كَنْعَانَ",
+          "r": "ظرف شرط وفعل وفاعل ومتعلقات",
+          "rc": "tb",
+          "e": "لَمَّا vaqt-shart ma'nosini beradi; سَارَ fe'li, الرِّجَالُ fo'il, بِقَمِيصِ يُوسُفَ vosita, إِلَى كَنْعَانَ manzil.",
+          "uz": "erkaklar Yusufning ko'ylagi bilan Kan'onga yo'l olganda"
+        },
+        {
+          "w": "أَحَسَّ يَعْقُوبُ رَائِحَةَ يُوسُفَ",
+          "r": "جواب لما وفعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "أَحَسَّ sezish fe'li, يَعْقُوبُ fo'il, رَائِحَةَ يُوسُفَ sezilgan narsa sifatida maf'ul.",
+          "uz": "Ya'qub Yusufning hidini sezdi"
+        },
+        {
+          "w": "وَقَالَ إِنِّي لَأَجِدُ رِيحَ يُوسُفَ",
+          "r": "قول وإن وخبر مؤكد",
+          "rc": "tb",
+          "e": "إِنِّي ta'kidli gap, لَأَجِدُdagi لام sezish ishonchini kuchaytiradi.",
+          "uz": "men Yusufning hidini topyapman dedi"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: ﴿تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ﴾.",
+      "tr": "Ular: «Allohga qasamki, sen hanuz eski adashuvingdasan», — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا تَاللَّهِ",
+          "r": "فعل وقسم",
+          "rc": "tf",
+          "e": "تَاللَّهِ qasam iborasi bo'lib ularning keskin javobini kuchaytiradi.",
+          "uz": "ular Allohga qasam dedilar"
+        },
+        {
+          "w": "إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+          "r": "إن واسمها وخبر مؤكد",
+          "rc": "tb",
+          "e": "إِنَّكَ ta'kid, لَفِي ضَلَالِكَ xabarni kuchaytiradi, الْقَدِيمِ esa ularning nazarida bu fikr eski holat ekanini bildiradi.",
+          "uz": "sen eski adashuvingdasan"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنْ كَانَ يَعْقُوبُ صَادِقاً، فَلَمَّا أَن جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَى وَجْهِهِ، فَارْتَدَّ بَصِيرًا قَالَ: ﴿أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ﴾.",
+      "tr": "Lekin Ya'qub rostgo'y edi. Xushxabarchi kelib ko'ylakni uning yuziga tashlagach, u ko'zi ochiq holga qaytdi va dedi: «Sizlarga men Allohdan sizlar bilmaydigan narsani bilaman demaganmidim?»",
+      "parts": [
+        {
+          "w": "وَلَكِنْ كَانَ يَعْقُوبُ صَادِقاً",
+          "r": "استدراك وكان واسمها وخبرها",
+          "rc": "tb",
+          "e": "لَكِنْ oldingi inkor javobini rad etadi; كَانَ يَعْقُوبُ صَادِقاً Ya'qubning sezgisi rost ekanini bildiradi.",
+          "uz": "lekin Ya'qub rostgo'y edi"
+        },
+        {
+          "w": "فَلَمَّا أَن جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَى وَجْهِهِ",
+          "r": "لما وفعل وفاعل وجواب",
+          "rc": "tb",
+          "e": "لَمَّا vaqt sharti, جَاءَ الْبَشِيرُ shart, أَلْقَاهُ عَلَى وَجْهِهِ esa xushxabarchi ko'ylakni yuziga tashlaganini bildiradi.",
+          "uz": "xushxabarchi kelib uni yuziga tashlagach"
+        },
+        {
+          "w": "فَارْتَدَّ بَصِيرًا",
+          "r": "فاء تعقيب وفعل وحال",
+          "rc": "tf",
+          "e": "ارْتَدَّ qaytish fe'li, بَصِيرًا hol bo'lib ko'zi ochiq holga qaytganini bildiradi.",
+          "uz": "ko'zi ochiq holga qaytdi"
+        },
+        {
+          "w": "أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ",
+          "r": "استفهام تقريري",
+          "rc": "tb",
+          "e": "أَلَمْ أَقُلُ tasdiqlatish savoli, إِنِّي أَعْلَمُ... Ya'qubning oldingi ishonchini eslatadi.",
+          "uz": "sizlarga men Allohdan sizlar bilmaydigan narsani bilaman demaganmidim"
+        }
+      ]
+    },
+    {
+      "ar": "قَالُوا: ﴿يَا أَبَانَا اسْتَغْفِرْ لَنَا ذُنُوبَنَا إِنَّا كُنَّا خَاطِئِينَ﴾.",
+      "tr": "Ular: «Ey otamiz, gunohlarimiz uchun bizga mag'firat so'ra. Albatta biz xato qilgan edik», — dedilar.",
+      "parts": [
+        {
+          "w": "قَالُوا يَا أَبَانَا",
+          "r": "فعل ونداء",
+          "rc": "tb",
+          "e": "يَا أَبَانَا mehr va uzr ohangidagi murojaat bo'lib, o'g'illar otasidan kechirim so'rashga kirishadi.",
+          "uz": "ular ey otamiz dedilar"
+        },
+        {
+          "w": "اسْتَغْفِرْ لَنَا ذُنُوبَنَا",
+          "r": "فعل أمر ومتعلقات",
+          "rc": "tf",
+          "e": "اسْتَغْفِرْ buyruq-iltimos fe'li, لَنَا ular uchun, ذُنُوبَنَا esa mag'firat so'raladigan gunohlarni bildiradi.",
+          "uz": "gunohlarimiz uchun bizga mag'firat so'ra"
+        },
+        {
+          "w": "إِنَّا كُنَّا خَاطِئِينَ",
+          "r": "إن واسمها وخبرها كان",
+          "rc": "tb",
+          "e": "إِنَّا ta'kidli iqror, كُنَّا خَاطِئِينَ xato qilganlikni tan olishdir.",
+          "uz": "biz xato qilgan edik"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَ: ﴿سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ﴾.",
+      "tr": "U dedi: «Sizlar uchun Robbimdan mag'firat so'rayman. Albatta U mag'firatli va rahmlidir».",
+      "parts": [
+        {
+          "w": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّي",
+          "r": "فعل وقول واستقبال",
+          "rc": "tf",
+          "e": "سَوْفَ kelajakni bildiradi, أَسْتَغْفِرُ fe'li Ya'qubning ular uchun istig'for qilish va'dasini ko'rsatadi.",
+          "uz": "sizlar uchun Robbimdan mag'firat so'rayman dedi"
+        },
+        {
+          "w": "إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+          "r": "إن واسمها وخبرها",
+          "rc": "tb",
+          "e": "إِنَّهُ ta'kid, هُوَ fasl yoki ta'kid zamiri, الْغَفُورُ الرَّحِيمُ Allohning mag'firat va rahmat sifatlari.",
+          "uz": "U mag'firatli va rahmlidir"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَمَّا وَصَلَ يَعْقُوبُ إلى مِصْرَ اسْتَقْبَلَهُ يُوسُفُ، وَلا تَسْأَلْ عَنْ فَرَحِهِمَا وَسُرُورِهِمَا.",
+      "tr": "Ya'qub Misrga yetib kelgach, Yusuf uni kutib oldi. Ularning quvonch va shodligi haqida so'rama!",
+      "parts": [
+        {
+          "w": "وَلَمَّا وَصَلَ يَعْقُوبُ إلى مِصْرَ",
+          "r": "لما وفعل وفاعل ومتعلق",
+          "rc": "tb",
+          "e": "لَمَّا vaqt-sharti, وَصَلَ fe'li, يَعْقُوبُ fo'il, إلى مِصْرَ yetib borilgan manzil.",
+          "uz": "Ya'qub Misrga yetib kelgach"
+        },
+        {
+          "w": "اسْتَقْبَلَهُ يُوسُفُ",
+          "r": "جواب لما وفعل ومفعول وفاعل",
+          "rc": "tf",
+          "e": "اسْتَقْبَلَهُ kutib olish fe'li, هُ Ya'qubga qaytgan maf'ul, يُوسُفُ fo'il.",
+          "uz": "Yusuf uni kutib oldi"
+        },
+        {
+          "w": "وَلا تَسْأَلْ عَنْ فَرَحِهِمَا وَسُرُورِهِمَا",
+          "r": "نهي بلاغي",
+          "rc": "tb",
+          "e": "لا تَسْأَلْ iborasi quvonchning tasvirlab bo'lmas darajada kuchli ekanini bildiradi.",
+          "uz": "ularning quvonchi haqida so'rama"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَوْماً مَشْهُوداً فِي مِصْرَ وَكَانَ يَوْماً مُبَارَكاً.",
+      "tr": "Bu Misrda guvoh bo'lingan mashhur kun va muborak kun edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ يَوْماً مَشْهُوداً فِي مِصْرَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "كَانَning ismi voqeaga qaytgan yashirin zamir; يَوْماً مَشْهُوداً xabar bo'lib Misrda esda qolgan kunni bildiradi.",
+          "uz": "Misrda mashhur kun edi"
+        },
+        {
+          "w": "وَكَانَ يَوْماً مُبَارَكاً",
+          "r": "جملة معطوفة",
+          "rc": "tb",
+          "e": "Ikkinchi كَانَ jumlasi kunning barakali ekanini alohida ta'kidlaydi.",
+          "uz": "muborak kun edi"
+        }
+      ]
+    },
+    {
+      "ar": "وَرَفَعَ يُوسُفُ أَبَوَيْهِ عَلَى الْعَرْشِ وَوَقَعُوا كُلُّهُمْ سُجَّداً لِيُوسُفَ.",
+      "tr": "Yusuf ota-onasini taxt ustiga ko'tardi va ularning barchasi Yusuf uchun sajda holiga tushdilar.",
+      "parts": [
+        {
+          "w": "وَرَفَعَ يُوسُفُ أَبَوَيْهِ عَلَى الْعَرْشِ",
+          "r": "فعل وفاعل ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "رَفَعَ ko'tarish fe'li, يُوسُفُ fo'il, أَبَوَيْهِ ikkilik maf'ul, عَلَى الْعَرْشِ joyni bildiradi.",
+          "uz": "Yusuf ota-onasini taxt ustiga ko'tardi"
+        },
+        {
+          "w": "وَوَقَعُوا كُلُّهُمْ سُجَّداً لِيُوسُفَ",
+          "r": "فعل وفاعل وحال",
+          "rc": "tf",
+          "e": "وَقَعُوا fe'li sajda holiga tushishni bildiradi; كُلُّهُمْ umumlikni, سُجَّداً holni, لِيُوسُفَ yo'nalishni bildiradi.",
+          "uz": "barchasi Yusuf uchun sajda qildilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَالَ يُوسُفُ: ﴿يَا أَبَتِ هَذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا﴾.",
+      "tr": "Yusuf dedi: «Ey otajon, bu avvalgi tushimning ta'biridir. Robbim uni haq qildi».",
+      "parts": [
+        {
+          "w": "وَقَالَ يُوسُفُ يَا أَبَتِ",
+          "r": "فعل وفاعل ونداء",
+          "rc": "tf",
+          "e": "يَا أَبَتِ mehrli nido bo'lib Yusuf otasiga murojaat qiladi.",
+          "uz": "Yusuf ey otajon dedi"
+        },
+        {
+          "w": "هَذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ",
+          "r": "مبتدأ وخبر",
+          "rc": "tm",
+          "e": "هَذَا mubtado, تَأْوِيلُ رُؤْيَايَ xabar; مِن قَبْلُ tushning avval ko'rilganini bildiradi.",
+          "uz": "bu avvalgi tushimning ta'biri"
+        },
+        {
+          "w": "قَدْ جَعَلَهَا رَبِّي حَقًّا",
+          "r": "قد وفعل وفاعل ومفعولان",
+          "rc": "tf",
+          "e": "جَعَلَهَا fe'li ikki to'ldiruvchi bilan kelgan: هَا tushga qaytadi, حَقًّا esa uning ro'yobga chiqqan holati.",
+          "uz": "Robbim uni haq qildi"
+        }
+      ]
+    },
+    {
+      "ar": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ.",
+      "tr": "Men o'n bir yulduzni, quyosh va oyni ko'rgan edim; ularni menga sajda qilayotgan holda ko'rgan edim.",
+      "parts": [
+        {
+          "w": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
+          "r": "إن واسمها وخبرها ومفعول",
+          "rc": "tb",
+          "e": "إِنِّي ta'kid, رَأَيْتُ fe'l, أَحَدَ عَشَرَ كَوْكَبًا son-sanalmish maf'ul.",
+          "uz": "men o'n bir yulduzni ko'rdim"
+        },
+        {
+          "w": "وَالشَّمْسَ وَالْقَمَرَ",
+          "r": "معطوفان على المفعول",
+          "rc": "tb",
+          "e": "الشَّمْسَ va الْقَمَرَ oldingi maf'ulga atf qilingan bo'lib tushdagi ramzlarni to'ldiradi.",
+          "uz": "quyosh va oyni"
+        },
+        {
+          "w": "رَأَيْتُهُمْ لِي سَاجِدِينَ",
+          "r": "فعل ومفعول وحال",
+          "rc": "tf",
+          "e": "رَأَيْتُهُمْ takror fe'l, سَاجِدِينَ hol bo'lib tushdagi sajda holatini bildiradi.",
+          "uz": "ularni menga sajda qilayotgan holda ko'rdim"
+        }
+      ]
+    },
+    {
+      "ar": "وَحَمِدَ يُوسُفُ اللَّهَ حَمْداً طَيِّباً كَثِيراً.",
+      "tr": "Yusuf Allohga chiroyli va ko'p hamd aytdi.",
+      "parts": [
+        {
+          "w": "وَحَمِدَ يُوسُفُ اللَّهَ",
+          "r": "فعل وفاعل ومفعول",
+          "rc": "tf",
+          "e": "حَمِدَ hamd aytish fe'li, يُوسُفُ fo'il, اللَّهَ esa hamd aytilgan Zot sifatida maf'ul.",
+          "uz": "Yusuf Allohga hamd aytdi"
+        },
+        {
+          "w": "حَمْداً طَيِّباً كَثِيراً",
+          "r": "مفعول مطلق وصفات",
+          "rc": "tb",
+          "e": "حَمْداً maf'ul mutlaq bo'lib fe'lni kuchaytiradi; طَيِّباً كَثِيراً hamdning sifatlarini bildiradi.",
+          "uz": "chiroyli ko'p hamd"
+        }
+      ]
+    },
+    {
+      "ar": "وَشَكَرَ يُوسُفُ عَلَى ذَلِكَ شُكْراً عَظِيماً.",
+      "tr": "Yusuf buning uchun buyuk shukr qildi.",
+      "parts": [
+        {
+          "w": "وَشَكَرَ يُوسُفُ عَلَى ذَلِكَ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "شَكَرَ shukr qilish fe'li, يُوسُفُ fo'il, عَلَى ذَلِكَ esa shukr sababi.",
+          "uz": "Yusuf buning uchun shukr qildi"
+        },
+        {
+          "w": "شُكْراً عَظِيماً",
+          "r": "مفعول مطلق وصفة",
+          "rc": "tb",
+          "e": "شُكْراً maf'ul mutlaq, عَظِيماً esa shukrning ulug'ligini bildiradi.",
+          "uz": "buyuk shukr"
+        }
+      ]
+    },
+    {
+      "ar": "وَبَقِيَ يَعْقُوبُ وَآلُ يَعْقُوبَ فِي مِصْرَ زَمناً طَوِيلاً وَمَاتَ يَعْقُوبُ وَزَوْجُهُ فِي مِصْرَ.",
+      "tr": "Ya'qub va Ya'qub oilasi Misrda uzoq vaqt qoldilar, Ya'qub va uning jufti Misrda vafot etdilar.",
+      "parts": [
+        {
+          "w": "وَبَقِيَ يَعْقُوبُ وَآلُ يَعْقُوبَ فِي مِصْرَ",
+          "r": "فعل وفاعل ومعطوف ومتعلق",
+          "rc": "tf",
+          "e": "بَقِيَ qolish fe'li, يَعْقُوبُ وَآلُ يَعْقُوبَ fo'il tarkibi, فِي مِصْرَ joyni bildiradi.",
+          "uz": "Ya'qub va oilasi Misrda qoldilar"
+        },
+        {
+          "w": "زَمناً طَوِيلاً",
+          "r": "ظرف زمان وصفة",
+          "rc": "th",
+          "e": "زَمناً طَوِيلاً qolish muddatining uzunligini bildiradi.",
+          "uz": "uzoq vaqt"
+        },
+        {
+          "w": "وَمَاتَ يَعْقُوبُ وَزَوْجُهُ فِي مِصْرَ",
+          "r": "فعل معطوف وفاعل",
+          "rc": "tf",
+          "e": "مَاتَ fe'li, يَعْقُوبُ وَزَوْجُهُ fo'il tarkibi, فِي مِصْرَ vafot joyini bildiradi.",
+          "uz": "Ya'qub va jufti Misrda vafot etdilar"
+        }
+      ]
+    }
+  ]
+}

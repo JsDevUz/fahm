@@ -1,0 +1,163 @@
+{
+  "title": "٤٠ ـ يُوسُفُ يُرْسِلُ إِلَى يَعْقُوبَ",
+  "tuz": "Yusuf Ya'qubga yuboradi",
+  "sub": "Yusuf otasiga ko'ylagini yuboradi",
+  "page": 58,
+  "sentences": [
+    {
+      "ar": "وَاشْتَاقَ يُوسُفُ إلى لِقَاءِ يَعْقُوبَ، وَكَيْفَ لَا يَشْتَاقُ إِلَيْهِ وَقَدْ طَالَ الْفِرَاقُ.",
+      "tr": "Yusuf Ya'qub bilan uchrashishga mushtoq bo'ldi. Ayriliq uzoq cho'zilgan bo'lsa, qanday qilib mushtoq bo'lmasin?",
+      "parts": [
+        {
+          "w": "وَاشْتَاقَ يُوسُفُ إلى لِقَاءِ يَعْقُوبَ",
+          "r": "فعل وفاعل ومتعلق",
+          "rc": "tf",
+          "e": "اشْتَاقَ sog'inish fe'li, يُوسُفُ fo'il, إلى لِقَاءِ يَعْقُوبَ esa sog'inch yo'nalishi.",
+          "uz": "Yusuf Ya'qub bilan uchrashishga mushtoq bo'ldi"
+        },
+        {
+          "w": "وَكَيْفَ لَا يَشْتَاقُ إِلَيْهِ",
+          "r": "استفهام إنكاري",
+          "rc": "tb",
+          "e": "كَيْفَ inkoriy savol bo'lib bunday sog'inch tabiiy ekanini bildiradi.",
+          "uz": "qanday qilib unga mushtoq bo'lmasin"
+        },
+        {
+          "w": "وَقَدْ طَالَ الْفِرَاقُ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "وَقَدْ bilan kelgan hol jumlasi sog'inch sababini - ayriliq uzoq bo'lganini bildiradi.",
+          "uz": "ayriliq uzoq cho'zilgan bo'lsa"
+        }
+      ]
+    },
+    {
+      "ar": "وَلِمَاذَا يَصْبِرُ الآنَ وَقَدْ ظَهَرَ السِّرُّ.",
+      "tr": "Sir ochilgan bo'lsa, endi nima uchun sabr qilsin?",
+      "parts": [
+        {
+          "w": "وَلِمَاذَا يَصْبِرُ الآنَ",
+          "r": "استفهام عن السبب",
+          "rc": "tb",
+          "e": "لِمَاذَا sababni so'raydi, يَصْبِرُ hozirgi fe'l, الآنَ esa sabr qilmaslik vaqti kelganini bildiradi.",
+          "uz": "endi nima uchun sabr qiladi"
+        },
+        {
+          "w": "وَقَدْ ظَهَرَ السِّرُّ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "ظَهَرَ السِّرُّ hol jumlasi bo'lib, sabrga sabab qolmaganini ko'rsatadi.",
+          "uz": "sir ochilgan bo'lsa"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَيْفَ يَطِيبُ لَهُ الشَّرَابُ والطَّعَامُ وَأَبُوهُ لا يَطِيبُ لَهُ شَرَابٌ ولا طَعَامٌ ولا مَنَامٌ.",
+      "tr": "Otasi uchun ichimlik ham, taom ham, uyqu ham totli bo'lmayotgan bo'lsa, Yusufga ichimlik va taom qanday totli bo'lsin?",
+      "parts": [
+        {
+          "w": "وَكَيْفَ يَطِيبُ لَهُ الشَّرَابُ والطَّعَامُ",
+          "r": "استفهام إنكاري وفعل",
+          "rc": "tb",
+          "e": "كَيْفَ inkoriy savol bo'lib Yusufga rohat tatimasligini bildiradi; الشَّرَابُ والطَّعَامُ fo'il ma'nosida kelgan.",
+          "uz": "unga ichimlik va taom qanday totli bo'lsin"
+        },
+        {
+          "w": "وَأَبُوهُ لا يَطِيبُ لَهُ شَرَابٌ ولا طَعَامٌ ولا مَنَامٌ",
+          "r": "جملة حالية",
+          "rc": "th",
+          "e": "Hol jumlasi otasining qayg'uli holatini bildiradi; لا takrori ichimlik, taom va uyquning ham totli emasligini ta'kidlaydi.",
+          "uz": "otasi uchun ichimlik, taom va uyqu totli emas"
+        }
+      ]
+    },
+    {
+      "ar": "قَدِ انْكَشَفَ السِّرُّ، وَقَدْ ظَهَرَ السِّرُّ، وَقَدْ أَرَادَ اللَّهُ أَنْ تَقَرَّ عَيْنُ يَعْقُوبَ.",
+      "tr": "Sir ochildi, sir ayon bo'ldi va Alloh Ya'qubning ko'zi quvonishini iroda qildi.",
+      "parts": [
+        {
+          "w": "قَدِ انْكَشَفَ السِّرُّ",
+          "r": "قد وفعل وفاعل",
+          "rc": "tf",
+          "e": "قَدْ amalga oshganlikni bildiradi; انْكَشَفَ السِّرُّ sirning ochilganini bayon qiladi.",
+          "uz": "sir ochildi"
+        },
+        {
+          "w": "وَقَدْ ظَهَرَ السِّرُّ",
+          "r": "جملة مؤكدة معطوفة",
+          "rc": "tf",
+          "e": "ظَهَرَ السِّرُّ avvalgi ma'noni takrorlab kuchaytiradi: sir endi yashirin emas.",
+          "uz": "sir ayon bo'ldi"
+        },
+        {
+          "w": "وَقَدْ أَرَادَ اللَّهُ أَنْ تَقَرَّ عَيْنُ يَعْقُوبَ",
+          "r": "فعل وفاعل ومصدر مؤول",
+          "rc": "tf",
+          "e": "أَرَادَ اللَّهُ ilohiy iroda, أَنْ تَقَرَّ عَيْنُ يَعْقُوبَ esa Ya'qubning quvonishi ma'nosidagi masdar muavval.",
+          "uz": "Alloh Ya'qubning ko'zi quvonishini iroda qildi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ يَعْقُوبُ قَدْ عَمِيَ مِنْ كَثْرَةِ الْبُكَاءِ وَالْحُزْنِ فَقَالَ يُوسُفُ:",
+      "tr": "Ya'qub ko'p yig'i va qayg'u sabab ko'r bo'lib qolgan edi. Shunda Yusuf dedi:",
+      "parts": [
+        {
+          "w": "وَكَانَ يَعْقُوبُ قَدْ عَمِيَ",
+          "r": "كان واسمها وخبرها",
+          "rc": "tb",
+          "e": "كَانَ يَعْقُوبُ qissa holatini bayon qiladi, قَدْ عَمِيَ esa ko'zi ojiz bo'lib qolganini bildiradi.",
+          "uz": "Ya'qub ko'r bo'lib qolgan edi"
+        },
+        {
+          "w": "مِنْ كَثْرَةِ الْبُكَاءِ وَالْحُزْنِ",
+          "r": "جار ومجرور للسبب",
+          "rc": "tmt",
+          "e": "مِنْ sababni bildiradi; ko'rlikka sabab bo'lgan ko'p yig'i va qayg'u zikr qilinadi.",
+          "uz": "ko'p yig'i va qayg'u sabab"
+        },
+        {
+          "w": "فَقَالَ يُوسُفُ",
+          "r": "فاء تفريع وفعل وفاعل",
+          "rc": "tf",
+          "e": "فَ natijani kiritadi; Yusuf otasining holatini bilib ko'ylak yuborish farmonini beradi.",
+          "uz": "Yusuf dedi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿اذْهَبُوا بِقَمِيصِي هَذَا فَأَلْقُوهُ عَلَى وَجْهِ أَبِي يَأْتِ بَصِيرًا وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ﴾.",
+      "tr": "«Mana bu ko'ylagimni olib boringlar, uni otamning yuziga tashlanglar, u ko'zi ochiq bo'ladi. Barcha ahli oilangizni menga olib kelinglar».",
+      "parts": [
+        {
+          "w": "اذْهَبُوا بِقَمِيصِي هَذَا",
+          "r": "فعل أمر وجار ومجرور",
+          "rc": "tf",
+          "e": "اذْهَبُوا buyruq fe'li, بِقَمِيصِي هَذَا olib boriladigan narsani bildiradi.",
+          "uz": "mana bu ko'ylagimni olib boringlar"
+        },
+        {
+          "w": "فَأَلْقُوهُ عَلَى وَجْهِ أَبِي",
+          "r": "فاء تعقيب وفعل أمر",
+          "rc": "tf",
+          "e": "أَلْقُوهُ buyruq fe'lida هُ ko'ylakka qaytadi; عَلَى وَجْهِ أَبِي tashlanadigan joyni bildiradi.",
+          "uz": "uni otamning yuziga tashlanglar"
+        },
+        {
+          "w": "يَأْتِ بَصِيرًا",
+          "r": "جواب الطلب وفعل وحال",
+          "rc": "tf",
+          "e": "يَأْتِ buyruq natijasi sifatida kelgan, بَصِيرًا hol bo'lib otasining ko'zi ochilishini bildiradi.",
+          "uz": "ko'zi ochiq bo'ladi"
+        },
+        {
+          "w": "وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
+          "r": "فعل أمر ومفعول ومتعلق",
+          "rc": "tf",
+          "e": "أْتُونِي buyruq fe'li, بِأَهْلِكُمْ olib kelinadigan kishilar, أَجْمَعِينَ esa barchasini qamrab oladi.",
+          "uz": "barcha ahli oilangizni menga olib kelinglar"
+        }
+      ]
+    }
+  ]
+}
