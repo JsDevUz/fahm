@@ -12,43 +12,57 @@
           "w": "وَرَجَعَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَرَجَعَ — وَ harfi atf bilan boshlanuvchi o'tgan zamon fe'li bo'lib, uchlik mujjarrad وَزن فَعَلَ dan yasalgan. Arab grammatikasida فِعل مَاضٍ gapirish vaqtidan oldin tugallangan harakatni bildiradi va bu yerda aka-ukalarning uyga qaytish harakati ifodalangan. وَ harfi bu fe'lni keyingi fe'l وَتَرَكُوا bilan mantiqiy ketma-ketlikda bog'lab, voqealar zanjirini ochib beradi.",
+          "e": "وَرَجَعَ — وَ harfi atf bilan boshlanuvchi o'tgan zamon fe'li bo'lib, uchlik mujjarrad وَزن فَعَلَ dan yasalgan. Arab grammatikasida فِعل مَاضٍ gapirish vaqtidan oldin tugallangan harakatni bildiradi.",
           "uz": "qaytdi"
         },
         {
           "w": "الْإِخْوَةُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْإِخْوَةُ — وَرَجَعَ fe'lining فَاعِل i, ya'ni harakatni bajaruvchi grammatik ega. Arab grammatikasida فَاعِل hamishamarfu' (مَرفُوع) holatida keladi — bu so'zda ضَمَّة bilan ko'rinadi. ال tariflik artikli bilan aniq (مَعرِفَة) va جمع تَكسِير shaklida kelgan «aka-ukalar» guruhini bir butun sifatida ko'rsatib, qaytish harakatining hamkorlik xarakterini ta'kidlaydi.",
+          "e": "الْإِخْوَةُ — وَرَجَعَ fe'lining fili (fo'ili), marfu' holatida damma bilan keladi. Ular oldindan ma'lum aka-ukalar guruhidir.",
           "uz": "aka-ukalar"
         },
         {
-          "w": "إِلَى الْبَيْتِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "إِلَى الْبَيْتِ — harf jar إِلَى va majrur الْبَيْتِ dan iborat تَركِيب. إِلَى harfi intihaa ul-ghoya — harakatning yo'nalishi va oxirini bildiradi. Bu tarkib وَرَجَعَ fe'liga متعلق bo'lib, qaytishning manzilini aniq ko'rsatadi: ular uyga — qulay, xavfsiz joyga — qaytdilar, Yusuf esa chuqur quduqda qoldi.",
-          "uz": "uyga"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى yo'nalish bildiruvchi jar harfi.",
+          "uz": "-ga / tomon"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "r": "اسم مَجرُور (بِإِلَى)",
+          "rc": "tb",
+          "e": "الْبَيْتِ jar harfi sababli kasra bilan majrur bo'lgan ism.",
+          "uz": "uy"
         },
         {
           "w": "وَتَرَكُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَتَرَكُوا — o'tgan zamon fe'li, جمع مُذَكَّر غَائِب (ko'plik muzkkar g'oyib) zamiriga mos وَاو الجَمَاعَة qo'shimchasi bilan kelgan. وَ harfi atf birinchi fe'lni ikkinchisi bilan bog'lab, ikkala harakat ketma-ket yuz berganini ifodalaydi. تَرَكَ — tashlab ketish, qoldirish fe'li bu yerda axloqiy ma'no ham kasb etadi: ota-ona mehriga muhtoj bolani yolg'iz tashlab, o'zlari uyga qaytganlar.",
-          "uz": "qoldirishdi"
+          "e": "وَتَرَكُوا — atf vavi bilan bog'langan o'tgan zamon fe'li, ko'plik vavi uning fo'ilidir.",
+          "uz": "va qoldirishdi"
         },
         {
           "w": "يُوسُفَ",
-          "r": "مَفعُول بِه",
+          "r": "مَفعُول بِهِ",
           "rc": "tb",
-          "e": "يُوسُفَ — وَتَرَكُوا fe'lining مَفعُول بِه i, ya'ni fe'l ta'siri bevosita tushgan ob'ekt. Arab grammatikasida مَفعُول بِه مَنصُوب holatida keladi; يُوسُف gʻayrimunasarif (مَمنُوع مِن الصَّرف) ism bo'lgani uchun tanvin olmaydi, lekin فَتحَة bilan mansub holatini ko'rsatadi. Yusuf ismining ob'ekt sifatida kelishi gapning hissiy og'irlik markazida turadi.",
+          "e": "يُوسُفَ taraku fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "Yusufni"
         },
         {
-          "w": "فِي الْبِئْرِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "فِي الْبِئْرِ — harf jar فِي va majrur الْبِئْرِ dan iborat تَركِيب. فِي harfi zarfiyya — ichida joylashishni (مَعنَى الظَّرفِيَّة) bildiradi. Bu tarkib وَتَرَكُوا fe'liga متعلق bo'lib, Yusufni tashlab ketishning aniq joyini ko'rsatadi: quduq — zulmat, chuqurlik va yolg'izlik ramzi.",
-          "uz": "Quduqda"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي -da / ichida ma'nosidagi jar harfi.",
+          "uz": "ichida / -da"
+        },
+        {
+          "w": "الْبِئْرِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الْبِئْرِ jar harfidan keyingi majrur ism, kasra bilan majrur.",
+          "uz": "quduq"
         }
       ]
     },
@@ -60,36 +74,43 @@
           "w": "وَأَكَلَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَأَكَلَ — وَ harfi atf bilan boshlanuvchi o'tgan zamon fe'li, ثُلَاثِي مُجَرَّد وَزن فَعَلَ dan yasalgan, ma'lum nisbatda kelgan. Bu fe'l Yusuf ochlik va qo'rquvda quduqda yotganiga to'g'ridan-to'g'ri qarama-qarshi qo'yilgan: aka-ukalar xotirjam taom yeyishdi. Kontrastiv ma'no وَ harfi orqali oldingi jumlaga bog'lanib kuchaytirilgan.",
-          "uz": "yedilar"
+          "e": "وَأَكَلَ — bog'lovchi vavi va o'tgan zamon fe'li.",
+          "uz": "yedilar / va yedilar"
         },
         {
           "w": "الْإِخْوَةُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْإِخْوَةُ — وَأَكَلَ fe'lining فَاعِل i, marfu' holatida ضَمَّة bilan. Bu so'z oldingi jumlada ham فَاعِل sifatida kelgan edi — bu takror (إِعَادَة) uslubi orqali aka-ukalar guruhining barcha harakatlari diqqat markaziga olinadi. Ular yeyishdi, uxlashdi — Yusuf esa quduqda, och va qo'rquv ichida.",
+          "e": "الْإِخْوَةُ akala fe'lining fo'ili.",
           "uz": "aka-ukalar"
         },
         {
           "w": "الطَّعَامَ",
-          "r": "مَفعُول بِه",
+          "r": "مَفعُول بِهِ",
           "rc": "tb",
-          "e": "الطَّعَامَ — وَأَكَلَ fe'lining مَفعُول بِه i, مَنصُوب holatida فَتحَة bilan. ال tariflik artikli bilan aniq (مَعرِفَة) shaklda kelgan — muayyan ovqat nazarda tutilgan. Keyingi jumlada «لَا طَعَامَ» iborasi orqali Yusufda bu ne'matning yo'qligi ta'kidlanadi: الطَّعَامَ so'zi matn ichida kontrast strategiyasining birinchi qismini tashkil etadi.",
+          "e": "الطَّعَامَ akala fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "taomni"
         },
         {
           "w": "وَنَامُوا",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَنَامُوا — o'tgan zamon fe'li, جمع مُذَكَّر غَائِب shaklida وَاو الجَمَاعَة bilan. وَ harfi atf yeyish va uxlash harakatlarini bog'laydi. نَامَ fe'li مُعتَلّ العَين bo'lib, أَجوَف kategoriyasiga kiradi (ن-و-م ildizi). Osoyishtalik va xotirjamlikni anglatuvchi bu fe'l Yusufning qorong'u quduqdagi bezovta tuniga bevosita qarama-qarshi qo'yilgan.",
-          "uz": "uxlashdi"
+          "e": "وَنَامُوا — atf vavi bilan bog'langan o'tgan zamon fe'li, ko'plik vavi uning fo'ilidir.",
+          "uz": "va uxlashdi"
         },
         {
-          "w": "عَلَى الْفِرَاشِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى الْفِرَاشِ — harf jar عَلَى va majrur الْفِرَاشِ dan iborat تَركِيب. عَلَى harfi isti'lo — bir narsaning ustida bo'lish ma'nosini beradi. Bu tarkib وَنَامُوا fe'liga متعلق. Keyingi jumlada «لَا فِرَاشَ» deyiladi — Yusufda to'shak yo'q, aka-ukalar esa to'shakda uxladi: bu aniq moddiy kontrast matnning asosiy hissiy zarbini tashkil etadi.",
-          "uz": "to'shakda"
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى ustida / -da ma'nosidagi jar harfi.",
+          "uz": "ustida / -da"
+        },
+        {
+          "w": "الْفِرَاشِ",
+          "r": "اسم مَجرُور (بِعَلَى)",
+          "rc": "tb",
+          "e": "الْفِرَاشِ jar harfi sababli kasra bilan majrur bo'lgan ism.",
+          "uz": "to'shak"
         }
       ]
     },
@@ -101,43 +122,57 @@
           "w": "وَيُوسُفُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "وَيُوسُفُ — ismiy gapning مُبتَدَأ i, ya'ni grammatik egasi. وَ harfi bu yerda وَاو الاستئناف (isti'nofiyya) vazifasida — oldingi jumladan keskin ajralishni ta'minlovchi bog'lovchi. يُوسُف مَرفُوع holatida ضَمَّة bilan kelgan (gʻayrimunasarif ism sifatida tanvin olmaydi). Bu yerda وَيُوسُف alohida ajratib ko'rsatilishi, uning holati aka-ukalar holatidan keskin farq qilishini grammatik va hissiy jihatdan ta'kidlaydi.",
+          "e": "وَيُوسُفُ — ismiy gapning boshidagi mubtado bo'lib damma bilan marfu', boshidagi v esa hol yoki isti'nof vavidir.",
           "uz": "va Yusuf"
         },
         {
-          "w": "فِي الْبِئْرِ",
-          "r": "خَبَر",
-          "rc": "tx",
-          "e": "فِي الْبِئْرِ — مُبتَدَأ يُوسُف ning خَبَر i, ya'ni ega haqidagi asosiy xabar. Jar va majrur tarkibi شِبه الجُملَة shaklida خَبَر vazifasini bajarishi arab grammatikasida keng tarqalgan qoida (al-khabar ash-shajr al-majrur). Bu ixcham xabar kuchli ta'sir bilan Yusufning ayni paytdagi holatini bir so'z birikmasi orqali ifodalaydi.",
-          "uz": "Quduqda"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "ichida"
+        },
+        {
+          "w": "الْبِئْرِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الْبِئْرِ jar harfi bilan majrur bo'lgan ism. Ushbu jar-majrur shibhi jumla bo'lib, mubtadoning xabari.",
+          "uz": "quduq"
         },
         {
           "w": "لَا",
           "r": "لَا النَّافِيَة لِلجِنس",
           "rc": "tb",
-          "e": "لَا — bu yerda لَا النَّافِيَة لِلجِنس, ya'ni jinsni to'liq va qat'iy inkor etuvchi لَا. U إِنَّ va أَخَوَاتُهَا ga o'xshash tarzda amal qilib, o'zidan keyingi ismni مَنصُوب holatida, xabarini esa mahzuf qoldiradi. Oddiy inkordan farqli o'laroq, bu لَا tur jihatidan umuman yo'qligini ifodalaydi: birorta ham to'shak yo'q.",
-          "uz": "yo'q"
+          "e": "لَا jinsni butunlay inkor etuvchi (la nafiyatul jins) harf.",
+          "uz": "yo'q / na (inkor)"
         },
         {
           "w": "فِرَاشَ",
           "r": "اسم لَا النَّافِيَة لِلجِنس",
           "rc": "tm",
-          "e": "فِرَاشَ — لَا النَّافِيَة لِلجِنس ning ismi (اسم لَا), shuning uchun مَبنِيّ عَلَى الفَتح shaklida, tanvinsiz kelgan. Xabari mahzuf (tushirib qoldirilgan) — «مَوجُود» yoki shunga o'xshash so'z taqdirlansa bo'ladi: bu arabcha ixcham uslubning (الإِيجَاز) xususiyati. To'shakning yo'qligi Yusufning azobini aniq moddiy tafsilot orqali ko'z o'ngimizda namoyon etadi.",
-          "uz": "To'shakni"
+          "e": "فِرَاشَ la nafiyatul jins ning ismi bo'lib fatha bilan mabniy, uning xabari tushib qolgan.",
+          "uz": "to'shak"
         },
         {
-          "w": "وَلَا",
-          "r": "حَرف عَطف مَعَ لَا النَّافِيَة",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَلَا — وَ harfi atf va لَا النَّافِيَة لِلجِنس ning birikmasidan iborat. Bu tarkib arabcha «na ... va na ...» (لَا ... وَلَا) konstruksiyasini yaratib, inkorni ikkinchi ma'lumotga ham kengaytiradi. وَلَا ning takrori — takroriy inkor (تَكرَار النَّفي) — ma'noni ta'kidlash va kuchaytirish uchun ishlatiladi: na to'shak bor, va yana na taom.",
-          "uz": "Va yo'q"
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَا",
+          "r": "لَا النَّافِيَة لِلجِنس",
+          "rc": "tb",
+          "e": "لَا jinsni inkor etuvchi harf.",
+          "uz": "yo'q / na"
         },
         {
           "w": "طَعَامَ",
           "r": "اسم لَا النَّافِيَة لِلجِنس",
           "rc": "tm",
-          "e": "طَعَامَ — ikkinchi لَا النَّافِيَة لِلجِنس ning ismi, مَبنِيّ عَلَى الفَتح shaklida, tanvinsiz. Xabari ham mahzuf. Taomning yo'qligi to'shakning yo'qligi bilan birga Yusufning eng asosiy insoniy ehtiyojlaridan — dam olish va ovqatlanishdan — to'liq mahrum ekanligini ikkita aniq tafsilot orqali ifodalab, o'quvchida chuqur hamdardlik uyg'otadi.",
-          "uz": "taomini"
+          "e": "طَعَامَ la ning ismi bo'lib fatha bilan mabniy.",
+          "uz": "taom"
         }
       ]
     },
@@ -149,29 +184,29 @@
           "w": "وَنَسِيَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَنَسِيَ — o'tgan zamon fe'li, مُعتَلّ اللَّام (نَاقِص يَائِيّ) kategoriyasiga kiruvchi ثُلَاثِي fe'l bo'lib, ildizi ن-س-ي dan iborat. وَ harfi atf bilan oldingi voqealar zanjirining mantiqiy davomi sifatida keladi. نَسِيَ — unutish fe'li bu yerda axloqiy qoralov ma'nosini ham ifodalaydi: quduqqa tashlab, taom yeyib, to'shakda yotib va nihoyat — unutib qo'ygan aka-ukalar.",
-          "uz": "unutdilar"
+          "e": "وَنَسِيَ — atf vavi va o'tgan zamon fe'li.",
+          "uz": "va unutdilar"
         },
         {
           "w": "الْإِخْوَانُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْإِخْوَانُ — وَنَسِيَ fe'lining فَاعِل i, مَرفُوع holatida ضَمَّة bilan. Ilgari الْإِخْوَةُ shakli ishlatilgan edi — bu yerda الْإِخْوَانُ shakli işlatilishi arabcha لُغَوِيّ تَنوِيع (leksik xilma-xillik) bo'lib, ikki shakl ham bir ma'noni bildiradi. فَاعِل sifatida ularning faol «unutish» harakatiga urg'u beriladi: unutish tasodifiy emas, balki beparvoliklarining ifodasidir.",
+          "e": "الْإِخْوَانُ nasiya fe'lining fo'ili bo'lib damma bilan marfu'.",
           "uz": "aka-ukalar"
         },
         {
           "w": "يُوسُفَ",
-          "r": "مَفعُول بِه",
+          "r": "مَفعُول بِهِ",
           "rc": "tb",
-          "e": "يُوسُفَ — وَنَسِيَ fe'lining مَفعُول بِه i, مَنصُوب holatida فَتحَة bilan (gʻayrimunasarif ism). Yusuf bu gapda yana ob'ekt sifatida kelgan — avval tashlab ketilgan, endi esa unutilgan. Uning ismining ikki marta مَفعُول بِه sifatida takrorlanishi syujetdagi passivlik, ojizlik va yolg'izlikni grammatik jihatdan ham ta'kidlaydi.",
+          "e": "يُوسُفَ nasiya fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
           "uz": "Yusufni"
         },
         {
           "w": "وَنَامُوا",
-          "r": "فِعل مَاضٍ",
+          "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَنَامُوا — o'tgan zamon fe'li, جمع مُذَكَّر غَائِب shakli وَاو الجَمَاعَة bilan. Bu fe'l ikkinchi jumlada ham ishlatilgan edi — bu عَمدِيّ تَكرَار (qasdiy takror) uslubi sifatida uxlashning beparvolik va loqaydlik ramziga aylanganligini kuchaytiradi. Yusuf unutilgach, gap ixcham tugaydi — وَنَامُوا — bu emotsional zarbani yanada og'irlashtiradi.",
-          "uz": "uxlashdi"
+          "e": "وَنَامُوا atf fe'li, ko'plik vavi uning fo'ilidir.",
+          "uz": "va uxlashdi"
         }
       ]
     },
@@ -180,31 +215,59 @@
       "tr": "Yusuf uxlamadi va hech kimni unutmadi.",
       "parts": [
         {
-          "w": "وَمَا نَامَ",
-          "r": "فِعل مَاضٍ مَنفِيّ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "مَا o'tgan zamon fe'lini inkor qiluvchi nafiy harfi.",
+          "uz": "emas (inkor)"
+        },
+        {
+          "w": "نَامَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَمَا نَامَ — مَا حِجَازِيَّة (nafiy harfi) bilan inkor etilgan o'tgan zamon fe'li. Arab grammatikasida o'tgan zamonni inkor qilishda مَا ishlatiladi — bu لَيسَ ga muqobil, lekin fe'lni o'zgartirmaydi. Bu inkor oldingi jumlaning وَنَامُوا ga to'g'ridan-to'g'ri zid: aka-ukalar uxladi — Yusuf esa uxlamadi. Bu antiteza butun hikoyaning hissiy cho'qqisidir.",
-          "uz": "uxlamadi"
+          "e": "نَامَ o'tgan zamon fe'li (uxladi ma'nosida).",
+          "uz": "uxladi / uxlamadi"
         },
         {
           "w": "يُوسُفُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يُوسُفُ — وَمَا نَامَ inkorli fe'lining فَاعِل i, مَرفُوع holatida ضَمَّة bilan. Matnda Yusuf hozirgacha doim مَفعُول بِه (ob'ekt) sifatida keldi — uni tashlab ketishdi, unutishdi. Bu gapda esa birinchi marta فَاعِل (harakat egasi, sub'ekt) sifatida kelishi uning ichki irodasi va matonatini grammatik jihatdan ham ta'kidlaydi.",
+          "e": "يُوسُفُ nama fe'lining fo'ili.",
           "uz": "Yusuf"
         },
         {
-          "w": "وَمَا نَسِيَ",
-          "r": "فِعل مَاضٍ مَنفِيّ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "مَا inkor harfi.",
+          "uz": "emas (inkor)"
+        },
+        {
+          "w": "نَسِيَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَمَا نَسِيَ — مَا nafiy harfi bilan inkor etilgan o'tgan zamon fe'li, وَ harfi atf bilan birinchi inkorga bog'langan. Bu fe'l الْإِخْوَانُ ning وَنَسِيَ — «Yusufni unutdi» — fe'lining aynan teskarisi: aka-ukalar unutdi, Yusuf esa (hech kimni) unutmadi. Bu chiastic (krostik) simmetriya hikoyaning axloqiy mesajini grammatik parallelizm orqali mustahkamlaydi.",
-          "uz": "unutmadi"
+          "e": "نَسِيَ o'tgan zamon fe'li.",
+          "uz": "unutdi / unutmadi"
         },
         {
           "w": "أَحَدًا",
-          "r": "مَفعُول بِه",
+          "r": "مَفعُول بِهِ",
           "rc": "tb",
-          "e": "أَحَدًا — وَمَا نَسِيَ inkorli fe'lining مَفعُول بِه i, مَنصُوب holatida tanvin فَتحَة bilan. أَحَد so'zi inkor kontekstida «hech kim» ma'nosini beradi (النَّفي العَامّ مَعَ أَحَد). Yusuf hech kimni — balki hatto uni tashlab ketgan aka-ukalarni ham — unutmadi, bu uning ulug' va saxiy xarakterini eng ixcham va kuchli tarzda ifodalaydi.",
+          "e": "أَحَدًا nasiya fe'lining maf'ul bihi bo'lib, fatha tanvini bilan mansub.",
           "uz": "hech kimni"
         }
       ]
@@ -215,38 +278,66 @@
       "parts": [
         {
           "w": "وَبَقِيَ",
-          "r": "فِعل مَاضٍ نَاقِص (فِعل الاستمرار)",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَبَقِيَ — o'tgan zamon fe'li, مُعتَلّ اللَّام (نَاقِص يَائِيّ) turkumiga kiruvchi بَقِيَ-يَبقَى fe'li. Bu yerda بَقِيَ oddiy o'tgan zamon ma'nosida emas, balki أَفعَال الاستمرار sifatida harakatning davomliligini bildirish uchun ishlatilgan: «davom etib turdi». بَقِيَ + مُضَارِع konstruksiyasi arab grammatikasida استمراريّة — doimiy va uzluksiz harakatni ifodalaydi.",
-          "uz": "davom etdi"
+          "e": "وَبَقِيَ — atf vavi va davomiylik bildirish uchun kelgan o'tgan zamon fe'li.",
+          "uz": "va davom etdi / qoldi"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يَعْقُوبُ — وَبَقِيَ fe'lining فَاعِل i, مَرفُوع holatida ضَمَّة bilan. يَعقُوب gʻayrimunasarif (مَمنُوع مِن الصَّرف) ism sifatida tanvin olmaydi. Keyingi jumlada يُوسُفُ ham فَاعِل sifatida keladi — ota va o'g'il grammatik jihatdan aynan parallel (مُتَوَازٍ) tuzilishda bir-birini eslab qolayotganligi ifodalanadi.",
+          "e": "يَعْقُوبُ baqiya fe'lining fo'ili bo'lib marfu'.",
           "uz": "Ya'qub"
+        },
+        {
+          "w": "يَذْكُرُ",
+          "r": "خَبَر بَقِيَ (فِعل مُضَارِع)",
+          "rc": "tf",
+          "e": "يَذْكُرُ baqiya fe'lining xabari bo'lib kelgan muzori' fe'li.",
+          "uz": "eslab / eslaydi"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tb",
+          "e": "يُوسُفَ yazkuru fe'lining maf'ul bihi bo'lib fatha bilan mansub.",
+          "uz": "Yusufni"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "بَقِيَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "بَقِيَ o'tgan zamon fe'li.",
+          "uz": "davom etdi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "يُوسُفُ baqiya fe'lining fo'ili.",
+          "uz": "Yusuf"
         },
         {
           "w": "يَذْكُرُ",
           "r": "فِعل مُضَارِع (خَبَر بَقِيَ)",
           "rc": "tf",
-          "e": "يَذْكُرُ — مُضَارِع مَرفُوع holatida kelgan, bu yerda بَقِيَ ning خَبَر i (خَبَر أَفعَال الاستمرار) vazifasida. بَقِيَ + فِعل مُضَارِع konstruksiyasi «eslab qolaverdi, eslab turdi» ma'nosini beradi. مُضَارِع ning ishlantilishi harakatning tugamasdan davom etib kelganligini ta'kidlaydi — otaning o'g'lini doim eslashini.",
+          "e": "يَذْكُرُ muzori' fe'li.",
           "uz": "eslab"
         },
         {
-          "w": "يُوسُفَ",
-          "r": "مَفعُول بِه",
+          "w": "يَعْقُوبَ",
+          "r": "مَفعُول بِهِ",
           "rc": "tb",
-          "e": "يُوسُفَ — يَذْكُرُ fe'lining مَفعُول بِه i, مَنصُوب holatida فَتحَة bilan (gʻayrimunasarif ism). Ya'qub eslab turgan ob'ekt — Yusuf. Keyingi jumlada bu rol mutlaq tarzda almashinadi: يُوسُفُ فَاعِل, يَعْقُوبَ مَفعُول بِه — bu simmetrik rol almashinuvi (التَّبَادُل) ota va o'g'ilning ikki tomonlama soginchini kuchli ifodalaydi.",
-          "uz": "Yusufni"
-        },
-        {
-          "w": "وَبَقِيَ يُوسُفُ يَذْكُرُ يَعْقُوبَ",
-          "r": "جُملَة مَعطُوفَة مُوَازِيَة",
-          "rc": "th",
-          "e": "وَبَقِيَ يُوسُفُ يَذْكُرُ يَعْقُوبَ — وَ harfi atf bilan birinchi jumlaga bog'langan mustaqil gap. Ikki jumla grammatik jihatdan aynan parallel tuzilgan: بَقِيَ + فَاعِل + مُضَارِع + مَفعُول بِه — bu arabcha مُوَازَنَة (parallelizm) uslubi bo'lib, ota va o'g'ilning bir-biriga bo'lgan soginchi simmetrik tarzda ifodalangan. Rollarning almashishi (Ya'qub eslovchi → Yusuf eslovchi; Yusuf eslanuvchi → Ya'qub eslanuvchi) ikkala tomonning muhabbati teng ekanligini ta'kidlaydi.",
-          "uz": "Va Yusuf Ya'qubni eslab qoldi"
+          "e": "يَعْقُوبَ yazkuru fe'lining maf'ul bihi bo'lib, fatha bilan mansub.",
+          "uz": "Ya'qubni"
         }
       ]
     },
@@ -255,65 +346,135 @@
       "tr": "Yusuf quduqda edi va quduq chuqur edi.",
       "parts": [
         {
-          "w": "وَكَانَ يُوسُفُ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
-          "rc": "tf",
-          "e": "وَكَانَ يُوسُفُ — كَانَ noqis fe'l (فِعل نَاقِص) bo'lib, o'z-o'zicha predikativ ma'no bermaydi; u ismini (اسم كَانَ) مَرفُوع, xabarini (خَبَر كَانَ) esa مَنصُوب holatda keltirishni talab qiladi. يُوسُفُ اسم كَانَ vazifasida مَرفُوع kelgan. كَانَ o'tgan zamon va doimiylik ma'nosini ifodalab, Yusufning o'sha paytdagi holatini xabar orqali belgilaydi.",
-          "uz": "Va Yusuf edi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "فِي الْبِئْرِ",
-          "r": "خَبَر كَان",
-          "rc": "tx",
-          "e": "فِي الْبِئْرِ — كَانَ ning خَبَر i, jar va majrur tarkibida شِبه الجُملَة shaklida kelgan. شِبه الجُملَة خَبَر sifatida kelganda i'rob jihatdan in-mahall mansub hisoblanadi. Bu tarkib Yusufning quduqdagi holatini ifodalab, كَانَ orqali holat o'sha kecha davom etganligini ta'kidlaydi.",
-          "uz": "Quduqda"
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tf",
+          "e": "كَانَ noqis o'tgan zamon fe'li.",
+          "uz": "edi"
         },
         {
-          "w": "وَكَانَتِ الْبِئْرُ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
+          "w": "يُوسُفُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "يُوسُفُ kananing ismi.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "ichida"
+        },
+        {
+          "w": "الْبِئْرِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الْبِئْرِ jar harfi sababli majrur bo'lgan ism.",
+          "uz": "quduq"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَتِ",
+          "r": "فِعل مَاضٍ نَاقِص (مُؤَنَّث)",
           "rc": "tf",
-          "e": "وَكَانَتِ الْبِئْرُ — كَانَ noqis fe'lining مُؤَنَّث shakli كَانَت, chunki الْبِئْرُ (quduq) arab tilida مُؤَنَّث سَمَاعِيّ (eshitish orqali belgilangan muannath) jinsga mansub. تَاء التَّأنِيث سَاكِنَة bo'lib, kasra bilan تِ shaklida talaffuz etiladi (وَصل kasrasi). الْبِئْرُ اسم كَانَت sifatida مَرفُوع kelgan.",
-          "uz": "Va quduq edi"
+          "e": "كَانَتِ muannas jinsidagi noqis o'tgan zamon fe'li, sukunli al- kelgani sababli kasra bilan harakatlangan.",
+          "uz": "edi"
+        },
+        {
+          "w": "الْبِئْرُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الْبِئْرُ kananing ismi bo'lib, damma bilan marfu'.",
+          "uz": "quduq"
         },
         {
           "w": "عَمِيقَةً",
-          "r": "خَبَر كَان",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "عَمِيقَةً — كَانَت ning خَبَر i, مَنصُوب holatida tanvin فَتحَة bilan. عَمِيقَة صِفَة مُشَبَّهَة وَزن فَعِيلَة dan yasalib, «chuqur» ma'nosini anglatadi va الْبِئْرُ ga mos ravishda مُؤَنَّث shaklda kelgan. Quduqning chuqurligi Yusufning holatining og'irligini — undan chiqib ketish qanchalik qiyinligini — aniq moddiy tafsilot orqali tasvirlaydi.",
+          "e": "عَمِيقَةً kananing xabari bo'lib, fatha tanvini bilan mansub.",
           "uz": "chuqur"
         }
       ]
     },
     {
-      "ar": "وَكَانَتِ الْبِئْرُ فِي الْغَابَةِ، وَكَانَتِ الْغَابَةُ مُوحِشَةً.",
+      "ar": "وَ... الْبِئْرُ فِي الْغَابَةِ، وَكَانَتِ الْغَابَةُ مُوحِشَةً.",
       "tr": "Quduq o'rmonda edi va o'rmon vahimali edi.",
       "parts": [
         {
-          "w": "وَكَانَتِ الْبِئْرُ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
-          "rc": "tf",
-          "e": "وَكَانَتِ الْبِئْرُ — كَانَت noqis fe'lining مُؤَنَّث shakli; الْبِئْرُ اسم كَانَت sifatida مَرفُوع. Bu jumla quduqning joylashuvini ifodalab, Yusuf qamalgan muhitning tasvirini kengaytiradi: oldingi jumlada quduqning chuqurligi aytilgan edi, endi esa uning o'rmonda joylashganligi — ya'ni atrofi ham xavfli va vahimali ekanligi — qo'shimcha tasvirlangan.",
-          "uz": "Va quduq edi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "فِي الْغَابَةِ",
-          "r": "خَبَر كَان",
-          "rc": "tx",
-          "e": "فِي الْغَابَةِ — كَانَت ning خَبَر i, jar va majrur tarkibida شِبه الجُملَة shaklida. الْغَابَةِ مَجرُور holatida كَسرَة bilan. Bu xabar quduqning joylashuvini — o'rmon ichida — belgilaydi. غَابَة so'zi arabcha badiiy uslubda zulmat, yo'qolib ketish va xavf-xatarning ramziy joyi sifatida qo'llaniladi.",
-          "uz": "o'rmonda"
+          "w": "كَانَتِ",
+          "r": "فِعل مَاضٍ نَاقِص (مُؤَنَّث)",
+          "rc": "tf",
+          "e": "كَانَتِ muannas noqis fe'li.",
+          "uz": "edi"
         },
         {
-          "w": "وَكَانَتِ الْغَابَةُ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
+          "w": "الْبِئْرُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الْبِئْرُ kananing ismi.",
+          "uz": "quduq"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "ichida"
+        },
+        {
+          "w": "الْغَابَةِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "الْغَابَةِ jar harfidan keyingi majrur ism.",
+          "uz": "o'rmon"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَتِ",
+          "r": "فِعل مَاضٍ نَاقِص (مُؤَنَّث)",
           "rc": "tf",
-          "e": "وَكَانَتِ الْغَابَةُ — كَانَت noqis fe'lining مُؤَنَّث shakli; الْغَابَةُ اسم كَانَت sifatida مَرفُوع. الْغَابَة تَاء مَربُوطَة bilan tugagani uchun مُؤَنَّث jinsga mansub — shuning uchun كَانَت shakli to'g'ri. كَانَ + ism + xabar tuzilishining zanjirsimon takrori (التَّسلسُل) muhitning tobora dahshatli va batafsilroq tasvirini yaratadi.",
-          "uz": "Va o'rmon edi"
+          "e": "كَانَتِ muannas noqis fe'li.",
+          "uz": "edi"
+        },
+        {
+          "w": "الْغَابَةُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الْغَابَةُ kananing ismi bo'lib, damma bilan marfu'.",
+          "uz": "o'rmon"
         },
         {
           "w": "مُوحِشَةً",
-          "r": "خَبَر كَان",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "مُوحِشَةً — كَانَت ning خَبَر i, مَنصُوب holatida tanvin فَتحَة bilan. مُوحِشَة وَزن مُفعِلَة dan yasalgan اسم فَاعِل bo'lib, «vahima soladigan, g'amgin, yolg'izlik his ettiruvchi» degan ma'noni beradi. الْغَابَةُ ga mos مُؤَنَّث shaklda kelgan. Bu so'z Yusufning faqat jismoniy qo'rquvini emas, balki ruhiy iztirobini — tashlanganlik va yolg'izlik azobini — ham ifodalaydi.",
+          "e": "مُوحِشَةً kananing xabari bo'lib, fatha tanvini bilan mansub.",
           "uz": "vahimali"
         }
       ]
@@ -323,32 +484,67 @@
       "tr": "Bu kechasi edi va kecha qorong'i edi.",
       "parts": [
         {
-          "w": "وَكَانَ ذَلِكَ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
-          "rc": "tf",
-          "e": "وَكَانَ ذَلِكَ — كَانَ noqis fe'li va uning ismi ذَلِكَ. ذَلِك — اسم إِشَارَة للبَعِيد (uzoqdagi narsaga ishora qiluvchi) bo'lib, مُذَكَّر birlik shaklida kelgan. Mazmun jihatdan u oldingi barcha tasvirlangan holatlarga — quduq, o'rmon, Yusuf — umumiy ishorat qiladi: «Bularning barchasi — kechasi sodir bo'ldi».",
-          "uz": "Va bu edi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "فِي اللَّيْلِ",
-          "r": "خَبَر كَان",
-          "rc": "tx",
-          "e": "فِي اللَّيْلِ — كَانَ ning خَبَر i, jar va majrur tarkibida شِبه الجُملَة shaklida; ظَرف زَمَان (vaqt zarfi) ma'nosini ifodalaydi. اللَّيل مَجرُور holatida كَسرَة bilan. Kecha vaqtining ko'rsatilishi tasvirga qorong'ulik va yolg'izlikning so'nggi qatlamini qo'shadi — Yusufning holati joy (quduq), muhit (o'rmon) va vaqt (kecha) jihatdan barchasi birga eng og'ir sharoitda ekanligi ta'kidlanadi.",
-          "uz": "kechasi"
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tf",
+          "e": "كَانَ noqis fe'li.",
+          "uz": "edi"
         },
         {
-          "w": "وَكَانَ اللَّيْلُ",
-          "r": "فِعل نَاقِص مَعَ اسمِه",
+          "w": "ذَلِكَ",
+          "r": "اسم كَانَ (اسم إِشَارَة)",
+          "rc": "tm",
+          "e": "ذَلِكَ uzoq ishora olmoshi bo'lib, kananing ismi sifatida mahallan marfu'.",
+          "uz": "bu / o'sha"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "r": "اسم مَجرُور (بِفِي)",
+          "rc": "tb",
+          "e": "اللَّيْلِ jar harfidan keyingi majrur ism.",
+          "uz": "kecha / tun"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "وَكَانَ اللَّيْلُ — كَانَ noqis fe'li va uning ismi اللَّيْلُ. اللَّيل مُذَكَّر sَمَاعِيّ jinsga mansub, shuning uchun كَانَ (مُؤَنَّث shakli كَانَت emas) ishlatilgan — bu جِنس مُطَابَقَة qoidasiga muvofiqdir. Bu jumla matnning oxirgi tasviriy kengaytmasi sifatida kechaning o'zini tavsiflaydi — uning qorong'iligi alohida ta'kidlanadi.",
-          "uz": "Va tun edi"
+          "e": "كَانَ noqis fe'li.",
+          "uz": "edi"
+        },
+        {
+          "w": "اللَّيْلُ",
+          "r": "اسم كَانَ",
+          "rc": "tm",
+          "e": "الَّيْلُ kananing ismi bo'lib, damma bilan marfu'.",
+          "uz": "tun / kecha"
         },
         {
           "w": "مُظْلِمًا",
-          "r": "خَبَر كَان",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "مُظْلِمًا — كَانَ ning خَبَر i, مَنصُوب holatida tanvin فَتحَة bilan. مُظلِم وَزن مُفعِل dan yasalgan اسم فَاعِل bo'lib, «qorong'i, zulmatli» degan ma'noni beradi. Bu so'z bilan hikoyaning vizual va hissiy tasviri yakunlanadi: quduq (chuqur), o'rmon (vahimali), kecha (qorong'i) — Yusufning atrofidagi zulmat uch qatlamda tavsiflangan bo'lib, bu keyingi ilohiy rahmat va farajga badiiy zamin hozirlaydi.",
-          "uz": "qorong'i"
+          "e": "مُظْلِمًا kananing xabari bo'lib, fatha tanvini bilan mansub.",
+          "uz": "qorong'i / zulmatli"
         }
       ]
     }
