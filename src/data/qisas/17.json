@@ -16,24 +16,31 @@
           "uz": "edi"
         },
         {
-          "w": "أَبُوهُ",
-          "r": "اسم كَان",
+          "w": "أَبُو",
+          "r": "اسم كَان / مُضَاف",
           "rc": "tm",
-          "e": "أَبُوهُ كانَning ismi bo'lib, رفع holatida turadi. -هُ egalik zamiri Yusufga qaytib, gap uning otasi haqida ekanini aniqlashtiradi. كَانَ ning ismi sifatida u jumlaning asosiy mavzusini tashkil qiladi.",
-          "uz": "otasi"
+          "e": "أَبُو kananing ismi bo'lib, asmaul xamsadan bo'lganligi sababli vav bilan marfu' va muzof.",
+          "uz": "ota"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ birikkan uchinchi shaxs birlik zamiri, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "uning"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "بَدَل",
           "rc": "tb",
-          "e": "يَعْقُوبُ أَبُوهُ uchun بَدَل مُطَابِق hisoblanadi, ya'ni to'liq mos badal. U 'otasi' deb umumiy zikr qilingan shaxsni خاص ism bilan aniqlashtiradi va o'quvchiga Ya'qubning kim ekanligi haqida oydinlik kiritadi.",
+          "e": "يَعْقُوبُ أَبُوهُ uchun بَدَل مُطَابِق hisoblanadi, ya'ni to'liq mos badal. U 'otasi' deb umumiy zikr qilingan shaxsni xos ism bilan aniqlashtiradi.",
           "uz": "Ya'qub"
         },
         {
           "w": "نَبِيًّا",
           "r": "خَبَر كَان",
           "rc": "tx",
-          "e": "نَبِيًّا كانَning xabari bo'lib, نصب holatida turadi — bu كانَ xabarining naصب bilan kelishi qoidasiga asoslanadi. U Ya'qubning payg'ambar maqomida ekanligini bildiradi va jumlaning asosiy ma'nosini yetkazadi.",
+          "e": "نَبِيًّا cananing xabari bo'lib, nasb holatida turadi — bu cana xabarining nasb bilan kelishi qoidasiga asoslanadi. U Ya'qubning payg'ambar maqomida ekanligini bildiradi.",
           "uz": "payg'ambar"
         }
       ]
@@ -46,28 +53,42 @@
           "w": "فَرِحَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَرِحَ o'tgan zamon fe'li bo'lib, faolning hissiy holatini ifodalaydi. Bu yerda Ya'qubning tushdan quvonganligini bildiradi; sabab keyingi jar-majrur bilan ifodalangan. Fe'l-faol tartibiga ko'ra fo'il undan keyin kelgan.",
+          "e": "فَرِحَ o'tgan zamon fe'li bo'lib, faolning hissiy holatini ifodalaydi. Bu yerda Ya'qubning tushdan quvonganligini bildiradi.",
           "uz": "xursand bo'ldi"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يَعْقُوبُ فَرِحَ fe'lining فاعل, ya'ni bajaruvchisi bo'lib, رفع holatida turadi. U xursand bo'lgan shaxsni — Ya'qubni — aniq ko'rsatadi va gapning asosiy ishtirokchisini belgilaydi.",
+          "e": "يَعْقُوبُ فَرِحَ fe'lining fo'ili bo'lib, marfu'dir.",
           "uz": "Ya'qub"
         },
         {
-          "w": "بِهَذِهِ الرُّؤْيَا",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِهَذِهِ الرُّؤْيَا jar-majrur tarkibi bo'lib, فَرِحَ fe'liga mutaalliq. بِ harfi سببية (sababiylik) ma'nosini beradi — Ya'qubni xursand qilgan sabab aynan shu tush ekanini bildiradi. هَذِهِ ism-ishora bo'lib, مؤنث birlikdagi الرُّؤْيَاni ko'rsatadi.",
-          "uz": "bu tush bilan"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ sababiyat (sabab) ma'nosidagi jar harfi.",
+          "uz": "bilan / sababli"
+        },
+        {
+          "w": "هَذِهِ",
+          "r": "اسم إِشَارَة",
+          "rc": "tb",
+          "e": "هَذِهِ yaqin muannasni ko'rsatuvchi ishora olmoshi, jar harfidan keyin mahallan majrur.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرُّؤْيَا",
+          "r": "بَدَل",
+          "rc": "tb",
+          "e": "الرُّؤْيَا ishora ismidan badal bo'lib majrur holda kelgan (taqdiriy kasra bilan).",
+          "uz": "tush"
         },
         {
           "w": "كَثِيرًا",
           "r": "حَال",
           "rc": "th",
-          "e": "كَثِيرًا miqdor yoki daraja holi bo'lib, نصب holatida keladi. U فَرِحَ fe'li bajarilayotgan paytdagi holatni — ya'ni xursandlikning qanchalik kuchli ekanini — ifodalaydi. Bu so'z jumlaning ma'no intensivligini oshiradi.",
+          "e": "كَثِيرًا miqdor yoki daraja holi bo'lib, nasb holatida keladi.",
           "uz": "ko'p"
         }
       ]
@@ -80,56 +101,91 @@
           "w": "وَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَقَالَ so'zlash fe'li bo'lib, yashirin fo'ili Ya'qub. وَ bog'lovchi harfi oldingi voqeaga ulanishni ta'minlaydi. Keyingi duo va xabar jumlalari uning мaqolаti hisoblanadi — ya'ni aytilgan gap sifatida berilgan.",
+          "e": "وَقَالَ so'zlash fe'li bo'lib, yashirin fo'ili Ya'qub. وَ bog'lovchi harfi oldingi voqeaga ulanishni ta'minlaydi.",
           "uz": "va dedi"
         },
         {
           "w": "بَارَكَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "بَارَكَ duodagi o'tgan zamon fe'li bo'lib, arab tilida duo shakli ko'pincha o'tgan zamonda keladi — bu istak ma'nosini kuchaytiradi. Gapning asosiy fe'li sifatida Allohning baraka berishi so'ralmoqda.",
+          "e": "بَارَكَ duodagi o'tgan zamon fe'li bo'lib, arab tilida duo shakli ko'pincha o'tgan zamonda keladi — bu istak ma'nosini kuchaytiradi.",
           "uz": "baraka berdi"
         },
         {
           "w": "اللَّهُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "اللَّهُ بَارَكَ fe'lining فاعل bo'lib, رفع holatida turadi. U baraka beruvchi Zotni bildiradi va duoning kim tomonidan amalga oshirilishi umid qilinayotganini ko'rsatadi.",
+          "e": "اللَّهُ بَارَكَ fe'lining fo'ili bo'lib, marfu'dir.",
           "uz": "Alloh"
         },
         {
-          "w": "لَكَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "لَكَ jar-majrur tarkibi bo'lib, بَارَكَga mutaalliq. لِ harfi manfaat (li-l-intifa') ma'nosini beradi — baraka kimga tilanaëtganini bildiradi. -كَ zamiri Yusufga qaytib, duoning unga qaratilganini ifodalaydi.",
-          "uz": "senga"
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لَ jar harfi.",
+          "uz": "-ga / uchun"
         },
         {
-          "w": "يَا يُوسُفُ",
+          "w": "كَ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ birikkan ikkinchi shaxs birlik muzakkar zamiri, mahallan majrur.",
+          "uz": "sen"
+        },
+        {
+          "w": "يَا",
+          "r": "حَرف نِدَاء",
+          "rc": "tb",
+          "e": "يَا nido (chaqiriq) harfi.",
+          "uz": "ey"
+        },
+        {
+          "w": "يُوسُفُ",
           "r": "مُنَادَى",
           "rc": "tb",
-          "e": "يَا يُوسُفُ nido tarkibi bo'lib, يَا nido harfi va يُوسُفُ مُنَادَى. Ism علم (xos ism) bo'lgani uchun مبني عَلَى الضَّمِّ holatida turadi. Ya'qub gapni bevosita Yusufga murojaat qilib aytyapti — bu otalik mehrini ifodalaydi.",
-          "uz": "ey Yusuf"
+          "e": "يُوسُفُ murojaat etilayotgan ism (munado), damma bilan mabniy (chunki alam ism).",
+          "uz": "Yusuf"
         },
         {
-          "w": "فَسَيَكُونُ",
+          "w": "فَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "فَ natija yoki tartib bildiruvchi atf harfi.",
+          "uz": "bas, shunday qilib"
+        },
+        {
+          "w": "سَ",
+          "r": "حَرف تَقبِيل",
+          "rc": "tb",
+          "e": "سَ kelasi zamonni ifodalovchi particle.",
+          "uz": "-ajak / -adi"
+        },
+        {
+          "w": "يَكُونُ",
           "r": "فِعل مُضَارِع نَاقِص",
           "rc": "tf",
-          "e": "فَسَيَكُونُ kelasi zamondagi noqis fe'l; سَ prefiksi yaqin kelajakni bildiradi. فَ harfi سببية yoki 'atf bo'lib, oldingi duodan natija sifatida kelajak xabarini kiritadi. يَكُونُ ismi va xabarini bog'laydi.",
+          "e": "يَكُونُ noqis muzori' fe'li bo'lib damma bilan marfu'.",
           "uz": "bo'ladi"
         },
         {
-          "w": "لَكَ",
-          "r": "خَبَر كَان (جَار وَمَجرُور مُقَدَّم)",
-          "rc": "tmt",
-          "e": "لَكَ jar-majrur tarkibi يَكُونُning xabari bo'lib, muqaddam — ya'ni ism oldidan kelgan. Bu arab tilida iyelik yoki tegishlilik ma'nosini oldindan ta'kidlash usuli. -كَ zamiri Yusufga qaytadi.",
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لَ jar harfi.",
+          "uz": "senga"
+        },
+        {
+          "w": "كَ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, mahallan majrur.",
           "uz": "senga"
         },
         {
           "w": "شَأْنٌ",
           "r": "اسم كَان",
           "rc": "tm",
-          "e": "شَأْنٌ يَكُونُning ismi bo'lib, رفع holatida turadi. U kelajakda Yusufga nasib bo'ladigan maqom va martabani ifodalaydi. Xabar لَكَ muqaddam kelgani uchun ism oxirda zikr qilingan.",
+          "e": "شَأْنٌ يَكُونُning ismi bo'lib, marfu'dir.",
           "uz": "shan (martaba)"
         }
       ]
@@ -139,32 +195,53 @@
       "tr": "Bu tush ilm va payg'ambarlik xushxabaridir.",
       "parts": [
         {
-          "w": "هَذِهِ الرُّؤْيَا",
-          "r": "مُبتَدَأ",
-          "rc": "tm",
-          "e": "هَذِهِ الرُّؤْيَا jumlaning mubtadosi bo'lib, رفع holatida turadi. هَذِهِ ism-ishora مؤنث birlik uchun; الرُّؤْيَا esa بدل yoki عطف بيان sifatida uni aniqlashtiradi. Gap mavzusi — Yusuf ko'rgan shu tush ekanligi belgilangan.",
-          "uz": "bu tush"
+          "w": "هَذِهِ",
+          "r": "مُبتَدَأ (اسم إِشَارَة)",
+          "rc": "tb",
+          "e": "هَذِهِ ishora olmoshi, mubtado vazifasida mahallan marfu'.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرُّؤْيَا",
+          "r": "بَدَل",
+          "rc": "tb",
+          "e": "الرُّؤْيَا ishora ismidan badal bo'lib, taqdiriy damma bilan marfu'.",
+          "uz": "tush"
         },
         {
           "w": "بِشَارَةٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "بِشَارَةٌ mubtadoning xabari bo'lib, رفع holatida turadi. U tushning mohiyatini — xushxabar ekanligini — bildiradi va jumlaning asosiy ma'nosini yetkazadi. Xabar mubtadosiz tushunilmaydi, shu bois ikkalasi birga jumlani to'liq ma'noga ega qiladi.",
+          "e": "بِشَارَةٌ mubtadoning xabari bo'lib, marfu'dir.",
           "uz": "xushxabar"
         },
         {
-          "w": "بِعِلْمٍ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِعِلْمٍ jar-majrur tarkibi بِشَارَةٌga mutaalliq bo'lib, xushxabarning qaysi soha haqida ekanligini bildiradi. بِ harfi muta'alliqa (bog'lanish) ma'nosini beradi — xushxabar ilm sohasiga oiddir.",
-          "uz": "ilm bilan"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ jar harfi.",
+          "uz": "bilan"
         },
         {
-          "w": "وَنُبُوَّةٍ",
-          "r": "مَعطُوف",
+          "w": "عِلْمٍ",
+          "r": "اسم مَجرُور",
           "rc": "tb",
-          "e": "وَنُبُوَّةٍ عِلْمٍga عطف qilingan bo'lib, وَ harfi atf vazifasini bajaradi. U jar-majrurdagi عِلْمٍga qo'shilib, xushxabarning ikkinchi mazmuni — payg'ambarlik — ekanini bildiradi. Ikkalasi ham جر holatida kelgan.",
-          "uz": "payg'ambarlik bilan"
+          "e": "عِلْمٍ jar harfidan keyingi majrur ism, tanvini kasra bilan.",
+          "uz": "ilm"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ atf bog'lovchisi.",
+          "uz": "va"
+        },
+        {
+          "w": "نُبُوَّةٍ",
+          "r": "اسم مَجرُور مَعطُوف",
+          "rc": "tb",
+          "e": "نُبُوَّةٍ atf harfi orqali avvalgi majrur ismga ma'tuf bo'lgan majrur ism.",
+          "uz": "payg'ambarlik"
         }
       ]
     },
@@ -173,53 +250,116 @@
       "tr": "Alloh bobong Ishoqqa ham in'om qilgan va bobong Ibrohimga ham in'om qilgan.",
       "parts": [
         {
-          "w": "وَقَدْ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَدْ",
           "r": "حَرف تَحقِيق",
           "rc": "tb",
-          "e": "قَدْ o'tgan zamon fe'li oldidan kelganda tahqiq (tasdiqlash va ta'kid) ma'nosini beradi. Bu yerda Allohning ajdodlarga ne'mat berishi aniq, shubhasiz voqea sifatida taqdim etilmoqda. وَ bog'lovchi harfi oldingi gapga ulanishni ta'minlaydi.",
-          "uz": "va albatta"
+          "e": "قَدْ o'tgan zamon fe'li oldidan kelgan tasdiq (tahqiq) harfi.",
+          "uz": "batahqiq / albatta"
         },
         {
           "w": "أَنْعَمَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "أَنْعَمَ o'tgan zamon fe'li bo'lib, أَفْعَلَ vaznida. U Allohning ajdodlarga in'om-ehson qilgan voqeasini bildiradi. قَدْ bilan birga kelishi ushbu voqeaning muayyan va tasdiqlangan ekanligini kuchaytiradi.",
+          "e": "أَنْعَمَ o'tgan zamon fe'li bo'lib, «ne'mat berdi / in'om qildi» ma'nosini bildiradi.",
           "uz": "in'om qildi"
         },
         {
           "w": "اللَّهُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "اللَّهُ أَنْعَمَ fe'lining فاعل bo'lib, رفع holatida turadi. U in'om qiluvchi Zotni bildiradi va gapning asosiy faolini ko'rsatadi — ne'mat faqat Allohdan ekanligi ta'kidlanmoqda.",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
           "uz": "Alloh"
         },
         {
-          "w": "عَلَى جَدِّكَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى جَدِّكَ jar-majrur tarkibi أَنْعَمَga mutaalliq. عَلَى harfi muta'alliqa ma'nosida in'omning kimga yo'naltirilganini bildiradi. -كَ zamiri Yusufga qaytib, bu bobosi uning ajdodi ekanini ko'rsatadi.",
-          "uz": "bobongga"
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "جَدِّ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "جَدِّ jar harfidan keyin majrur bo'lgan ism, kasra bilan tugagan va muzof.",
+          "uz": "bobo"
+        },
+        {
+          "w": "كَ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "sening"
         },
         {
           "w": "إِسْحَاقَ",
           "r": "بَدَل",
           "rc": "tb",
-          "e": "إِسْحَاقَ جَدِّكَ uchun بَدَل مُطَابِق bo'lib, جر holatida keladi. U 'bobo' deb umumiy zikr qilingan shaxsni xos ism bilan aniqlashtiradi. Bu ism g'ayri munsarif (gayr-mansrif) bo'lgani uchun تنوин olmaydi.",
+          "e": "إِسْحَاقَ جَدِّكَ uchun بَدَل مُطَابِق bo'lib, fatha bilan majrur (g'ayri munsarif).",
           "uz": "Ishoqqa"
         },
         {
-          "w": "وَقَدْ أَنْعَمَ اللَّهُ",
-          "r": "جُملَة مَعطُوفَة",
-          "rc": "th",
-          "e": "وَقَدْ أَنْعَمَ اللَّهُ birinchi jumlaga عطف qilingan to'liq jumla. وَ atf harfi sifatida ikki bir xil tuzilmali jumlani bog'laydi. Bu takrorda biri Ishoq, ikkinchisi Ibrohim haqida gapirilgani uchun parallel tuzilma xususiy ta'kid vazifasini bajaradi.",
-          "uz": "Holbuki Alloh ne'mat berdi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "عَلَى جَدِّكَ إِبْرَاهِيمَ",
-          "r": "جَار وَمَجرُور مَعَ بَدَل",
-          "rc": "tmt",
-          "e": "عَلَى جَدِّكَ ikkinchi أَنْعَمَga mutaalliq jar-majrur; إِبْرَاهِيمَ esa جَدِّكَ uchun بَدَل мُطَابِق. Ibrohim ham g'ayri munsarif ism bo'lgani uchun تنوين olmaydi. Ikkala bobo zikr qilinishi Yusuf sulolasidagi payg'ambarlik an'anasini ta'kidlaydi.",
-          "uz": "Bobong Ibrohimga"
+          "w": "قَدْ",
+          "r": "حَرف تَحقِيق",
+          "rc": "tb",
+          "e": "قَدْ tahqiq harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "أَنْعَمَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "أَنْعَمَ o'tgan zamon fe'li.",
+          "uz": "in'om qildi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "جَدِّ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "جَدِّ majrur ism va muzof.",
+          "uz": "bobo"
+        },
+        {
+          "w": "كَ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, muzofun ilayh.",
+          "uz": "sening"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "بَدَل",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ «جَدِّكَ» so'zining badali bo'lib, g'ayri munsarif bo'lgani sababli fatha bilan majrur.",
+          "uz": "Ibrohimga"
         }
       ]
     },
@@ -228,39 +368,81 @@
       "tr": "Va albatta U senga va Ya'qub oilasiga in'om qiladi.",
       "parts": [
         {
-          "w": "وَإِنَّهُ",
-          "r": "حَرف تَوكِيد مَعَ اسمِهِ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "إِنَّ ta'kid harfi bo'lib, ismini نصب, xabarini رفع holatiga qo'yadi. -هُ zamiri إِنَّning ismi bo'lib, Allohga qaytadi. Bu tarkib kelajakdagi ne'matni qat'iy va shubhasiz haqiqat sifatida ifodalash uchun ishlatilgan.",
-          "uz": "va albatta u"
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف مُشَبَّهة بِالفِعل",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "هُ",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ zamir, inna ning ismi bo'lib mahallan mansub.",
+          "uz": "u"
         },
         {
           "w": "سَيُنْعِمُ",
           "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "سَيُنْعِمُ إِنَّning xabari bo'lgan مضارع fe'l; سَ prefiksi yaqin kelajakni bildiradi. U Allohning Yusufga ne'mat berishini kelgusida amalga oshirishi aniq ekanligini ifodalaydi va oldingi o'tmishdagi ne'matlar bilan parallelllik hosil qiladi.",
+          "e": "سَيُنْعِمُ – inna ning xabari bo'lib, kelasi zamonni ifodalovchi muzori' fe'li.",
           "uz": "in'om qiladi"
         },
         {
-          "w": "عَلَيْكَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَيْكَ jar-majrur tarkibi سَيُنْعِمُga mutaalliq. -كَ zamiri Yusufga qaytib, ne'mat bevosita unga yo'naltirilishini bildiradi. عَلَى harfi bu yerda muta'alliqa ma'nosida kelgan.",
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "كَ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, mahallan majrur.",
           "uz": "senga"
         },
         {
-          "w": "وَيُنْعِمُ",
-          "r": "فِعل مُضَارِع مَعطُوف",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَيُنْعِمُ سَيُنْعِمُga عطف qilingan مضارع fe'l; وَ atf harfi ne'matni Yusufdan Ya'qub ahlining barchasiga kengaytiradi. Yashirin fo'ili Alloh bo'lib, birinchi fe'ldagi fo'ilga qaytadi.",
-          "uz": "va in'om qiladi"
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "عَلَى آلِ يَعْقُوبَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى آلِ يَعْقُوبَ jar-majrur tarkibi يُنْعِمُga mutaalliq. آلِ يَعْقُوبَ مضاف-مضاف إليه tuzilmasi bo'lib, Ya'qub oilasini ifodalaydi. يَعْقُوبَ g'ayri munsarif bo'lgani uchun جر holatida ham فتحة bilan kelgan.",
-          "uz": "Ya'qub oilasiga"
+          "w": "يُنْعِمُ",
+          "r": "فِعل مُضَارِع مَعطُوف",
+          "rc": "tf",
+          "e": "يُنْعِمُ atf qilingan muzori' fe'li.",
+          "uz": "in'om qiladi"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "آلِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "آلِ jar harfidan keyingi majrur ism, muzof.",
+          "uz": "oila / sulola"
+        },
+        {
+          "w": "يَعْقُوبَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "يَعْقُوبَ muzofun ilayh, fatha bilan majrur.",
+          "uz": "Ya'qubning"
         }
       ]
     },
@@ -272,43 +454,57 @@
           "w": "وَكَانَ",
           "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "كَانَ noqis o'tgan zamon fe'li bo'lib, ismini رفع, xabarini نصب holatiga qo'yadi. U يَعْقُوبُ ismiga شَيْخًا كَبِيرًا xabarini bog'laydi. وَ bog'lovchi harfi oldingi kontent bilan ulanishni ta'minlaydi.",
+          "e": "كَانَ noqis o'tgan zamon fe'li bo'lib, ismini رفع, xabarini نصب holatiga qo'yadi. U fudagi mubtadoni xabarga bog'laydi.",
           "uz": "edi"
         },
         {
           "w": "يَعْقُوبُ",
           "r": "اسم كَان",
           "rc": "tm",
-          "e": "يَعْقُوبُ كانَning ismi bo'lib, رفع holatida turadi. Katta yoshli bo'lish xususiyati shu shaxs — Ya'qub — haqida xabar qilinadi. Bu isim oldingi gaplarda ham takroran zikr qilingani uchun o'quvchi kimligini biladi.",
+          "e": "يَعْقُوبُ cana ning ismi bo'lib, damma bilan marfu'dir.",
           "uz": "Ya'qub"
         },
         {
-          "w": "شَيْخًا كَبِيرًا",
-          "r": "خَبَر كَان",
+          "w": "شَيْخًا",
+          "r": "خَبَر كَانَ",
           "rc": "tx",
-          "e": "شَيْخًا كانَning xabari bo'lib, نصب holatida turadi. كَبِيرًا sifat (نعت) bo'lib, شَيْخًا so'zini tavsiflab, yoshning ulug'ligini kuchaytiradi. Ikkalasi ham نصب holatida kelishi كَانَ xabarining qoidasiga mosdir.",
-          "uz": "katta yoshli chol"
+          "e": "شَيْخًا kananing xabari bo'lib, nasb holatida tanvini fatha bilan kelgan.",
+          "uz": "chol / qariya"
+        },
+        {
+          "w": "كَبِيرًا",
+          "r": "نَعت (صِفَة)",
+          "rc": "ts",
+          "e": "كَبِيرًا «شَيْخًا» ismining sifati (na'ti) bo'lib mansub.",
+          "uz": "katta yoshli"
         },
         {
           "w": "وَكَانَ",
           "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "Ikkinchi وَكَانَ yana bir davomiy holatni — bilish holatini — bildiradi. Yashirin ismi Ya'qub bo'lib, birinchi كَانَdagi ismga qaytadi. Bu tuzilma Ya'qubning ikkita alohida sifatini ketma-ket taqdim etadi.",
+          "e": "Ikkinchi وَكَانَ yana bir davomiy noqis fe'ldir.",
           "uz": "edi"
         },
         {
           "w": "يَعْرِفُ",
-          "r": "خَبَر كَان",
+          "r": "خَبَر كَانَ (جُملَة)",
           "rc": "tx",
-          "e": "يَعْرِفُ ikkinchi كانَning xabari bo'lgan مضارع fe'l jumlasi. كَانَ ning xabari جملة فعلية shaklida kelishi mumkin — bu Ya'qubning bilish holatining davomiyligini ifodalaydi. Yashirin fo'ili ya'qubga qaytadi.",
+          "e": "يَعْرِفُ kananing xabari bo'lgan muzori' fe'l jumlasi.",
           "uz": "bilardi"
         },
         {
-          "w": "طَبَائِعَ النَّاسِ",
-          "r": "مَفعُول بِه",
+          "w": "طَبَائِعَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
           "rc": "tb",
-          "e": "طَبَائِعَ النَّاسِ يَعْرِفُ fe'lining مَفعُول بِه bo'lib, نصب holatida turadi. طَبَائِعَ مضاف, النَّاسِ esa مضاف إليه bo'lib, bilishning obyekti — odamlarning tabiatlari — ekanini aniqlashtiradi.",
-          "uz": "odamlarning tabiatlarini"
+          "e": "طَبَائِعَ ya'rifu fe'lining maf'ul bihi bo'lib, fatha bilan mansub va muzof.",
+          "uz": "tabiatlarini"
+        },
+        {
+          "w": "النَّاسِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "النَّاسِ aniq ism, muzofun ilayh bo'lib kasra bilan majrur.",
+          "uz": "odamlarning"
         }
       ]
     },
@@ -317,128 +513,254 @@
       "tr": "Va shayton qanday g'olib kelishini va odam bilan qanday o'ynashini bilardi.",
       "parts": [
         {
-          "w": "وَكَانَ يَعْرِفُ",
-          "r": "فِعل مَاضٍ نَاقِص مَعَ خَبَرِهِ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "وَكَانَ يَعْرِفُ tarkibi Ya'qubning davomiy bilish holatini bildiradi; كَانَ yashirin ismga ega (Ya'qub), يَعْرِفُ esa uning xabari. Keyingi كَيْفَ jumlalari يَعْرِفُ fe'lining bilish obyekti sifatida keladi.",
-          "uz": "Va bilar edi"
+          "e": "كَانَ noqis fe'li, yashirin ismi Ya'qubga qaytadi.",
+          "uz": "edi"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "r": "خَبَر كَانَ (جُملَة)",
+          "rc": "tx",
+          "e": "يَعْرِفُ kananing xabari bo'lgan muzori' fe'l jumlasi.",
+          "uz": "bilardi"
         },
         {
           "w": "كَيْفَ",
           "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "كَيْفَ so'roq ismi bo'lib, bu yerda ma'no jihatdan مَفعُول بِه vazifasini bajaradi — يَعْرِفُ fe'lining bilish obyektini ifodalovchi جملة استفهامية boshini belgilaydi. U shaytonning g'olib kelish usulini qanday ekanligini so'rash orqali ma'no ifodalaydi.",
+          "e": "كَيْفَ so'roq ismi.",
           "uz": "qanday"
         },
         {
           "w": "يَغْلِبُ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "يَغْلِبُ كَيْفَdan keyingi مضارع fe'l bo'lib, jumlaning asosiy amali. U shaytonning odamdan ustun kelish, vasvasasida g'alaba qozonish amalini bildiradi. فاعلi الشَّيْطَانُ bo'lib, undan keyin kelgan.",
+          "e": "يَغْلِبُ muzori' fe'li.",
           "uz": "g'olib keladi"
         },
         {
           "w": "الشَّيْطَانُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الشَّيْطَانُ يَغْلِبُ fe'lining فاعل bo'lib, رفع holatida turadi. U g'olib kelish amalini bajaruvchi — shayton — ekanini bildiradi. Muayyan al-shayton shaklidagi الـ ta'rif artiklini olgan.",
+          "e": "الشَّيْطَانُ يَغْلِبُ fe'lining fo'ili.",
           "uz": "shayton"
         },
         {
-          "w": "وَكَيْفَ يَلْعَبُ الشَّيْطَانُ",
-          "r": "جُملَة مَعطُوفَة",
-          "rc": "th",
-          "e": "وَكَيْفَ يَلْعَبُ الشَّيْطَانُ birinchi كَيْفَ jumlasiga عطف qilingan to'liq jumla. وَ atf harfi يَعْرِفُ fe'lining ikkinchi bilish obyektini qo'shadi. Bu jumla shaytonning odamga vasvasal solish usulini ifodalaydi.",
-          "uz": "Va shayton qanday vasvasa qilishini"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
         },
         {
-          "w": "بِالْإِنْسَانِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِالْإِنْسَانِ jar-majrur tarkibi يَلْعَبُga mutaalliq. بِ harfi مصاحبة (birga bo'lish) ma'nosini beradi — shaytonning vasvasasi aynan insonga qaratilganini bildiradi. الْإِنْسَانِ muayyan ism bo'lib, insоniyatni umumiy ma'noda ifodalaydi.",
-          "uz": "odam bilan"
+          "w": "كَيْفَ",
+          "r": "اسم اسْتِفهَام",
+          "rc": "tb",
+          "e": "كَيْفَ so'roq olmoshi.",
+          "uz": "qanday"
+        },
+        {
+          "w": "يَلْعَبُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "يَلْعَبُ muzori' fe'li bo'lib, «o'ynaydi / vasvasa qiladi» ma'nosida.",
+          "uz": "o'ynaydi / vasvasa qiladi"
+        },
+        {
+          "w": "الشَّيْطَانُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الشَّيْطَانُ yala'bu fe'lining fo'ili.",
+          "uz": "shayton"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ jar harfi.",
+          "uz": "bilan / orqali"
+        },
+        {
+          "w": "الْإِنْسَانِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْإِنْسَانِ majrur ism.",
+          "uz": "odam"
         }
       ]
     },
     {
-      "ar": "فَقَالَ: يَا وَلَدِي، لَا تُخْبِرْ بِهَذِهِ الرُّؤْيَا أَحَدًا مِنْ إِخْوَتِكَ فَإِنَّهُمْ يَحْسُدُونَكَ وَيَكُونُونَ لَكَ عَدُوًّا.",
+      "ar": "فَقَالَ: يَا وَلَدِي، لَا تُخْبِرْ بِهَذِهِ الرُّؤْيَا أَحَدًا مِنْ إِخْوَتِكَ فَإِنَّهُمْ يَحْسُdُونَكَ وَيَكُونُونَ لَكَ عَدُوًّا.",
       "tr": "Shunda dedi: Ey o'g'lim, bu tushni hech bir akangga aytma. Chunki ular senga hasad qiladilar va senga dushman bo'ladilar.",
       "parts": [
         {
           "w": "فَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَقَالَ natijani kirituvchi o'tgan zamon fe'li; فَ harfi sababiyat yoki ketma-ketlik ma'nosini beradi — Ya'qub o'zi bilgan xavf sababli shu ogohlantirishni aytdi. Yashirin fo'ili Ya'qub.",
+          "e": "فَقَالَ o'tgan zamon fe'li, yashirin fo'ili Ya'qub.",
           "uz": "shunda dedi"
         },
         {
-          "w": "يَا وَلَدِي",
-          "r": "مُنَادَى",
+          "w": "يَا",
+          "r": "حَرف نِدَاء",
           "rc": "tb",
-          "e": "يَا وَلَدِي nido tarkibi bo'lib, يَا nido harfi, وَلَدِي esa مُنَادَى مُضَاف. -ي egalik zamiri birinchi shaxsga oid bo'lib, وَلَد so'ziga qo'shilganda مُضَاف maqomida يَاءning كَسرَةsiga o'tadi. Bu murojaatda otalik mehri va yaqinlik seziladi.",
-          "uz": "ey o'g'lim"
+          "e": "يَا nido harfi.",
+          "uz": "ey"
         },
         {
-          "w": "لَا تُخْبِرْ",
-          "r": "فِعل نَهي",
+          "w": "وَلَدِ",
+          "r": "مُنَادَى / مُضَاف",
+          "rc": "tb",
+          "e": "وَلَدِ munado bo'lib, muzof.",
+          "uz": "o'g'lim"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "ي birikkan zamir, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "mening"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَهي",
+          "rc": "tb",
+          "e": "لَا nahy (man etish) harfi.",
+          "uz": "ma"
+        },
+        {
+          "w": "تُخْبِرْ",
+          "r": "فِعل مُضَارِع مَجزُوم",
           "rc": "tf",
-          "e": "لَا تُخْبِرْ nahiy fe'li bo'lib, لَا + مضارع مجزوم tuzilmasida. Bu tuzilma man qilish ma'nosini beradi — Ya'qub Yusufga tushni aka-ukalariga aytmaslikni buyurmoqda. Fe'l مجزوم holatida (آخرида سكون bilan) kelgan.",
-          "uz": "aytma"
+          "e": "تُخْبِرْ nahy la tufayli majzum bo'lgan muzori' fe'li, «xabar berasan / aytasan» ma'nosida.",
+          "uz": "ayt / xabar ber"
         },
         {
-          "w": "بِهَذِهِ الرُّؤْيَا",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِهَذِهِ الرُّؤْيَا jar-majrur tarkibi تُخْبِرْga mutaalliq. أَخْبَرَ fe'li بِ harfi bilan keladi (أَخْبَرَهُ بِكَذَا — biror narsani unga aytdi). هَذِهِ ism-ishora shu aniq tushga ishora qiladi.",
-          "uz": "bu tush bilan"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هَذِهِ",
+          "r": "اسم إِشَارَة",
+          "rc": "tb",
+          "e": "هَذِهِ ishora olmoshi, mahallan majrur.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرُّؤْيَا",
+          "r": "بَدَل",
+          "rc": "tb",
+          "e": "الرُّؤْيَا badal, taqdiriy kasra bilan majrur.",
+          "uz": "tush"
         },
         {
           "w": "أَحَدًا",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "أَحَدًا تُخْبِرْ fe'lining مَفعُول بِه bo'lib, نصب holatida turadi. Inkor kontekstida أَحَد so'zi umumiy inkorni — 'hech kim' ma'nosini — bildiradi. Bu so'z man qilishning mutlaq ekanligini ta'kidlaydi.",
+          "e": "أَحَدًا fe'lining maf'ul bihi bo'lib, fatha tanvini bilan mansub.",
           "uz": "hech kimni"
         },
         {
-          "w": "مِنْ إِخْوَتِكَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "مِنْ إِخْوَتِكَ jar-majrur tarkibi أَحَدًاni tavsiflovchi yoki undan بدل. مِنْ بيانية (tavsif) ma'nosida kelgan — 'hech kim, ya'ni aka-ukalardan hech biri'. -كَ zamiri Yusufga qaytib, aka-ukalar uning ekanini bildiradi.",
-          "uz": "akanglardan"
-        },
-        {
-          "w": "فَإِنَّهُمْ",
-          "r": "حَرف تَعلِيل مَعَ إِنَّ",
+          "w": "مِنْ",
+          "r": "حَرف جَر",
           "rc": "tb",
-          "e": "فَإِنَّهُمْ tarkibida فَ sababiyat harfi, إِنَّ ta'kid harfi, -هُمْ esa إِنَّning ismi. Bu tuzilma man qilishning sababini aniq va ta'kidli ravishda kiritadi — chunki ular hasad qiladilar. -هُمْ zamiri aka-ukalarga qaytadi.",
-          "uz": "chunki ular"
+          "e": "مِنْ jar harfi.",
+          "uz": "-dan"
         },
         {
-          "w": "يَحْسُدُونَكَ",
-          "r": "خَبَر إِنَّ",
-          "rc": "tx",
-          "e": "يَحْسُدُونَكَ إِنَّning xabari bo'lgan مضارع fe'l jumlasi. -كَ zamiri Yusufga qaytib, hasad unga qaratilganini bildiradi. Bu xabar man qilishning asosiy sababini ifodalaydi va ogohlantirishning zarurligini asoslaydi.",
-          "uz": "senga hasad qiladilar"
+          "w": "إِخْوَتِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "إِخْوَتِ majrur ism, muzof.",
+          "uz": "aka-ukalar"
         },
         {
-          "w": "وَيَكُونُونَ",
+          "w": "كَ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, muzofun ilayh.",
+          "uz": "sening"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف / تَعْلِيل",
+          "rc": "tb",
+          "e": "فَ sababiyat bildiruvchi atf harfi.",
+          "uz": "chunki"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف مُشَبَّهة بِالفِعل",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "هُمْ",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُمْ zamir, inna ning ismi bo'lib mahallan mansub.",
+          "uz": "ular"
+        },
+        {
+          "w": "يَحْسُدُونَ",
+          "r": "فِعل مُضَارِع / خَبَر إِنَّ (جُملَة)",
+          "rc": "tf",
+          "e": "يَحْسُدُونَ hasad qiladi ma'nosidagi muzori' fe'li bo'lib, ko'plik shaklida kelgan.",
+          "uz": "hasad qiladilar"
+        },
+        {
+          "w": "كَ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, mahallan mansub maf'ul bih.",
+          "uz": "senga"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَكُونُونَ",
           "r": "فِعل مُضَارِع نَاقِص مَعطُوف",
           "rc": "tf",
-          "e": "وَيَكُونُونَ يَحْسُدُونَكَga عطف qilingan noqis مضارع fe'l. وَ atf harfi hasaddan keyin yuzaga keladigan ikkinchi xavfni — dushmanlikni — qo'shadi. يَكُونُونَ ism va xabarini talab qiladi.",
-          "uz": "va bo'ladilar"
+          "e": "يَكُونُونَ noqis muzori' fe'li, ko'plik shaklida. Vav harfi uning ismi.",
+          "uz": "bo'ladilar"
         },
         {
-          "w": "لَكَ",
-          "r": "خَبَر كَان (جَار وَمَجرُور مُقَدَّم)",
-          "rc": "tmt",
-          "e": "لَكَ jar-majrur tarkibi يَكُونُونَning xabari bo'lib, muqaddam — ism شَأْنٌ dan oldin — kelgan. Bu dushmanlikning kimga qaratilganini ta'kidlash uchun xabar oldinga o'tkazilgan. -كَ zamiri Yusufga qaytadi.",
+          "w": "لَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لَ jar harfi.",
+          "uz": "senga"
+        },
+        {
+          "w": "كَ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ zamir, mahallan majrur.",
           "uz": "senga"
         },
         {
           "w": "عَدُوًّا",
-          "r": "اسم كَان",
+          "r": "خَبَر كَانَ (يَكُونُونَ)",
           "rc": "tx",
-          "e": "عَدُوًّا يَكُونُونَning ismi bo'lib, نصب holatida turadi. U aka-ukalarning Yusufga nisbatan dushman maqomiga o'tishini bildiradi. Xabar lَكَ muqaddam kelgani uchun ism oxirda zikr qilingan — bu araб grammatikasida جواز tartib.",
+          "e": "عَدُوًّا noqis fe'l (yakuununa) ning xabari bo'lib, nasb holida kelgan.",
           "uz": "dushman"
         }
       ]

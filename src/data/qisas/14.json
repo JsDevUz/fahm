@@ -30,11 +30,18 @@
           "uz": "qaytdi"
         },
         {
-          "w": "بَعْدَ ذَلِكَ",
-          "r": "ظَرف زَمَان",
+          "w": "بَعْدَ",
+          "r": "ظَرف زَمَان / مُضَاف",
           "rc": "th",
-          "e": "بَعْدَ ذَلِكَ vaqt zarfi bo'lib, وَعَادَ fe'liga muta'alliq. بَعْدَ zamon zarfiyati bildiruvchi munsarif ism, ذَلِكَ esa uning muzof ilayhi; qaytish ketishdan keyin sodir bo'lganini aniqlashtiradi.",
-          "uz": "undan keyin"
+          "e": "بَعْدَ vaqt zarfi bo'lib mansub, ayni paytda muzof.",
+          "uz": "keyin"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "مُضَاف إِلَيه (اسم إِشَارَة)",
+          "rc": "tb",
+          "e": "ذَلِكَ ishora olmoshi bo'lib, muzofun ilayh vazifasida mahallan majrur.",
+          "uz": "o'shandan"
         },
         {
           "w": "وَأَرَادَ",
@@ -44,11 +51,18 @@
           "uz": "xohladi"
         },
         {
-          "w": "أَنْ يَبْنِيَ",
+          "w": "أَنْ",
+          "r": "حَرف مَصدَرِيَّة (نَاصِب)",
+          "rc": "tb",
+          "e": "أَنْ o'zidan keyingi muzori' fe'lini nasb etuvchi masdariy harf.",
+          "uz": "-ni / -ishni"
+        },
+        {
+          "w": "يَبْنِيَ",
           "r": "فِعل مُضَارِع مَنصُوب",
           "rc": "tf",
-          "e": "أَنْ يَبْنِيَ أَنْ nasb harfi bilan mansub bo'lgan muzorig' fe'lidir; bu tarkib masdar ta'vili bilan وَأَرَادَ fe'lining maf'ulini tashkil etadi. Qurish amali Ibrohim xohlagan ish sifatida taqdim etiladi.",
-          "uz": "qurishni"
+          "e": "يَبْنِيَ an harfi tufayli fatha bilan mansub bo'lgan muzori' fe'li, yashirin fo'ili (Ibrohim). «quradi, bino qiladi» ma'nosida.",
+          "uz": "quradi"
         },
         {
           "w": "بَيْتًا",
@@ -58,11 +72,18 @@
           "uz": "uy"
         },
         {
-          "w": "لِلَّهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "لِلَّهِ ل harfi jar va majruridan iborat bo'lib, بَيْتًاga sifat yoki muta'alliq sifatida bog'langan. Bu tarkib uyning Alloh uchun maxsus ekanini bildiradi va qurishning maqsadini ochib beradi.",
-          "uz": "Allohniki"
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لِ xoslash yoki yo'nalish bildiruvchi jar harfi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "اللَّهِ lafzi jalolasi, jar harfidan keyin kelgan majrur ism, oxiri kasra bilan tugagan.",
+          "uz": "Alloh"
         }
       ]
     },
@@ -92,25 +113,46 @@
           "uz": "Ko'p"
         },
         {
-          "w": "وَمَا",
-          "r": "حَرف نَفي",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَمَا ikkita elementdan iborat: و atf harfi va مَا nafiy harfi. مَا bu o'rinda كانَ bilan kelgan inkor harfi bo'lib, keyingi jumlani mutlaq inkor qiladi va Alloh uchun maxsus uy mavjud emasligini ta'kidlaydi.",
-          "uz": "va yo'q edi"
+          "e": "وَ bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَfi",
+          "rc": "tb",
+          "e": "مَا inkor (nafy) harfi bo'lib, o'tmishdagi holatni inkor qiladi.",
+          "uz": "yo'q edi"
         },
         {
           "w": "كَانَ",
           "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tf",
-          "e": "كَانَ مَا inkoridan keyin kelgan noqis fe'l bo'lib, بَيْتٌ لِلَّهِ uning ismi, يَعْبُدُونَ فِيهِ اللَّهَ esa fe'l jumlasi sifatida uning xabari hisoblanadi. Inkor qilingan vaziyat o'tmishda bo'lganini bildiradi.",
+          "e": "كَانَ مَا inkoridan keyin kelgan noqis fe'l bo'lib, o'tmishda bo'lganini bildiradi.",
           "uz": "edi"
         },
         {
-          "w": "بَيْتٌ لِلَّهِ",
+          "w": "بَيْتٌ",
           "r": "اسم كَان",
           "rc": "tm",
-          "e": "بَيْتٌ لِلَّهِ كانَning ismi bo'lib, بَيْتٌ marfu' tenvinsiz, لِلَّهِ esa sifat vazifasidagi jar-majrur. Bu tarkib inkor qilingan — ya'ni o'sha paytda Allohga maxsus uy mavjud emas edi.",
-          "uz": "Alloh uchun uy"
+          "e": "بَيْتٌ noqis fe'lning ismi bo'lib marfu' (damma tanvini bilan).",
+          "uz": "bino / uy"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لِ jar harfi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "اللَّهِ lafzi jalolasi majrur ism.",
+          "uz": "Alloh"
         },
         {
           "w": "يَعْبُدُونَ",
@@ -120,10 +162,17 @@
           "uz": "ibodat qiladilar"
         },
         {
-          "w": "فِيهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "فِيهِ fi harfi jar va هِ zamiridan iborat bo'lib, يَعْبُدُونَ fe'liga muta'alliq. هِ zamiri بَيْتٌga qaytadi va ibodat qaysi uyda bajarilishini bildiradi.",
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي zarfiy ma'nodagi jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "هِ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ uchinchi shaxs birlik muzakkar birikkan zamiri, jar harfi sababli mahallan majrur (uyga qaytadi).",
           "uz": "unda"
         },
         {
@@ -154,11 +203,18 @@
           "uz": "Ismoil"
         },
         {
-          "w": "أَنْ يَبْنِيَ",
+          "w": "أَنْ",
+          "r": "حَرف مَصدَرِيَّة",
+          "rc": "tb",
+          "e": "أَنْ masdariy harfi.",
+          "uz": "-ni / -ishni"
+        },
+        {
+          "w": "يَبْنِيَ",
           "r": "فِعل مُضَارِع مَنصُوب",
           "rc": "tf",
-          "e": "أَنْ يَبْنِيَ أَنْ nasb harfi bilan mansub bo'lgan muzorig' fe'lidir; masdar ta'vili bilan وَأَرَادَ fe'lining maf'ulini tashkil etadi. Ismoilning maqsadi — qurishni xohlash — shu tarkib orqali ifodalanadi.",
-          "uz": "qurishni"
+          "e": "يَبْنِيَ fatha bilan mansub muzori' fe'li.",
+          "uz": "quradi"
         },
         {
           "w": "بَيْتًا",
@@ -168,18 +224,39 @@
           "uz": "uy"
         },
         {
-          "w": "لِلَّهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "لِلَّهِ ل jar harfi va Alloh lafzidan iborat bo'lib, بَيْتًاga sifat yoki muta'alliq sifatida bog'langan. Bu tarkib qurishning Allohga xoslangan uy uchun ekanini ta'kidlaydi.",
-          "uz": "Allohniki"
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لِ jar harfi.",
+          "uz": "uchun"
         },
         {
-          "w": "مَعَ وَالِدِهِ",
-          "r": "ظَرف مَكَان",
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "اللَّهِ lafzi jalolasi majrur.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "مَعَ",
+          "r": "ظَرف مَكَان / مُضَاف",
           "rc": "th",
-          "e": "مَعَ وَالِدِهِ ma'iyyat zarfi bo'lib, يَبْنِيَ fe'liga muta'alliq. مَعَ birlikni bildiruvchi zarf ismi, وَالِدِهِ uning muzof ilayhi; هِ zamiri Ismoilga qaytib, qurishda otasi bilan birga bo'lishini bildiradi.",
-          "uz": "otasi bilan"
+          "e": "مَعَ birgalik zarfi bo'lib muzof.",
+          "uz": "bilan birga"
+        },
+        {
+          "w": "وَالِدِ",
+          "r": "مُضَاف إِلَye / مُضَاف",
+          "rc": "tb",
+          "e": "وَالِدِ muzofun ilayh va ayni paytda muzof, kasra bilan majrur.",
+          "uz": "otasi"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ birikkan zamir, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "uning"
         }
       ]
     },
@@ -216,11 +293,18 @@
           "uz": "toshlarni"
         },
         {
-          "w": "مِنَ الْجِبَالِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "مِنَ الْجِبَالِ مِنْ ibtido jar harfi va مَجرُورidan iborat bo'lib, وَنَقَلَ fe'liga muta'alliq. Bu tarkib toshlarning kelib chiqish manba'ini — tog'lardan — bildiradi va harakatning yo'nalishini aniqlaydi.",
-          "uz": "tog'lardan"
+          "w": "مِنَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنَ boshlang'ich nuqtani ifodalovchi jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الْجِبَالِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْجِبَالِ ko'plikdagi majrur ism, kasra bilan tugagan.",
+          "uz": "tog'lar"
         }
       ]
     },
@@ -228,6 +312,20 @@
       "ar": "وَكَانَ إِبْرَاهِيمُ يَبْنِي الْكَعْبَةَ بِيَدِهِ وَكَانَ إِسْمَاعِيلُ يَبْنِي الْكَعْبَةَ بِيَدِهِ.",
       "tr": "Ibrohim Ka'bani o'z qo'li bilan qurardi va Ismoil ham Ka'bani o'z qo'li bilan qurardi.",
       "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tf",
+          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, ism va xabarni boshqaradi.",
+          "uz": "edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "اسم كَان",
+          "rc": "tm",
+          "e": "إِبْرَاهِيمُ kanَning ismi bo'lib marfu'.",
+          "uz": "Ibrohim"
+        },
         {
           "w": "يَبْنِي",
           "r": "خَبَر كَان",
@@ -243,32 +341,74 @@
           "uz": "Ka'bani"
         },
         {
-          "w": "بِيَدِهِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِيَدِهِ ب vosita jar harfi, يَدِ vosita ismi va هِ qaytuvchi zamiridan iborat bo'lib, يَبْنِي fe'liga muta'alliq. Bu tarkib qurishning bevosita qo'l mehnati bilan amalga oshirilganini ta'kidlaydi; هِ zamiri tegishli quruvchiga qaytadi.",
-          "uz": "o'z qo'li bilan"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ vosita yoki yordam bildiruvchi jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "يَدِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "يَدِ jar harfidan keyingi majrur ism va muzof.",
+          "uz": "qo'l"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ zamir, muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "o'zining"
         },
         {
           "w": "وَكَانَ",
           "r": "فِعل مَاضٍ نَاقِص",
-          "rc": "tb",
-          "e": "وَكَانَ ikkinchi noqis o'tgan zamon fe'li bo'lib, birinchi كانَga و atf orqali qo'shilgan. Bu jumlaning ismi إِسْمَاعِيلُ, xabari esa يَبْنِي الْكَعْبَةَ بِيَدِهِ tarkibi hisoblanadi.",
+          "rc": "tf",
+          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, ism va xabarni boshqaradi.",
           "uz": "va edi"
-        },
-        {
-          "w": "إِبْرَاهِيمُ",
-          "r": "اسم كَان",
-          "rc": "tb",
-          "e": "إِبْرَاهِيمُ birinchi كانَning ismi bo'lib, marfu' holda keladi. Xabar sifatida kelgan يَبْنِي الْكَعْبَةَ بِيَدِهِ tarkibi aynan shu shaxsga tegishli ekanligi shu orqali aniqlanadi.",
-          "uz": "Ibrohim"
         },
         {
           "w": "إِسْمَاعِيلُ",
           "r": "اسم كَان",
-          "rc": "tb",
-          "e": "إِسْمَاعِيلُ ikkinchi كانَning ismi bo'lib, marfu' holda keladi. Takrorlangan يَبْنِي الْكَعْبَةَ بِيَدِهِ xabari endi shu shaxsga tegishli; bu takror ikkala quruvchining teng mehnatini ta'kidlaydi.",
+          "rc": "tm",
+          "e": "إِسْمَاعِيلُ noqis fe'lning ismi bo'lib marfu' (damma bilan).",
           "uz": "Ismoil"
+        },
+        {
+          "w": "يَبْنِي",
+          "r": "خَبَر كَان",
+          "rc": "tf",
+          "e": "يَبْنِي muzorig' fe'li bo'lib, kananing xabari jumlasi.",
+          "uz": "qurardi"
+        },
+        {
+          "w": "الْكَعْبَةَ",
+          "r": "مَفعُول بِه",
+          "rc": "tb",
+          "e": "الْكَعْبَةَ maf'ul bih.",
+          "uz": "Ka'bani"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "يَدِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "يَدِ majrur ism va muzof.",
+          "uz": "qo'l"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ zamir, muzofun ilayh.",
+          "uz": "o'zining"
         }
       ]
     },
@@ -277,10 +417,24 @@
       "tr": "Ibrohim Allohni zikr qilar va duo qilar edi.",
       "parts": [
         {
+          "w": "وَكَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, إِبْرَاهِيمُ uning ismi, يَذْكُرُ اللَّهَ وَيَدْعُو esa uning murakkab xabari hisoblanadi. Bu fe'l Ibrohimning davomiy ibodatini o'tmish zamonda ifodalaydi.",
+          "uz": "va edi"
+        },
+        {
+          "w": "إِبْرَاهِيمُ",
+          "r": "اسم كَان",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمُ kanَning ismi bo'lib, marfu' holda keladi. Xabar sifatida kelgan يَذْكُرُ va يَدْعُو fe'llari aynan shu shaxsning davomiy ibodatini ta'riflaydi.",
+          "uz": "Ibrohim"
+        },
+        {
           "w": "يَذْكُرُ",
           "r": "خَبَر كَان",
           "rc": "tf",
-          "e": "يَذْكُرُ كانَning xabari bo'lgan muzorig' fe'lidir; كانَ + muzorig' tarkibi Ibrohimning zikr qilish amalini davomiy yoki odatiy o'tgan zamon sifatida tasvirlaydi. Yashirin fo'ili إِبْرَاهِيمُga qaytadi.",
+          "e": "يَذْكُرُ kanَning xabari bo'lgan muzorig' fe'lidir; kanَ + muzorig' tarkibi Ibrohimning zikr qilish amalini davomiy yoki odatiy o'tgan zamon sifatida tasvirlaydi. Yashirin fo'ili hisoblanmish Ibrohimga qaytadi.",
           "uz": "eslab"
         },
         {
@@ -294,22 +448,8 @@
           "w": "وَيَدْعُو",
           "r": "فِعل مُضَارِع مَعطُوف",
           "rc": "tb",
-          "e": "وَيَدْعُو يَذْكُرُga و atf harfi orqali ma'tuf muzorig' fe'lidir. U ham كانَning xabari vazifasini bajaradi va Ibrohimning zikr bilan birga duo qilish amalini qo'shadi — ikki ibodat bir xil grammatik vaznda keladi.",
+          "e": "وَيَدْعُو يَذْكُرُga و atf harfi orqali ma'tuf muzorig' fe'lidir. U ham kanَning xabari vazifasini bajaradi va Ibrohimning zikr bilan birga duo qilish amalini qo'shadi.",
           "uz": "duo qiladi"
-        },
-        {
-          "w": "وَكَانَ",
-          "r": "فِعل مَاضٍ نَاقِص",
-          "rc": "tb",
-          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, إِبْرَاهِيمُ uning ismi, يَذْكُرُ اللَّهَ وَيَدْعُو esa uning murakkab xabari hisoblanadi. Bu fe'l Ibrohimning davomiy ibodatini o'tmish zamonda ifodalaydi.",
-          "uz": "va edi"
-        },
-        {
-          "w": "إِبْرَاهِيمُ",
-          "r": "اسم كَان",
-          "rc": "tb",
-          "e": "إِبْرَاهِيمُ كانَning ismi bo'lib, marfu' holda keladi. Xabar sifatidagi يَذْكُرُ va يَدْعُو fe'llari aynan shu shaxsning davomiy ibodatini ta'riflaydi.",
-          "uz": "Ibrohim"
         }
       ]
     },
@@ -318,38 +458,38 @@
       "tr": "Ismoil ham Allohni zikr qilar va duo qilar edi.",
       "parts": [
         {
-          "w": "إِسْمَاعِيلُ",
-          "r": "اسم كَان",
-          "rc": "tm",
-          "e": "إِسْمَاعِيلُ كانَning ismi bo'lib, marfu' holda keladi. Bu jumlada xabar sifatidagi يَذْكُرُ اللَّهَ وَيَدْعُو tarkibi aynan Ismoilning davomiy ibodatini ta'riflaydi — Ibrohimning holati takroran Ismoilga ham nisbatlanadi.",
-          "uz": "Ismoil"
-        },
-        {
           "w": "وَكَانَ",
           "r": "فِعل مَاضٍ نَاقِص",
           "rc": "tb",
-          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, إِسْمَاعِيلُ uning ismi, يَذْكُرُ اللَّهَ وَيَدْعُو esa uning murakkab xabari. Bu fe'l Ismoilning davomiy zikr va duo holatini o'tmishda tasvirlaydi.",
+          "e": "وَكَانَ noqis o'tgan zamon fe'li bo'lib, ism va xabarni boshqaradi.",
           "uz": "va edi"
+        },
+        {
+          "w": "إِسْمَاعِيلُ",
+          "r": "اسم كَان",
+          "rc": "tm",
+          "e": "إِسْمَاعِيلُ kanَning ismi bo'lib, marfu' holda keladi. Bu jumlada xabar sifatidagi يَذْكُرُ اللَّهَ وَيَدْعُو tarkibi aynan Ismoilning davomiy ibodatini ta'riflaydi.",
+          "uz": "Ismoil"
         },
         {
           "w": "يَذْكُرُ",
           "r": "خَبَر كَان",
           "rc": "tb",
-          "e": "يَذْكُرُ كانَning xabari bo'lgan muzorig' fe'lidir; yashirin fo'ili إِسْمَاعِيلُga qaytadi. كانَ + muzorig' tarkibi Ismoilning zikr qilish odatini davomiy o'tgan zamon ma'nosida ifodalaydi.",
+          "e": "يَذْكُرُ kanَning xabari bo'lgan muzorig' fe'lidir; yashirin fo'ili Ismoilga qaytadi.",
           "uz": "eslab"
         },
         {
           "w": "اللَّهَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "اللَّهَ يَذْكُرُ fe'lining maf'ul bihi bo'lib, mansub holda keladi. Bu ism Ismoilning zikri kimga qaratilganini bildiradi; Alloh ibodatning yagona ob'ekti sifatida qayta ta'kidlanadi.",
+          "e": "اللَّهَ يَذْكُرُ fe'lining maf'ul bihi bo'lib, mansub holda keladi. Bu ism zikrning ob'ekti Alloh ekanini bildiradi.",
           "uz": "Alloh"
         },
         {
           "w": "وَيَدْعُو",
           "r": "فِعل مُضَارِع مَعطُوف",
           "rc": "tb",
-          "e": "وَيَدْعُو يَذْكُرُga و atf orqali ma'tuf muzorig' fe'lidir; u ham كانَning xabari vazifasini bajaradi. Ismoilning duo qilish amali zikr bilan bir grammatik darajada qo'shiladi.",
+          "e": "وَيَدْعُو يَذْكُرُga  atf orqali ma'tuf muzorig' fe'lidir; u ham kanَning xabari vazifasini bajaradi.",
           "uz": "duo qiladi"
         }
       ]
@@ -359,52 +499,73 @@
       "tr": "Rabbimiz, bizdan qabul qil. Albatta Sen Eshitguvchi va Bilguvchisan.",
       "parts": [
         {
-          "w": "رَبَّنَا",
-          "r": "مُنَادَى",
+          "w": "رَبَّ",
+          "r": "مُنَادَى / مُضَاف",
           "rc": "tb",
-          "e": "رَبَّنَا nido iborasining munodosi bo'lib, يَا nido harfi tushirib qoldirilgan. رَبَّ muzof, نَا esa muzof ilayhi bo'lgan qaytuvchi zamir; duo qiluvchilar — Ibrohim va Ismoil — Allohga bevosita murojaat qiladilar.",
-          "uz": "Rabbimiz"
+          "e": "رَبَّ murojaat qilinayotgan zot (munado), ayni paytda muzof.",
+          "uz": "Parvardigor"
+        },
+        {
+          "w": "نَا",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نَا birikkan birinchi shaxs ko'plik zamiri (bizning), muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "bizning"
         },
         {
           "w": "تَقَبَّلْ",
           "r": "فِعل أَمر",
           "rc": "tf",
-          "e": "تَقَبَّلْ amr fe'li bo'lib, iltijo va talab ma'nosida Allohdan qabul so'ralmoqda. Bu fe'l duoning asosiy talabidir; مِنَّا jar-majruri esa qabul kimlardan so'ralayotganini aniqlaydi.",
+          "e": "تَقَبَّلْ amr fe'li bo'lib, iltijo va talab ma'nosida Allohdan qabul so'ralmoqda. Bu fe'l duoning asosiy talabidir.",
           "uz": "qabul qil"
         },
         {
-          "w": "مِنَّا",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "مِنَّا مِنْ ibtido jar harfi va نَا munfasil zamiridan iborat bo'lib, تَقَبَّلْ fe'liga muta'alliq. Bu tarkib qabul qilish kimlardan — ya'ni duo qiluvchilardan — so'ralayotganini bildiradi.",
-          "uz": "bizdan"
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ jar harfi.",
+          "uz": "-dan"
         },
         {
-          "w": "إِنَّكَ",
-          "r": "حَرف تَوكِيد",
+          "w": "نَا",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
           "rc": "tb",
-          "e": "إِنَّكَ إِنَّ ta'kid harfi va كَ xitob zamiridan iborat. إِنَّ ism va xabar talab qiluvchi harfi mushabbaha bil-fe'l bo'lib, bu o'rinda ismiga السَّمِيعُ الْعَلِيمُ xabari ulanadi; murojaat Allohga qaratilgan va ta'kidlangan.",
-          "uz": "albatta Sen"
+          "e": "نَا birikkan zamir, jar harfidan keyin mahallan majrur.",
+          "uz": "biz"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف مُشَبَّهة بِالفِعل",
+          "rc": "tb",
+          "e": "إِنَّ ta'kid harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "كَ",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ birikkan ikkinchi shaxs birlik zamiri (Sen), inna ning ismi bo'lib mahallan mansub.",
+          "uz": "Sen"
         },
         {
           "w": "أَنتَ",
           "r": "ضَمِير فَصل",
           "rc": "tm",
-          "e": "أَنتَ fasl zamiri bo'lib, إِنَّكَning كَ ismini mustahkamlaydi va xabarning faqat shu ismga xosligini ta'kidlaydi. Bu zamir السَّمِيعُ الْعَلِيمُ sifatlarining aynan Allohga tegishliligini kuchaytiradi.",
+          "e": "أَنتَ fasl zamiri bo'lib, إِنَّكَning كَ ismini mustahkamlaydi va xabarning faqat shu ismga xosligini ta'kidlaydi.",
           "uz": "Sen"
         },
         {
           "w": "السَّمِيعُ",
           "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "السَّمِيعُ إِنَّكَ tarkibining birinchi xabari bo'lib, marfu' holda keladi. Bu sifat Allohning duolarni eshituvchi sifatini bayon qiladi va duoning so'ralishiga sabab bo'ladi — eshituvchi Allohga murojaat qilinadi.",
+          "e": "السَّمِيعُ  tarkibining birinchi xabari bo'lib, marfu' holda keladi. Bu sifat Allohning duolarni eshituvchi sifatini bayon qiladi.",
           "uz": "Eshitguvchi"
         },
         {
           "w": "الْعَلِيمُ",
           "r": "خَبَر ثَانٍ",
           "rc": "ts",
-          "e": "الْعَلِيمُ إِنَّkaning ikkinchi xabari bo'lib, marfu' holda السَّمِيعُga ma'tuf keladi. Bu sifat Allohning hamma narsani biluvchiligini ta'kidlaydi; eshitish va bilish — duoning qabul bo'lishi uchun zarur sifatlar birga zikr qilinadi.",
+          "e": "الْعَلِيمُ inna ning ikkinchi xabari bo'lib, marfu' holda keladi.",
           "uz": "Bilguvchi"
         }
       ]
@@ -428,32 +589,46 @@
           "uz": "Alloh"
         },
         {
-          "w": "مِنْ إِبْرَاهِيمَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "مِنْ إِبْرَاهِيمَ مِنْ ibtido jar harfi va مَجرُuuridan iborat bo'lib, وَتَقَبَّلَ fe'liga muta'alliq. Bu tarkib qabul qilishning kimdan bo'lganini bildiradi — Ibrohimning amali birinchi zikr qilinadi.",
-          "uz": "Ibrohimdan"
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ majrur ism, g'ayri munsarif bo'lgani sababli fatha olgan.",
+          "uz": "Ibrohim"
         },
         {
           "w": "وَإِسْمَاعِيلَ",
           "r": "مَعطُوف",
           "rc": "tb",
-          "e": "وَإِسْمَاعِيلَ إِبْرَاهِيمَga و atf harfi orqali ma'tuf bo'lib, uning i'rob holini — majrurni — qabul qiladi. Ismoil ham qabul qilinish manba'iga qo'shiladi va ikkala quruvchi teng taqdirlanadi.",
+          "e": "وَإِسْمَاعِيلَ إِبْرَاهِيمَga و atf harfi orqali ma'tuf bo'lib, uning i'rob holini — majrurni — qabul qiladi.",
           "uz": "Va Ismoil"
         },
         {
           "w": "وَبَارَكَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَبَارَكَ وَتَقَبَّلَga و atf orqali qo'shilgan o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi va Allohning Ka'baga baraka berishi qabul qilish bilan yonma-yon zikr qilinadi.",
+          "e": "وَبَارَكَ وَتَقَبَّلَga و atf orqali qo'shilgan o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi.",
           "uz": "baraka berdi"
         },
         {
-          "w": "فِي الْكَعْبَةِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "فِي الْكَعْبَةِ فِي zarfiyyat jar harfi va مَجرُورidan iborat bo'lib, وَبَارَكَ fe'liga muta'alliq. Bu tarkib baraka qaysi joyga taalluqli ekanini bildiradi — Ka'ba Allohning baraka va rahmatiga sazovor bo'lgan joy.",
-          "uz": "Ka'baga"
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "الْكَعْبَةِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْكَعْبَةِ majrur ism, kasra bilan tugagan.",
+          "uz": "Ka'ba"
         }
       ]
     },
@@ -465,29 +640,50 @@
           "w": "نَحْنُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "نَحْنُ munfasil zamir bo'lib, mubtado vazifasida keladi. Bu zamir gapning sub'ektini — ya'ni barcha musulmonlarni — bildiradi va keyingi نَتَوَجَّهُ fe'l jumlasi uning xabari hisoblanadi.",
+          "e": "نَحْنُ munfasil zamir bo'lib, mubtado vazifasida keladi. Bu zamir gapning sub'ektini — ya'ni barcha musulmonlarni — bildiradi.",
           "uz": "biz"
         },
         {
           "w": "نَتَوَجَّهُ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "نَتَوَجَّهُ mubtadoning خَبَر vazifasidagi fe'l jumlasi bo'lib, muzorig' holda keladi. Bu fe'l namozdagi qibla sari yo'nalishni bildiradi va hozirgi hamda odatiy zamon ma'nosini beradi.",
+          "e": "نَتَوَجَّهُ mubtadoning xabar vazifasidagi fe'l jumlasi bo'lib, muzorig' holda keladi.",
           "uz": "qarab turamiz"
         },
         {
-          "w": "إِلَى الْكَعْبَةِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "إِلَى الْکَعْبَةِ إِلَى intihoi-g'oya jar harfi va مَجرُooridan iborat bo'lib, نَتَوَجَّهُ fe'liga muta'alliq. Bu tarkib yo'nalishning qayerga ekanini — Ka'ba tomon — aniqlaydi.",
-          "uz": "Ka'baga"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى jar harfi.",
+          "uz": "-ga"
         },
         {
-          "w": "فِي كُلِّ صَلَاةٍ",
-          "r": "ظَرف زَمَان",
-          "rc": "th",
-          "e": "فِي كُلِّ صَلَاةٍ vaqt doirasini bildiruvchi jar-majrur bo'lib, نَتَوَجَّهُ fe'liga muta'alliq. كُلِّ jam'lovchi ism, صَلَاةٍ esa uning muzof ilayhi; yo'nalish harakati har bir namozda takrorlanishini ko'rsatadi.",
-          "uz": "har namozda"
+          "w": "الْكَعْبَةِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْكَعْبَةِ majrur ism.",
+          "uz": "Ka'ba"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "كُلِّ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "كُلِّ majrur ism va muzof.",
+          "uz": "har bir"
+        },
+        {
+          "w": "صَلَاةٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "صَلَاةٍ muzofun ilayh, tanvini kasra bilan majrur.",
+          "uz": "namoz"
         }
       ]
     },
@@ -499,29 +695,50 @@
           "w": "وَيُسَافِرُ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَيُسَافِرُ و atf harfi bilan boshlangan muzorig' fe'lidir. Bu fe'l haj safari harakatini hozirgi va odatiy zamon ma'nosida ifodalaydi; fo'ili الْمُسْلِمُونَ bo'lib, keyingi ikki jar-majrur uning muta'alliqalari hisoblanadi.",
+          "e": "وَيُسَافِرُ و atf harfi bilan boshlangan muzorig' fe'lidir.",
           "uz": "safar qiladilar"
         },
         {
           "w": "الْمُسْلِمُونَ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْمُسْلِمُونَ وَيُسَافِرُ fe'lining fo'ili bo'lib, marfu' holda يَاءُ jameu muzakkari salom bilan keladi. Bu ism haj safarini amalga oshiruvchi jamoani bildiradi.",
+          "e": "الْمُسْلِمُونَ fe'lning fo'ili marfu' (ko'plikda vav-nun bilan).",
           "uz": "musulmonlar"
         },
         {
-          "w": "إِلَى الْكَعْبَةِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "إِلَى الْکَعْبَةِ إِلَى intihoi-g'oya jar harfi va مَجرُooridan iborat bo'lib, وَيُسَافِرُ fe'liga muta'alliq. Bu tarkib safar manzili Ka'ba ekanini bildiradi.",
-          "uz": "Ka'baga"
+          "w": "إِلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلَى jar harfi.",
+          "uz": "-ga"
         },
         {
-          "w": "فِي أَيَّامِ الْحَجِّ",
-          "r": "ظَرف زَمَان",
-          "rc": "th",
-          "e": "فِي أَيَّامِ الْحَجِّ vaqt zarfi bo'lib, وَيُسَافِرُ fe'liga muta'alliq. أَيَّامِ ko'plik ism, الْحَجِّ uning muzof ilayhi; safar qaysi kunlarda amalga oshirilishini aniqlashtiradi.",
-          "uz": "haj kunlarida"
+          "w": "الْكَعْبَةِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْكَعْبَةِ majrur ism.",
+          "uz": "Ka'ba"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "أَيَّامِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "أَيَّامِ ko'plikdagi majrur ism, muzof.",
+          "uz": "kunlari"
+        },
+        {
+          "w": "الْحَجِّ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "الْحَجِّ muzofun ilayh.",
+          "uz": "haj"
         }
       ]
     },
@@ -533,29 +750,43 @@
           "w": "وَيَطُوفُونَ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَيَطُوفُونَ jamoa muzorig' fe'li bo'lib, يَ va و nun alamat al-jam'i bilan kelgan. Yashirin fo'ili oldingi الْمُسْلِمُونَga qaytadi; tavof amali Ka'ba atrofida aylanish sifatida ifodalanadi.",
+          "e": "وَيَطُوفُونَ jamoa muzorig' fe'li bo'lib, yashirin fo'ili oldingi الْمُسْلِمُونَga qaytadi.",
           "uz": "tavof qiladilar"
         },
         {
-          "w": "بِالْكَعْبَةِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "بِالْكَعْبَةِ ب ilsоq jar harfi va مَجرُooridan iborat bo'lib, وَيَطُوفُونَ fe'liga muta'alliq. Bu tarkib tavofning Ka'ba atrofida, unga yaqin bajarilishini bildiradi — tavofda Ka'ba markaziy nuqta hisoblanadi.",
-          "uz": "Ka'ba atrofida"
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "بِ jar harfi.",
+          "uz": "bilan / atrofida"
+        },
+        {
+          "w": "الْكَعْبَةِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْكَعْبَةِ majrur ism.",
+          "uz": "Ka'ba"
         },
         {
           "w": "وَيُصَلُّونَ",
           "r": "فِعل مُضَارِع مَعطُوف",
           "rc": "tf",
-          "e": "وَيُصَلُّونَ وَيَطُوفُونَga و atf orqali ma'tuf muzorig' fe'lidir. Yashirin fo'ili ham oldingi musulmonlarga qaytadi; namoz o'qish amali tavof bilan birga haj ibodat tizimida zikr qilinadi.",
+          "e": "وَيُصَلُّونَ muzorig' fe'li bo'lib atf qilingan.",
           "uz": "namoz o'qiydilar"
         },
         {
-          "w": "عِنْدَهَا",
-          "r": "ظَرف مَكَان",
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
           "rc": "th",
-          "e": "عِنْدَهَا joy zarfi bo'lib, وَيُصَلُّونَ fe'liga muta'alliq. عِنْدَ yaqinlikni bildiruvchi zarf ismi, هَا zamiri esa الْكَعْبَةِga qaytadi; namoz qayerda o'qilishini aniqlaydi.",
-          "uz": "uning yonida"
+          "e": "عِنْدَ yaqinlikni ifodalovchi o'rin zarfi, muzof.",
+          "uz": "yonida / huzurida"
+        },
+        {
+          "w": "هَا",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هَا birikkan uchinchi shaxs birlik muannas zamiri (Ka'baga qaytadi), muzofun ilayh bo'lib mahallan majrur.",
+          "uz": "uning"
         }
       ]
     },
@@ -564,38 +795,59 @@
       "tr": "Alloh Ka'baga baraka berdi va Ibrohim va Ismoildan qabul qildi.",
       "parts": [
         {
-          "w": "بَارَكَ اللَّهُ",
-          "r": "فِعل وَفَاعِل",
+          "w": "بَارَكَ",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "بَارَكَ اللَّهُ fe'l va fo'il tarkibi bo'lib, بَارَكَ o'tgan zamon fe'li, اللَّهُ esa uning marfu' fo'ili. Bu tarkib Allohning Ka'baga baraka berishini bildiradi va gapning asosiy predikatini tashkil etadi.",
-          "uz": "Alloh baraka berdi"
+          "e": "بَارَكَ «baraka berdi» ma'nosidagi o'tgan zamon fe'li.",
+          "uz": "baraka berdi"
         },
         {
-          "w": "فِي الْكَعْبَةِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "فِي الْکَعْبَةِ فِي zarfiyyat jar harfi va مَجرُooridan iborat bo'lib, بَارَكَ fe'liga muta'alliq. Bu tarkib baraka taalluqli bo'lgan joy Ka'ba ekanini bildiradi.",
-          "uz": "Ka'baga"
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي jar harfi.",
+          "uz": "-da / ichida"
+        },
+        {
+          "w": "الْكَعْبَةِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْكَعْبَةِ majrur ism.",
+          "uz": "Ka'ba"
         },
         {
           "w": "وَتَقَبَّلَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَتَقَبَّلَ بَارَكَga و atf orqali qo'shilgan o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi; qabul qilish baraka berish bilan bir hukm ostida Allohga nisbatlanadi.",
+          "e": "وَتَقَبَّلَ o'tgan zamon fe'li.",
           "uz": "qabul qildi"
         },
         {
-          "w": "مِنْ إِبْرَاهِيمَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "مِنْ إِبْرَاهِيمَ مِنْ ibtido jar harfi va مَجرUooridan iborat bo'lib, وَتَقَبَّلَ fe'liga muta'alliq. Bu tarkib qabul qilishning Ibrohimdan bo'lganini bildiradi.",
-          "uz": "Ibrohimdan"
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنْ jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ majrur ism, g'ayri munsarif.",
+          "uz": "Ibrohim"
         },
         {
           "w": "وَإِسْمَاعِيلَ",
           "r": "مَعطُوف",
           "rc": "tb",
-          "e": "وَإِسْمَاعِيلَ إِبْرَاهِيمَga و atf harfi orqali ma'tuf bo'lib, uning majrur i'rob holini qabul qiladi. Ismoil ham qabul qilinish manba'iga qo'shiladi; ikki payg'ambar farzandi teng taqdirlanadi.",
+          "e": "وَإِسْمَاعِيلَ ma'tuf bo'lib majrur holda fatha olgan.",
           "uz": "Va Ismoil"
         }
       ]
@@ -605,24 +857,38 @@
       "tr": "Allohning salovoti va salomi Ibrohimga bo'lsin.",
       "parts": [
         {
-          "w": "صَلَّى اللَّهُ",
-          "r": "فِعل وَفَاعِل",
+          "w": "صَلَّى",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "صَلَّى اللَّهُ fe'l va fo'il tarkibi bo'lib, صَلَّى o'tgan zamon fe'li, اللَّهُ esa uning marfu' fo'ili. Bu tarkib duo va salavot jumlasining asosiy predikatini tashkil etadi; عَلَى إِبْرَاهِيمَ esa salavot kimga qaratilganini bildiradi.",
-          "uz": "Allohning salovoti"
+          "e": "صَلَّى duo fe'li.",
+          "uz": "salovot yo'lladi"
         },
         {
-          "w": "عَلَى إِبْرَاهِيمَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى إِبْرَاهِيمَ عَلَى jar harfi va مَجرUooridan iborat bo'lib, صَلَّى fe'liga muta'alliq. Bu tarkib salavot Ibrohimga yo'nalganini bildiradi; عَلَى harfi bu ma'noda «ustiga, manfaatiga» degan ma'noda keladi.",
-          "uz": "Ibrohimga"
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "إِبْرَاهِيمَ majrur ism.",
+          "uz": "Ibrohim"
         },
         {
           "w": "وَسَلَّمَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَسَلَّمَ صَلَّىga و atf orqali ma'tuf o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi; salom salavot bilan birga zikr qilinib, Ibrohimga Allohdan salomu salovat iltimos qilinadi.",
+          "e": "وَسَلَّمَ «وَ» bog'lovchi + o'tgan zamon fe'li.",
           "uz": "salom bo'lsin"
         }
       ]
@@ -632,24 +898,38 @@
       "tr": "Allohning salovoti va salomi Ismoilga bo'lsin.",
       "parts": [
         {
-          "w": "صَلَّى اللَّهُ",
-          "r": "فِعل وَفَاعِل",
+          "w": "صَلَّى",
+          "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "صَلَّى اللَّهُ fe'l va fo'il tarkibi bo'lib, صَلَّى o'tgan zamon fe'li, اللَّهُ esa uning marfu' fo'ili. Oldingi Ibrohimga salavot jumlasiga o'xshash tuzilishda Ismoilga ham salavot bildiriladi.",
-          "uz": "Allohning salovoti"
+          "e": "صَلَّى duo fe'li.",
+          "uz": "salovot yo'lladi"
         },
         {
-          "w": "عَلَى إِسْمَاعِيلَ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى إِسْمَاعِيلَ عَلَى jar harfi va مَجرUooridan iborat bo'lib, صَلَّى fe'liga muta'alliq. Bu tarkib salavot Ismoilga yo'nalganini bildiradi; Ibrohim va Ismoil alohida-alohida salavot bilan sharaflanadi.",
-          "uz": "Ismoilga"
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "إِسْمَاعِيلَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "إِسْمَاعِيلَ majrur ism.",
+          "uz": "Ismoil"
         },
         {
           "w": "وَسَلَّمَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَسَلَّمَ صَلَّىga و atf orqali ma'tuf o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi; salom salavot bilan birga Ismoilga ham bildiriladi va duo tarkibi yakunlanadi.",
+          "e": "وَسَلَّمَ «وَ» bog'lovchi + o'tgan zamon fe'li.",
           "uz": "salom bo'lsin"
         }
       ]
@@ -659,24 +939,45 @@
       "tr": "Allohning salovoti va salomi Muhammadga bo'lsin.",
       "parts": [
         {
-          "w": "وَصَلَّى اللَّهُ",
-          "r": "فِعل وَفَاعِل",
-          "rc": "tf",
-          "e": "وَصَلَّى اللَّهُ و atf harfi, وَصَلَّى o'tgan zamon fe'li va اللَّهُ marfu' fo'ilidan iborat tarkib. Bu jumla oldingi salavot jumlalari qatoriga qo'shilib, Muhammadga ham Alloh tomonidan salavot bildiriladi.",
-          "uz": "Allohning salovoti bo'lsin"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ bog'lovchi harf.",
+          "uz": "va"
         },
         {
-          "w": "عَلَى مُحَمَّدٍ",
-          "r": "جَار وَمَجرُور",
-          "rc": "tmt",
-          "e": "عَلَى مُحَمَّدٍ عَلَى jar harfi va مُحَمَّدٍ majruridan iborat bo'lib, وَصَلَّى fe'liga muta'alliq. Bu tarkib salavot Muhammadga yo'nalganini bildiradi; kitob Ibrohim va Ismoilga salavotdan so'ng Muhammadga ham salavotni zikr qilib yakunlanadi.",
-          "uz": "Muhammadga"
+          "w": "صَلَّى",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "صَلَّى duo fe'li.",
+          "uz": "salovot yo'lladi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّهُ lafzi jalolasi, fo'il.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "عَلَى jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "مُحَمَّدٍ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "مُحَمَّدٍ jar harfidan keyingi majrur ism, tanvini kasra bilan.",
+          "uz": "Muhammad"
         },
         {
           "w": "وَسَلَّمَ",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَسَلَّمَ وَصَلَّىga و atf orqali ma'tuf o'tgan zamon fe'lidir. Yashirin fo'ili اللَّهُga qaytadi; salom salavot bilan birga Muhammadga bildiriladi va butun kitob ushbu duo bilan xotimlanadi.",
+          "e": "وَسَلَّمَ «وَ» bog'lovchi + o'tgan zamon fe'li.",
           "uz": "salom bo'lsin"
         }
       ]

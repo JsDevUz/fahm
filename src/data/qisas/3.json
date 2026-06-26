@@ -16,24 +16,31 @@
           "uz": "keldi"
         },
         {
-          "w": "يَوْمٌ عِيدٌ",
+          "w": "يَوْمٌ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "يَوْمٌ — «جَاءَ» fe'lining فَاعِل (egasi) bo'lib, رَفع holatida tanvin bilan kelgan. عِيدٌ esa uning sifati (نَعت) yoki badali bo'lib, qaysi kun ekanligini aniqlamoqda. Faol ot fe'ldan keyin kelib, harakat kimdan yoki nimadan sоdir bo'lganini ko'rsatadi.",
-          "uz": "Bayram kuni"
+          "e": "يَوْمٌ — «جَاءَ» fe'lining egasi (fo'il) bo'lib, damma va tanvin bilan raf' holatida kelgan, harakatni bajaruvchi zamon segmentini ifodalaydi.",
+          "uz": "kun"
+        },
+        {
+          "w": "عِيدٌ",
+          "r": "نَعت (صِفَة)",
+          "rc": "ts",
+          "e": "عِيدٌ — «يَوْمٌ» otining nati (sifati) bo'lib, kelishik (raf'), jins (muzakkar) va son (birlik)da mavsufiga to'liq ergashgan holda keladi.",
+          "uz": "bayram"
         },
         {
           "w": "فَفَرِحَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَفَرِحَ — boshidagi فَ natija va ketma-ketlik bildiruvchi atf harfi bo'lib, «bayram kuni kelishi natijasida odamlar xursand bo'ldi» degan bog'liqlikni ifodalaydi. «فَرِحَ» o'tgan zamon fe'li bo'lib, his-tuyg'uni bildiruvchi lazim (o'timsiz) fe'l sifatida kelgan.",
+          "e": "فَفَرِحَ — boshidagi فَ sababiyat va tartib bildiruvchi atf harfidir, «فَرِحَ» esa o'tgan zamondagi xursandlik holatini ifodalovchi o'timsiz fe'ldir.",
           "uz": "xursand bo'ldi"
         },
         {
           "w": "النَّاسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "النَّاسُ — «فَفَرِحَ» fe'lining فَاعِلi bo'lib, رَفع holatida ma'rifa (ال bilan aniq) sifatida kelgan. Bu so'z xursandlik harakatini amalga oshiruvchi jamoa — odamlarni bildiradi va fe'l bilan grammatik jihatdan muvofiq keladi.",
+          "e": "النَّاسُ — «فَفَرِحَ» fe'lining egasi (fo'il) bo'lib, aniqlik artikli (ال) bilan raf' holatida kelgan.",
           "uz": "odamlar"
         }
       ]
@@ -53,28 +60,28 @@
           "w": "النَّاسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "النَّاسُ — «وَخَرَجَ» fe'lining فَاعِلi, رَفع holatida ma'rifa sifatida kelgan. «Odamlar» so'zi chiqish harakatini bajaruvchi guruhni bildiradi; جَمع مُكَسَّر (siniq ko'plik) shaklidagi ot bo'lib, جَمع مُذَكَّر salomat shakli emas.",
+          "e": "النَّاسُ — «وَخَرَجَ» fe'lining fo'ili, raf' holatida ma'rifa sifatida kelgan. «Odamlar» so'zi chiqish harakatini bajaruvchi guruhni bildiradi; siniq ko'plik (jam' mukassar) shaklidagi ismdir.",
           "uz": "odamlar"
         },
         {
           "w": "لِلْعِيدِ",
           "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "لِلْعِيدِ — لِ harf jarri «عِيد» ismini جَر holatiga olib kelgan. Bu tarkib «bayramga» degan yo'nalish va maqsad ma'nosini ifodalab, «خَرَجَ» fe'liga mutaalliq (bog'liq) bo'lib kelgan. Harf jar + majrur birgalikda joy yoki maqsad zarfini hosil qiladi.",
+          "e": "لِلْعِيدِ — لِ jar harfi «عِيد» ismini jar holatiga olib kelgan. Bu tarkib «bayramga» degan yo'nalish va maqsad ma'nosini ifodalab, «خَرَجَ» fe'liga mutaalliq (bog'liq) bo'lib kelgan.",
           "uz": "bayramga"
         },
         {
           "w": "وَخَرَجَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَخَرَجَ — «و» atf harfi bilan birinchi jumla fe'liga ulangan ikkinchi mustaqil fe'l-kesim. Takrorlanish orqali bolalarning ham chiqishi alohida ta'kidlanmoqda; bu arab uslubidagi تَكرار (takror) vositasida ma'noni kuchaytirish usulidir.",
+          "e": "وَخَرَجَ — «و» atf harfi bilan birinchi jumla fe'liga ulangan ikkinchi mustaqil fe'l-kesim. Takrorlanish orqali bolalarning ham chiqishi alohida ta'kidlanmoqda.",
           "uz": "chiqdi"
         },
         {
           "w": "الْأَطْفَالُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْأَطْفَالُ — ikkinchi «وَخَرَجَ» fe'lining فَاعِلi bo'lib, رَفع holatida ma'rifa sifatida kelgan. «Bolalar» so'zi طِفل ismining جَمع مُكَسَّر ko'pligidir; alohida qo'shilishi bolalarning bayramga ishtiroki maxsus ta'kidlanayotganini ko'rsatadi.",
+          "e": "الْأَطْفَالُ — ikkinchi «وَخَرَجَ» fe'lining fo'ili bo'lib, raf' holatida ma'rifa sifatida kelgan. «Bolalar» so'zi tifl ismining siniq ko'pligidir.",
           "uz": "bolalar"
         }
       ]
@@ -84,53 +91,67 @@
       "tr": "Ibrohimning otasi ham chiqdi va Ibrohimga: Biz bilan chiqmaysanmi?",
       "parts": [
         {
-          "w": "وَالِدُ إِبْرَاهِيمَ",
-          "r": "فَاعِل",
-          "rc": "tm",
-          "e": "وَالِدُ إِبْرَاهِيمَ — «وَخَرَجَ» fe'lining فَاعِلi bo'lib, рَفع holatida kelgan. وَالِدُ — مُضَاف (birinchi bo'lak), إِبْرَاهِيمَ esa مُضَاف إِلَيه bo'lib جَر holatida kelgan; bu «إضافة» tarkibi «Ibrohimning otasi» degan tegishlilik ma'nosini beradi.",
-          "uz": "Ibrohimning otasi"
-        },
-        {
-          "w": "قَالَ",
+          "w": "وَخَرَجَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ — «و» atf harfi bilan chiqish fe'liga bog'langan ikkinchi fe'l-kesim. «Demoq» ma'nosidagi متعدّي (o'timli) fe'l bo'lib, uning maf'uli — nutq mazmuni (مَقُول القَوْل) ergash gapda keladi. Bu fe'l to'g'ridan-to'g'ri nutqni kiritish uchun ishlatilgan.",
-          "uz": "dedi"
+          "e": "وَخَرَجَ — «و» atf harfi bilan birikkan o'tgan zamon fe'li bo'lib, Ibrohimning otasi chiqish harakatini bildiradi. Bu fe'l fo'il sifatida «وَالِدُ» ni talab qiladi.",
+          "uz": "chiqdi"
+        },
+        {
+          "w": "وَالِدُ",
+          "r": "فَاعِل / مُضَاف",
+          "rc": "tm",
+          "e": "وَالِدُ — «وَخَرَجَ» fe'lining egasi (fo'il) bo'lib, damma bilan raf' holatida kelgan va ayni paytda izofa hosil qiluvchi muzofdir.",
+          "uz": "otasi"
+        },
+        {
+          "w": "إِبْرَاهِيمَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tmt",
+          "e": "إِبْرَاهِيمَ — muzofun ilayh bo'lib, atoqli ajamiy ism bo'lganligi sababli g'ayri munsarifdir va jarr holatida kasra o'rniga fatha qabul qilgan.",
+          "uz": "Ibrohimning"
+        },
+        {
+          "w": "وَقَالَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "وَقَالَ — «و» atf harfi bilan chiqish fe'liga bog'langan, «aytdi» ma'nosidagi ikkinchi asosiy fe'l. Bu fe'l orqali otaning so'zi kiritilmoqda; fo'ili yashirin zamir (huva)dir.",
+          "uz": "va dedi"
         },
         {
           "w": "لِإِبْرَاهِيمَ",
           "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "لِإِبْرَاهِيمَ — لِ harf jarri إِبْرَاهِيمَ ismini (مَمنُوع مِن الصَّرف — g'ayri munsarif ot sifatida fathali) جَر holatiga olib kelgan. Bu tarkib «Ibrohimga» degan yo'naltirish ma'nosini bildiradi va «قَالَ» fe'liga mutaalliq bo'lib, so'zning kimga qaratilganini ko'rsatadi.",
+          "e": "لِإِبْرَاهِيمَ — لِ jar harfi va g'ayri munsarif bo'lgan «إِبْرَاهِيمَ» ismidan iborat bo'lib, jar holati fatha bilan ifodalangan. Nutq kimga qaratilganini bildiradi.",
           "uz": "Ibrohimga"
         },
         {
-          "w": "أَلَا تَخْرُجُ",
-          "r": "فِعل مُضَارِع (اسْتِفهَام)",
-          "rc": "tf",
-          "e": "أَلَا تَخْرُجُ — أَ istifhom (so'roq) hamzasi va لَا inkor zarrachasi birikmasidan iborat; bu kombinatsiya iltimos yoki taklif ma'nosini ifodalaydi. تَخْرُجُ hozirgi-kelajak zamon fe'li bo'lib, مُخَاطَب مُفرَد murojaat shakli: «Chiqmaysanmi?» deyish orqali otaning Ibrohimni bayramga taklif qilishi ifodalanmoqda.",
-          "uz": "chiqmaysanmi"
+          "w": "أَلَا",
+          "r": "حَرف اسْتِفهَام وَعَرض",
+          "rc": "tb",
+          "e": "أَلَا — so'roq hamzasi va inkor laa harfining birikmasidan hosil bo'lib, taklif yoki iltimos ma'nosini ifodalaydi.",
+          "uz": "nahotki, -mi"
         },
         {
-          "w": "مَعَنَا",
+          "w": "تَخْرُجُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "تَخْرُجُ — ikkinchi shaxs birlik mudori' fe'li bo'lib, murojaat qilinayotgan shaxsning chiqish harakatini so'raydi.",
+          "uz": "chiqasan"
+        },
+        {
+          "w": "مَعَ",
           "r": "ظَرف مَكَان",
           "rc": "th",
-          "e": "مَعَنَا — مَعَ birlikni bildiruvchi ism-zarf (ظَرف) bo'lib, «bilan, birga» ma'nosini anglatadi. نَا zamiri unga birikib «biz bilan» degan ma'noni hosil qiladi. Bu so'z تَخْرُجُ fe'liga mutaalliq bo'lib, harakat qanday holatda yuz berishini — birga chiqishni — aniqlamoqda.",
-          "uz": "biz bilan"
+          "e": "مَعَ — birgalik ma'nosini ifodalovchi va muzof bo'lib keluvchi makon zarfidir.",
+          "uz": "bilan"
         },
         {
-          "w": "وَخَرَجَ",
-          "r": "فِعل مَاضٍ",
-          "rc": "tb",
-          "e": "وَخَرَجَ — «و» atf harfi bilan birikkan o'tgan zamon fe'li bo'lib, Ibrohimning otasi chiqish harakatini bildiradi. Bu fe'l فَاعِل sifatida «وَالِدُ إِبْرَاهِيمَ» ni talab qiladi va jumladagi birinchi asosiy xabar hisoblanadi.",
-          "uz": "chiqdi"
-        },
-        {
-          "w": "وَقَالَ",
-          "r": "فِعل مَاضٍ",
-          "rc": "tb",
-          "e": "وَقَالَ — «و» atf harfi bilan chiqish fe'liga bog'langan, «aytdi» ma'nosidagi ikkinchi asosiy fe'l. Bu fe'l orqali otaning so'zi kiritilmoqda; فَاعِلi «وَالِدُ إِبْرَاهِيمَ» bo'lib, oldingi jumlada aytilganligi sababli qaytarilmagan (ضَمِير مُستَتِر shaklida).",
-          "uz": "va dedi"
+          "w": "نَا",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "نَا — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "biz"
         }
       ]
     },
@@ -142,28 +163,28 @@
           "w": "قَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ — o'tgan zamon fe'li bo'lib, to'g'ridan-to'g'ri nutqni kiritishga xizmat qiladi. Bu gapda fe'l-kesim vazifasini bajarib, Ibrohimning javobini boshlamoqda. «قَالَ» fe'li arab tilida hikoya qilishning asosiy vositasi bo'lib, uning فَاعِلi keyingi so'z — «إِبْرَاهِيمُ»dir.",
+          "e": "قَالَ — o'tgan zamon fe'li bo'lib, to'g'ridan-to'g'ri nutqni kiritishga xizmat qiladi. Bu gapda fe'l-kesim vazifasini bajarib, Ibrohimning javobini boshlamoqda.",
           "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «قَالَ» fe'lining فَاعِلi bo'lib, رَفع holatida kelgan. Bu — مَمنُوع مِن الصَّرف (g'ayri munsarif) ot bo'lgani uchun tanvin olmaydi, lekin رَفع holatida ضَمَّة bilan keladi. So'zlovchi sifatida Ibrohimning kim ekanligini aniq belgilamoqda.",
+          "e": "إِبْرَاهِيمُ — «قَالَ» fe'lining fo'ili bo'lib, g'ayri munsarif ot bo'lgani uchun tanvinsiz damma bilan kelgan.",
           "uz": "Ibrohim"
         },
         {
           "w": "أَنَا",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "أَنَا — birinchi shaxs mutakallim (so'zlovchi) zamiri bo'lib, ismiy gapning مُبتَدَأ (ega) vazifasida kelgan. Bu yerda Ibrohim o'zi haqida gapirmoqda; ضَمِير مُنفَصِل (alohida ko'rinishdagi zamir) bo'lgani uchun alohida yoziladi va ta'kid ma'nosini kuchaytiradi.",
+          "e": "أَنَا — birinchi shaxs mutakallim zamiri bo'lib, ismiy gapning mubtadosi vazifasida kelgan va mahallan marfu'dir.",
           "uz": "men"
         },
         {
           "w": "سَقِيمٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "سَقِيمٌ — «أَنَا» mubtadosining خَبَر (xabari) bo'lib, رَفع holatida tanvin bilan kelgan. فَعِيل vazni — ko'p hollarda sifat yoki holatni anglatadi; bu yerda «kasal» ma'nosini beradi. Xabar ismiy gapda eganing holati, sifati yoki tavsifini bildiradi va ot yoki sifat shaklida kelishi mumkin.",
+          "e": "سَقِيمٌ — «أَنَا» mubtadosining xabari bo'lib, damma va tanvin bilan marfu' holatida kelgan va kasal ekanlik holatini bildiradi.",
           "uz": "kasal"
         }
       ]
@@ -176,36 +197,43 @@
           "w": "وَذَهَبَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَذَهَبَ — «و» atf harfi bilan oldingi kontekstga bog'langan o'tgan zamon fe'li. «ذَهَبَ» — ketmoq ma'nosidagi lazim fe'l bo'lib, odamlarning bayramga jo'nashini bildiradi. Fe'l jumlada birinchi o'rinda kelib, arab gap qurilishining fe'l-ega tartibini ko'rsatmoqda.",
+          "e": "وَذَهَبَ — «و» atf harfi bilan oldingi kontekstga bog'langan o'tgan zamon fe'li. «ذَهَبَ» — chiqib ketish harakatini anglatadi.",
           "uz": "ketdi"
         },
         {
           "w": "النَّاسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "النَّاسُ — «وَذَهَبَ» fe'lining فَاعِلi bo'lib, رَفع holatida ma'rifa (ال) bilan kelgan. Odamlar ketish harakatini bajaruvchi guruh sifatida kelmoqda; bu Ibrohimning uyda qolishini zidlash uchun kontekst yaratmoqda.",
+          "e": "النَّاسُ — «وَذَهَبَ» fe'lining fo'ili bo'lib, aniqlikda raf' holatida kelgan.",
           "uz": "odamlar"
         },
         {
           "w": "وَبَقِيَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَبَقِيَ — «و» atf harfi bilan «ذَهَبَ»ga bog'langan ikkinchi fe'l. «بَقِيَ» — qolmoq ma'nosidagi lazim fe'l bo'lib, ناقص (zaifl) fe'llar toifasiga kiradi: o'zagining oxirgi harfi حَرف عِلَّة (ي) ekanligi sababli فَتحَة bilan tugagan. Ketish va qolish o'rtasidagi qarama-qarshilikni ta'kidlaydi.",
+          "e": "وَبَقِيَ — atf harfi va o'tgan zamon fe'li bo'lib, oxirgi harfi illatli (yo) bo'lsa ham fatha qabul qilgan.",
           "uz": "qoldi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «وَبَقِيَ» fe'lining فَاعِلi bo'lib, رَفع holatida kelgan. Odamlar bayramga ketgan paytda Ibrohimning uyda qolishi — Qurhon hikoyasidagi butlarni sindirish voqeasining zaminini hozirlaydi; bu فَاعِل shu muhim dramatik o'zgarishni yuzaga chiqaradigan shaxs.",
+          "e": "إِبْرَاهِيمُ — «وَبَقِيَ» fe'lining fo'ili bo'lib, damma bilan marfu'dir.",
           "uz": "Ibrohim"
         },
         {
-          "w": "فِي الْبَيْتِ",
-          "r": "جَار وَمَجرُور",
+          "w": "فِي",
+          "r": "حَرف جَرّ",
+          "rc": "tb",
+          "e": "فِي — o'zidan keyingi ismni majrur qiluvchi joy ma'nosidagi jar harfidir.",
+          "uz": "ichida"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "r": "اِسم مَجرُور",
           "rc": "tmt",
-          "e": "فِي الْبَيْتِ — فِي harf jarri «الْبَيْت» ismini جَر holatiga olib kelgan. Bu tarkib «uyda» degan joy ma'nosini bildiruvchi ظَرف مَكَان vazifasida bo'lib, «بَقِيَ» fe'liga mutaalliq: Ibrohimning qolgan joyi — uy ekanligini aniqlamoqda.",
-          "uz": "uyda"
+          "e": "الْبَيْتِ — jar harfi tufayli kasra bilan majrur bo'lgan ismdir va qolish joyini aniqlashtiradi.",
+          "uz": "uy"
         }
       ]
     },
@@ -217,50 +245,71 @@
           "w": "وَجَاءَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَجَاءَ — «و» atf harfi bilan oldingi jumlaga ulangan o'tgan zamon fe'li. «جَاءَ» — kelmoq ma'nosidagi lazim fe'l bo'lib, Ibrohimning butlar joylashgan ibodatxonaga borish harakatini bildiradi. Bu fe'l butlar bilan to'qnashuvning boshlanishini belgilaydi.",
+          "e": "وَجَاءَ — «و» atf harfi bilan bog'langan o'tgan zamon fe'li bo'lib, harakatning boshlanishini anglatadi.",
           "uz": "keldi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «وَجَاءَ» fe'lining فَاعِلi, رَفع holatida kelgan g'ayri munsarif ot. Butlar oldiga kelish harakatini amalga oshiruvchi shaxs sifatida kelmoqda; bu jumla hikoyaning kulminatsion qismini — Ibrohimning butlarga murojaat sahnasini — boshlaydi.",
+          "e": "إِبْرَاهِيمُ — «وَجَاءَ» fe'lining fo'ilidir.",
           "uz": "Ibrohim"
         },
         {
-          "w": "إِلَى الْأَصْنَامِ",
-          "r": "جَار وَمَجرُور",
+          "w": "إِلَى",
+          "r": "حَرف جَرّ",
+          "rc": "tb",
+          "e": "إِلَى — yo'nalishni ifodalovchi jar harfidir.",
+          "uz": "tomon, -ga"
+        },
+        {
+          "w": "الْأَصْنَامِ",
+          "r": "اِسم مَجرُور",
           "rc": "tmt",
-          "e": "إِلَى الْأَصْنَامِ — إِلَى harf jarri «الْأَصنَام» ismini جَر holatiga olib kelgan. Bu tarkib «butlarga qarab, butlar tomonga» degan yo'nalish ma'nosini ifodalab, «وَجَاءَ» fe'liga mutaalliq bo'lib kelmoqda; harakat qayerga qarab yo'nalganini aniqlamoqda.",
-          "uz": "butlarga"
+          "e": "الْأَصْنَامِ — jar harfidan keyingi majrur ismdir.",
+          "uz": "butlar"
         },
         {
           "w": "وَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَقَالَ — «و» atf harfi bilan «جَاءَ»ga bog'langan ikkinchi fe'l-kesim. «قَالَ» to'g'ridan-to'g'ri nutqni kiritadi; فَاعِلi oldingi gapdan ma'lum bo'lgan «إِبْرَاهِيمُ» ضَمِير مُستَتِر (yashirin zamir) shaklida kelgan. Bu fe'l Ibrohimning butlarga so'z qaratishini tayyorlamoqda.",
+          "e": "وَقَالَ — bog'lovchi harf va nutq kirituvchi o'tgan zamon fe'li.",
           "uz": "va dedi"
         },
         {
           "w": "لِلْأَصْنَامِ",
           "r": "جَار وَمَجرُور",
           "rc": "tmt",
-          "e": "لِلْأَصْنَامِ — لِ harf jarri «الْأَصنَام» ismini جَر holatiga olib kelgan. Bu tarkib «قَالَ» fe'liga mutaalliq bo'lib, so'zning kimga yo'naltirilganini ko'rsatadi — Ibrohim butlarga murojaat qilmoqda. Jonli bo'lmagan narsalarga murojaat — Ibrohimning ularga minnat ko'rsatish usuli.",
+          "e": "لِلْأَصْنَامِ — jar harfi (لِ) va majrur ismdan iborat tarkib bo'lib, gap qaysi ob'ektga qaratilganini bildiradi.",
           "uz": "butlarga"
         },
         {
-          "w": "أَلَا تَتَكَلَّمُونَ",
-          "r": "فِعل مُضَارِع (اسْتِفهَام)",
-          "rc": "tf",
-          "e": "أَلَا تَتَكَلَّمُونَ — أَ istifhom hamzasi + لَا inkor zarrachasi; تَتَكَلَّمُونَ esa جَمع مُذَكَّر مُخَاطَب shaklidagi hozirgi zamon fe'li. Bu savol butlarga qaratilgan bo'lib, aslida ularning gapira olmasligini ta'kidlash maqsadida ironiya usulida qo'llangan تَوبِيخ (koyish) ifodasi.",
-          "uz": "gapirmaysizlarmi"
+          "w": "أَلَا",
+          "r": "حَرف اسْتِفهَام وَتَوْبِيخ",
+          "rc": "tb",
+          "e": "أَلَا — so'roq hamzasi va inkor harfining birikmasi bo'lib, bu yerda koyish va aqlsiz narsani masxara qilish ohangida kelgan.",
+          "uz": "nahotki, -mi"
         },
         {
-          "w": "أَلَا تَسْمَعُونَ",
-          "r": "فِعل مُضَارِع (اسْتِفهَام)",
+          "w": "تَتَكَلَّمُونَ",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "أَلَا تَسْمَعُونَ — oldingi savolga parallel tuzilgan ikkinchi inkor-istifhom fe'li. تَسْمَعُونَ — eshitmoq fe'lining جَمع مُخَاطَب shakli. Ikkala savol birgalikda butlarning ojizligini — na gapira, na eshita olmasligini — ko'rsatish uchun موازنة (parallel qurilish) usulidan foydalanilgan.",
-          "uz": "eshitmaysizlarmi"
+          "e": "تَتَكَلَّمُونَ — ikkinchi shaxs ko'plik shaklidagi mudori' fe'li bo'lib, gapirish harakatini ifodalaydi va oxiri nun harfi bilan raf' holatini ko'rsatadi.",
+          "uz": "gapirasizlar"
+        },
+        {
+          "w": "أَلَا",
+          "r": "حَرف اسْتِفهَام",
+          "rc": "tb",
+          "e": "أَلَا — so'roq harfi.",
+          "uz": "nahotki, -mi"
+        },
+        {
+          "w": "تَسْمَعُونَ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "تَسْمَعُونَ — ikkinchi shaxs ko'plikdagi mudori' atf fe'li bo'lib, eshitish harakatini anglatadi.",
+          "uz": "eshitasizlar"
         }
       ]
     },
@@ -272,29 +321,57 @@
           "w": "هَذَا",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "هَذَا — مُذَكَّر مُفرَد (erkak, birlik) اسم إِشَارَة (ko'rsatish olmoshi) bo'lib, ismiy gapning مُبتَدَأ vazifasini bajarmoqda. Ibrohim butlar oldiga qo'yilgan taom va ichimlikka ishora qilib «Bu» deya gap boshlaydi; ko'rsatish olmoshining ishlatilishi o'sha narsalarning yaqin ekanligini bildiradi.",
+          "e": "هَذَا — ismiy gapda ega (mubtado) bo'lib kelgan ko'rsatish olmoshi.",
           "uz": "bu"
         },
         {
-          "w": "طَعَامٌ وَشَرَابٌ",
+          "w": "طَعَامٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "طَعَامٌ وَشَرَابٌ — «هَذَا» mubtadosining خَبَر (xabari) bo'lib, ikkala ism رَفع holatida tanvin bilan kelgan. «و» atf harfi ikkala ismni bir xabarda birlashtirmoqda; bu tarkib butlar oldidagi taqdimotning moddiy tavsifini beradi va keyingi savollar uchun zamin hozirlaydi.",
-          "uz": "taom va ichimlik"
+          "e": "طَعَامٌ — mubtadoning birinchi xabari bo'lib, raf' holatida damma va tanvin bilan kelgan.",
+          "uz": "taom"
         },
         {
-          "w": "أَلَا تَأْكُلُونَ",
-          "r": "فِعل مُضَارِع (اسْتِفهَام)",
-          "rc": "tf",
-          "e": "أَلَا تَأْكُلُونَ — أَ + لَا inkor-so'roq tarkibi va تَأْكُلُونَ hozirgi zamon fe'li (جَمع مُخَاطَب). «Taom bor — yeysizlarmi?» degan savol butlarning iste'mol qila olmasligini ta'kidlash uchun qo'llangan. Bu so'roq ironik тavbix (koyish) uslubida: butlarning hayotsizligini ko'rsatish maqsadida.",
-          "uz": "yemaysizlarmi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi bo'lib, keyingi xabarni birinchisiga bog'laydi.",
+          "uz": "va"
         },
         {
-          "w": "أَلَا تَشْرَبُونَ",
-          "r": "فِعل مُضَارِع (اسْتِفهَام)",
+          "w": "شَرَابٌ",
+          "r": "مَعطُوف",
+          "rc": "tx",
+          "e": "شَرَابٌ — atf harfi orqali oldingi xabarga bog'langan va uning raf' hukmini olgan ma'tufdir.",
+          "uz": "ichimlik"
+        },
+        {
+          "w": "أَلَا",
+          "r": "حَرف اسْتِفهَام",
+          "rc": "tb",
+          "e": "أَلَا — so'roq va inkor harfi.",
+          "uz": "nahotki, -mi"
+        },
+        {
+          "w": "تَأْكُلُونَ",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "أَلَا تَشْرَبُونَ — oldingi savol bilan parallel tuzilgan ikkinchi inkor-istifhom fe'li. تَشْرَبُونَ — ichmoq fe'lining جَمع مُخَاطَب shakli. Ibrohimning butlarga qaratgan to'rtta ketma-ket savoli (gapirish, eshitish, yeyish, ichish) ularning to'liq ojizligini mantiqiy dalillar zanjiri orqali isbotlash strategiyasidir.",
-          "uz": "ichmaysizlarmi"
+          "e": "تَأْكُلُونَ — mudori' fe'li bo'lib, nun harfining sobitligi bilan marfu'dir, yemaydigan butlarni koyish uchun qo'llangan.",
+          "uz": "yeysizlar"
+        },
+        {
+          "w": "أَلَا",
+          "r": "حَرف اسْتِفهَام",
+          "rc": "tb",
+          "e": "أَلَا — so'roq harfi.",
+          "uz": "nahotki, -mi"
+        },
+        {
+          "w": "تَشْرَبُونَ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "تَشْرَبُونَ — atf qilingan muzori' fe'li bo'lib, ichish amalini bildiradi.",
+          "uz": "ichasizlar"
         }
       ]
     },
@@ -306,36 +383,50 @@
           "w": "وَسَكَتَتِ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَسَكَتَتِ — «و» atf harfi bilan oldingi sahnaga bog'langan o'tgan zamon fe'li. تِ — مُؤَنَّث (urg'ochi jins) belgisi bo'lib, «الأَصنَام» (butlar) ko'plik otiga muvofiq kelgan: arab tilida غَير عَاقِل (aqlsiz) ko'pliklar مُؤَنَّث مُفرَد kabi muomala ko'radi.",
+          "e": "وَسَكَتَتِ — atf harfi va muannas ko'rsatkichli o'tgan zamon fe'li bo'lib, butlarning harakatsizligini bayon qiladi.",
           "uz": "jim qoldi"
         },
         {
           "w": "الْأَصْنَامُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْأَصْنَامُ — «وَسَكَتَتِ» fe'lining فَاعِلi bo'lib, رَفع holatida ma'rifa sifatida kelgan. صَنَم ismining جَمع مُكَسَّر ko'pligidir. Butlarning «jimlik» harakatining «ijrochisi» sifatida kelishi ironik — aslida ular hech narsa qila olmasligi, passiv holda turishi ta'kidlanmoqda.",
-          "uz": "Butlar"
+          "e": "الْأَصْنَامُ — fe'lning fo'ili bo'lib, raf' holatida ma'rifa ismdir.",
+          "uz": "butlar"
         },
         {
-          "w": "لِأَنَّهَا",
-          "r": "حَرف تَعلِيل",
+          "w": "لِأَنَّ",
+          "r": "حَرف تَعلِيل وَنَصب",
           "rc": "tb",
-          "e": "لِأَنَّهَا — لِ ta'lil harfi (sabab bildiruvchi) va أَنَّ ta'kid harfi, هَا esa مُؤَنَّث zamiri. Bu tarkib «chunki ular» degan sabab-natija munosabatini ifodalaydi. أَنَّ + ism + xabar tarkibi ismiy gapni savolga bog'langan ergash gapga aylantirmoqda.",
-          "uz": "chunki ular"
+          "e": "لِأَنَّ — sababiyat bildiruvchi jar (li) va ta'kidlovchi (anna) harfining birikmasidir.",
+          "uz": "chunki"
+        },
+        {
+          "w": "هَا",
+          "r": "اسم أَنَّ",
+          "rc": "tm",
+          "e": "هَا — birikkan uchinchi shaxs muannas zamiri bo'lib, anna ning ismi sifatida mahallan mansubdir.",
+          "uz": "ular"
         },
         {
           "w": "حِجَارَةٌ",
           "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "حِجَارَةٌ — أَنَّهَا tarkibining خَبَر (xabari) bo'lib, رَفع holatida tanvin bilan kelgan. حَجَر ismining جَمع مُكَسَّر ko'pligidir. Bu xabar butlarning haqiqiy mohiyatini ochib beradi: ular iloh emas, shunchaki tosh — hayotsiz modda; bu Ibrohimning teologik hujjatining markaziy xulosasi.",
+          "e": "حِجَارَةٌ — anna ning xabari bo'lib, damma bilan marfu'dir va butlarning asli tosh ekanini ko'rsatadi.",
           "uz": "tosh"
         },
         {
-          "w": "لَا تَنْطِقُ",
-          "r": "نَعت (جُمْلَة فِعلِيَّة)",
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — inkor harfi.",
+          "uz": "yo'q, emas"
+        },
+        {
+          "w": "تَنْطِقُ",
+          "r": "نَعت (فِعل مُضَارِع)",
           "rc": "ts",
-          "e": "لَا تَنْطِقُ — لَا inkor zarrachasi va تَنطِقُ hozirgi zamon fe'lidan iborat fe'lli gap bo'lib, «حِجَارَةٌ» ismiga نَعت (sifat) vazifasida kelgan. Nomaniq ot (tanvinli «حِجَارَةٌ») keyin fe'lli gap sifat bo'la olishi arab grammatikasining قَاعِدَة النَّعت bilan bog'liq qoidasiga asoslanadi; gapiraolmaydigan tosh — bu tavsif butlarning asliy ojizligini yakuniy tarzda tasdiqlaydi.",
-          "uz": "gapirmaydi"
+          "e": "تَنْطِقُ — inkor harfi bilan birgalikda tosh ismining sifati (na'ti) bo'lib kelgan mufrad muannas mudori' fe'li.",
+          "uz": "gapiradi"
         }
       ]
     },
@@ -347,29 +438,43 @@
           "w": "قَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ — o'tgan zamon fe'li bo'lib, to'g'ridan-to'g'ri Qur'on oyatini kiritish uchun qo'llangan. Bu fe'l hikoya rivoyatidan muqaddas matn iqtibosiga o'tishni belgilaydi; فَاعِلi keyingi so'z — إِبْرَاهِيمُ.",
+          "e": "قَالَ — o'tgan zamon fe'li bo'lib, Ibrohimning so'zini kiritadi.",
           "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «قَالَ» fe'lining فَاعِلi, رَفع holatida g'ayri munsarif ot sifatida kelgan. Bu yerda Ibrohim Qur'on oyatidagi (Soffat 91-92) so'zlarni aytuvchi shaxs sifatida tasvirlanmoqda; اسم عَلَم (atoqli ot) bo'lib, o'zgarmagan holda rivoyat davomida takrorlanadi.",
+          "e": "إِبْرَاهِيمُ — fe'lning fo'ili bo'lib, g'ayri munsarif marfu' ot.",
           "uz": "Ibrohim"
         },
         {
-          "w": "مَا لَكُمْ",
-          "r": "اسْتِفهَام",
+          "w": "مَا",
+          "r": "اسم اسْتِفهَام",
           "rc": "tb",
-          "e": "مَا لَكُمْ — مَا istifhom ismи (so'roq olmoshi) bo'lib, «sizlarga nima bo'ldi» yoki «nima holatingiz bor» degan ma'noni anglatadi. مَا — مُبتَدَأ, لَكُمْ — جَار وَمَجرُور bo'lib خَبَر vazifasida kelgan. Bu qurilish arab tilida sababni so'rash uchun ishlatiladigan o'ziga xos idiomatik ifodadir.",
-          "uz": "sizga nima bo'ldi"
+          "e": "مَا — so'roq olmoshi bo'lib, ismiy gapda mubtado bo'lib kelgan.",
+          "uz": "nima"
         },
         {
-          "w": "لَا تَنْطِقُونَ",
-          "r": "فِعل مُضَارِع (نَفي)",
+          "w": "لَكُمْ",
+          "r": "خَبَر (جَار وَمَجرُور)",
+          "rc": "tx",
+          "e": "لَكُمْ — jar va majrur bo'lib, mubtadoning xabari vazifasidadir.",
+          "uz": "sizlarga"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — inkor harfi.",
+          "uz": "yo'q, emas"
+        },
+        {
+          "w": "تَنْطِقُونَ",
+          "r": "حَال (فِعل مُضَارِع)",
           "rc": "tf",
-          "e": "لَا تَنْطِقُونَ — لَا inkor zarrachasi va تَنطِقُونَ hozirgi zamon fe'li (جَمع مُذَكَّر مُخَاطَب). Bu fe'lli gap «مَا لَكُمْ» jumlasiga حَال (holat) yoki isbotlovchi sifat vazifasida bog'langan: «Nima uchun gapirmayapsizlar?» — Qur'on oyati (37:92) bo'lib, Ibrohimning hujjatini to'liq holda keltirmoqda.",
-          "uz": "gapirmaysizlar"
+          "e": "تَنْطِقُونَ — ikkinchi shaxs ko'plik mudori' fe'li bo'lib, inkor shaklida kelib so'roq gapdagi holatni bildiradi.",
+          "uz": "gapirasizlar"
         }
       ]
     },
@@ -378,32 +483,39 @@
       "tr": "Butlar jim qoldi va gapirmadi.",
       "parts": [
         {
-          "w": "سَكَتَتِ",
+          "w": "وَسَكَتَتِ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "سَكَتَتِ — o'tgan zamon fe'li bo'lib, تِ — تَأنِيث belgisi مُؤَنَّث مَجَازِي hisoblangan «الأَصنَام» ko'pligiga muvofiq kelgan. Bu fe'l Ibrohimning savollariga javob bo'lmagan jimlikni bildiradi va hikoyani yakunlash oldidan oxirgi tasvirni bermoqda.",
+          "e": "وَسَكَتَتِ — boshidagi atf harfi va jimlikni ifodalovchi muannas o'tgan zamon fe'li.",
           "uz": "jim qoldi"
         },
         {
           "w": "الْأَصْنَامُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْأَصْنَامُ — «سَكَتَتِ» fe'lining فَاعِلi bo'lib, رَفع holatida ma'rifa sifatida kelgan. Butlar bu gapda ham «harakatsiz ijrochi» sifatida qatnashmoqda — ularning jimliği hikoyaning asosiy xulosasi: butlar hech narsa qila olmaydi.",
-          "uz": "Butlar"
+          "e": "الْأَصْنَامُ — fe'lning marfu' fo'ili.",
+          "uz": "butlar"
         },
         {
-          "w": "وَمَا نَطَقَتْ",
-          "r": "فِعل مَاضٍ (نَفي)",
-          "rc": "tf",
-          "e": "وَمَا نَطَقَتْ — «و» atf harfi va مَا inkor zarrachasi bilan o'tgan zamon fe'li نَطَقَتْ. مَا + فِعل مَاضٍ — arab tilida o'tgan zamonni inkor qilishning klassik usuli. Bu jumlaning qo'shilishi تَأكِيد (ta'kid) maqsadida: jimlik va so'zsizlik ikki xil ifoda bilan qaytarilib, butlarning mutlaq ojizligi ta'kidlanmoqda.",
-          "uz": "va gapirmadi"
-        },
-        {
-          "w": "وَسَكَتَتِ",
-          "r": "فِعل مَاضٍ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَسَكَتَتِ — jumladagi birinchi fe'l bo'lib, «و» atf harfi bilan oldingi kontekstga ulangan. Bu fe'l «الأَصنَامُ» فَاعِلini talab qiladi; و + سَكَتَتِ tarkibining boshida kelishi arab nazmida fe'lning gap boshida turishi qoidasiga muvofiq.",
-          "uz": "jim qoldi"
+          "e": "وَ — bog'lovchi harf.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "مَا — o'tgan zamon fe'lini inkor qiluvchi nafi harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "نَطَقَتْ",
+          "r": "مَعطُوف (فِعل مَاضٍ)",
+          "rc": "tf",
+          "e": "نَطَقَتْ — o'tgan zamon fe'li bo'lib, oldingi fe'lga atf qilingan va inkor orqali gapirmaslikni ta'kidlaydi.",
+          "uz": "gapirdi"
         }
       ]
     },
@@ -415,35 +527,35 @@
           "w": "حِينَئِذٍ",
           "r": "ظَرف زَمَان",
           "rc": "th",
-          "e": "حِينَئِذٍ — حِين (vaqt) va إِذ (u paytda) so'zlarining qo'shilmasidan hosil bo'lgan مُرَكَّب (qo'shma) vaqt zarfi. «Shunda, o'sha lahzada» ma'nosini anglatib, «غَضِبَ» fe'liga mutaalliq. Bu zarf butlarning jimligidan keyingi darhol reaksiyani — Ibrohimning g'azabini — vaqt jihatidan aniq belgilaydi.",
+          "e": "حِينَئِذٍ — o'sha lahzada degan ma'nodagi murakkab vaqt zarfidir.",
           "uz": "shunda"
         },
         {
           "w": "غَضِبَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "غَضِبَ — o'tgan zamon fe'li bo'lib, his-tuyg'u — g'azabni — bildiradi. فَعِلَ vazni ko'pincha ruhiy holatlarni ifodalovchi fe'llar uchun ishlatiladi. Bu fe'l hikoyaning dramatik nuqtasini — Ibrohimning butlarni sindirish harakatini boshlagan emotsional sababi — ifodalaydi.",
+          "e": "غَضِبَ — g'azablanish ruhiy holatini bildiruvchi o'tgan zamon fe'li.",
           "uz": "g'azablandi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «غَضِبَ» fe'lining فَاعِلi, رَفع holatida g'ayri munsarif ot. Bu jumla Ibrohimning g'azabini uning shaxsiga nisbatlash bilan dramatik intensivlikni oshiradi; keyingi «أَخَذَ الفَأسَ» harakati ham xuddi shu shaxsdan صَدَرَ (saddir bo'lgan).",
+          "e": "إِبْرَاهِيمُ — fe'lning marfu' fo'ili.",
           "uz": "Ibrohim"
         },
         {
           "w": "وَأَخَذَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَأَخَذَ — «و» atf harfi bilan «غَضِبَ»ga bog'langan ikkinchi fe'l-kesim. «أَخَذَ» — olmoq ma'nosidagi متعدّي (o'timli) fe'l bo'lib, فَاعِلi oldingi gapdan ma'lum بِرَاهِيمُ bo'lgani uchun ضَمِير مُستَتِر shaklida tushib qolgan. Fe'l va g'azab aks-sadosi sifatida boltaga qo'l uzatish tasvirlanmoqda.",
+          "e": "وَأَخَذَ — bog'lovchi harf va olish harakatini anglatuvchi o'tgan zamon fe'li.",
           "uz": "oldi"
         },
         {
           "w": "الْفَأْسَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الْفَأْسَ — «وَأَخَذَ» fe'lining مَفعُول بِه (to'ldiruvchi) bo'lib, نَصب holatida ma'rifa (ال) bilan kelgan. فَأس — bolta ma'nosidagi muannas ot; نَصب holati مَفعُول بِهning asosiy belgisi. Boltaning aniq articlel bilan kelishi uni oldindan ma'lum yoki o'sha holatda yagona bo'lgan narsa sifatida ko'rsatadi.",
+          "e": "الْفَأْسَ — fe'lning to'g'ri to'ldiruvchisi (maf'ul bih) bo'lib, fatha bilan mansub.",
           "uz": "boltani"
         }
       ]
@@ -456,43 +568,50 @@
           "w": "وَضَرَبَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَضَرَبَ — «و» atf harfi bilan oldingi jumlaga ulangan o'tgan zamon fe'li. «ضَرَبَ» — urmoq ma'nosidagi متعدّي fe'l bo'lib, arab tilida misollar keltirishda ham keng qo'llanadi. Bu gapda Ibrohimning butlarni bolta bilan urish harakatini bevosita ifodalaydi.",
+          "e": "وَضَرَبَ — bog'lovchi harf va urish amalini bildiruvchi o'tgan zamon fe'li.",
           "uz": "urdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «وَضَرَبَ» fe'lining فَاعِلi, رَفع holatida g'ayri munsarif ot. Bu gapda Ibrohim asosiy harakatchi — butlarni sindirish voqeasining бош qahrамони sifatida tasvirlanadi; ism ikki marta (ضَرَبَ va بَقِيَ fe'llari bilan) فَاعِل sifatida kelishi uning rolini ta'kidlaydi.",
+          "e": "إِبْرَاهِيمُ — fe'lning fo'ili.",
           "uz": "Ibrohim"
         },
         {
           "w": "الْأَصْنَامَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الْأَصْنَامَ — «وَضَرَبَ» fe'lining مَفعُول بِه bo'lib, نَصب holatida ma'rifa sifatida kelgan. Butlar urish harakatining ta'siri tushgan narsa — مَفعُول بِه; نَصب holati ضَمَّة o'rniga فَتحَة bilan belgilanib, الْأَصنَامَ ko'plik ko'rinishida kelgan.",
-          "uz": "Butlar"
+          "e": "الْأَصْنَامَ — harakat tushgan ob'ekt (maf'ul bih).",
+          "uz": "butlarni"
         },
         {
-          "w": "بِالْفَأْسِ",
-          "r": "جَار وَمَجرُور",
+          "w": "بِ",
+          "r": "حَرف جَرّ",
+          "rc": "tb",
+          "e": "بِ — asbob yoki vositani ifodalovchi jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "الْفَأْسِ",
+          "r": "اِسم مَجرُور",
           "rc": "tmt",
-          "e": "بِالْفَأْسِ — بِ harf jarri «الفَأس» ismini جَر holatiga olib kelgan. Bu tarkib «bolta bilan, bolta yordamida» degan восита (instrument) ma'nosini ifodalab, «وَضَرَبَ» fe'liga mutaalliq. بِ harfining asbob bildirish vazifasi arab grammatikasida بَاء الآلَة deb ataladi.",
-          "uz": "bolta bilan"
+          "e": "الْفَأْسِ — jar harfidan keyin kelgan kasrali majrur ism bo'lib, harakat asbobidir.",
+          "uz": "bolta"
         },
         {
           "w": "وَكَسَرَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَكَسَرَ — «و» atf harfi bilan «ضَرَبَ»ga bog'langan ikkinchi fe'l. «كَسَرَ» — sindirmoq ma'nosidagi متعدّي fe'l bo'lib, urish harakatining natijasini bildiradi. Ikkala fe'lning ketma-ket kelishi — urdi va sindirdi — harakatning izchilligini va to'liqligini ko'rsatadi.",
+          "e": "وَكَسَرَ — bog'lovchi harf va sindirish harakatini bildiruvchi fe'l.",
           "uz": "sindirdi"
         },
         {
           "w": "الْأَصْنَامَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الْأَصْنَامَ — «وَكَسَرَ» fe'lining مَفعُول بِهi bo'lib, نَصب holatida ma'rifa sifatida kelgan. Butlarning ikkinchi marta مَفعُول بِه sifatida takrorlanishi تَكرار bilan ta'kid: avval «ضَرَبَ الأَصنَامَ», so'ng «كَسَرَ الأَصنَامَ» — har bir harakatning aniq nima ustida bajarilgani alohida ko'rsatilmoqda.",
-          "uz": "Butlar"
+          "e": "الْأَصْنَامَ — ikkinchi fe'lning to'ldiruvchisi (maf'ul bih).",
+          "uz": "butlarni"
         }
       ]
     },
@@ -504,43 +623,57 @@
           "w": "وَتَرَكَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَتَرَكَ — «و» atf harfi bilan oldingi jumlaga bog'langan o'tgan zamon fe'li. «تَرَكَ» — qoldirmoq, tashlab qo'ymoq ma'nosidagi متعدّي fe'l; bu gapda Ibrohim katta butni ataylab saqlab qo'yishi — keyingi ayblovga isbот qoldirish strategiyasi — tasvirlanmoqda.",
+          "e": "وَتَرَكَ — bog'lovchi harf va qoldirish harakatini ifodalovchi o'tgan zamon fe'li.",
           "uz": "qoldirdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — «وَتَرَكَ» fe'lining فَاعِلi, رَفع holatida g'ayri munsarif ot. Ibrohim bu gapda ham ikki fe'lning (تَرَكَ va عَلَّقَ) yagona فَاعِلi bo'lib, ikkinchi fe'lda ضَمِير مُستَتِر (هُوَ) shaklida tushib qolgan; uning ongli harakati — katta butni asrab, boltani osish — taktikasini ko'rsatadi.",
+          "e": "إِبْرَاهِيمُ — fe'lning fo'ili.",
           "uz": "Ibrohim"
         },
         {
-          "w": "الصَّنَمَ الْأَكْبَرَ",
+          "w": "الصَّنَمَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الصَّنَمَ الْأَكْبَرَ — «وَتَرَكَ» fe'lining مَفعُول بِهi bo'lib, نَصب holatida kelgan. الأَكْبَرَ — أَكبَر (eng katta) superlativ sifati bo'lib, الصَّنَمَ ismi uchun نَعت (sifatlovchi) vazifasida kelgan va unга مُطَابَقَة (muvofiqlik) bilan نَصب holatida yozilgan. Katta butning saqlanishi hikoyaning keyingi qismida muhim dalil bo'ladi.",
-          "uz": "katta butni"
+          "e": "الصَّنَمَ — fe'lning to'g'ri to'ldiruvchisi (maf'ul bih).",
+          "uz": "butni"
+        },
+        {
+          "w": "الْأَكْبَرَ",
+          "r": "نَعت (صِفَة)",
+          "rc": "ts",
+          "e": "الْأَكْبَرَ — الصَّنَمَ otining sifati bo'lib, unga jins, son va kelishikda ergashib mansub bo'lgan.",
+          "uz": "katta"
         },
         {
           "w": "وَعَلَّقَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَعَلَّقَ — «و» atf harfi bilan «تَرَكَ»ga bog'langan ikkinchi fe'l. «عَلَّقَ» — osmoq, ilib qo'ymoq ma'nosidagi متعدّي فِعل مُضَعَّف (ikkilangan o'rta harfli) fe'l; فَعَّلَ vazni ko'pincha harakatning kuchli yoki ataylab bajarilishini bildiradi. Boltani katta butga osiш — Ibrohimning ayyorona dalili.",
+          "e": "وَعَلَّقَ — bog'lovchi harf va osib qo'yish harakatini bildiruvchi fe'l.",
           "uz": "osdi"
         },
         {
           "w": "الْفَأْسَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الْفَأْسَ — «وَعَلَّقَ» fe'lining مَفعُول بِهi bo'lib, نَصب holatida ma'rifa sifatida kelgan. Bolтa bu gapda uchinchi marta tilga olinib, hikoya davomida uning roli — avval qo'lga olindi, so'ng urmoqda ishlatildi, nihoyat katta butga ilib qo'yildi — to'liq ko'rsatilmoqda.",
+          "e": "الْفَأْسَ — fe'lning to'ldiruvchisi (maf'ul bih).",
           "uz": "boltani"
         },
         {
-          "w": "فِي عُنُقِهِ",
-          "r": "جَار وَمَجرُور",
+          "w": "فِي",
+          "r": "حَرف جَرّ",
+          "rc": "tb",
+          "e": "فِي — joy yo'nalishini bildiruvchi jar harfi.",
+          "uz": "ichida, -ga"
+        },
+        {
+          "w": "عُنُقِهِ",
+          "r": "اِسم مَجرُور / مُضَاف",
           "rc": "tmt",
-          "e": "فِي عُنُقِهِ — فِي harf jarri «عُنُق» ismini جَر holatiga olib kelgan; هِ zamiri katta butga qaytmoqda. Bu tarkib «uning bo'ynida, bo'yniga» degan joy ma'nosini ifodalab, «وَعَلَّقَ» fe'liga mutaalliq. Boltaning katta butning bo'yniga ilib qo'yilishi — qabiladoshlar qaytganda kim sindirganini so'rashganda Ibrohimning «ana uni so'rang» deb javob berishi uchun sоzlangan sahnа.",
-          "uz": "uning bo'yniga"
+          "e": "عُنُقِهِ — jar harfidan keyingi majrur ism bo'lib, oxiridagi birikkan zamir (هِ) uning muzofun ilayhi hisoblanadi.",
+          "uz": "bo'yniga (bo'yni)"
         }
       ]
     }

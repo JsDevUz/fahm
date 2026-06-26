@@ -9,53 +9,74 @@
       "tr": "Bir kechada Ibrohim bir yulduzni ko'rdi va: Bu mening Robbim! — dedi.",
       "parts": [
         {
-          "w": "وَذَاتَ لَيْلَةٍ",
-          "r": "ظَرف زَمَان",
+          "w": "وَ",
+          "r": "حَرف اِستِئنَافِي",
+          "rc": "tb",
+          "e": "وَ — hikoyani boshlovchi yoki bog'lovchi harf (isti'nof harfi).",
+          "uz": "va"
+        },
+        {
+          "w": "ذَاتَ",
+          "r": "ظَرف زَمَان / مُضَاف",
           "rc": "th",
-          "e": "وَذَاتَ لَيْلَةٍ iborasi 'bir kechada' ma'nosida ظَرف زَمَان — vaqt zarfi — vazifasida kelgan va رَأَى fe'lining qachon sodir bo'lganini bildiradi. ذَاتَ so'zi مُضَاف, لَيْلَةٍ esa مُضَاف إِلَيه bo'lib, majrur holda kelgan. Bu tarkib gapning zamon sharoitini aniq belgilaydi.",
-          "uz": "bir kechada"
+          "e": "ذَاتَ — vaqtni bildiruvchi va o'zidan keyingi ismga qo'shilib vaqt zarfini hosil qiluvchi muzof so'zdir. Zamon zarfi sifatida mansubdir.",
+          "uz": "bir"
+        },
+        {
+          "w": "لَيْلَةٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tmt",
+          "e": "لَيْلَةٍ — izofa tarkibidagi muzofun ilayh bo'lib, kasra tanvin bilan majrur holatda kelgan noaniq ismdir. Kecha ma'nosini bildiradi.",
+          "uz": "kechada"
         },
         {
           "w": "رَأَى",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "رَأَى — 'ko'rdi' ma'nosida فِعل مَاضٍ, ya'ni o'tgan zamon fe'li. Bu gap fe'liy gap bo'lib, fe'l birinchi o'rinda kelgan; fa'il (إِبْرَاهِيمُ) va maf'ul bih (كَوْكَبًا) shu fe'lga bog'liq. Fe'l gapning asosiy harakatini ifodalaydi va Ibrohimning kuzatish voqeasini boshlab beradi.",
+          "e": "رَأَى — 'ko'rdi' ma'nosida فِعل مَاضٍ, ya'ni o'tgan zamon fe'li. Bu gap fe'liy gap bo'lib, fe'l birinchi o'rinda kelgan; fa'il (إِبْرَاهِيمُ) va maf'ul bih (كَوْكَبًا) shu fe'lga bog'liq.",
           "uz": "ko'rdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — رَأَى fe'lining فَاعِل, ya'ni harakatni bajaruvchisi. U marfu' holda (ضَمَّة bilan) kelgan, chunki فَاعِل doim marfu' bo'ladi. Bu yerda Ibrohim alayhissalom yulduzni ko'ruvchi shaxs sifatida aniqlanmoqda.",
+          "e": "إِبْرَاهِيمُ — رَأَى fe'lining egasi (faoili) bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Bu yerda Ibrohim alayhissalom yulduzni ko'ruvchi shaxs hisoblanadi.",
           "uz": "Ibrohim"
         },
         {
           "w": "كَوْكَبًا",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "كَوْكَبًا — رَأَى fe'lining مَفعُول بِه, ya'ni harakatning ta'siri tushgan ob'ekt. Mansub holda (فَتحَة + تَنوِين) kelgan, chunki مَفعُول بِه mansubdir. U noma'lum (nakirа) kelgani Ibrohimning bu yulduzni birinchi marta ko'rayotganini, yoki uning mazmunini bilmasligini ifodalaydi.",
+          "e": "كَوْكَبًا — رَأَى fe'lining to'ldiruvchisi (maf'ul bihi) bo'lib, nasb holatida (fatha tanvin bilan) kelgan noaniq ismdir.",
           "uz": "yulduzni"
         },
         {
           "w": "فَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَقَالَ — 'dedi' ma'nosida فِعل مَاضٍ. Boshidagi فَ harfi 'ف عَاطِفَة' bo'lib, ketma-ketlik va tez bog'lanishni bildiradi: Ibrohim ko'rdi, so'ng darhol gapirdi. Fe'lning fa'ili keyingi gapning ichida (هَذَا رَبِّي tarkibida maqomi bilan) tushuniladi.",
+          "e": "فَقَالَ — 'dedi' ma'nosida فِعل مَاضٍ. Boshidagi فَ harfi bog'lovchi bo'lib, ketma-ketlikni bildiradi.",
           "uz": "shunda dedi"
         },
         {
           "w": "هَذَا",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "هَذَا — اسم إِشَارَة (yaqin narsaga ishora ot) bo'lib, مُبتَدَأ vazifasida kelgan. Bu yerda Ibrohim yulduzga ishora qilib, uni Rabb sifatida taxmin qilmoqda. مُبتَدَأ marfu' holda bo'ladi va undan keyingi xabar uning haqida hukm beradi.",
+          "e": "هَذَا — yaqinga ishora qiluvchi ko'rsatish olmoshi bo'lib, ismiy gapning mubtadosi vazifasida kelgan va mahallan marfu'dir.",
           "uz": "bu"
         },
         {
-          "w": "رَبِّي",
-          "r": "خَبَر",
+          "w": "رَبِّ",
+          "r": "خَبَر / مُضَاف",
           "rc": "tx",
-          "e": "رَبِّي — مُبتَدَأ (هَذَا) haqida hukm beruvchi خَبَر. رَبّ so'zi مُضَاف, يَاء المُتَكَلِّم (birinchi shaxs egalik qo'shimchasi) esa مُضَاف إِلَيه bo'lib, 'mening Robbim' ma'nosini beradi. خَبَر marfu' bo'ladi, lekin bu yerda مُضَاف إِلَيه sababli shakl o'zgargan.",
-          "uz": "Rabbim"
+          "e": "رَبِّ — ismiy gapning xabari bo'lib, yashirin birinchi shaxs zamiriga qo'shilgan muzofdir. Munosib kasra bilan tugagan, aslida marfu'dir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "ي — birikkan kishilik zamiri (birinchi shaxs birlik - mening) bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
         }
       ]
     },
@@ -64,67 +85,88 @@
       "tr": "Yulduz botganda, Ibrohim dedi: Yo'q! Bu mening Robbim emas!",
       "parts": [
         {
-          "w": "وَلَمَّا",
-          "r": "ظَرف زَمَان",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَمَّا",
+          "r": "ظَرف زَمَان (شَرط)",
           "rc": "th",
-          "e": "وَلَمَّا — لَمَّا shartli bog'lovchi-zarf bo'lib, 'qachonki, ... bo'lganda' ma'nosini beradi va ظَرف زَمَان vazifasida keladi. U o'zidan keyingi شَرط (غَابَ الْكَوْكَبُ) va جَوَاب (قَالَ إِبْرَاهِيمُ) qismlarini bog'laydi. Boshidagi وَ esa oldingi gap bilan ulanishni ta'minlaydi.",
+          "e": "لَمَّا — o'tgan zamondagi voqeaning vaqtini belgilab, shart mazmunini ifodalavchi vaqt zarfidir. 'Qachonki, ... bo'lganda' ma'nosini beradi.",
           "uz": "qachonki"
         },
         {
           "w": "غَابَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "غَابَ — 'botdi, g'oyib bo'ldi' ma'nosida فِعل مَاضٍ bo'lib, لَمَّا ning شَرط qismi hisoblanadi. Fe'l birinchi o'rinda kelgani arab grammatikasi tartibiga mos; fa'ili الْكَوْكَبُ undan keyin kelgan. Yulduzning g'oyib bo'lishi Ibrohimning xulosasiga sabab bo'lmoqda.",
+          "e": "غَابَ — 'botdi, g'oyib bo'ldi' ma'nosida o'tgan zamon fe'lidir. Shart jumlasi tarkibida kelgan.",
           "uz": "botdi"
         },
         {
           "w": "الْكَوْكَبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْكَوْكَبُ — غَابَ fe'lining فَاعِل, ya'ni g'oyib bo'lish harakatini bajaruvchisi. Marfu' holda (ضَمَّة bilan) kelgan. Bu safar aniq ma'rifa (الـ bilan) kelgani oldingi gapda tilga olingan yulduzga qaytish (عَود) ekanini bildiradi.",
+          "e": "الْكَوْكَبُ — غَابَ fe'lining faoili (egasi) bo'lib, damma bilan marfu' holatida kelgan aniq ismdir.",
           "uz": "yulduz"
         },
         {
           "w": "قَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "قَالَ — 'dedi' ma'nosida فِعل مَاضٍ bo'lib, لَمَّا ning جَوَاب الشَّرط qismi hisoblanadi. Bu fe'l Ibrohimning yulduz botgandan keyin aytgan gapini kiritadi. Fa'il إِبْرَاهِيمُ undan keyin marfu' holda kelgan.",
+          "e": "قَالَ — 'dedi' ma'nosida o'tgan zamon fe'li bo'lib, shartning javobi (javobush-shart) hisoblanadi.",
           "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — قَالَ fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Ism fe'ldan keyin kelishi arab tilida oddiy tartib — fe'l + fa'il. Ibrohim alayhissalomning oti takrorlanishi hikoyada uning markaziy shaxs ekanligini ta'kidlaydi.",
+          "e": "إِبْرَاهِيمُ — قَالَ fe'lining faoili bo'lib, marfu' holda (ضَمَّة bilan) kelgan atoqli ismdir.",
           "uz": "Ibrohim"
         },
         {
           "w": "لَا",
-          "r": "حَرف نَفي",
+          "r": "حَرف نَfi / نَفي",
           "rc": "tb",
-          "e": "لَا — bu yerda mustaqil inkor yuklamasi bo'lib, حَرف نَفي vazifasida kelgan va Ibrohimning qat'iy rad etishini bildiradi. U hech qanday ot yoki fe'lni boshqarmaydigan mustaqil javob zarrachasi sifatida ishlatilgan. Qisqa 'Yo'q!' iborasi Ibrohimning ichki qat'iyatini ifodalaydi.",
+          "e": "لَا — mustaqil inkor yuklamasi bo'lib, inkor ma'nosini bildiradi.",
           "uz": "yo'q"
         },
         {
           "w": "هَذَا",
           "r": "اسم لَيسَ",
           "rc": "tm",
-          "e": "هَذَا — لَيْسَ noqis fe'lining اسم (ega) qismi bo'lib, marfu' holda kelgan. لَيْسَ ot-gapga kirib, uning اسم qismini marfu', خَبَر qismini esa mansub yoki majrur holda qoldiradi. Bu yerda هَذَا yulduzga ishora qilmoqda va inkor kontekstida kelmoqda.",
+          "e": "هَذَا — layso noqis fe'lining ismi (ismi layso) bo'lib, mahallan marfu'dir.",
           "uz": "bu"
         },
         {
           "w": "لَيْسَ",
           "r": "فِعل نَاقِص",
           "rc": "tf",
-          "e": "لَيْسَ — فِعل نَاقِص (noqis fe'l) bo'lib, faqat hozirgi zamonni inkor etadi va o'zgarmaydi. U اسم (هَذَا) va خَبَر (بِرَبِّي) ni o'ziga bog'laydi: اسم marfu', خَبَر esa majrur (بِـ harfi bilan) keladi. كَانَ ning inkor shakli hisoblanadi.",
+          "e": "لَيْسَ — kishilik va son bo'yicha tuslanadigan inkor ma'nosidagi noqis o'tgan zamon fe'lidir.",
           "uz": "emas"
         },
         {
-          "w": "بِرَبِّي",
-          "r": "خَبَر لَيسَ",
+          "w": "بِ",
+          "r": "حَرف جَرّ (زَائِد)",
+          "rc": "tb",
+          "e": "بِ — layso noqis fe'lining xabarini ta'kidlash uchun kelgan ortiqcha (zaid) jar harfidir.",
+          "uz": "emas"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "خَبَر لَيْسَ / مُضَاف",
           "rc": "tx",
-          "e": "بِرَبِّي — لَيْسَ ning خَبَر qismi. بِـ harfi زِيَادَة (ta'kidiy qo'shimcha) bo'lib, خَبَر لَيْسَ bilan birga kelishi arab tilida ma'ruf uslub. رَبّ so'zi مُضَاف, يَاء المُتَكَلِّم esa مُضَاف إِلَيه. 'Mening Robbim emas' — Ibrohimning birinchi xulosasi.",
-          "uz": "Rabbim emas"
+          "e": "رَبِّ — layso fe'lining xabari bo'lib, bi jar harfi sababli lafzan majrur, lekin mahallan mansubdir. Ayni paytda muzofdir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "ي — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
         }
       ]
     },
@@ -136,43 +178,50 @@
           "w": "وَرَأَى",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَرَأَى — 'ko'rdi' ma'nosida فِعل مَاضٍ. Boshidagi وَ harfi عَطف bo'lib, bu gapni oldingi voqeaga bog'laydi: yulduzdan keyin oy ko'rinishi. Fe'l gapning asosiy harakati bo'lib, fa'il va maf'ul bih shu fe'lga tobe.",
+          "e": "وَرَأَى — boshidagi وَ atf harfi, «رَأَى» esa o'tgan zamon fe'lidir. Ko'rish harakatini bildiradi.",
           "uz": "va ko'rdi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "إِبْرَاهِيمُ — وَرَأَى fe'lining فَاعِل bo'lib, marfu' holda kelgan. Oy ko'rish harakatini bajaruvchi Ibrohim alayhissalomdir. Ot fe'ldan keyin kelishi fe'liy gapning oddiy tartibi (فعل + فاعل + مفعول).",
+          "e": "إِبْرَاهِيمُ — «وَرَأَى» fe'lining faoili bo'lib, damma bilan marfu'dir.",
           "uz": "Ibrohim"
         },
         {
           "w": "الْقَمَرَ",
           "r": "مَفعُول بِه",
           "rc": "tb",
-          "e": "الْقَمَرَ — رَأَى fe'lining مَفعُول بِه bo'lib, mansub holda (فَتحَة bilan) kelgan. Aniq ma'rifa (الـ bilan) kelgani oyni ma'lum bir kosmik jism sifatida ko'rsatadi. Bu Ibrohimning kuzatish ob'ekti yulduzdан oyga o'tganini bildiradi.",
+          "e": "الْقَمَرَ — «رَأَى» fe'lining to'ldiruvchisi (maf'ul bihi) bo'lib, fatha bilan mansub holatda kelgan aniq ismdir. Oyni anglatadi.",
           "uz": "oyni"
         },
         {
           "w": "فَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "فَقَالَ — 'dedi' ma'nosida فِعل مَاضٍ. Boshidagi فَ — 'ف سَبَبِيَّة' bo'lib, ko'rish va so'zlash o'rtasidagi darhol ketma-ketlikni ifodalaydi. Fe'lning fa'ili (إِبْرَاهِيمُ) oldingi jumla orqali ma'lum bo'lgani uchun takrorlanmagan, gapda tushirilgan (محذوف).",
+          "e": "فَقَالَ — 'dedi' ma'nosida o'tgan zamon fe'li bo'lib, boshida bog'lovchi harf bilan kelgan.",
           "uz": "shunda dedi"
         },
         {
           "w": "هَذَا",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "هَذَا — اسم إِشَارَة bo'lib, مُبتَدَأ vazifasida kelgan. Ibrohim endi oyga ishora qilib, uni ham Rabb sifatida sinab ko'rmoqda. Xuddi yulduz epizodidagi kabi tuzilma takrorlanmoqda: هَذَا رَبِّي — bu narrativ parallel.",
+          "e": "هَذَا — ismiy gapning mubtadosi vazifasida kelgan ko'rsatish olmoshi.",
           "uz": "bu"
         },
         {
-          "w": "رَبِّي",
-          "r": "خَبَر",
+          "w": "رَبِّ",
+          "r": "خَبَر / مُضَاف",
           "rc": "tx",
-          "e": "رَبِّي — مُبتَدَأ (هَذَا) ning خَبَر qismi bo'lib, 'mening Robbim' ma'nosini beradi. رَبّ мُضَاف, يَاء المُتَكَلِّم мُضَاف إِلَيه. Bu xabar Ibrohimning oyni Rabb deb taxmin qilgan daqiqasini ifodalaydi — keyinchalik bu ham inkor etiladi.",
-          "uz": "Rabbim"
+          "e": "رَبِّ — ismiy gapning xabari bo'lib, yashirin zamirga qo'shilgan muzofdir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "ي — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
         }
       ]
     },
@@ -181,60 +230,88 @@
       "tr": "Oy botganda, Ibrohim: Yo'q! Bu mening Robbim emas! — dedi.",
       "parts": [
         {
-          "w": "غَابَ الْقَمَرُ",
-          "r": "فِعل مَاضٍ + فَاعِل",
-          "rc": "tf",
-          "e": "غَابَ — فِعل مَاضٍ, الْقَمَرُ esa uning فَاعِل bo'lib, marfu' holda kelgan. Bu ikkilik لَمَّا ning شَرط qismini tashkil etadi. Oyning g'oyib bo'lishi xuddi yulduzning botishiga o'xshash tuzilmada berilgan — hikoyaning takrorlanuvchi qolipini kuchaytiradi.",
-          "uz": "oy botdi"
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "وَلَمَّا",
-          "r": "ظَرف زَمَان",
-          "rc": "tb",
-          "e": "وَلَمَّا — لَمَّا shartli-zarf bo'lib, ظَرف زَمَان vazifasida keladi va 'qachonki' ma'nosini beradi. Oldingi وَ harfi bu gapni hikoyaning davomi sifatida bog'laydi. لَمَّا o'zidan keyingi ikkita fe'liy gapni (شرط va جواب) birlashtirib, ketma-ket voqealar orasidagi bog'liqlikni ifodalaydi.",
+          "w": "لَمَّا",
+          "r": "ظَرف زَمَان (شَرط)",
+          "rc": "th",
+          "e": "لَمَّا — o'tgan zamondagi voqeaning vaqtini belgilab, shart mazmunini ifodalavchi vaqt zarfidir.",
           "uz": "qachonki"
+        },
+        {
+          "w": "غَابَ",
+          "r": "فِعل مَاضٍ (شَرط)",
+          "rc": "tf",
+          "e": "غَابَ — o'tgan zamon fe'li bo'lib, g'oyib bo'lish, botish harakatini bildiradi. Shart jumlasi tarkibida kelgan.",
+          "uz": "botdi"
+        },
+        {
+          "w": "الْقَمَرُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الْقَمَرُ — 'goba' fe'lining faoili (egasi) bo'lib, damma bilan marfu' holatda kelgan aniq ismdir.",
+          "uz": "oy"
         },
         {
           "w": "قَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tb",
-          "e": "قَالَ — 'dedi' ma'nosida فِعل مَاضٍ bo'lib, لَمَّا ning جَوَاب الشَّرط qismi. Oy botgandan keyin Ibrohimning reaksiyasini kiritadi. Fa'il إِبْرَاهِيمُ undan keyin marfu' holda kelgan.",
+          "e": "قَالَ — 'dedi' ma'nosida o'tgan zamon fe'li bo'lib, shartning javobi hisoblanadi.",
           "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tb",
-          "e": "إِبْرَاهِيمُ — قَالَ fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Hikoya davom etgani sari Ibrohimning oti qayta-qayta zikr etilishi uning fikrga berilish jarayonini ta'kidlaydi.",
+          "e": "إِبْرَاهِيمُ — قَالَ fe'lining faoili bo'lib, marfu' holda (ضَمَّة bilan) kelgan atoqli ismdir.",
           "uz": "Ibrohim"
         },
         {
           "w": "لَا",
-          "r": "حَرف نَفي",
+          "r": "حَرف نَfi / نَفي",
           "rc": "tb",
-          "e": "لَا — mustaqil inkor zarrachasi bo'lib, حَرف نَفي vazifasida kelgan. Bu qisqa javob Ibrohimning qat'iy va to'liq rad etishini bildiradi. Uning hech narsaga amal qilmasligi va mustaqil turishi gapning keskinligini oshiradi.",
+          "e": "لَا — mustaqil inkor yuklamasi bo'lib, inkor ma'nosini bildiradi.",
           "uz": "yo'q"
         },
         {
           "w": "هَذَا",
           "r": "اسم لَيسَ",
           "rc": "tb",
-          "e": "هَذَا — لَيْسَ ning اسم (ega) qismi bo'lib, marfu' holda kelgan. Bu yerda oy botgach, Ibrohim unga ishora qilib inkor etmoqda. لَيْسَ ning اسم va خَبَر tarkibi oyning Rabb emasligini qat'iy ifodalaydi.",
+          "e": "هَذَا — layso noqis fe'lining ismi bo'lib, mahallan marfu'dir.",
           "uz": "bu"
         },
         {
           "w": "لَيْسَ",
           "r": "فِعل نَاقِص",
           "rc": "tb",
-          "e": "لَيْسَ — فِعل نَاقِص bo'lib, ot-gapni inkor etadi. U اسم (هَذَا) va خَبَر (بِرَبِّي) ni bog'laydi, اسم ni marfu', خَبَر ni esa majrur (بِـ harfi bilan) qoldiradi. Ikkinchi marta ishlatilishi Ibrohimning bir xil xulosaga kelayotganini ko'rsatadi.",
+          "e": "لَيْسَ — inkor ma'nosidagi noqis o'tgan zamon fe'lidir.",
           "uz": "emas"
         },
         {
-          "w": "بِرَبِّي",
-          "r": "خَبَر لَيسَ",
+          "w": "بِ",
+          "r": "حَرف جَرّ (زَائِد)",
           "rc": "tb",
-          "e": "بِرَبِّي — لَيْسَ ning خَبَر qismi. بِـ harfi زِيَادَة — ta'kid uchun qo'shilgan. رَبّ مُضَاف, يَاء المُتَكَلِّم мُضَاف إِلَيه. Birinchi gap bilan to'liq parallellik: yulduz kabi oy ham Rabb emasligini Ibrohim e'lon qilmoqda.",
-          "uz": "Rabbim emas"
+          "e": "بِ — layso noqis fe'lining xabarini ta'kidlash uchun kelgan ortiqcha (zaid) jar harfidir.",
+          "uz": "emas"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "خَبَر لَيْسَ / مُضَاف",
+          "rc": "tb",
+          "e": "رَبِّ — layso fe'lining xabari bo'lib, bi jar harfi sababli lafzan majrur, lekin mahallan mansubdir. Ayni paytda muzofdir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "ي — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
         }
       ]
     },
@@ -243,60 +320,74 @@
       "tr": "Quyosh chiqdi va Ibrohim: Bu mening Robbim, bu kattaroq! — dedi.",
       "parts": [
         {
-          "w": "وَطَلَعَتِ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "طَلَعَتِ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "وَطَلَعَتِ — 'chiqdi, tulu' qildi' ma'nosida فِعل مَاضٍ. تَاء التَّأنِيث السَّاكِنَة qo'shilgan, chunki fa'il الشَّمْسُ muannasdir. Boshidagi وَ عَطف harfi oldingi voqeaga bog'laydi. الشَّمْسُ ning chiqishi hikoyaning kulminatsiyasi — endi eng katta jism sinov ostida.",
+          "e": "طَلَعَتِ — o'tgan zamon fe'li bo'lib, oxiridagi muannaslik belgisi keyingi 'ash-shamsu' otining muannasligiga mos kelgan. Chiqish, tulu' qilish harakatini bildiradi.",
           "uz": "chiqdi"
         },
         {
           "w": "الشَّمْسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الشَّمْسُ — وَطَلَعَتِ fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Muannas ism bo'lgani uchun fe'lda تَاء التَّأنِيث kelgan. Quyosh oy va yulduzdan kattaroq bo'lgani uchun Ibrohim uni ilohiy deb taxmin qiladi.",
+          "e": "الشَّمْسُ — 'tola'at' fe'lining egasi (faoili) bo'lib, damma bilan marfu' holatida kelgan aniq muannas ismdir.",
           "uz": "quyosh"
-        },
-        {
-          "w": "هَذَا",
-          "r": "مُبتَدَأ",
-          "rc": "tm",
-          "e": "هَذَا — اسم إِشَارَة bo'lib, birinchi مُبتَدَأ vazifasida kelgan. Ibrohim quyoshga ishora qilmoqda. Oy va yulduz uchun xuddi shunday tuzilma ishlatilgan, lekin bu safar Ibrohim qo'shimcha sifat (أَكْبَرُ) bilan uning ulkanligini ta'kidlamoqda.",
-          "uz": "bu"
-        },
-        {
-          "w": "رَبِّي",
-          "r": "خَبَر",
-          "rc": "tx",
-          "e": "رَبِّي — birinchi مُبتَدَأ (هَذَا) ning خَبَر qismi. رَبّ مُضَاف, يَاء المُتَكَلِّم مُضَاف إِلَيه. Ibrohim quyoshni kattaroq ko'rgani uchun 'bu mening Robbim' deb ta'riflaydi — lekin bu ham vaqtincha bo'lib, keyingi inkor bilan bekor qilinadi.",
-          "uz": "Rabbim"
-        },
-        {
-          "w": "هَذَا",
-          "r": "مُبتَدَأ",
-          "rc": "tm",
-          "e": "هَذَا — ikkinchi мُбтаdа bo'lib, yangi ismiy gapni boshlamoqda. Bu takror ishora Ibrohimning quyoshga alohida e'tibor qaratayotganini ko'rsatadi. Ikkita 'هَذَا رَبِّي' va 'هَذَا أَكْبَرُ' jumlalik struktura quyosh haqidagi fikrning kuchaytirilganligini bildiradi.",
-          "uz": "bu"
-        },
-        {
-          "w": "أَكْبَرُ",
-          "r": "خَبَر",
-          "rc": "tx",
-          "e": "أَكْبَرُ — ikkinchi مُبتَدَأ (هَذَا) ning خَبَر qismi. Bu اسم التَّفضِيل — qiyosiy daraja: 'kattaroq, ulkanroq'. Ibrohim quyoshni oy va yulduzdan ulkanroq ko'rgani uchun u Rabb bo'lishga layoqatliroq deb bilgan — bu mantiqiy, lekin noto'g'ri taxmin.",
-          "uz": "kattaroq"
         },
         {
           "w": "فَقَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tb",
-          "e": "فَقَالَ — 'dedi' ma'nosida فِعل مَاضٍ. فَ harfi سَبَبِيَّة bo'lib, quyosh chiqishi va Ibrohimning so'zlashi orasidagi sabab-natija aloqasini bildiradi. Fa'il إِبْرَاهِيمُ keyingi o'rinda marfu' holda kelgan.",
+          "e": "فَقَالَ — 'dedi' ma'nosida o'tgan zamon fe'li.",
           "uz": "shunda dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tb",
-          "e": "إِبْرَاهِيمُ — فَقَالَ fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Hikoyada Ibrohimning oti uchinchi marta zikr etilishi uning fikrlash va xulosalash jarayonini hikoyalash uchun zarur.",
+          "e": "إِبْرَاهِيمُ — قَالَ fe'lining faoili bo'lib, damma bilan marfu' bo'lgan ismdir.",
           "uz": "Ibrohim"
+        },
+        {
+          "w": "هَذَا",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "هَذَا — ismiy gapning mubtadosi vazifasida kelgan ko'rsatish olmoshi.",
+          "uz": "bu"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "خَبَر / مُضَاف",
+          "rc": "tx",
+          "e": "رَبِّ — ismiy gapning xabari bo'lib, yashirin zamirga qo'shilgan muzofdir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "ي — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
+        },
+        {
+          "w": "هَذَا",
+          "r": "مُبتَدَأ",
+          "rc": "tm",
+          "e": "هَذَا — ikkinchi ismiy gapning mubtadosi vazifasida kelgan ko'rsatish olmoshi.",
+          "uz": "bu"
+        },
+        {
+          "w": "أَكْبَرُ",
+          "r": "خَبَر",
+          "rc": "tx",
+          "e": "أَكْبَرُ — mubtadoning xabari bo'lib, damma bilan marfu'dir. Orttirma darajadagi (ismi tafzil) sifat ismdir.",
+          "uz": "kattaroq"
         }
       ]
     },
@@ -305,67 +396,102 @@
       "tr": "Quyosh kechasi botganda, Ibrohim: Yo'q! Bu mening Robbim emas — dedi.",
       "parts": [
         {
-          "w": "غَابَتِ الشَّمْسُ",
-          "r": "فِعل مَاضٍ + فَاعِل",
-          "rc": "tf",
-          "e": "غَابَتِ — muannas fa'il الشَّمْسُ ga mos ravishda تَاء التَّأنِيث السَّاكِنَة bilan kelgan فِعل مَاضٍ. الشَّمْسُ esa uning فَاعِل bo'lib, marfu' holda. Bu ikkilik لَمَّا ning شَرط qismini tashkil etadi va quyoshning botishi Ibrohimning oxirgi xulosasiga zamin hozirlaydi.",
-          "uz": "quyosh botdi"
-        },
-        {
-          "w": "فِي اللَّيْلِ",
-          "r": "جَار وَمَجرُور",
-          "rc": "th",
-          "e": "فِي اللَّيْلِ — جَار وَمَجرُور tarkibi: فِي harfi jar, اللَّيْلِ esa majrur holda. Bu tarkib ظَرف زَمَان vazifasida kelgan va غَابَتِ الشَّمْسُ fe'lining vaqtini aniqlashtiradi. Quyosh qorongida g'oyib bo'lishi uning ham cheklangan ekanligi dalilidir.",
-          "uz": "kechasi"
-        },
-        {
-          "w": "وَلَمَّا",
-          "r": "ظَرف زَمَان",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَلَمَّا — لَمَّا shartli bog'lovchi-zarf bo'lib, ظَرف زَمَان vazifasida keladi. Boshidagi وَ harfi عَطف bo'lib, bu gapni oy va yulduz epizodlari bilan bog'laydi. Uchinchi marta ishlatilishi hikoyaning to'liq to'ldirilganligini ko'rsatadi.",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَمَّا",
+          "r": "ظَرف زَمَان (شَرط)",
+          "rc": "tb",
+          "e": "لَمَّا — o'tgan zamondagi voqeaning vaqtini belgilab, shart mazmunini ifodalavchi vaqt zarfidir.",
           "uz": "qachonki"
+        },
+        {
+          "w": "غَابَتِ",
+          "r": "فِعل مَاضٍ (شَرط)",
+          "rc": "tf",
+          "e": "غَابَتِ — muannaslik belgisi bilan kelgan o'tgan zamon fe'li bo'lib, botish harakatini bildiradi. Shart jumlasi tarkibida kelgan.",
+          "uz": "botdi"
+        },
+        {
+          "w": "الشَّمْسُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الشَّمْسُ — 'gobat' fe'lining faoili (egasi) bo'lib, damma bilan marfu' holatda kelgan aniq ismdir.",
+          "uz": "quyosh"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَرّ",
+          "rc": "th",
+          "e": "فِي — o'zidan keyingi ismni majrur qiluvchi jar harfidir.",
+          "uz": "ichida"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "r": "اِسم مَجرُور",
+          "rc": "tmt",
+          "e": "اللَّيْلِ — jar harfi tufayli majrur bo'lib, oxiri kasra bilan tugagan aniq ismdir. Tun ma'nosini bildiradi.",
+          "uz": "tun"
         },
         {
           "w": "قَالَ",
           "r": "فِعل مَاضٍ",
           "rc": "tb",
-          "e": "قَالَ — فِعل مَاضٍ bo'lib, لَمَّا ning جَوَاب الشَّرط qismi. Quyosh botgandan keyin Ibrohimning so'zlashini kiritadi. Fa'il إِبْرَاهِيمُ undan keyin marfu' holda kelgan.",
+          "e": "قَالَ — 'dedi' ma'nosida o'tgan zamon fe'li bo'lib, shartning javobi hisoblanadi.",
           "uz": "dedi"
         },
         {
           "w": "إِبْرَاهِيمُ",
           "r": "فَاعِل",
           "rc": "tb",
-          "e": "إِبْرَاهِيمُ — قَالَ fe'lining فَاعِل bo'lib, marfu' holda kelgan. Bu Ibrohimning butun kuzatish jarayonini yakunlaydigan so'nggi e'loni bo'lib, uning nomini takror zikr etish ushbu nuqtaning ahamiyatini oshiradi.",
+          "e": "إِبْرَاهِيمُ — قَالَ fe'lining faoili bo'lib, marfu' holda kelgan.",
           "uz": "Ibrohim"
         },
         {
           "w": "لَا",
-          "r": "حَرف نَفي",
+          "r": "حَرف نَfi / نَفي",
           "rc": "tb",
-          "e": "لَا — mustaqil inkor zarrachasi, حَرف نَفي. Uchinchi va so'nggi marta قَطعِي inkor sifatida kelgan. Ibrohimning uch marta bir xil xulosaga kelishi uning tawhid haqiqatiga yetishish jarayonini ifodalaydi.",
+          "e": "لَا — mustaqil inkor yuklamasi bo'lib, inkor ma'nosini bildiradi.",
           "uz": "yo'q"
         },
         {
           "w": "هَذَا",
           "r": "اسم لَيسَ",
           "rc": "tb",
-          "e": "هَذَا — لَيْسَ ning اسم qismi bo'lib, marfu' holda. Quyoshga oxirgi marta ishora qilmoqda. Bu so'nggi 'هَذَا' Ibrohimning barcha kosmik jismlardan yuz o'girishi va haqiqiy Rabbni izlash qat'iyatini bildiradi.",
+          "e": "هَذَا — layso noqis fe'lining ismi bo'lib, mahallan marfu'dir.",
           "uz": "bu"
         },
         {
           "w": "لَيْسَ",
           "r": "فِعل نَاقِص",
           "rc": "tb",
-          "e": "لَيْسَ — فِعل نَاقِص bo'lib, uchinchi marta inkor kontekstida kelmoqda. Uch marta yulduz, oy, quyosh uchun bir xil tuzilma (لَيْسَ بِرَبِّي) takrorlanishi hikoyaning asosiy g'oyasini — barcha bu jismlar Rabb emasligini — mustahkamlaydi.",
+          "e": "لَيْسَ — inkor ma'nosidagi noqis o'tgan zamon fe'lidir.",
           "uz": "emas"
         },
         {
-          "w": "بِرَبِّي",
-          "r": "خَبَر لَيسَ",
+          "w": "بِ",
+          "r": "حَرف جَرّ (زَائِد)",
           "rc": "tb",
-          "e": "بِرَبِّي — لَيْسَ ning خَبَر qismi. بِـ harfi زِيَادَة ta'kid uchun. Bu oxirgi inkor quyoshni ham Rabb sifatida rad etadi va Ibrohimni ulug' e'tiqodiy xulosaga — faqat Alloh Rabb ekaniga — olib keladi.",
-          "uz": "Rabbim emas"
+          "e": "بِ — layso noqis fe'lining xabarini ta'kidlash uchun kelgan ortiqcha jar harfidir.",
+          "uz": "emas"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "خَبَر لَيْسَ / مُضَاف",
+          "rc": "tb",
+          "e": "رَبِّ — layso fe'lining xabari bo'lib, bi jar harfi sababli lafzan majrur, lekin mahallan mansubdir. Ayni paytda muzofdir.",
+          "uz": "Robb"
+        },
+        {
+          "w": "ي",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "ي — birikkan kishilik zamiri bo'lib, muzofun ilayh sifatida mahallan majrurdir.",
+          "uz": "mening"
         }
       ]
     },
@@ -374,25 +500,39 @@
       "tr": "Albatta Alloh tirikdir, o'lmaydi.",
       "parts": [
         {
-          "w": "إِنَّ اللَّهَ",
-          "r": "إِنَّ + اسم إِنَّ",
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "إِنَّ — ta'kid harfi bo'lib, حَرف تَوكِيد وَنَصب vazifasida keladi: o'zidan keyingi مُبتَدَأ ni nasb (mansub) holatga o'tkazadi. اللَّهَ esa اسم إِنَّ bo'lib, mansub holda (فَتحَة bilan) kelgan. Bu tarkib gapning ta'kidli kirishini ta'minlaydi: 'Albatta Alloh...'",
-          "uz": "albatta Alloh"
+          "e": "إِنَّ — gapni ta'kidlash va o'z ismini nasb qilish uchun keladigan ta'kid harfidir.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم إِنَّ",
+          "rc": "tm",
+          "e": "اللَّهَ — inna ning ismi bo'lib, fatha bilan mansub holatda kelgan atoqli ismdir.",
+          "uz": "Alloh"
         },
         {
           "w": "حَيٌّ",
           "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "حَيٌّ — إِنَّ ning خَبَر qismi bo'lib, marfu' holda (ضَمَّة + تَنوِين bilan) kelgan. 'Tirik' ma'nosida Allohning abadiy hayot sifatini ifodalaydi. خَبَر إِنَّ har doim marfu' bo'ladi. Bu xabar Allohni kosmik jismlardan tubdan ajratib qo'yadi.",
+          "e": "حَيٌّ — inna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir. Tiriklik ma'nosini bildiradi.",
           "uz": "tirik"
         },
         {
-          "w": "لَا يَمُوتُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَمُوتُ — فِعل مُضَارِع منفي: لَا harfi nafiy, يَمُوتُ esa hozirgi-kelasi zamon fe'li. Bu jumlа حَيٌّ ismiga صِفَة (sifat) vazifasida kelgan: 'o'lmaydigan tirik'. Sifat jumlasi ismning doimiy belgisini aniqlab, Allohning abadiyligini ta'kidlaydi.",
-          "uz": "o'lmagan"
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَمُوتُ",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَمُوتُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. O'lish harakatini bildiradi.",
+          "uz": "o'ladi"
         }
       ]
     },
@@ -401,32 +541,39 @@
       "tr": "Albatta Alloh barqarordir, yo'qolmaydi.",
       "parts": [
         {
-          "w": "بَاقٍ",
-          "r": "خَبَر إِنَّ",
-          "rc": "tx",
-          "e": "بَاقٍ — إِنَّ ning خَبَر qismi bo'lib, marfu' holda kelgan. Bu اسم فَاعِل (بَقِيَ fe'lidan) — 'qoluvchi, barqaror' ma'nosida. اللَّهَ mansub اسم إِنَّ ga nisbatan marfu' خَبَر sifatida kelishi grammatik talabga muvofiq. Allohning g'oyib bo'lmasligi kosmik jismlardan farqi.",
-          "uz": "barqaror"
-        },
-        {
-          "w": "لَا يَغِيبُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَغِيبُ — لَا nafiy va يَغِيبُ فِعل مُضَارِع. Bu jumlа بَاقٍ ismiga صِفَة bo'lib, uning ma'nosini kengaytiradi: 'g'oyib bo'lmaydigan barqaror'. Yulduz, oy va quyosh g'oyib bo'ldi — Alloh esa hech qachon g'oyib bo'lmaydi. Bu ziddiyat Allohning ulug'ligini ochib beradi.",
-          "uz": "yo'qolmaydi, g'oyib bo'lmaydi"
-        },
-        {
           "w": "إِنَّ",
           "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "إِنَّ — حَرف تَوكِيد وَنَصب bo'lib, o'zidan keyingi مُبتَدَأ ni nasb holga o'tkazadi va gapni ta'kidli qiladi. Har bir Alloh sifati إِنَّ bilan boshlanishi bu haqiqatlarning ta'kidli e'lon ekanligini bildiradi.",
-          "uz": "إِنَّ"
+          "e": "إِنَّ — gapni ta'kidlash va o'z ismini nasb qilish uchun keladigan ta'kid harfidir.",
+          "uz": "albatta"
         },
         {
           "w": "اللَّهَ",
           "r": "اسم إِنَّ",
-          "rc": "tb",
-          "e": "اللَّهَ — إِنَّ ning اسم qismi bo'lib, mansub holda (فَتحَة bilan) kelgan. إِنَّ harfi مُبتَدَأ ni nasb holga o'tkazadi — shu sabab اللَّهُ o'rniga اللَّهَ shaklida kelgan. Bu tarkib خَبَر (بَاقٍ) bilan birga to'liq jumlani tashkil etadi.",
+          "rc": "tm",
+          "e": "اللَّهَ — inna ning ismi bo'lib, fatha bilan mansub holatda kelgan atoqli ismdir.",
           "uz": "Alloh"
+        },
+        {
+          "w": "بَاقٍ",
+          "r": "خَبَر إِنَّ",
+          "rc": "tx",
+          "e": "بَاقٍ — inna ning xabari bo'lib, marfu' holda kelgan ismdir. Barqarorlik, abadiylik ma'nosini bildiradi.",
+          "uz": "barqaror"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَغِيبُ",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَغِيبُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. G'oyib bo'lish harakatini bildiradi.",
+          "uz": "g'oyib bo'ladi"
         }
       ]
     },
@@ -435,32 +582,53 @@
       "tr": "Albatta Alloh kuchlidir, Uni hech narsa ustun chiqa olmaydi.",
       "parts": [
         {
-          "w": "قَوِيٌّ",
-          "r": "خَبَر إِنَّ",
-          "rc": "tx",
-          "e": "قَوِيٌّ — إِنَّ ning خَبَر qismi bo'lib, marfu' holda (ضَمَّة + تَنوِين bilan) kelgan. 'Kuchli' ma'nosida Allohning qudrat sifatini bildiradi. Bu uchinchi إِنَّ jumlasi bo'lib, Allohning hayot (حَيّ), doimiylik (بَاقٍ) va qudrat (قَوِيّ) sifatlarini sanab kelmoqda.",
-          "uz": "kuchli"
-        },
-        {
-          "w": "لَا يَعْلُوهُ شَيْءٌ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَعْلُوهُ شَيْءٌ — لَا nafiy, يَعْلُوهُ فِعل مُضَارِع (fa'ili شَيْءٌ, maf'ul bih esa ضَمِير هُ Allohga qaytadi). Bu jumlа قَوِيٌّ ismiga صِفَة bo'lib, 'hech narsa ustun chiqa olmaydigan kuchli' ma'nosini beradi. Kosmik jismlar bir-birini ustun chiqsa-da, Allohni hech narsa yengolmaydi.",
-          "uz": "Uni hech narsa ustun chiqa olmaydi"
-        },
-        {
           "w": "إِنَّ",
           "r": "حَرف تَوكِيد وَنَصب",
           "rc": "tb",
-          "e": "إِنَّ — حَرف تَوكِيد وَنَصب bo'lib, o'zidan keyingi اسم ni nasb holga o'tkazadi. Allohning uchinchi sifati (قَوِيٌّ) ham إِنَّ bilan ta'kidlanib kelmoqda. Bu uch إِنَّ jumlasi bir butun aqidaviy e'lon (ibrohimiy dalil) ni tashkil etadi.",
-          "uz": "إِنَّ"
+          "e": "إِنَّ — gapni ta'kidlash va o'z ismini nasb qilish uchun keladigan ta'kid harfidir.",
+          "uz": "albatta"
         },
         {
           "w": "اللَّهَ",
           "r": "اسم إِنَّ",
-          "rc": "tb",
-          "e": "اللَّهَ — إِنَّ ning اسم qismi bo'lib, mansub holda kelgan. Uch marta إِنَّ اللَّهَ iborasi takrorlanishi — anaphora uslubi — Allohning sifatlarini ta'kidli sanash va o'quvchiga singdirish uchun ishlatilgan.",
+          "rc": "tm",
+          "e": "اللَّهَ — inna ning ismi bo'lib, fatha bilan mansub holatda kelgan atoqli ismdir.",
           "uz": "Alloh"
+        },
+        {
+          "w": "قَوِيٌّ",
+          "r": "خَبَر إِنَّ",
+          "rc": "tx",
+          "e": "قَوِيٌّ — inna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir. Kuch-qudrat ma'nosini bildiradi.",
+          "uz": "kuchli"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَعْلُو",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلُو — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. Ustun chiqish ma'nosini bildiradi.",
+          "uz": "ustun chiqadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — birikkan uchinchi shaxs birlik zamiri bo'lib, fe'lning to'ldiruvchisi (maf'ul bihi) sifatida mahallan mansubdir (Allohga qaytadi).",
+          "uz": "Uni"
+        },
+        {
+          "w": "شَيْءٌ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "شَيْءٌ — ya'lu fe'lining faoili (egasi) bo'lib, damma tanvin bilan marfu' holatda kelgan noaniq ismdir.",
+          "uz": "hech narsa"
         }
       ]
     },
@@ -469,25 +637,46 @@
       "tr": "Yulduz zaifdir, ertalab uni (nur) ustun chiqadi.",
       "parts": [
         {
-          "w": "وَالْكَوْكَبُ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "الْكَوْكَبُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "وَالْكَوْكَبُ — مُبتَدَأ bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Boshidagi وَ عَطف bo'lib, bu gapni oldingi Alloh sifatlari jumlasiga qarama-qarshi qo'yadi: Alloh kuchli — yulduz esa zaif. مُبتَدَأ ismiy gapning asosi.",
-          "uz": "yulduz esa"
+          "e": "الْكَوْكَبُ — ismiy gapning mubtadosi bo'lib, damma bilan marfu' holatda kelgan aniq ismdir.",
+          "uz": "yulduz"
         },
         {
           "w": "ضَعِيفٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "ضَعِيفٌ — مُبتَدَأ (الْكَوْكَبُ) ning خَبَر qismi bo'lib, marfu' holda (ضَمَّة + تَنوِين bilan) kelgan. 'Zaif' ma'nosida yulduzning Allohdan tubdan farqli ekanligini bildiradi. Bu خَبَر Allohning قَوِيٌّ sifatiga bevosita qarama-qarshi qo'yilmoqda.",
+          "e": "ضَعِيفٌ — mubtadoning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir. Zaiflik ma'nosini bildiradi.",
           "uz": "zaif"
         },
         {
-          "w": "يَعْلُوهُ الصُّبْحُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "يَعْلُوهُ الصُّبْحُ — فِعل مُضَارِع jumlasi: يَعْلُو fe'l, الصُّبْحُ فَاعِل (marfu'), هُ ضَمِير maf'ul bih (yulduzga qaytadi). Bu jumlа ضَعِيفٌ ismiga صِفَة bo'lib, yulduzning zaifligini konkret misol orqali isbotlaydi: tongda nurini yo'qotadi.",
-          "uz": "ertalab uni ustun chiqadi"
+          "w": "يَعْلُو",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلُو — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir.",
+          "uz": "ustun chiqadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — birikkan uchinchi shaxs birlik zamiri bo'lib, fe'lning to'ldiruvchisi (maf'ul bihi) sifatida mahallan mansubdir.",
+          "uz": "uni"
+        },
+        {
+          "w": "الصُّبْحُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الصُّبْحُ — ya'lu fe'lining faoili bo'lib, damma bilan marfu' holatda kelgan aniq ismdir. Tong vaqtini bildiradi.",
+          "uz": "tong"
         }
       ]
     },
@@ -496,25 +685,46 @@
       "tr": "Oy zaifdir, quyosh uni ustun chiqadi.",
       "parts": [
         {
-          "w": "وَالْقَمَرُ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "الْقَمَرُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "وَالْقَمَرُ — مُبتَدَأ bo'lib, marfu' holda kelgan. وَ عَطف harfi bu gapni yulduz haqidagi gapga bog'laydi — parallel tuzilma: yulduz zaif, oy ham zaif. Oy هِيَ jinsidan bo'lsa-da, مُبتَدَأ sifatida marfu' holda kelgan.",
-          "uz": "oy esa"
+          "e": "الْقَمَرُ — ismiy gapning mubtadosi bo'lib, damma bilan marfu' holatda kelgan aniq ismdir.",
+          "uz": "oy"
         },
         {
           "w": "ضَعِيفٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "ضَعِيفٌ — مُبتَدَأ (الْقَمَرُ) ning خَبَر qismi, marfu' holda. Yulduz kabi oy ham zaif deb ta'riflanmoqda. ضَعِيفٌ muannaslik belgisiz kelgan — chunki الْقَمَرُ grammatik jihatdan muzakkar hisoblanadi.",
+          "e": "ضَعِيفٌ — mubtadoning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir.",
           "uz": "zaif"
         },
         {
-          "w": "تَعْلُوهُ الشَّمْسُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "تَعْلُوهُ الشَّمْسُ — تَعْلُو muannas fe'l (الشَّمْسُ muannas fa'ilga mos), الشَّمْسُ فَاعِل (marfu'), هُ maf'ul bih (oyga qaytadi). Bu jumlа ضَعِيفٌ ga صِفَة bo'lib, oyning zaifligini quyosh misoli bilan isbotlaydi: kattaroq nur undan ustun chiqadi.",
-          "uz": "quyosh uni ustun chiqadi"
+          "w": "تَعْلُو",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "تَعْلُو — damma bilan marfu' bo'lgan uchinchi shaxs birlik muannas muzori' fe'lidir. Keyingi fa'il muannas bo'lgani sababli muannas kelgan.",
+          "uz": "ustun chiqadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — birikkan uchinchi shaxs birlik zamiri bo'lib, mahallan mansubdir.",
+          "uz": "uni"
+        },
+        {
+          "w": "الشَّمْسُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الشَّمْسُ — ta'lu fe'lining faoili bo'lib, damma bilan marfu' holatda kelgan aniq muannas ismdir.",
+          "uz": "quyosh"
         }
       ]
     },
@@ -523,32 +733,74 @@
       "tr": "Quyosh zaifdir, uni tun va bulut ustun chiqadi.",
       "parts": [
         {
-          "w": "وَالشَّمْسُ",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "الشَّمْسُ",
           "r": "مُبتَدَأ",
           "rc": "tm",
-          "e": "وَالشَّمْسُ — مُبتَدَأ bo'lib, marfu' holda kelgan. وَ عَطف harfi zanjirni davom ettiradi: yulduz, oy va endi quyosh — uchalasi zaif. Bu parallel tuzilma Alloh va yaratilganlar o'rtasidagi tub farqni mantiqiy asoslash uchun qurilgan.",
-          "uz": "quyosh esa"
+          "e": "الشَّمْسُ — ismiy gapning mubtadosi bo'lib, damma bilan marfu' holatda kelgan aniq muannas ismdir.",
+          "uz": "quyosh"
         },
         {
           "w": "ضَعِيفَةٌ",
           "r": "خَبَر",
           "rc": "tx",
-          "e": "ضَعِيفَةٌ — مُبتَدَأ (الشَّمْسُ) ning خَبَر qismi, marfu' holda. الشَّمْسُ muannas ism bo'lgani uchun ضَعِيفَة muannas shakli ishlatilgan (تَاء التَّأنِيث bilan). Bu xabar quyosh ham, yulduz va oy kabi, zaif ekanligini isbotlab, Allohning قَوِيٌّ sifatiga ziddir.",
+          "e": "ضَعِيفَةٌ — mubtadoning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan muannas ismdir.",
           "uz": "zaif"
         },
         {
-          "w": "يَعْلِيهَا اللَّيْلُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "يَعْلِيهَا اللَّيْلُ — يَعْلِي فِعل مُضَارِع, اللَّيْلُ فَاعِل (marfu'), هَا maf'ul bih (quyoshga, muannas zamirga qaytadi). Bu jumlа ضَعِيفَةٌ ga صِفَة bo'lib, quyoshning tun tomonidan mag'lub bo'lishini ko'rsatadi. Katta jism ham kechasi g'oyib bo'ladi.",
-          "uz": "Tun uni ustun chiqadi"
+          "w": "يَعْلِي",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلِي — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'li.",
+          "uz": "ustun chiqadi"
         },
         {
-          "w": "وَيَعْلِيهَا الْغَيْمُ",
-          "r": "مَعطُوف",
+          "w": "هَا",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
           "rc": "tb",
-          "e": "وَيَعْلِيهَا الْغَيْمُ — وَ عَطف harfi bilan oldingi صِفَة jumlasiga مَعطُوف. يَعْلِي fe'l, الْغَيْمُ فَاعِل (marfu'), هَا maf'ul bih. Ikkita narsa — tun va bulut — quyoshni ustun chiqishi uning zaifligini ikki tomondan isbotlaydi va mag'lub bo'lish miqdorini oshiradi.",
-          "uz": "Va bulut uni ustun chiqadi"
+          "e": "هَا — birikkan uchinchi shaxs birlik muannas zamiri bo'lib, mahallan mansubdir (quyoshga qaytadi).",
+          "uz": "uni"
+        },
+        {
+          "w": "اللَّيْلُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "اللَّيْلُ — ya'li fe'lining faoili (egasi) bo'lib, damma bilan marfu' holatda kelgan aniq ismdir.",
+          "uz": "tun"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَعْلِي",
+          "r": "مَعطُوف (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلِي — muzori' fe'li bo'lib, oldingi ya'li fe'liga bog'langan (matuf).",
+          "uz": "ustun chiqadi"
+        },
+        {
+          "w": "هَا",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هَا — birikkan zamir bo'lib, mahallan mansubdir.",
+          "uz": "uni"
+        },
+        {
+          "w": "الْغَيْمُ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "الْغَيْمُ — ya'li fe'lining faoili bo'lib, damma bilan marfu' holatda kelgan aniq ismdir. Bulut ma'nosini bildiradi.",
+          "uz": "bulut"
         }
       ]
     },
@@ -557,31 +809,59 @@
       "tr": "Yulduz menga yordam bermaydi, chunki u zaifdir.",
       "parts": [
         {
-          "w": "وَلَا يَنْصُرُنِي",
-          "r": "فِعل مُضَارِع مَنفِي",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi / نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَنْصُرُ",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَلَا يَنْصُرُنِي — لَا nafiy harfi va يَنْصُرُنِي فِعل مُضَارِع: يَنْصُرُ asosiy fe'l, نِي esa maf'ul bih zamiri (birinchi shaxs — 'menga'). وَ عَطف oldingi zaifliq ta'rifiga bog'laydi. Bu gap Ibrohimning kosmik jismlardan ibodatni rad etish xulosasini amaliy jihatdan ifodalaydi.",
-          "uz": "Menga yordam bermaydi"
+          "e": "يَنْصُرُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. Yordam berish ma'nosini bildiradi.",
+          "uz": "yordam beradi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نِي — birikkan birinchi shaxs birlik zamiri bo'lib, to'ldiruvchi (maf'ul bihi) sifatida mahallan mansubdir.",
+          "uz": "menga"
         },
         {
           "w": "الْكَوْكَبُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْكَوْكَبُ — يَنْصُرُنِي fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Fe'ldan keyin kelishi fe'liy gapning oddiy tartibi. Yulduzning yordam bera olmasligi uning zaif ekanligi bilan to'g'ridan-to'g'ri bog'liq.",
+          "e": "الْكَوْكَبُ — egasi (faoili) bo'lib, damma bilan marfu' holatida kelgan aniq ismdir.",
           "uz": "yulduz"
         },
         {
-          "w": "لِأَنَّهُ",
-          "r": "حَرف تَعلِيل",
-          "rc": "th",
-          "e": "لِأَنَّهُ — لِـ harfi ta'lil (sabab bildiruvchi), إِنَّ ta'kid harfi, هُ اسم إِنَّ bo'lgan ضَمِير (yulduzga qaytadi). Bu tarkib 'chunki u' ma'nosida سَبَب-نَتِيجَة aloqasini ifodalaydi: yordamning yo'qligi — zaiflik oqibati.",
-          "uz": "chunki u"
+          "w": "لِأَنَّ",
+          "r": "حَرف تَعلِيل وَنَصب",
+          "rc": "tb",
+          "e": "لِأَنَّ — sababiyat va ta'kid harfidir.",
+          "uz": "chunki"
+        },
+        {
+          "w": "هُ",
+          "r": "اسم أَنَّ",
+          "rc": "tm",
+          "e": "هُ — birikkan uchinchi shaxs birlik muzakkar zamiri bo'lib, anna ning ismi sifatida mahallan mansubdir.",
+          "uz": "u"
         },
         {
           "w": "ضَعِيفٌ",
           "r": "خَبَر إِنَّ",
           "rc": "tx",
-          "e": "ضَعِيفٌ — لِأَنَّهُ tarkibidagi إِنَّ ning خَبَر qismi bo'lib, marfu' holda (ضَمَّة + تَنوِين bilan) kelgan. Yulduzning zaifligi endi faqat ta'rif emas, balki uning ibodatga yaroqsizligining mantiqiy sababi sifatida kelmoqda.",
+          "e": "ضَعِيفٌ — anna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir.",
           "uz": "zaif"
         }
       ]
@@ -591,38 +871,59 @@
       "tr": "Oy menga yordam bermaydi, chunki u zaifdir.",
       "parts": [
         {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi / نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَنْصُرُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "يَنْصُرُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. Yordam berish ma'nosini bildiradi.",
+          "uz": "yordam beradi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نِي — birikkan birinchi shaxs birlik zamiri bo'lib, to'ldiruvchi (maf'ul bihi) sifatida mahallan mansubdir.",
+          "uz": "menga"
+        },
+        {
           "w": "الْقَمَرُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الْقَمَرُ — يَنْصُرُنِي fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Oy yulduz kabi ibodatga va nusratga (yordamga) yaroqsizligi bilan ta'riflanmoqda. Bu gap oldingi gapning oyga nisbatan to'liq paralleli.",
-          "uz": "oyni"
+          "e": "الْقَمَرُ — egasi (faoili) bo'lib, damma bilan marfu' holatida kelgan aniq ismdir.",
+          "uz": "oy"
         },
         {
-          "w": "وَلَا",
-          "r": "حَرف عَطف + حَرف نَفي",
+          "w": "لِأَنَّ",
+          "r": "حَرف تَعلِيل وَنَصب",
           "rc": "tb",
-          "e": "وَلَا — وَ عَطف harfi bu gapni yulduz haqidagi gapga bog'laydi; لَا esa nafiy harfi bo'lib, يَنْصُرُنِي fe'lini inkor etadi. Ikkala harfning birlashishi 'va ... ham ... emas' ma'nosini beradi — ketma-ket inkor.",
-          "uz": "va yo'q"
+          "e": "لِأَنَّ — sababiyat va ta'kid harfidir.",
+          "uz": "chunki"
         },
         {
-          "w": "يَنْصُرُنِي",
-          "r": "فِعل مُضَارِع",
+          "w": "هُ",
+          "r": "اسم أَنَّ",
           "rc": "tb",
-          "e": "يَنْصُرُنِي — فِعل مُضَارِع bo'lib, يَنْصُرُ asosiy fe'l va نِي birinchi shaxs maf'ul bih zamiri. لَا bilan manfiy bo'lgan. Fe'lning مُضَارِع shaklida kelishi umumiy va doimiy inkorni bildiradi: oy hech qachon va hech qanday holatda yordam bera olmaydi.",
-          "uz": "menga yordam beradi"
-        },
-        {
-          "w": "لِأَنَّهُ",
-          "r": "حَرف تَعلِيل",
-          "rc": "tb",
-          "e": "لِأَنَّهُ — لِـ harfi ta'lil, إِنَّ ta'kid, هُ اسم إِنَّ (oyga qaytadi). 'Chunki u' ma'nosida sabab-natija aloqasini ifodalaydi. Bir xil sabab (zaiflik) bir xil oqibat (yordam yo'qligi) ni keltirib chiqarmoqda.",
-          "uz": "chunki u"
+          "e": "هُ — birikkan uchinchi shaxs birlik muzakkar zamiri bo'lib, anna ning ismi sifatida mahallan mansubdir.",
+          "uz": "u"
         },
         {
           "w": "ضَعِيفٌ",
           "r": "خَبَر إِنَّ",
           "rc": "tb",
-          "e": "ضَعِيفٌ — لِأَنَّهُ tarkibidagi إِنَّ ning خَبَر qismi, marfu' holda. Oyning zaifligini tasdiqlaydi va uning nusrat bera olmasligining asosi sifatida keladi. Uch jism (yulduz, oy, quyosh) bir xil ضَعِيفٌ xabari bilan ta'riflanishi Ibrohimning kuzatish xulosasini umumlashtiradi.",
+          "e": "ضَعِيفٌ — anna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir.",
           "uz": "zaif"
         }
       ]
@@ -632,25 +933,60 @@
       "tr": "Quyosh menga yordam bermaydi, chunki u zaifdir.",
       "parts": [
         {
-          "w": "وَلَا تَنْصُرُنِي",
-          "r": "فِعل مُضَارِع مَنفِي",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi / نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "تَنْصُرُ",
+          "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَلَا تَنْصُرُنِي — لَا nafiy va تَنْصُرُنِي فِعل مُضَارِع (muannas): تَنْصُرُ muannas shakli (الشَّمْسُ muannas fa'ilga mos), نِي maf'ul bih zamiri. وَ عَطف oldingi ikkita inkor gapga bog'laydi. Uch jism uchun nusrat inkorining yakunlanishi.",
-          "uz": "Menga yordam bermaydi"
+          "e": "تَنْصُرُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muannas muzori' fe'lidir. Shamsu muannas bo'lgani sababli muannas kelgan.",
+          "uz": "yordam beradi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نِي — birikkan zamir bo'lib, mahallan mansubdir.",
+          "uz": "menga"
         },
         {
           "w": "الشَّمْسُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "الشَّمْسُ — تَنْصُرُنِي fe'lining فَاعِل bo'lib, marfu' holda kelgan. Muannas ism bo'lgani uchun fe'l تَـ prefiksi bilan muannas shaklda kelgan. Bu so'nggi jism bo'lib, uning ham yordam bera olmasligi butun kuzatish xulосасини yakunlaydi.",
+          "e": "الشَّمْسُ — 'tansuru' fe'lining faoili bo'lib, damma bilan marfu' holatda kelgan aniq muannas ismdir.",
           "uz": "quyosh"
         },
         {
-          "w": "لِأَنَّهَا ضَعِيفَةٌ",
-          "r": "جُملَة تَعلِيلِيَّة",
-          "rc": "th",
-          "e": "لِأَنَّهَا ضَعِيفَةٌ — لِـ harfi ta'lil, إِنَّ ta'kid, هَا اسم إِنَّ (quyoshga, muannas zamirga qaytadi), ضَعِيفَةٌ خَبَر إِنَّ (muannas shakl). Bu to'liq sabab jumlasi: 'chunki u (quyosh) zaifdir'. هَا zamiri va ضَعِيفَةٌ muannas shakli الشَّمْسُ ning muannasligiga muvofiq kelgan.",
-          "uz": "Chunki u zaifdir"
+          "w": "لِأَنَّ",
+          "r": "حَرف تَعلِيل وَنَصب",
+          "rc": "tb",
+          "e": "لِأَنَّ — sababiyat va ta'kid harfidir.",
+          "uz": "chunki"
+        },
+        {
+          "w": "هَا",
+          "r": "اسم أَنَّ",
+          "rc": "tm",
+          "e": "هَا — birikkan uchinchi shaxs birlik muannas zamiri bo'lib, anna ning ismi sifatida mahallan mansubdir.",
+          "uz": "u"
+        },
+        {
+          "w": "ضَعِيفَةٌ",
+          "r": "خَبَر أَنَّ",
+          "rc": "tx",
+          "e": "ضَعِيفَةٌ — anna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan muannas ismdir.",
+          "uz": "zaif"
         }
       ]
     },
@@ -659,17 +995,31 @@
       "tr": "Menga Alloh yordam beradi.",
       "parts": [
         {
-          "w": "وَيَنْصُرُنِي",
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَنْصُرُ",
           "r": "فِعل مُضَارِع",
           "rc": "tf",
-          "e": "وَيَنْصُرُنِي — وَ عَطف oldingi inkor gaplarning teskarisini bildiradi: yulduz, oy, quyosh yordam bermaydi — Alloh esa yordam beradi. يَنْصُرُنِي فِعل مُضَارِع bo'lib, يَنْصُرُ fe'l va نِي birinchi shaxs maf'ul bih zamiri. Bu qisqa, lekin kuchli ta'kidli gap.",
-          "uz": "va menga yordam beradi"
+          "e": "يَنْصُرُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir.",
+          "uz": "yordam beradi"
+        },
+        {
+          "w": "نِي",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نِي — birikkan zamir bo'lib, mahallan mansubdir.",
+          "uz": "menga"
         },
         {
           "w": "اللَّهُ",
           "r": "فَاعِل",
           "rc": "tm",
-          "e": "اللَّهُ — يَنْصُرُنِي fe'lining فَاعِل bo'lib, marfu' holda (ضَمَّة bilan) kelgan. Kosmik jismlar emas, balki aynan Alloh yordam beruvchi sifatida ta'kidlanmoqda. Fe'ldan keyin kelishi odatiy tartib, lekin shu soda tuzilma eng kuchli e'lonni ifodalaydi.",
+          "e": "اللَّهُ — يَنْصُرُنِي fe'lining faoili (egasi) bo'lib, damma bilan marfu' holatida kelgan aniq ismdir.",
           "uz": "Alloh"
         }
       ]
@@ -679,25 +1029,39 @@
       "tr": "Chunki Alloh tirikdir, o'lmaydi.",
       "parts": [
         {
-          "w": "لِأَنَّ اللَّهَ",
-          "r": "جُملَة تَعلِيلِيَّة",
-          "rc": "th",
-          "e": "لِأَنَّ اللَّهَ — لِـ harfi ta'lil va إِنَّ ta'kid harfidan tashkil topgan. اللَّهَ اسم إِنَّ bo'lib, mansub holda (فَتحَة bilan) kelgan. Bu tarkib 'chunki Alloh...' ma'nosida Allohning nusrat berish sababini ochib beradi. Avvalgi 'وَيَنْصُرُنِي اللَّهُ' gapining mantiqiy asosi.",
-          "uz": "Chunki Alloh"
+          "w": "لِأَنَّ",
+          "r": "حَرف تَعلِيل وَنَصب",
+          "rc": "tb",
+          "e": "لِأَنَّ — sababiyat va ta'kid harfidir.",
+          "uz": "chunki"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم أَنَّ",
+          "rc": "tm",
+          "e": "اللَّهَ — anna ning ismi bo'lib, fatha bilan mansub holatda kelgan atoqli ismdir.",
+          "uz": "Alloh"
         },
         {
           "w": "حَيٌّ",
-          "r": "خَبَر إِنَّ",
+          "r": "خَبَر أَنَّ",
           "rc": "tx",
-          "e": "حَيٌّ — إِنَّ ning خَبَر qismi, marfu' holda. Bu xabar Allohning Nusrat berish sababining birinchi asosi: U tirik bo'lgani uchun yordam berishi mumkin. Avvalgi إِنَّ اللَّهَ حَيٌّ jumlasining takrori bo'lib, haqiqatni mustahkamlaydi.",
+          "e": "حَيٌّ — anna ning xabari bo'lib, damma tanvin bilan marfu' holatda kelgan ismdir. Tiriklik ma'nosini bildiradi.",
           "uz": "tirik"
         },
         {
-          "w": "لَا يَمُوتُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَمُوتُ — لَا nafiy, يَمُوتُ فِعل مُضَارِع. Bu jumlа حَيٌّ ismiga صِفَة bo'lib, 'o'lmaydigan tirik' ma'nosini beradi. Hikoyaning boshidagi ta'kidning takrori: Ibrohimning kuzatish xulосасidan chiqqan aqidaviy e'lonning qayta tasdiqi.",
-          "uz": "o'lmagan"
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَمُوتُ",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَمُوتُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. O'lish harakatini bildiradi.",
+          "uz": "o'ladi"
         }
       ]
     },
@@ -706,18 +1070,32 @@
       "tr": "Va barqarordir, yo'qolmaydi.",
       "parts": [
         {
-          "w": "وَبَاقٍ",
-          "r": "مَعطُوف",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَبَاقٍ — وَ عَطف harfi bilan oldingi حَيٌّ خَبَر ga مَعطُوف. بَاقٍ اسم فَاعِل (بَقِيَ fe'lidan) bo'lib, marfu' holda kelgan (تَنوِين جَر shakli, chunki منقوص ism). 'Barqaror' ma'nosida Allohning doimiyligini bildiradi — yulduz, oy, quyosh g'oyib bo'ldi, Alloh esa qoldi.",
-          "uz": "va barqaror"
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "لَا يَغِيبُ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَغِيبُ — لَا nafiy, يَغِيبُ فِعل مُضَارِع. Bu jumlа بَاقٍ ismiga صِفَة bo'lib, 'g'oyib bo'lmaydigan barqaror' ma'nosini beradi. Yulduz, oy va quyosh barchasi غَابَ (g'oyib bo'ldi) — Alloh esa لَا يَغِيبُ — hech qachon g'oyib bo'lmaydi.",
-          "uz": "yo'qolmaydi, g'oyib bo'lmaydi"
+          "w": "بَاقٍ",
+          "r": "مَعطُوف",
+          "rc": "tx",
+          "e": "بَاقٍ — marfu' holda kelgan ism bo'lib, oldingi 'hayyun' xabariga bog'langan (matuf).",
+          "uz": "barqaror"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَغِيبُ",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَغِيبُ — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir. G'oyib bo'lish harakatini bildiradi.",
+          "uz": "g'oyib bo'ladi"
         }
       ]
     },
@@ -726,18 +1104,46 @@
       "tr": "Va kuchlidir, Uni hech narsa ustun chiqa olmaydi.",
       "parts": [
         {
-          "w": "وَقَوِيٌّ",
-          "r": "مَعطُوف",
+          "w": "وَ",
+          "r": "حَرف عَطف",
           "rc": "tb",
-          "e": "وَقَوِيٌّ — وَ عَطف bilan oldingi حَيٌّ va بَاقٍ xabarlarga مَعطُوف bo'lib, uchala sifat bir زنجир (zanjir) ni hosil etadi. قَوِيٌّ marfu' holda (ضَمَّة + تَنوِين bilan) kelgan. Bu yakuniy sifat Allohning mutlaq qudratini bildiradi va hikoyaning aqidaviy xulosasini mustahkamlaydi.",
-          "uz": "va kuchli"
+          "e": "وَ — bog'lovchi atf harfi.",
+          "uz": "va"
         },
         {
-          "w": "لَا يَعْلِيهُ شَيْءٌ",
-          "r": "جُملَة فِعلِيَّة صِفَة",
-          "rc": "ts",
-          "e": "لَا يَعْلِيهُ شَيْءٌ — لَا nafiy, يَعْلِيهُ فِعل مُضَارِع (هُ maf'ul bih — Allohga qaytadi), شَيْءٌ فَاعِل (marfu'). Bu jumlа قَوِيٌّ ga صِفَة bo'lib, 'hech narsa ustun chiqa olmaydigan kuchli' ma'nosini beradi. Kosmik jismlar bir-birini ustun chiqdi — Allohni esa hech narsa ustun chiqa olmaydi.",
-          "uz": "Uni hech narsa ustun chiqa olmaydi"
+          "w": "قَوِيٌّ",
+          "r": "مَعطُوف",
+          "rc": "tx",
+          "e": "قَوِيٌّ — marfu' holda kelgan ism bo'lib, oldingi xabarlarga bog'langan (matuf).",
+          "uz": "kuchli"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَfi / نَفي",
+          "rc": "tb",
+          "e": "لَا — muzori' fe'lini inkor qiluvchi nafi harfidir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "يَعْلِي",
+          "r": "نَعت (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَعْلِي — damma bilan marfu' bo'lgan uchinchi shaxs birlik muzakkar muzori' fe'lidir.",
+          "uz": "ustun chiqadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — birikkan zamir bo'lib, mahallan mansubdir (Allohga qaytadi).",
+          "uz": "Uni"
+        },
+        {
+          "w": "شَيْءٌ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "شَيْءٌ — ya'li fe'lining faoili bo'lib, damma tanvin bilan marfu' holatda kelgan noaniq ismdir.",
+          "uz": "hech narsa"
         }
       ]
     }
