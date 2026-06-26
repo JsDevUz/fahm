@@ -9,7 +9,7 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
   const [tooltipState, setTooltipState] = useState({ isVisible: false, x: 0, y: 0, arabic: '', uzbek: '' });
   const [showPractice, setShowPractice] = useState(false);
 
-  const norm = (w) => w.replace(/[،؟!.،:؛﴿﴾۝\-\u0651\u064B\u064C\u064D\u0652\u0650\u064E\u064F,'\"[\]«»()]/g, '').replace(/\s+/g, ' ').trim();
+  const norm = (w) => w.replace(/[،؟?!*.،:؛﴿﴾۝\-\u0651\u064B\u064C\u064D\u0652\u0650\u064E\u064F,'"`[\]«»()]/g, '').replace(/\s+/g, ' ').trim();
 
   const lookupWord = (raw) => {
     const n = norm(raw);

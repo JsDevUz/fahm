@@ -9,25 +9,116 @@
       "tr": "Yusuf Ya'qub bilan uchrashishga mushtoq bo'ldi. Ayriliq uzoq cho'zilgan bo'lsa, qanday qilib mushtoq bo'lmasin?",
       "parts": [
         {
-          "w": "وَاشْتَاقَ يُوسُفُ إلى لِقَاءِ يَعْقُوبَ",
-          "r": "فعل وفاعل ومتعلق",
-          "rc": "tf",
-          "e": "اشْتَاقَ sog'inish fe'li, يُوسُفُ fo'il, إلى لِقَاءِ يَعْقُوبَ esa sog'inch yo'nalishi.",
-          "uz": "Yusuf Ya'qub bilan uchrashishga mushtoq bo'ldi"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi voqeaga yangi jumlani bog'laydi; Yusufning sir ochilgandan keyingi ichki holati bayon qilinmoqda.",
+          "uz": "va"
         },
         {
-          "w": "وَكَيْفَ لَا يَشْتَاقُ إِلَيْهِ",
-          "r": "استفهام إنكاري",
-          "rc": "tb",
-          "e": "كَيْفَ inkoriy savol bo'lib bunday sog'inch tabiiy ekanini bildiradi.",
-          "uz": "qanday qilib unga mushtoq bo'lmasin"
+          "w": "اشْتَاقَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O'tgan zamon fe'li; sog'inish va mushtoq bo'lish ma'nosini beradi. Fe'lning fo'ili keyingi يُوسُفُ.",
+          "uz": "mushtoq bo'ldi"
         },
         {
-          "w": "وَقَدْ طَالَ الْفِرَاقُ",
-          "r": "جملة حالية",
-          "rc": "th",
-          "e": "وَقَدْ bilan kelgan hol jumlasi sog'inch sababini - ayriliq uzoq bo'lganini bildiradi.",
-          "uz": "ayriliq uzoq cho'zilgan bo'lsa"
+          "w": "يُوسُفُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "اشْتَاقَ fe'lining fo'ili; marfu' holatda kelib, mushtoq bo'lgan shaxsni bildiradi.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "إلى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Yo'nalish va intilishni bildiruvchi jar harfi; sog'inch nimaga qaratilganini ko'rsatadi.",
+          "uz": "-ga, tomon"
+        },
+        {
+          "w": "لِقَاءِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "إلى dan keyin majrur kelgan ism; izofa boshi bo'lib, keyingi يَعْقُوبَ bilan 'Ya'qub bilan uchrashish' ma'nosini beradi.",
+          "uz": "uchrashishga"
+        },
+        {
+          "w": "يَعْقُوبَ",
+          "r": "مضاف إليه مجرور بالفتحة",
+          "rc": "مضاف إليه مجرور بالفتحة",
+          "e": "لِقَاءِ so'ziga bog'langan muzofun ilayh; g'ayri munsarif ism bo'lgani uchun majrur holatda fatha bilan kelgan.",
+          "uz": "Ya'qub"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi jumlani birinchi jumlaga bog'laydi; endi sog'inchning tabiiyligi savol uslubida aytiladi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَيْفَ",
+          "r": "اسم استفهام",
+          "rc": "اسم استفهام",
+          "e": "So'roq ismi; bu yerda haqiqiy savol emas, inkoriy-taajjub ma'nosida: 'qanday qilib mushtoq bo'lmasin?'",
+          "uz": "qanday"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Keyingi مضارع fe'lni inkor qiladi. كَيْفَ bilan birga sog'inmaslik mumkin emasligini kuchaytiradi.",
+          "uz": "emas, -maydi"
+        },
+        {
+          "w": "يَشْتَاقُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe'li; yashirin fo'ili 'هو' bo'lib Yusufga qaytadi.",
+          "uz": "mushtoq bo'ladi"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Jar harfi; sog'inch yo'nalishini bildiradi. Keyingi هِ olmoshi bilan 'unga' ma'nosi hosil qiladi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "هِ",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "إِلَى ga qo'shilgan olmosh; Ya'qubga qaytadi, ya'ni 'unga'.",
+          "uz": "unga"
+        },
+        {
+          "w": "وَ",
+          "r": "واو الحال",
+          "rc": "واو الحال",
+          "e": "Hol jumlasini kiritadi; Yusuf nega mushtoq bo'lishi tabiiy ekanini sabab bilan ko'rsatadi.",
+          "uz": "holbuki"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "O'tgan zamon fe'li oldidan kelib, ayriliqning haqiqatan uzoq davom etganini ta'kidlaydi.",
+          "uz": "allaqachon"
+        },
+        {
+          "w": "طَالَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O'tgan zamon fe'li; 'uzoq bo'ldi, cho'zildi' ma'nosida. Fo'ili keyingi الْفِرَاقُ.",
+          "uz": "uzoq cho'zildi"
+        },
+        {
+          "w": "الْفِرَاقُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "طَالَ fe'lining fo'ili; Yusuf va Ya'qub orasidagi uzoq ayriliqni bildiradi.",
+          "uz": "ayriliq"
         }
       ]
     },
@@ -36,18 +127,60 @@
       "tr": "Sir ochilgan bo'lsa, endi nima uchun sabr qilsin?",
       "parts": [
         {
-          "w": "وَلِمَاذَا يَصْبِرُ الآنَ",
-          "r": "استفهام عن السبب",
-          "rc": "tb",
-          "e": "لِمَاذَا sababni so'raydi, يَصْبِرُ hozirgi fe'l, الآنَ esa sabr qilmaslik vaqti kelganini bildiradi.",
-          "uz": "endi nima uchun sabr qiladi"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi savol mazmunini davom ettiradi; endi sabr qilish sababi qolmaganini kiritadi.",
+          "uz": "va"
         },
         {
-          "w": "وَقَدْ ظَهَرَ السِّرُّ",
-          "r": "جملة حالية",
-          "rc": "th",
-          "e": "ظَهَرَ السِّرُّ hol jumlasi bo'lib, sabrga sabab qolmaganini ko'rsatadi.",
-          "uz": "sir ochilgan bo'lsa"
+          "w": "لِمَاذَا",
+          "r": "اسم استفهام للسبب",
+          "rc": "اسم استفهام للسبب",
+          "e": "Sababni so'raydigan so'roq iborasi; bu yerda inkoriy ma'noda, 'endi sabr qilishga sabab yo'q' degan fikrni beradi.",
+          "uz": "nima uchun"
+        },
+        {
+          "w": "يَصْبِرُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Hozirgi-kelasi zamon fe'li; yashirin fo'ili 'هو' bo'lib Yusufga qaytadi.",
+          "uz": "sabr qiladi"
+        },
+        {
+          "w": "الآنَ",
+          "r": "ظرف زمان مبني",
+          "rc": "ظرف زمان مبني",
+          "e": "Vaqt ravishi; voqea ayni hozirgi paytda, sir ochilgandan keyin ekanini bildiradi.",
+          "uz": "endi, hozir"
+        },
+        {
+          "w": "وَ",
+          "r": "واو الحال",
+          "rc": "واو الحال",
+          "e": "Hol jumlasini kiritadi; sabr qilmaslik sababini keyingi fe'l bilan tushuntiradi.",
+          "uz": "holbuki"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "Keyingi o'tgan zamon fe'lini ta'kidlaydi; sirning ochilishi aniq yuz berganini bildiradi.",
+          "uz": "allaqachon"
+        },
+        {
+          "w": "ظَهَرَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O'tgan zamon fe'li; 'ayon bo'ldi, ko'rindi' ma'nosida. Fo'ili keyingi السِّرُّ.",
+          "uz": "ayon bo'ldi"
+        },
+        {
+          "w": "السِّرُّ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "ظَهَرَ fe'lining fo'ili; qissadagi yashirin haqiqatni bildiradi.",
+          "uz": "sir"
         }
       ]
     },
@@ -56,18 +189,158 @@
       "tr": "Otasi uchun ichimlik ham, taom ham, uyqu ham totli bo'lmayotgan bo'lsa, Yusufga ichimlik va taom qanday totli bo'lsin?",
       "parts": [
         {
-          "w": "وَكَيْفَ يَطِيبُ لَهُ الشَّرَابُ والطَّعَامُ",
-          "r": "استفهام إنكاري وفعل",
-          "rc": "tb",
-          "e": "كَيْفَ inkoriy savol bo'lib Yusufga rohat tatimasligini bildiradi; الشَّرَابُ والطَّعَامُ fo'il ma'nosida kelgan.",
-          "uz": "unga ichimlik va taom qanday totli bo'lsin"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Yangi inkoriy savolni oldingi fikrga bog'laydi; Yusufning rohatlana olmasligi ta'kidlanadi.",
+          "uz": "va"
         },
         {
-          "w": "وَأَبُوهُ لا يَطِيبُ لَهُ شَرَابٌ ولا طَعَامٌ ولا مَنَامٌ",
-          "r": "جملة حالية",
-          "rc": "th",
-          "e": "Hol jumlasi otasining qayg'uli holatini bildiradi; لا takrori ichimlik, taom va uyquning ham totli emasligini ta'kidlaydi.",
-          "uz": "otasi uchun ichimlik, taom va uyqu totli emas"
+          "w": "كَيْفَ",
+          "r": "اسم استفهام",
+          "rc": "اسم استفهام",
+          "e": "So'roq ismi; bu yerda 'mumkin emas' ma'nosini kuchaytiruvchi inkoriy savol.",
+          "uz": "qanday"
+        },
+        {
+          "w": "يَطِيبُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "'Totli bo'ladi, yoqimli bo'ladi' ma'nosidagi fe'l; rohat va lazzat topishni bildiradi.",
+          "uz": "totli bo'ladi"
+        },
+        {
+          "w": "لَ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Manfaat yoki taalluqlilikni bildiruvchi jar harfi; keyingi هُ bilan 'unga, uning uchun' bo'ladi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "لَ ga qo'shilgan olmosh; birinchi holatda Yusufga qaytadi.",
+          "uz": "unga"
+        },
+        {
+          "w": "الشَّرَابُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "يَطِيبُ fe'lining fo'ili; totli bo'lishi so'roq qilinayotgan narsa - ichimlik.",
+          "uz": "ichimlik"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "الشَّرَابُ bilan الطَّعَامُ ni bog'laydi; ikkalasi ham يَطِيبُ fe'liga aloqador.",
+          "uz": "va"
+        },
+        {
+          "w": "الطَّعَامُ",
+          "r": "معطوف مرفوع",
+          "rc": "معطوف مرفوع",
+          "e": "الشَّرَابُ ga ma'tuf; raf holatida kelib, ichimlik bilan birga taom ham nazarda tutiladi.",
+          "uz": "taom"
+        },
+        {
+          "w": "وَ",
+          "r": "واو الحال",
+          "rc": "واو الحال",
+          "e": "Hol jumlasini kiritadi; Yusuf rohatlana olmasligining sababi otasining holati bilan ko'rsatiladi.",
+          "uz": "holbuki"
+        },
+        {
+          "w": "أَبُو",
+          "r": "مبتدأ مرفوع بالواو مضاف",
+          "rc": "مبتدأ مرفوع بالواو مضاف",
+          "e": "Hol jumlasining mubtadosi; besh ismlardan bo'lgani uchun raf alomati واو. Keyingi هُ ga izofa qilingan.",
+          "uz": "otasi"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل",
+          "rc": "ضمير متصل",
+          "e": "أَبُو ga qo'shilgan olmosh; Yusufga qaytadi, ya'ni 'uning otasi'.",
+          "uz": "uning"
+        },
+        {
+          "w": "لا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Keyingi يَطِيبُ fe'lini inkor qiladi; Ya'qubga hech narsa totli emasligini bildiradi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَطِيبُ",
+          "r": "فعل مضارع مرفوع",
+          "rc": "فعل مضارع مرفوع",
+          "e": "Ikkinchi marta kelgan fe'l; bu safar Ya'qubning ichimlik, taom va uyqudan rohat topmasligini bildiradi.",
+          "uz": "totli bo'ladi"
+        },
+        {
+          "w": "لَ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Taalluqlilikni bildiradi; keyingi هُ bilan Ya'qubga nisbatan 'unga, uning uchun' ma'nosida keladi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "لَ ga qo'shilgan olmosh; bu o'rinda Ya'qubga qaytadi.",
+          "uz": "unga"
+        },
+        {
+          "w": "شَرَابٌ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "لا يَطِيبُ fe'lining fo'ili; nakira kelib umumiy ma'noda 'hech qanday ichimlik'ni bildiradi.",
+          "uz": "ichimlik"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Inkor qilingan narsalarni ketma-ket bog'laydi; keyingi لا bilan inkor yana takrorlanadi.",
+          "uz": "va"
+        },
+        {
+          "w": "لا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Oldingi inkorni davom ettiradi; taomni ham rohat doirasidan chiqaradi.",
+          "uz": "ham emas"
+        },
+        {
+          "w": "طَعَامٌ",
+          "r": "معطوف مرفوع",
+          "rc": "معطوف مرفوع",
+          "e": "شَرَابٌ ga ma'tuf; raf holatida kelib, 'taom ham totli emas' ma'nosini beradi.",
+          "uz": "taom"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ro'yxatdagi uchinchi narsani bog'laydi; uyqu ham oldingi inkorga qo'shiladi.",
+          "uz": "va"
+        },
+        {
+          "w": "لا",
+          "r": "حرف نفي",
+          "rc": "حرف نفي",
+          "e": "Uyquni ham inkor qiladi; Ya'qubning qayg'usi yeb-ichishdan uyqugacha ta'sir qilganini ko'rsatadi.",
+          "uz": "ham emas"
+        },
+        {
+          "w": "مَنَامٌ",
+          "r": "معطوف مرفوع",
+          "rc": "معطوف مرفوع",
+          "e": "Oldingi شَرَابٌ va طَعَامٌ qatoriga qo'shilgan ism; 'uyqu' ma'nosida.",
+          "uz": "uyqu"
         }
       ]
     },
@@ -76,25 +349,109 @@
       "tr": "Sir ochildi, sir ayon bo'ldi va Alloh Ya'qubning ko'zi quvonishini iroda qildi.",
       "parts": [
         {
-          "w": "قَدِ انْكَشَفَ السِّرُّ",
-          "r": "قد وفعل وفاعل",
-          "rc": "tf",
-          "e": "قَدْ amalga oshganlikni bildiradi; انْكَشَفَ السِّرُّ sirning ochilganini bayon qiladi.",
-          "uz": "sir ochildi"
+          "w": "قَدِ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "O'tgan zamon fe'li oldidan kelib, ishning aniq sodir bo'lganini bildiradi; kasra talaffuzni yengillashtiradi.",
+          "uz": "haqiqatan"
         },
         {
-          "w": "وَقَدْ ظَهَرَ السِّرُّ",
-          "r": "جملة مؤكدة معطوفة",
-          "rc": "tf",
-          "e": "ظَهَرَ السِّرُّ avvalgi ma'noni takrorlab kuchaytiradi: sir endi yashirin emas.",
-          "uz": "sir ayon bo'ldi"
+          "w": "انْكَشَفَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O'tgan zamon fe'li; yashirin narsa ochilishi, pardasi ko'tarilishi ma'nosini beradi.",
+          "uz": "ochildi"
         },
         {
-          "w": "وَقَدْ أَرَادَ اللَّهُ أَنْ تَقَرَّ عَيْنُ يَعْقُوبَ",
-          "r": "فعل وفاعل ومصدر مؤول",
-          "rc": "tf",
-          "e": "أَرَادَ اللَّهُ ilohiy iroda, أَنْ تَقَرَّ عَيْنُ يَعْقُوبَ esa Ya'qubning quvonishi ma'nosidagi masdar muavval.",
-          "uz": "Alloh Ya'qubning ko'zi quvonishini iroda qildi"
+          "w": "السِّرُّ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "انْكَشَفَ fe'lining fo'ili; ma'rifa bo'lib, qissadagi ma'lum sirni bildiradi.",
+          "uz": "sir"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Ikkinchi ta'kid jumlasini birinchisiga bog'laydi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "ظَهَرَ fe'lini ta'kidlaydi; sir endi yashirin emasligini kuchaytiradi.",
+          "uz": "haqiqatan"
+        },
+        {
+          "w": "ظَهَرَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "'Ayon bo'ldi, ko'rindi' ma'nosidagi fe'l; انْكَشَفَ ma'nosini takrorlab kuchaytiradi.",
+          "uz": "ayon bo'ldi"
+        },
+        {
+          "w": "السِّرُّ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "ظَهَرَ fe'lining fo'ili; takror sirning to'liq ochilganini urg'ulaydi.",
+          "uz": "sir"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Allohning irodasini bayon qiluvchi uchinchi jumlani bog'laydi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "أَرَادَ fe'lini ta'kidlaydi; Allohning iroda qilgani qat'iyligini bildiradi.",
+          "uz": "haqiqatan"
+        },
+        {
+          "w": "أَرَادَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "O'tgan zamon fe'li; 'iroda qildi, xohladi' ma'nosida. Fo'ili keyingi اللَّهُ.",
+          "uz": "iroda qildi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "أَرَادَ fe'lining fo'ili; voqea Allohning hikmati va irodasi bilan bog'lanadi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدر",
+          "rc": "حرف نصب ومصدر",
+          "e": "Keyingi مضارع fe'lni nasb qiladi va u bilan birga masdar ma'nosini beradi: 'quvonishi, taskin topishi'.",
+          "uz": "-ishini"
+        },
+        {
+          "w": "تَقَرَّ",
+          "r": "فعل مضارع منصوب بأن",
+          "rc": "فعل مضارع منصوب بأن",
+          "e": "أَنْ sababli mansub kelgan مضارع fe'l; 'ko'z quvonishi, qalb taskin topishi' iborasidagi fe'l.",
+          "uz": "quvonsin"
+        },
+        {
+          "w": "عَيْنُ",
+          "r": "فاعل مرفوع مضاف",
+          "rc": "فاعل مرفوع مضاف",
+          "e": "تَقَرَّ fe'lining fo'ili; izofa boshi bo'lib, keyingi يَعْقُوبَ bilan 'Ya'qubning ko'zi' bo'ladi.",
+          "uz": "ko'zi"
+        },
+        {
+          "w": "يَعْقُوبَ",
+          "r": "مضاف إليه مجرور بالفتحة",
+          "rc": "مضاف إليه مجرور بالفتحة",
+          "e": "عَيْنُ ga bog'langan muzofun ilayh; g'ayri munsarif ism bo'lgani uchun fatha bilan kelgan.",
+          "uz": "Ya'qubning"
         }
       ]
     },
@@ -103,25 +460,95 @@
       "tr": "Ya'qub ko'p yig'i va qayg'u sabab ko'r bo'lib qolgan edi. Shunda Yusuf dedi:",
       "parts": [
         {
-          "w": "وَكَانَ يَعْقُوبُ قَدْ عَمِيَ",
-          "r": "كان واسمها وخبرها",
-          "rc": "tb",
-          "e": "كَانَ يَعْقُوبُ qissa holatini bayon qiladi, قَدْ عَمِيَ esa ko'zi ojiz bo'lib qolganini bildiradi.",
-          "uz": "Ya'qub ko'r bo'lib qolgan edi"
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Oldingi bayondan Ya'qubning holatiga o'tkazadi; qissa davomiyligini bildiradi.",
+          "uz": "va"
         },
         {
-          "w": "مِنْ كَثْرَةِ الْبُكَاءِ وَالْحُزْنِ",
-          "r": "جار ومجرور للسبب",
-          "rc": "tmt",
-          "e": "مِنْ sababni bildiradi; ko'rlikka sabab bo'lgan ko'p yig'i va qayg'u zikr qilinadi.",
-          "uz": "ko'p yig'i va qayg'u sabab"
+          "w": "كَانَ",
+          "r": "فعل ماض ناقص",
+          "rc": "فعل ماض ناقص",
+          "e": "Noqis fe'l; o'tmishda davom etib turgan holatni bildiradi. Ismi يَعْقُوبُ, xabari قَدْ عَمِيَ jumlasi.",
+          "uz": "edi"
         },
         {
-          "w": "فَقَالَ يُوسُفُ",
-          "r": "فاء تفريع وفعل وفاعل",
-          "rc": "tf",
-          "e": "فَ natijani kiritadi; Yusuf otasining holatini bilib ko'ylak yuborish farmonini beradi.",
-          "uz": "Yusuf dedi"
+          "w": "يَعْقُوبُ",
+          "r": "اسم كان مرفوع",
+          "rc": "اسم كان مرفوع",
+          "e": "كَانَ ning ismi; marfu' holatda kelib, ko'rlik holati kimga tegishli ekanini bildiradi.",
+          "uz": "Ya'qub"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف تحقيق",
+          "rc": "حرف تحقيق",
+          "e": "عَمِيَ fe'lini ta'kidlab, ko'zi ojiz bo'lib qolganlik holati yuz berganini bildiradi.",
+          "uz": "allaqachon"
+        },
+        {
+          "w": "عَمِيَ",
+          "r": "فعل ماض في محل خبر كان",
+          "rc": "فعل ماض في محل خبر كان",
+          "e": "O'tgan zamon fe'li; كَانَ ning xabari bo'lgan fe'l jumlasida kelib, Ya'qub ko'r bo'lib qolganini bildiradi.",
+          "uz": "ko'r bo'lib qolgan"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف جر للسبب",
+          "rc": "حرف جر للسبب",
+          "e": "Sababni bildiruvchi jar harfi; ko'rlikka nima sabab bo'lganini keyingi izofa bilan ko'rsatadi.",
+          "uz": "sababli"
+        },
+        {
+          "w": "كَثْرَةِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "مِنْ dan keyin majrur kelgan ism; izofa boshi bo'lib, 'ko'pligi' ma'nosini beradi.",
+          "uz": "ko'pligi"
+        },
+        {
+          "w": "الْبُكَاءِ",
+          "r": "مضاف إليه مجرور",
+          "rc": "مضاف إليه مجرور",
+          "e": "كَثْرَةِ ga bog'langan muzofun ilayh; ko'p yig'i ko'rlikka sabab bo'lganini bildiradi.",
+          "uz": "yig'ining"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "الْبُكَاءِ bilan الْحُزْنِ ni bog'laydi; ikkalasi ham sabab ma'nosida.",
+          "uz": "va"
+        },
+        {
+          "w": "الْحُزْنِ",
+          "r": "معطوف مجرور",
+          "rc": "معطوف مجرور",
+          "e": "الْبُكَاءِ ga ma'tuf; jar holatini saqlab, qayg'u ham sabab bo'lganini bildiradi.",
+          "uz": "qayg'uning"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء التفريع",
+          "rc": "فاء التفريع",
+          "e": "Oldingi holatdan keyingi natija yoki qissa bosqichini chiqaradi: endi Yusufning so'zi keladi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "قَالَ",
+          "r": "فعل ماض مبني على الفتح",
+          "rc": "فعل ماض مبني على الفتح",
+          "e": "Nutq bildiruvchi o'tgan zamon fe'li. Fo'ili keyingi يُوسُفُ.",
+          "uz": "dedi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فاعل مرفوع",
+          "rc": "فاعل مرفوع",
+          "e": "قَالَ fe'lining fo'ili; gapiruvchi shaxs Yusuf ekanini bildiradi.",
+          "uz": "Yusuf"
         }
       ]
     },
@@ -130,32 +557,151 @@
       "tr": "«Mana bu ko'ylagimni olib boringlar, uni otamning yuziga tashlanglar, u ko'zi ochiq bo'ladi. Barcha ahli oilangizni menga olib kelinglar».",
       "parts": [
         {
-          "w": "اذْهَبُوا بِقَمِيصِي هَذَا",
-          "r": "فعل أمر وجار ومجرور",
-          "rc": "tf",
-          "e": "اذْهَبُوا buyruq fe'li, بِقَمِيصِي هَذَا olib boriladigan narsani bildiradi.",
-          "uz": "mana bu ko'ylagimni olib boringlar"
+          "w": "اذْهَبُوا",
+          "r": "فعل أمر مبني على حذف النون",
+          "rc": "فعل أمر مبني على حذف النون",
+          "e": "Ko'plikka qaratilgan buyruq fe'li; oxiridagi واو الجماعة murojaat qilingan kishilarni fo'il sifatida bildiradi.",
+          "uz": "boringlar"
         },
         {
-          "w": "فَأَلْقُوهُ عَلَى وَجْهِ أَبِي",
-          "r": "فاء تعقيب وفعل أمر",
-          "rc": "tf",
-          "e": "أَلْقُوهُ buyruq fe'lida هُ ko'ylakka qaytadi; عَلَى وَجْهِ أَبِي tashlanadigan joyni bildiradi.",
-          "uz": "uni otamning yuziga tashlanglar"
+          "w": "بِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Birga olib borish ma'nosini bildiradi; keyingi قَمِيصِ bilan 'ko'ylagimni olib' mazmuni hosil bo'ladi.",
+          "uz": "bilan"
         },
         {
-          "w": "يَأْتِ بَصِيرًا",
-          "r": "جواب الطلب وفعل وحال",
-          "rc": "tf",
-          "e": "يَأْتِ buyruq natijasi sifatida kelgan, بَصِيرًا hol bo'lib otasining ko'zi ochilishini bildiradi.",
-          "uz": "ko'zi ochiq bo'ladi"
+          "w": "قَمِيصِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "بِ dan keyin majrur kelgan ism; izofa boshi bo'lib, keyingi ي bilan 'mening ko'ylagim' bo'ladi.",
+          "uz": "ko'ylak"
         },
         {
-          "w": "وَأْتُونِي بِأَهْلِكُمْ أَجْمَعِينَ",
-          "r": "فعل أمر ومفعول ومتعلق",
-          "rc": "tf",
-          "e": "أْتُونِي buyruq fe'li, بِأَهْلِكُمْ olib kelinadigan kishilar, أَجْمَعِينَ esa barchasini qamrab oladi.",
-          "uz": "barcha ahli oilangizni menga olib kelinglar"
+          "w": "ي",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "قَمِيصِ ga qo'shilgan birinchi shaxs olmoshi; Yusufga tegishlilikni bildiradi.",
+          "uz": "mening"
+        },
+        {
+          "w": "هَذَا",
+          "r": "اسم إشارة",
+          "rc": "اسم إشارة",
+          "e": "Ishora ismi; aynan shu ko'ylak nazarda tutilayotganini bildiradi.",
+          "uz": "mana bu"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء التعقيب",
+          "rc": "فاء التعقيب",
+          "e": "Birinchi buyruqdan keyingi darhol bajariladigan amalni kiritadi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "أَلْقُوا",
+          "r": "فعل أمر مبني على حذف النون",
+          "rc": "فعل أمر مبني على حذف النون",
+          "e": "Ko'plikka qaratilgan buyruq fe'li; 'tashlanglar' ma'nosida. Maf'uli keyingi هُ.",
+          "uz": "tashlanglar"
+        },
+        {
+          "w": "هُ",
+          "r": "ضمير متصل في محل نصب",
+          "rc": "ضمير متصل في محل نصب",
+          "e": "أَلْقُوا fe'lining maf'uli; oldingi قَمِيصِي ga qaytadi, ya'ni ko'ylakni bildiradi.",
+          "uz": "uni"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Ustiga, yuzasiga yo'nalishni bildiruvchi jar harfi.",
+          "uz": "ustiga"
+        },
+        {
+          "w": "وَجْهِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "عَلَى dan keyin majrur; izofa boshi bo'lib, keyingi أَبِي bilan 'otamning yuzi' bo'ladi.",
+          "uz": "yuziga"
+        },
+        {
+          "w": "أَبِ",
+          "r": "مضاف إليه مجرور بالياء",
+          "rc": "مضاف إليه مجرور بالياء",
+          "e": "وَجْهِ ga bog'langan muzofun ilayh; besh ismlardan bo'lgani uchun jar alomati ya.",
+          "uz": "ota"
+        },
+        {
+          "w": "ي",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "أَبِ ga qo'shilgan birinchi shaxs olmoshi; 'mening otam' ma'nosini beradi.",
+          "uz": "mening"
+        },
+        {
+          "w": "يَأْتِ",
+          "r": "فعل مضارع مجزوم في جواب الطلب",
+          "rc": "فعل مضارع مجزوم في جواب الطلب",
+          "e": "Buyruqdan keyingi natija sifatida kelgan مضارع fe'l; 'u keladi/qaytadi' ma'nosida, holi keyingi بَصِيرًا.",
+          "uz": "keladi"
+        },
+        {
+          "w": "بَصِيرًا",
+          "r": "حال منصوب",
+          "rc": "حال منصوب",
+          "e": "يَأْتِ fe'lidan keyingi hol; Ya'qub ko'ruvchi, ko'zi ochilgan holatda bo'lishini bildiradi.",
+          "uz": "ko'ruvchi holda"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "Yangi buyruqni oldingilariga bog'laydi; endi butun oilani olib kelish aytiladi.",
+          "uz": "va"
+        },
+        {
+          "w": "أْتُوا",
+          "r": "فعل أمر مبني على حذف النون",
+          "rc": "فعل أمر مبني على حذف النون",
+          "e": "Ko'plikka qaratilgan buyruq fe'li; 'olib kelinglar' ma'nosida. Keyingi نِي olmoshi bilan manzil ko'rsatiladi.",
+          "uz": "olib kelinglar"
+        },
+        {
+          "w": "نِي",
+          "r": "ضمير متصل في محل نصب",
+          "rc": "ضمير متصل في محل نصب",
+          "e": "أْتُوا fe'liga qo'shilgan birinchi shaxs olmoshi; 'menga' ma'nosini beradi.",
+          "uz": "menga"
+        },
+        {
+          "w": "بِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "Olib kelinadigan kishilarni bildiruvchi jar harfi; keyingi أَهْلِكُمْ bilan bog'lanadi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "أَهْلِ",
+          "r": "اسم مجرور مضاف",
+          "rc": "اسم مجرور مضاف",
+          "e": "بِ dan keyin majrur kelgan ism; izofa boshi bo'lib, keyingi كُمْ bilan 'sizlarning ahli oilangiz' bo'ladi.",
+          "uz": "ahli oila"
+        },
+        {
+          "w": "كُمْ",
+          "r": "ضمير متصل في محل جر",
+          "rc": "ضمير متصل في محل جر",
+          "e": "أَهْلِ ga qo'shilgan ko'plik ikkinchi shaxs olmoshi; 'sizlarning' ma'nosini beradi.",
+          "uz": "sizlarning"
+        },
+        {
+          "w": "أَجْمَعِينَ",
+          "r": "توكيد منصوب",
+          "rc": "توكيد منصوب",
+          "e": "Ta'kid so'zi; ahli oiladan hech kim qolmasdan hammasi nazarda tutilganini bildiradi.",
+          "uz": "barchasini"
         }
       ]
     }

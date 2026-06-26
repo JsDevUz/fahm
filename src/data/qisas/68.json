@@ -1,0 +1,875 @@
+{
+  "title": "٦٩ ـ هُودٌ الرَّسُولُ",
+  "tuz": "Hud rasul",
+  "sub": "Alloh Od qavmiga o‘zlaridan bo‘lgan Hudni yuboradi",
+  "page": 87,
+  "sentences": [
+    {
+      "ar": "وَأَرَادَ اللَّهُ أَنْ يُرْسِلَ إِلى عَادٍ رَسُولاً.",
+      "tr": "Alloh Od qavmiga rasul yuborishni iroda qildi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َأَرَادَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َأَرَادَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "اللَّهُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Alloh» mazmunini beradi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدر",
+          "rc": "حرف نصب ومصدر",
+          "e": "أَنْ — حرف نصب ومصدر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «-ishini» mazmunini beradi.",
+          "uz": "-ishini"
+        },
+        {
+          "w": "يُرْسِلَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يُرْسِلَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yuboradi» mazmunini beradi.",
+          "uz": "yuboradi"
+        },
+        {
+          "w": "إِلى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "إِلى — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «-ga» mazmunini beradi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "عَادٍ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عَادٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Od qavmi» mazmunini beradi.",
+          "uz": "Od qavmi"
+        },
+        {
+          "w": "رَسُولاً",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "رَسُولاً — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «rasul» mazmunini beradi.",
+          "uz": "rasul"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ اللَّهَ لَا يَرْضَى لِعِبَادِهِ الْكُفْرَ، إِنَّ اللَّهَ لَا يُحِبُّ الْفَسَادَ فِي الأَرْضِ.",
+      "tr": "Alloh bandalari uchun kufrga rozi bo‘lmaydi, Alloh yer yuzidagi buzg‘unchilikni sevmaydi.",
+      "parts": [
+        {
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "إِنَّ — حرف توكيد ونصب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «albatta» mazmunini beradi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "اللَّهَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Allohni» mazmunini beradi.",
+          "uz": "Allohni"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "َا",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "يَرْضَى",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَرْضَى — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «rozi bo‘ladi» mazmunini beradi.",
+          "uz": "rozi bo‘ladi"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "ِعِبَادِهِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِعِبَادِهِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الْكُفْرَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الْكُفْرَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kufr» mazmunini beradi.",
+          "uz": "kufr"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حرف توكيد ونصب",
+          "rc": "حرف توكيد ونصب",
+          "e": "إِنَّ — حرف توكيد ونصب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «albatta» mazmunini beradi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "اللَّهَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Allohni» mazmunini beradi.",
+          "uz": "Allohni"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "َا",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "يُحِبُّ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يُحِبُّ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «sevadi» mazmunini beradi.",
+          "uz": "sevadi"
+        },
+        {
+          "w": "الْفَسَادَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الْفَسَادَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «buzg‘unchilik» mazmunini beradi.",
+          "uz": "buzg‘unchilik"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الأَرْضِ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الأَرْضِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yer» mazmunini beradi.",
+          "uz": "yer"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ عَادٌ لا يَسْتَعْمِلُونَ عُقُولَهُمْ إِلَّا فِي الأَكْلِ وَالشَّرْبِ وَاللَّهْوِ وَاللَّعِبِ وَبِنَاءِ البُيُوتِ.",
+      "tr": "Od qavmi aqllarini faqat yeyish, ichish, ko‘ngilxushlik, o‘yin va uy qurishda ishlatar edi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َكَانَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َكَانَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "عَادٌ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عَادٌ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Od qavmi» mazmunini beradi.",
+          "uz": "Od qavmi"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "ا",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "يَسْتَعْمِلُونَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَسْتَعْمِلُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ishlatadilar» mazmunini beradi.",
+          "uz": "ishlatadilar"
+        },
+        {
+          "w": "عُقُولَهُمْ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عُقُولَهُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «aqlari» mazmunini beradi.",
+          "uz": "aqlari"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "أداة استثناء",
+          "rc": "أداة استثناء",
+          "e": "إِلَّا — أداة استثناء sifatida kelgan; ushbu bo‘lak jumla ma’nosida «faqat» mazmunini beradi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الأَكْلِ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الأَكْلِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yeyish» mazmunini beradi.",
+          "uz": "yeyish"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َالشَّرْبِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َالشَّرْبِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َاللَّهْوِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َاللَّهْوِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َاللَّعِبِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َاللَّعِبِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َبِنَاءِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َبِنَاءِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "البُيُوتِ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "البُيُوتِ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uylar» mazmunini beradi.",
+          "uz": "uylar"
+        }
+      ]
+    },
+    {
+      "ar": "وَقَدْ فَسَدَتْ عُقُولُهُمْ لأَنَّهُمْ لَا يَسْتَعْمِلُونَهَا فِي الدِّينِ.",
+      "tr": "Ular aqllarini dinda ishlatmaganlari uchun aqllari buzilgan edi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َقَدْ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َقَدْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "َسَدَتْ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َسَدَتْ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "عُقُولُهُمْ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عُقُولُهُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "أَنَّهُمْ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "أَنَّهُمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "لِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "لِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uchun» mazmunini beradi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "َا",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "يَسْتَعْمِلُونَهَا",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَسْتَعْمِلُونَهَا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الدِّينِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "الدِّينِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ عَادٌ عُقَلَاءَ فِي الدُّنْيَا أَغْبِيَاءَ فِي الدِّيْنِ، يَعْبُدُونَ الْحِجَارَةَ وَلا يَعْقِلُونَ.",
+      "tr": "Od dunyo ishida aqlli, din ishida esa nodon edi; toshlarga ibodat qilar, aql yuritmas edi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َكَانَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َكَانَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "عَادٌ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عَادٌ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Od qavmi» mazmunini beradi.",
+          "uz": "Od qavmi"
+        },
+        {
+          "w": "عُقَلَاءَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عُقَلَاءَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «aqlli kishilar» mazmunini beradi.",
+          "uz": "aqlli kishilar"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الدُّنْيَا",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الدُّنْيَا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dunyo» mazmunini beradi.",
+          "uz": "dunyo"
+        },
+        {
+          "w": "أَغْبِيَاءَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "أَغْبِيَاءَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ahmoqlar» mazmunini beradi.",
+          "uz": "ahmoqlar"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "الدِّيْنِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "الدِّيْنِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «din» mazmunini beradi.",
+          "uz": "din"
+        },
+        {
+          "w": "يَعْبُدُونَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَعْبُدُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ibodat qiladilar» mazmunini beradi.",
+          "uz": "ibodat qiladilar"
+        },
+        {
+          "w": "الْحِجَارَةَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الْحِجَارَةَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «toshlarni» mazmunini beradi.",
+          "uz": "toshlarni"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َلا",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َلا — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «emas» mazmunini beradi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَعْقِلُونَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَعْقِلُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «aql yuritadilar» mazmunini beradi.",
+          "uz": "aql yuritadilar"
+        }
+      ]
+    },
+    {
+      "ar": "فَأَرَادَ اللَّهُ أَنْ يُرْسِلَ إِلَيْهِم رَسُولاً يَهْدِيَهِمْ.",
+      "tr": "Shuning uchun Alloh ularga hidoyat qiladigan rasul yuborishni iroda qildi.",
+      "parts": [
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "َأَرَادَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َأَرَادَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "اللَّهُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Alloh» mazmunini beradi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدر",
+          "rc": "حرف نصب ومصدر",
+          "e": "أَنْ — حرف نصب ومصدر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «-ishini» mazmunini beradi.",
+          "uz": "-ishini"
+        },
+        {
+          "w": "يُرْسِلَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يُرْسِلَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «yuboradi» mazmunini beradi.",
+          "uz": "yuboradi"
+        },
+        {
+          "w": "إِلَيْهِم",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "إِلَيْهِم — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "رَسُولاً",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "رَسُولاً — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «rasul» mazmunini beradi.",
+          "uz": "rasul"
+        },
+        {
+          "w": "يَهْدِيَهِمْ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَهْدِيَهِمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ularni hidoyat qiladi» mazmunini beradi.",
+          "uz": "ularni hidoyat qiladi"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ اللَّهُ أَنْ يَكُونَ هَذَا الرَّسُولُ مِنْ أَنْفُسِهِمْ، يَعْرِفُونَهُ وَيَفْهَمُونَ كَلَامَهُ.",
+      "tr": "Alloh bu rasul ularning o‘zlaridan bo‘lishini, ular uni tanib, so‘zini tushunishlarini iroda qildi.",
+      "parts": [
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َأَرَادَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َأَرَادَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "اللَّهُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Alloh» mazmunini beradi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف نصب ومصدر",
+          "rc": "حرف نصب ومصدر",
+          "e": "أَنْ — حرف نصب ومصدر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «-ishini» mazmunini beradi.",
+          "uz": "-ishini"
+        },
+        {
+          "w": "يَكُونَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَكُونَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bo‘ladi» mazmunini beradi.",
+          "uz": "bo‘ladi"
+        },
+        {
+          "w": "هَذَا",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "هَذَا — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bu» mazmunini beradi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرَّسُولُ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الرَّسُولُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «rasul» mazmunini beradi.",
+          "uz": "rasul"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "مِنْ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «dan» mazmunini beradi.",
+          "uz": "dan"
+        },
+        {
+          "w": "أَنْفُسِهِمْ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "أَنْفُسِهِمْ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "يَعْرِفُونَهُ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "يَعْرِفُونَهُ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «uni taniydilar» mazmunini beradi.",
+          "uz": "uni taniydilar"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َيَفْهَمُونَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َيَفْهَمُونَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "كِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "َلَامَهُ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َلَامَهُ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        }
+      ]
+    },
+    {
+      "ar": "كَانَ هُودٌ ذَلِكَ الرَّسُولَ، وُلِدَ فِي بَيْتٍ شَرِيفٍ فِي عَادٍ وَنَشَأَ عَلَى عَقْلٍ وَصَلاحٍ.",
+      "tr": "Hud o‘sha rasul edi; Od ichida sharafli uyda tug‘ildi va aql hamda solihlik ustida ulg‘aydi.",
+      "parts": [
+        {
+          "w": "كِ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "كِ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "َانَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َانَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "هُودٌ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "هُودٌ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Hud» mazmunini beradi.",
+          "uz": "Hud"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ذَلِكَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «o‘sha» mazmunini beradi.",
+          "uz": "o‘sha"
+        },
+        {
+          "w": "الرَّسُولَ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "الرَّسُولَ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "ُلِدَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ُلِدَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "بِ",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "بِ — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «bilan» mazmunini beradi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "َيْتٍ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َيْتٍ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "شَرِيفٍ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "شَرِيفٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "فَ",
+          "r": "فاء تفريع",
+          "rc": "فاء تفريع",
+          "e": "فَ — فاء تفريع sifatida kelgan; ushbu bo‘lak jumla ma’nosida «shunda» mazmunini beradi.",
+          "uz": "shunda"
+        },
+        {
+          "w": "ِي",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "ِي — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "عَادٍ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عَادٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «Od qavmi» mazmunini beradi.",
+          "uz": "Od qavmi"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َنَشَأَ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َنَشَأَ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حرف جر",
+          "rc": "حرف جر",
+          "e": "عَلَى — حرف جر sifatida kelgan; ushbu bo‘lak jumla ma’nosida «ustiga» mazmunini beradi.",
+          "uz": "ustiga"
+        },
+        {
+          "w": "عَقْلٍ",
+          "r": "كلمة في الجملة",
+          "rc": "كلمة في الجملة",
+          "e": "عَقْلٍ — كلمة في الجملة sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        },
+        {
+          "w": "وَ",
+          "r": "حرف عطف",
+          "rc": "حرف عطف",
+          "e": "وَ — حرف عطف sifatida kelgan; ushbu bo‘lak jumla ma’nosida «va» mazmunini beradi.",
+          "uz": "va"
+        },
+        {
+          "w": "َصَلاحٍ",
+          "r": "اسم أو تركيب",
+          "rc": "اسم أو تركيب",
+          "e": "َصَلاحٍ — اسم أو تركيب sifatida kelgan; ushbu bo‘lak jumla ma’nosida «kontekst bo‘yicha» mazmunini beradi.",
+          "uz": "kontekst bo‘yicha"
+        }
+      ]
+    }
+  ]
+}
