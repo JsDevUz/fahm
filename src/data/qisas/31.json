@@ -114,7 +114,7 @@
       "parts": [
         {
           "w": "مَا",
-          "r": "حَرف نَfi",
+          "r": "حَرف نفي",
           "rc": "tf",
           "e": "مَا — inkor harfi.",
           "uz": "emas"
@@ -574,7 +574,7 @@
         },
         {
           "w": "بَابِ",
-          "r": "اسم مَجرُOR / مُضَاف",
+          "r": "اسم مجرور / مُضَاف",
           "rc": "tmt",
           "e": "بَابِ — jar harfi sababli kasra bilan majrur va ayni paytda muzofdir.",
           "uz": "eshigiga"
@@ -615,7 +615,7 @@
         },
         {
           "w": "لَكِنَّ",
-          "r": "حَرف اِستِdrَاك وَنَصب",
+          "r": "حَرف استدراك وَنَصب",
           "rc": "tb",
           "e": "لَكِنَّ — oldingi gapdan boshqa holatga o'tishni (istidrok) ifodalovchi, ismini nasb qiluvchi harf.",
           "uz": "lekin"
@@ -629,7 +629,7 @@
         },
         {
           "w": "لَمْ",
-          "r": "حَرف جَزم وَنَfy",
+          "r": "حَرف جَزم وَنفي",
           "rc": "tx",
           "e": "لَمْ — mudori' fe'lini jazm qiluvchi va ma'nosini o'tgan zamon inkoriga aylantiruvchi inkor harfi.",
           "uz": "emas"

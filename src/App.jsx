@@ -19,6 +19,14 @@ function App() {
   
   const [activeBook, setActiveBook] = useState(null);
   const [activeChapterIndex, setActiveChapterIndex] = useState(null);
+
+  useEffect(() => {
+    document.documentElement.setAttribute('translate', 'no');
+    document.documentElement.classList.add('notranslate');
+    document.body.setAttribute('translate', 'no');
+    document.body.classList.add('notranslate');
+  }, []);
+
   useEffect(() => {
     const loadData = async () => {
       try {
@@ -103,7 +111,7 @@ function App() {
   const bookChapters = activeBook ? getBookChapters(activeBook.id) : [];
 
   return (
-    <div className="app-container">
+    <div className="app-container notranslate" translate="no">
       <TopBar 
         currentView={currentView} 
         activeBook={activeBook}

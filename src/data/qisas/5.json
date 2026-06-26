@@ -12,7 +12,7 @@
           "w": "اجْتَمَعَ",
           "r": "فِعل مَاضٍ",
           "rc": "tf",
-          "e": "اجْتَمَعَ — مُطَاوَعة وزниda (VIII vazn) o'tgan zamon fe'li bo'lib, bu gapda hukm asosi hisoblanadi. Fe'l النَّاسُ ega bilan birgalikda jumlaning asosiy mustaqil gapini tashkil etadi, va odamlarning bir joyga to'planish voqeasini tasvirlaydi.",
+          "e": "اجْتَمَعَ — مُطَاوَعة vaznida (VIII vazn) o'tgan zamon fe'li bo'lib, bu gapda hukm asosi hisoblanadi. Fe'l النَّاسُ ega bilan birgalikda jumlaning asosiy mustaqil gapini tashkil etadi, va odamlarning bir joyga to'planish voqeasini tasvirlaydi.",
           "uz": "yig'ildi"
         },
         {
@@ -26,7 +26,7 @@
           "w": "وَقَالُوا",
           "r": "فِعل مَاضٍ مَعطُوف",
           "rc": "tf",
-          "e": "وَقَالُوا — oldingi ajْتَمَعَ fe'liga وَ harfi orqali bog'langan o'tgan zamon fe'li. Zamiri (واو) النَّاسُ ga qaytadi va ularning so'z gapirish harakatini ifodalaydi; ikki fe'lning bir-biriga ulangan ketma-ketligi voqealar zanjirini hosil qiladi.",
+          "e": "وَقَالُوا — oldingi اِجْتَمَعَ fe'liga وَ harfi orqali bog'langan o'tgan zamon fe'li. Zamiri (واو) النَّاسُ ga qaytadi va ularning so'z gapirish harakatini ifodalaydi; ikki fe'lning bir-biriga ulangan ketma-ketligi voqealar zanjirini hosil qiladi.",
           "uz": "va dedilar"
         },
         {
@@ -176,7 +176,7 @@
         },
         {
           "w": "هُ",
-          "r": "مَفعُول بِهِ (ضَمِير مُtَّصِل)",
+          "r": "مَفعُول بِهِ (ضَمِير متصل)",
           "rc": "tb",
           "e": "هُ — uchinchi shaxs birlik muzakkar muttasil (birikkan) zamiri bo'lib, amr fe'lining to'ldiruvchisi (maf'ul bihi) sifatida mahallan mansubdir.",
           "uz": "uni"
@@ -272,7 +272,7 @@
       "parts": [
         {
           "w": "وَلَكِنَّ",
-          "r": "حَرف اسْتِdrَاك وَتَوكِيد",
+          "r": "حَرف استدراك وَتَوكِيد",
           "rc": "tb",
           "e": "وَلَكِنَّ — oldingi gap mazmuniga qarama-qarshi holat kirituvchi istidrok va ta'kid harfidir. O'z ismini nasb va xabarini raf' qiladi.",
           "uz": "lekin"
@@ -337,7 +337,7 @@
           "w": "بَرْدًا",
           "r": "خَبَر كُونِي",
           "rc": "tx",
-          "e": "بَرْdًا — kuni noqis fe'lining xabari bo'lib, nasb holatida kelgan ismdir. Sovuqlik ma'nosini bildiradi.",
+          "e": "بردًا — kuni noqis fe'lining xabari bo'lib, nasb holatida kelgan ismdir. Sovuqlik ma'nosini bildiradi.",
           "uz": "sovuq"
         },
         {
@@ -473,7 +473,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfi / نَفي",
+          "r": "حَرف نفي / نَفي",
           "rc": "tb",
           "e": "لَا — muzori' fe'lini inkor qiluvchi nafi (inkor) harfidir.",
           "uz": "yo'q"

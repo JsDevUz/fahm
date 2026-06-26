@@ -86,7 +86,7 @@
         },
         {
           "w": "لَكِنَّ",
-          "r": "حَرف اسْتِdrāk",
+          "r": "حَرف استدراك",
           "rc": "tb",
           "e": "لَكِنَّ — istidrok (cheklash/aniqlashtirish) harfi bo'lib, inna guruhiga kiradi, ismni nasb qiladi.",
           "uz": "lekin"
@@ -100,7 +100,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfi",
+          "r": "حَرف نفي",
           "rc": "tx",
           "e": "لَا — mudori' fe'lini inkor qiluvchi nafiy harfi.",
           "uz": "emas"
@@ -162,7 +162,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfi",
+          "r": "حَرف نفي",
           "rc": "tx",
           "e": "لَا — inkor harfi.",
           "uz": "emas"
@@ -396,7 +396,7 @@
       "parts": [
         {
           "w": "مَا",
-          "r": "حَرف نَfi",
+          "r": "حَرف نفي",
           "rc": "tb",
           "e": "مَا — o'tgan zamon fe'lini inkor qiluvchi nafiy harfi.",
           "uz": "emas"
@@ -679,7 +679,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfy",
+          "r": "حَرف نفي",
           "rc": "tb",
           "e": "لَا — inkor harfi.",
           "uz": "emas"
@@ -1549,7 +1549,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfy",
+          "r": "حَرف نفي",
           "rc": "tb",
           "e": "لَا — inkor harfi.",
           "uz": "qilmanglar"
@@ -1638,7 +1638,7 @@
         },
         {
           "w": "لَا",
-          "r": "حَرف نَfy",
+          "r": "حَرف نفي",
           "rc": "tx",
           "e": "لَا — inkor harfi.",
           "uz": "emas"

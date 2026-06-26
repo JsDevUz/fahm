@@ -494,7 +494,7 @@
         { "w": "إِلَيْ", "r": "حَرف جَر", "rc": "tf", "e": "إِلَيْ — jar harfi.", "uz": "-ga" },
         { "w": "هِ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هِ — muttasil zamir majrur.", "uz": "uning" },
         { "w": "بِنْيَامِينَ", "r": "مَفعُول بِهِ", "rc": "tf", "e": "بِنْيَامِينَ — saqa fe'lining maf'ul bihi, fatha bilan mansub.", "uz": "Binyaminni" },
-        { "w": "أَ", "r": "هَمزَة اِستِفهَام إِنكَارِيَّة", "rc": "tb", "e": "أَ — inkoriy so'roq hamzasi.", "uz": "vaholanki" },
+        { "w": "أَ", "r": "همزة اِستِفهَام إِنكَارِيَّة", "rc": "tb", "e": "أَ — inkoriy so'roq hamzasi.", "uz": "vaholanki" },
         { "w": "فَ", "r": "حَرف عَطف", "rc": "tb", "e": "فَ — atf harfi.", "uz": "so'ng" },
         { "w": "لَا", "r": "حَرف نَفي", "rc": "tb", "e": "لَا — inkor harfi.", "uz": "emas" },
         { "w": "يَحْبِسُ", "r": "فِعل مُضَارِع", "rc": "tb", "e": "يَحْبِسُ — ushlab qolish mudori' fe'li.", "uz": "ushlab qoladi" },
