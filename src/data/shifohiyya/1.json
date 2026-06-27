@@ -12,13 +12,15 @@
           "w": "هِيَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هِيَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u (ayol)"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -30,13 +32,15 @@
           "w": "هُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ular - ega"
+          "e": "هُنَّ — Ular - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ular (ayollar)"
         },
         {
           "w": "كَبِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kattalar - xabar"
+          "e": "كَبِيرَاتٌ — Kattalar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kattalar (ayollar)"
         }
       ]
     },
@@ -48,13 +52,15 @@
           "w": "أَنْتِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sen - ega"
+          "e": "أَنْتِ — Sen - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sen"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichkinasan - xabar"
+          "e": "صَغِيرَةٌ — Kichkinasan - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -66,13 +72,15 @@
           "w": "أَنْتُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlar - ega"
+          "e": "أَنْتُنَّ — Sizlar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlar (ayollar)"
         },
         {
           "w": "صَغِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichkinasizlar - xabar"
+          "e": "صَغِيرَاتٌ — Kichkinasizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkinalar (ayollar)"
         }
       ]
     },
@@ -84,13 +92,15 @@
           "w": "أَنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Men - ega"
+          "e": "أَنَا — Men - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "men"
         },
         {
           "w": "طَوِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunman - xabar"
+          "e": "طَوِيلَةٌ — Uzunman - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun (ayol)"
         }
       ]
     },
@@ -102,13 +112,15 @@
           "w": "نَحْنُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Biz - ega"
+          "e": "نَحْنُ — Biz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "biz"
         },
         {
           "w": "طَوِيلَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunmiz - xabar"
+          "e": "طَوِيلَاتٌ — Uzunmiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzunlar (ayollar)"
         }
       ]
     },
@@ -120,13 +132,15 @@
           "w": "هِيَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هِيَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u (ayol)"
         },
         {
           "w": "قَصِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqa - xabar"
+          "e": "قَصِيرَةٌ — Qisqa - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqa (ayol)"
         }
       ]
     },
@@ -138,13 +152,15 @@
           "w": "هُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ular - ega"
+          "e": "هُنَّ — Ular - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ular (ayollar)"
         },
         {
           "w": "قَصِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqalar - xabar"
+          "e": "قَصِيرَاتٌ — Qisqalar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqalar (ayollar)"
         }
       ]
     },
@@ -156,13 +172,15 @@
           "w": "أَنْتِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sen - ega"
+          "e": "أَنْتِ — Sen - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sen"
         },
         {
           "w": "طَوِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunsan - xabar"
+          "e": "طَوِيلَةٌ — Uzunsan - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun (ayol)"
         }
       ]
     },
@@ -174,13 +192,15 @@
           "w": "أَنْتُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlar - ega"
+          "e": "أَنْتُنَّ — Sizlar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlar (ayollar)"
         },
         {
           "w": "طَوِيلَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunsizlar - xabar"
+          "e": "طَوِيلَاتٌ — Uzunsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzunlar (ayollar)"
         }
       ]
     },
@@ -192,13 +212,15 @@
           "w": "أَنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Men - ega"
+          "e": "أَنَا — Men - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "men"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kattaman - xabar"
+          "e": "كَبِيرَةٌ — Kattaman - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -210,13 +232,15 @@
           "w": "نَحْنُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Biz - ega"
+          "e": "نَحْنُ — Biz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "biz"
         },
         {
           "w": "كَبِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kattalar - xabar"
+          "e": "كَبِيرَاتٌ — Kattalar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kattalar (ayollar)"
         }
       ]
     }

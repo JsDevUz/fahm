@@ -9,16 +9,25 @@
       "tr": "Bu kishi boydir",
       "parts": [
         {
-          "w": "هَذَا الرَّجُلُ",
+          "w": "هَذَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishi - ega"
+          "e": "هَذَا — Bu kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "غَنِيٌّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boydir - xabar"
+          "e": "غَنِيٌّ — Boydir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
         }
       ]
     },
@@ -27,16 +36,25 @@
       "tr": "Bu kishilar boylardir",
       "parts": [
         {
-          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "w": "هَؤُلَاءِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishilar - ega"
+          "e": "هَؤُلَاءِ — Bu kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bular"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرِّجَالُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishilar"
         },
         {
           "w": "أَغْنِيَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boylardir - xabar"
+          "e": "أَغْنِيَاءُ — Boylardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boylar"
         }
       ]
     },
@@ -45,16 +63,25 @@
       "tr": "Bu ayol boydir",
       "parts": [
         {
-          "w": "هَذِهِ الْمَرْأَةُ",
+          "w": "هَذِهِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu ayol - ega"
+          "e": "هَذِهِ — Bu ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَرْأَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَرْأَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
         },
         {
           "w": "غَنِيَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boydir - xabar"
+          "e": "غَنِيَّةٌ — Boydir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy (ayol)"
         }
       ]
     },
@@ -63,16 +90,25 @@
       "tr": "Bu ayollar boylardir",
       "parts": [
         {
-          "w": "هَؤُلَاءِ النِّسَاءُ",
+          "w": "هَؤُلَاءِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu ayollar - ega"
+          "e": "هَؤُلَاءِ — Bu ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bular"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "النِّسَاءُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "غَنِيَّاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boylardir - xabar"
+          "e": "غَنِيَّاتٌ — Boylardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boylar (ayollar)"
         }
       ]
     },
@@ -81,16 +117,25 @@
       "tr": "Anavi kishi kambag'aldir",
       "parts": [
         {
-          "w": "ذَاكَ الرَّجُلُ",
+          "w": "ذَاكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi kishi - ega"
+          "e": "ذَاكَ — Anavi kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "فَقِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'aldir - xabar"
+          "e": "فَقِيرٌ — Kambag'aldir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag‘al"
         }
       ]
     },
@@ -99,16 +144,25 @@
       "tr": "Anavi kishilar kambag'allardir",
       "parts": [
         {
-          "w": "أُولَئِكَ الرِّجَالُ",
+          "w": "أُولَئِكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi kishilar - ega"
+          "e": "أُولَئِكَ — Anavi kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavilar"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرِّجَالُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishilar"
         },
         {
           "w": "فُقَرَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'allardir - xabar"
+          "e": "فُقَرَاءُ — Kambag'allardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag‘allar"
         }
       ]
     },
@@ -117,16 +171,25 @@
       "tr": "Anavi ayol kambag'aldir",
       "parts": [
         {
-          "w": "تِلْكَ الْمَرْأَةُ",
+          "w": "تِلْكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi ayol - ega"
+          "e": "تِلْكَ — Anavi ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمَرْأَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَرْأَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
         },
         {
           "w": "فَقِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'aldir - xabar"
+          "e": "فَقِيرَةٌ — Kambag'aldir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag'al (ayol)"
         }
       ]
     },
@@ -135,16 +198,25 @@
       "tr": "Anavi ayollar kambag'allardir",
       "parts": [
         {
-          "w": "أُولَئِكَ النِّسَاءُ",
+          "w": "أُولَئِكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi ayollar - ega"
+          "e": "أُولَئِكَ — Anavi ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavilar"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "النِّسَاءُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "فَقِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'allardir - xabar"
+          "e": "فَقِيرَاتٌ — Kambag'allardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag'allar (ayollar)"
         }
       ]
     },
@@ -153,16 +225,25 @@
       "tr": "Bu kishi kattadir",
       "parts": [
         {
-          "w": "هَذَا الرَّجُلُ",
+          "w": "هَذَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishi - ega"
+          "e": "هَذَا — Bu kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "كَبِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kattadir - xabar"
+          "e": "كَبِيرٌ — Kattadir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta"
         }
       ]
     },
@@ -171,16 +252,25 @@
       "tr": "Bu kishilar kattalardir",
       "parts": [
         {
-          "w": "هَؤُلَاءِ الرِّجَالُ",
+          "w": "هَؤُلَاءِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishilar - ega"
+          "e": "هَؤُلَاءِ — Bu kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bular"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرِّجَالُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishilar"
         },
         {
           "w": "كِبَارٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kattalardir - xabar"
+          "e": "كِبَارٌ — Kattalardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kattalar"
         }
       ]
     },
@@ -189,16 +279,25 @@
       "tr": "Bu ayol kichikdir",
       "parts": [
         {
-          "w": "هَذِهِ الْمَرْأَةُ",
+          "w": "هَذِهِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu ayol - ega"
+          "e": "هَذِهِ — Bu ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَرْأَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَرْأَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichikdir - xabar"
+          "e": "صَغِيرَةٌ — Kichikdir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -207,16 +306,25 @@
       "tr": "Bu ayollar kichiklardir",
       "parts": [
         {
-          "w": "هَؤُلَاءِ النِّسَاءُ",
+          "w": "هَؤُلَاءِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu ayollar - ega"
+          "e": "هَؤُلَاءِ — Bu ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bular"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "النِّسَاءُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "صَغِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichiklardir - xabar"
+          "e": "صَغِيرَاتٌ — Kichiklardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkinalar (ayollar)"
         }
       ]
     },
@@ -225,16 +333,25 @@
       "tr": "Anavi kishi uzundir",
       "parts": [
         {
-          "w": "ذَاكَ الرَّجُلُ",
+          "w": "ذَاكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi kishi - ega"
+          "e": "ذَاكَ — Anavi kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "طَوِيلٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzundir - xabar"
+          "e": "طَوِيلٌ — Uzundir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun"
         }
       ]
     },
@@ -243,16 +360,25 @@
       "tr": "Anavi kishilar uzundirlar",
       "parts": [
         {
-          "w": "أُولَئِكَ الرِّجَالُ",
+          "w": "أُولَئِكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi kishilar - ega"
+          "e": "أُولَئِكَ — Anavi kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavilar"
+        },
+        {
+          "w": "الرِّجَالُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرِّجَالُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishilar"
         },
         {
           "w": "طِوَالٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzundirlar - xabar"
+          "e": "طِوَالٌ — Uzundirlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzunlar"
         }
       ]
     },
@@ -261,16 +387,25 @@
       "tr": "Anavi ayol qisqadir",
       "parts": [
         {
-          "w": "تِلْكَ الْمَرْأَةُ",
+          "w": "تِلْكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi ayol - ega"
+          "e": "تِلْكَ — Anavi ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمَرْأَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَرْأَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
         },
         {
           "w": "قَصِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqadir - xabar"
+          "e": "قَصِيرَةٌ — Qisqadir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqa (ayol)"
         }
       ]
     },
@@ -279,16 +414,25 @@
       "tr": "Anavi ayollar qisqalardir",
       "parts": [
         {
-          "w": "أُولَئِكَ النِّسَاءُ",
+          "w": "أُولَئِكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi ayollar - ega"
+          "e": "أُولَئِكَ — Anavi ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavilar"
+        },
+        {
+          "w": "النِّسَاءُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "النِّسَاءُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "قَصِيرَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqalardir - xabar"
+          "e": "قَصِيرَاتٌ — Qisqalardir - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqalar (ayollar)"
         }
       ]
     }

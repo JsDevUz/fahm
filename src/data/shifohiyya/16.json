@@ -9,16 +9,25 @@
       "tr": "Mahallamizning masjidi kattadir",
       "parts": [
         {
-          "w": "مَسْجِدُ مَحَلَّتِنَا",
+          "w": "مَسْجِدُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahallamizning masjidi - ega"
+          "e": "مَسْجِدُ — Mahallamizning masjidi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "masjid"
+        },
+        {
+          "w": "مَحَلَّتِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّتِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjidi"
         },
         {
           "w": "كَبِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta"
         }
       ]
     },
@@ -27,16 +36,32 @@
       "tr": "Shahrimiz mahallalarining masjidlari kattadir",
       "parts": [
         {
-          "w": "مَسَاجِدُ مَحَلَّاتِ بَلَدِنَا",
+          "w": "مَسَاجِدُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shahrimiz mahallalarining masjidlari - ega"
+          "e": "مَسَاجِدُ — Shahrimiz mahallalarining masjidlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Shahrimiz"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّاتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Shahrimizning"
+        },
+        {
+          "w": "بَلَدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَلَدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalari"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -45,16 +70,32 @@
       "tr": "Bu masjidning minorasi uzundur",
       "parts": [
         {
-          "w": "مَنَارَةُ هَذَا الْمَسْجِدِ",
+          "w": "مَنَارَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu masjidning minorasi - ega"
+          "e": "مَنَارَةُ — Bu masjidning minorasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
         },
         {
           "w": "طَوِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzun - xabar"
+          "e": "طَوِيلَةٌ — Uzun - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun (ayol)"
         }
       ]
     },
@@ -63,16 +104,32 @@
       "tr": "Qishloqlar masjidlarining minoralari qisqadir",
       "parts": [
         {
-          "w": "مَنَاوِرُ مَسَاجِدِ الْقُرَى",
+          "w": "مَنَاوِرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishloqlar masjidlarining minoralari - ega"
+          "e": "مَنَاوِرُ — Qishloqlar masjidlarining minoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Qishloqlar"
+        },
+        {
+          "w": "مَسَاجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسَاجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjidlarining"
+        },
+        {
+          "w": "الْقُرَى",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْقُرَى oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloqlar"
         },
         {
           "w": "قَصِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqa - xabar"
+          "e": "قَصِيرَةٌ — Qisqa - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqa (ayol)"
         }
       ]
     },
@@ -81,16 +138,39 @@
       "tr": "Aksar shaharlar masjidlarining minoralari kattadir",
       "parts": [
         {
-          "w": "مَنَاوِرُ مَسَاجِدِ أَكْثَرِ الْبِلَادِ",
+          "w": "مَنَاوِرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aksar shaharlar masjidlarining minoralari - ega"
+          "e": "مَنَاوِرُ — Aksar shaharlar masjidlarining minoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Aksar"
+        },
+        {
+          "w": "مَسَاجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسَاجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
+        },
+        {
+          "w": "أَكْثَرِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَكْثَرِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjidlarining"
+        },
+        {
+          "w": "الْبِلَادِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبِلَادِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -99,16 +179,32 @@
       "tr": "Qishlog'ingiz masjidi minoralari kichikdir",
       "parts": [
         {
-          "w": "مَنَاوِرُ مَسْجِدِ قَرْيَتِكُمْ",
+          "w": "مَنَاوِرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishlog'ingiz masjidi minoralari - ega"
+          "e": "مَنَاوِرُ — Qishlog'ingiz masjidi minoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Qishlog'ingiz"
+        },
+        {
+          "w": "مَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
+        },
+        {
+          "w": "قَرْيَتِكُمْ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "قَرْيَتِكُمْ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "minoralari"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرَةٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -117,16 +213,32 @@
       "tr": "Bu masjidning mahallasi kichikdir",
       "parts": [
         {
-          "w": "مَحَلَّةُ هَذَا الْمَسْجِدِ",
+          "w": "مَحَلَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu masjidning mahallasi - ega"
+          "e": "مَحَلَّةُ — Bu masjidning mahallasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرَةٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -135,16 +247,32 @@
       "tr": "Anavi masjidning mahallasi kattadir",
       "parts": [
         {
-          "w": "مَحَلَّةُ ذَاكَ الْمَسْجِدِ",
+          "w": "مَحَلَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi masjidning mahallasi - ega"
+          "e": "مَحَلَّةُ — Anavi masjidning mahallasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Anavi"
+        },
+        {
+          "w": "ذَاكَ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "ذَاكَ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -153,16 +281,25 @@
       "tr": "Shahrimizning mahallalari kattadir",
       "parts": [
         {
-          "w": "مَحَلَّاتُ بَلَدِنَا",
+          "w": "مَحَلَّاتُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shahrimizning mahallalari - ega"
+          "e": "مَحَلَّاتُ — Shahrimizning mahallalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Shahrimizning"
+        },
+        {
+          "w": "بَلَدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَلَدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalari"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -171,16 +308,25 @@
       "tr": "Qishlog'ingizning mahallalari kichikdir",
       "parts": [
         {
-          "w": "مَحَلَّاتُ قَرْيَتِكُمْ",
+          "w": "مَحَلَّاتُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishlog'ingizning mahallalari - ega"
+          "e": "مَحَلَّاتُ — Qishlog'ingizning mahallalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Qishlog'ingizning"
+        },
+        {
+          "w": "قَرْيَتِكُمْ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "قَرْيَتِكُمْ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalari"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرَةٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -189,16 +335,25 @@
       "tr": "Masjidimizning minorasi yumaloqdir",
       "parts": [
         {
-          "w": "مَنَارَةُ مَسْجِدِنَا",
+          "w": "مَنَارَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Masjidimizning minorasi - ega"
+          "e": "مَنَارَةُ — Masjidimizning minorasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Masjidimizning"
+        },
+        {
+          "w": "مَسْجِدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسْجِدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "minorasi"
         },
         {
           "w": "مُدَوَّرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yumaloq - xabar"
+          "e": "مُدَوَّرَةٌ — Yumaloq - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yumaloq"
         }
       ]
     },
@@ -207,16 +362,32 @@
       "tr": "Ba'zi masjidlarning minoralari to'rtburchakdir",
       "parts": [
         {
-          "w": "مَنَاوِرُ بَعْضِ الْمَسَاجِدِ",
+          "w": "مَنَاوِرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ba'zi masjidlarning minoralari - ega"
+          "e": "مَنَاوِرُ — Ba'zi masjidlarning minoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Ba'zi"
+        },
+        {
+          "w": "بَعْضِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَعْضِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjidlarning"
+        },
+        {
+          "w": "الْمَسَاجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسَاجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "minoralari"
         },
         {
           "w": "مُرَبَّعَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "To'rtburchak - xabar"
+          "e": "مُرَبَّعَةٌ — To'rtburchak - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "to'rtburchak"
         }
       ]
     },
@@ -225,16 +396,25 @@
       "tr": "Mahallamizning uylari ko'pdir",
       "parts": [
         {
-          "w": "بُيُوتُ مَحَلَّتِنَا",
+          "w": "بُيُوتُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahallamizning uylari - ega"
+          "e": "بُيُوتُ — Mahallamizning uylari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uylar"
+        },
+        {
+          "w": "مَحَلَّتِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّتِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uylari"
         },
         {
           "w": "كَثِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Ko'p - xabar"
+          "e": "كَثِيرَةٌ — Ko'p - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ko'p"
         }
       ]
     },
@@ -243,16 +423,25 @@
       "tr": "Sizlarning mahallangiz uylari ozdir",
       "parts": [
         {
-          "w": "بُيُوتُ مَحَلَّتِكُمْ",
+          "w": "بُيُوتُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning mahallangiz uylari - ega"
+          "e": "بُيُوتُ — Sizlarning mahallangiz uylari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uylar"
+        },
+        {
+          "w": "مَحَلَّتِكُمْ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّتِكُمْ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallangiz"
         },
         {
           "w": "قَلِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Oz - xabar"
+          "e": "قَلِيلَةٌ — Oz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kam"
         }
       ]
     },
@@ -261,16 +450,39 @@
       "tr": "Bu qishloq mahallalarining idoralari tordir",
       "parts": [
         {
-          "w": "مَكَاتِبُ مَحَلَّاتِ هَذِهِ الْقَرْيَةِ",
+          "w": "مَكَاتِبُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu qishloq mahallalarining idoralari - ega"
+          "e": "مَكَاتِبُ — Bu qishloq mahallalarining idoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّاتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
+        },
+        {
+          "w": "هَذِهِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذِهِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْقَرْيَةِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
         },
         {
           "w": "ضَيِّقَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Tor - xabar"
+          "e": "ضَيِّقَةٌ — Tor - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "tor"
         }
       ]
     },
@@ -279,22 +491,46 @@
       "tr": "Aksar shaharlar mahallalarining idoralari keng va kattadir",
       "parts": [
         {
-          "w": "مَكَاتِبُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ",
+          "w": "مَكَاتِبُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aksar shaharlar mahallalarining idoralari - ega"
+          "e": "مَكَاتِبُ — Aksar shaharlar mahallalarining idoralari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Aksar"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّاتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
+        },
+        {
+          "w": "أَكْثَرِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَكْثَرِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalarining"
+        },
+        {
+          "w": "الْبِلَادِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبِلَادِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
         },
         {
           "w": "وَاسِعَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Keng - xabar"
+          "e": "وَاسِعَةٌ — Keng - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "keng"
         },
         {
           "w": "وَكَبِيرَةٌ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va katta - xabar"
+          "e": "وَكَبِيرَةٌ — Va katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "va katta"
         }
       ]
     },
@@ -306,13 +542,15 @@
           "w": "زُقَاقُنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ko'chamiz - ega"
+          "e": "زُقَاقُنَا — Ko'chamiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ko'chamiz"
         },
         {
           "w": "طَوِيلٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzun - xabar"
+          "e": "طَوِيلٌ — Uzun - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun"
         }
       ]
     },
@@ -321,16 +559,25 @@
       "tr": "Mahallangiz ko'chalari qisqadir",
       "parts": [
         {
-          "w": "أَزِقَّةُ مَحَلَّتِكُمْ",
+          "w": "أَزِقَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahallangiz ko'chalari - ega"
+          "e": "أَزِقَّةُ — Mahallangiz ko'chalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mahallangiz"
+        },
+        {
+          "w": "مَحَلَّتِكُمْ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّتِكُمْ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ko'chalari"
         },
         {
           "w": "قَصِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Qisqa - xabar"
+          "e": "قَصِيرَةٌ — Qisqa - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qisqa (ayol)"
         }
       ]
     },
@@ -339,22 +586,46 @@
       "tr": "Aksar shaharlar mahallalarining ko'chalari uzun va kengdir",
       "parts": [
         {
-          "w": "أَزِقَّةُ مَحَلَّاتِ أَكْثَرِ الْبِلَادِ",
+          "w": "أَزِقَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aksar shaharlar mahallalarining ko'chalari - ega"
+          "e": "أَزِقَّةُ — Aksar shaharlar mahallalarining ko'chalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Aksar"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّاتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
+        },
+        {
+          "w": "أَكْثَرِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَكْثَرِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalarining"
+        },
+        {
+          "w": "الْبِلَادِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبِلَادِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
         },
         {
           "w": "طَوِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzun - xabar"
+          "e": "طَوِيلَةٌ — Uzun - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun (ayol)"
         },
         {
           "w": "وَوَاسِعَةٌ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va keng - xabar"
+          "e": "وَوَاسِعَةٌ — Va keng - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "va keng"
         }
       ]
     },
@@ -363,16 +634,32 @@
       "tr": "Bu shaharning ko'chalari uzundur",
       "parts": [
         {
-          "w": "أَزِقَّةُ هَذَا الْبَلَدِ",
+          "w": "أَزِقَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu shaharning ko'chalari - ega"
+          "e": "أَزِقَّةُ — Bu shaharning ko'chalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْبَلَدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبَلَدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shahar"
         },
         {
           "w": "طَوِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzun - xabar"
+          "e": "طَوِيلَةٌ — Uzun - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzun (ayol)"
         }
       ]
     },
@@ -381,16 +668,25 @@
       "tr": "Shahrimizning bozori kattadir",
       "parts": [
         {
-          "w": "سُوقُ بَلَدِنَا",
+          "w": "سُوقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shahrimizning bozori - ega"
+          "e": "سُوقُ — Shahrimizning bozori - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bozor"
+        },
+        {
+          "w": "بَلَدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَلَدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bozori"
         },
         {
           "w": "كَبِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta"
         }
       ]
     },
@@ -399,16 +695,25 @@
       "tr": "Qishlog'ingizning bozori kichikdir",
       "parts": [
         {
-          "w": "سُوقُ قَرْيَتِكُمْ",
+          "w": "سُوقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishlog'ingizning bozori - ega"
+          "e": "سُوقُ — Qishlog'ingizning bozori - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bozor"
+        },
+        {
+          "w": "قَرْيَتِكُمْ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "قَرْيَتِكُمْ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bozori"
         },
         {
           "w": "صَغِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichik"
         }
       ]
     },
@@ -417,16 +722,25 @@
       "tr": "Shaharlarning bozorlari kattadir",
       "parts": [
         {
-          "w": "أَسْوَاقُ الْبِلَادِ",
+          "w": "أَسْوَاقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shaharlarning bozorlari - ega"
+          "e": "أَسْوَاقُ — Shaharlarning bozorlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Shaharlarning"
+        },
+        {
+          "w": "الْبِلَادِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبِلَادِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -435,16 +749,25 @@
       "tr": "Qishloqlarning bozorlari kichikdir",
       "parts": [
         {
-          "w": "أَسْوَاقُ الْقُرَى",
+          "w": "أَسْوَاقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishloqlarning bozorlari - ega"
+          "e": "أَسْوَاقُ — Qishloqlarning bozorlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Qishloqlarning"
+        },
+        {
+          "w": "الْقُرَى",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْقُرَى oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloqlar"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرَةٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -456,13 +779,15 @@
           "w": "دُكَّانِي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Do'konim - ega"
+          "e": "دُكَّانِي — Do'konim - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening do'konim"
         },
         {
           "w": "مُرَبَّعٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "To'rtburchak - xabar"
+          "e": "مُرَبَّعٌ — To'rtburchak - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "to'rtburchak"
         }
       ]
     },
@@ -471,16 +796,32 @@
       "tr": "Bu bozorning do'konlari kattadir",
       "parts": [
         {
-          "w": "دَكَاكِينُ هَذَا السُّوقِ",
+          "w": "دَكَاكِينُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu bozorning do'konlari - ega"
+          "e": "دَكَاكِينُ — Bu bozorning do'konlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "السُّوقِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "السُّوقِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bozor"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -489,16 +830,32 @@
       "tr": "Bu uyning old sahnasi tordir",
       "parts": [
         {
-          "w": "عَرْصَةُ هَذَا الْبَيْتِ",
+          "w": "عَرْصَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu uyning old sahnasi - ega"
+          "e": "عَرْصَةُ — Bu uyning old sahnasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْبَيْتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبَيْتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uy"
         },
         {
           "w": "ضَيِّقَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Tor - xabar"
+          "e": "ضَيِّقَةٌ — Tor - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "tor"
         }
       ]
     },
@@ -507,16 +864,39 @@
       "tr": "Bu boy uyining old sahnasi kengdir",
       "parts": [
         {
-          "w": "عَرْصَةُ بَيْتِ هَذَا الْغَنِيِّ",
+          "w": "عَرْصَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu boy uyining old sahnasi - ega"
+          "e": "عَرْصَةُ — Bu boy uyining old sahnasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَيْتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uy"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْغَنِيِّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْغَنِيِّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boy"
         },
         {
           "w": "وَاسِعَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Keng - xabar"
+          "e": "وَاسِعَةٌ — Keng - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "keng"
         }
       ]
     },
@@ -525,16 +905,32 @@
       "tr": "Aksar uylarning hovlilari to'rtburchakdir",
       "parts": [
         {
-          "w": "عِرَاصُ أَكْثَرِ الْبُيُوتِ",
+          "w": "عِرَاصُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aksar uylarning hovlilari - ega"
+          "e": "عِرَاصُ — Aksar uylarning hovlilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Aksar"
+        },
+        {
+          "w": "أَكْثَرِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَكْثَرِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uylarning"
+        },
+        {
+          "w": "الْبُيُوتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبُيُوتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uylar"
         },
         {
           "w": "مُرَبَّعَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "To'rtburchak - xabar"
+          "e": "مُرَبَّعَةٌ — To'rtburchak - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "to'rtburchak"
         }
       ]
     },
@@ -543,16 +939,32 @@
       "tr": "Bu masjidning sahnasi uchburchakdir",
       "parts": [
         {
-          "w": "عَرْصَةُ هَذَا الْمَسْجِدِ",
+          "w": "عَرْصَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu masjidning sahnasi - ega"
+          "e": "عَرْصَةُ — Bu masjidning sahnasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
         },
         {
           "w": "مُثَلَّثَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uchburchak - xabar"
+          "e": "مُثَلَّثَةٌ — Uchburchak - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uchburchak"
         }
       ]
     },
@@ -561,16 +973,25 @@
       "tr": "Uylarimning hovlilari uzunchoqdir",
       "parts": [
         {
-          "w": "عِرَاصُ بُيُوتِي",
+          "w": "عِرَاصُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Uylarimning hovlilari - ega"
+          "e": "عِرَاصُ — Uylarimning hovlilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Uylarimning"
+        },
+        {
+          "w": "بُيُوتِي",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بُيُوتِي oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "hovlilari"
         },
         {
           "w": "مُسْتَطِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunchoq - xabar"
+          "e": "مُسْتَطِيلَةٌ — Uzunchoq - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzunchoq"
         }
       ]
     },
@@ -579,16 +1000,32 @@
       "tr": "Ali uyining suffasi to'rtburchakdir",
       "parts": [
         {
-          "w": "صُفَّةُ بَيْتِ عَلِيٍّ",
+          "w": "صُفَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ali uyining suffasi - ega"
+          "e": "صُفَّةُ — Ali uyining suffasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Ali"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَيْتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uy"
+        },
+        {
+          "w": "عَلِيٍّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَلِيٍّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Ali"
         },
         {
           "w": "مُرَبَّعَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "To'rtburchak - xabar"
+          "e": "مُرَبَّعَةٌ — To'rtburchak - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "to'rtburchak"
         }
       ]
     },
@@ -597,16 +1034,32 @@
       "tr": "Mahmud uyining suffasi yumaloqdir",
       "parts": [
         {
-          "w": "صُفَّةُ بَيْتِ مَحْمُودٍ",
+          "w": "صُفَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahmud uyining suffasi - ega"
+          "e": "صُفَّةُ — Mahmud uyining suffasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mahmud"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَيْتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uy"
+        },
+        {
+          "w": "مَحْمُودٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحْمُودٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Mahmud"
         },
         {
           "w": "مُدَوَّرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yumaloq - xabar"
+          "e": "مُدَوَّرَةٌ — Yumaloq - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yumaloq"
         }
       ]
     },
@@ -615,16 +1068,32 @@
       "tr": "Anavi uylarning suffalari uzunchoqdir",
       "parts": [
         {
-          "w": "صُفَفُ تِلْكَ الْبُيُوتِ",
+          "w": "صُفَفُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi uylarning suffalari - ega"
+          "e": "صُفَفُ — Anavi uylarning suffalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Anavi"
+        },
+        {
+          "w": "تِلْكَ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "تِلْكَ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْبُيُوتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبُيُوتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uylar"
         },
         {
           "w": "مُسْتَطِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzunchoq - xabar"
+          "e": "مُسْتَطِيلَةٌ — Uzunchoq - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzunchoq"
         }
       ]
     },
@@ -633,16 +1102,39 @@
       "tr": "Bu kishi uyining bog'i kichikdir",
       "parts": [
         {
-          "w": "حَدِيقَةُ بَيْتِ هَذَا الرَّجُلِ",
+          "w": "حَدِيقَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishi uyining bog'i - ega"
+          "e": "حَدِيقَةُ — Bu kishi uyining bog'i - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "بَيْتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "uy"
+        },
+        {
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرَّجُلِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "صَغِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kichik - xabar"
+          "e": "صَغِيرَةٌ — Kichik - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kichkina (ayol)"
         }
       ]
     },
@@ -651,16 +1143,25 @@
       "tr": "Boylarning bog'lari kattadir",
       "parts": [
         {
-          "w": "حَدَائِقُ الْأَغْنِيَاءِ",
+          "w": "حَدَائِقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Boylarning bog'lari - ega"
+          "e": "حَدَائِقُ — Boylarning bog'lari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Boylarning"
+        },
+        {
+          "w": "الْأَغْنِيَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْأَغْنِيَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boylar"
         },
         {
           "w": "كَبِيرَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "كَبِيرَةٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta (ayol)"
         }
       ]
     },
@@ -669,22 +1170,46 @@
       "tr": "Bu masjidning imomi olim va solih kishidir",
       "parts": [
         {
-          "w": "إِمَامُ هَذَا الْمَسْجِدِ",
+          "w": "إِمَامُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu masjidning imomi - ega"
+          "e": "إِمَامُ — Bu masjidning imomi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "imom"
         },
         {
-          "w": "رَجُلٌ عَالِمٌ",
+          "w": "هَذَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
+        },
+        {
+          "w": "رَجُلٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Olim kishi - xabar"
+          "e": "رَجُلٌ — Olim kishi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kishi"
+        },
+        {
+          "w": "عَالِمٌ",
+          "r": "نعت مرفوع",
+          "rc": "tx",
+          "e": "عَالِمٌ xabar tarkibidagi sifatlovchi bo'lib, oldingi ismning ma'nosini aniqlaydi.",
+          "uz": "olim"
         },
         {
           "w": "وَصَالِحٌ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va solih - xabar"
+          "e": "وَصَالِحٌ — Va solih - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "va solih"
         }
       ]
     },
@@ -693,22 +1218,39 @@
       "tr": "Shaharlar mahallalarining imomlari olimlar va boylardir",
       "parts": [
         {
-          "w": "أَئِمَّةُ مَحَلَّاتِ الْبِلَادِ",
+          "w": "أَئِمَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shaharlar mahallalarining imomlari - ega"
+          "e": "أَئِمَّةُ — Shaharlar mahallalarining imomlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "imomlar"
+        },
+        {
+          "w": "مَحَلَّاتِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّاتِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallalarining"
+        },
+        {
+          "w": "الْبِلَادِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبِلَادِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "shaharlar"
         },
         {
           "w": "عُلَمَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Olimlar - xabar"
+          "e": "عُلَمَاءُ — Olimlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "olimlar"
         },
         {
           "w": "وَأَغْنِيَاءُ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va boylar - xabar"
+          "e": "وَأَغْنِيَاءُ — Va boylar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "va boylar"
         }
       ]
     },
@@ -717,16 +1259,39 @@
       "tr": "Anavi masjidning muazzini katta qariyadir",
       "parts": [
         {
-          "w": "مُؤَذِّنُ ذَاكَ الْمَسْجِدِ",
+          "w": "مُؤَذِّنُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi masjidning muazzini - ega"
+          "e": "مُؤَذِّنُ — Anavi masjidning muazzini - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "muazzin"
         },
         {
-          "w": "شَيْخٌ كَبِيرٌ",
+          "w": "ذَاكَ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "ذَاكَ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمَسْجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسْجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjid"
+        },
+        {
+          "w": "شَيْخٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta qariya - xabar"
+          "e": "شَيْخٌ — Katta qariya - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qariya"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "نعت مرفوع",
+          "rc": "tx",
+          "e": "كَبِيرٌ xabar tarkibidagi sifatlovchi bo'lib, oldingi ismning ma'nosini aniqlaydi.",
+          "uz": "katta"
         }
       ]
     },
@@ -735,22 +1300,32 @@
       "tr": "Masjidlarimiz muazzinlari juda semizdirlar",
       "parts": [
         {
-          "w": "مُؤَذِّنُو مَسَاجِدِنَا",
+          "w": "مُؤَذِّنُو",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Masjidlarimiz muazzinlari - ega"
+          "e": "مُؤَذِّنُو — Masjidlarimiz muazzinlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Masjidlarimiz"
+        },
+        {
+          "w": "مَسَاجِدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسَاجِدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "muazzinlari"
         },
         {
           "w": "سِمَانٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Semiz - xabar"
+          "e": "سِمَانٌ — Semiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "semizlar"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -759,16 +1334,53 @@
       "tr": "Bu qishloq mahallasi idorasining o'qituvchisi bo'ydoq yigitdir",
       "parts": [
         {
-          "w": "مُعَلِّمُ مَكْتَبِ مَحَلَّةِ هَذِهِ الْقَرْيَةِ",
+          "w": "مُعَلِّمُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu qishloq mahallasi idorasining o'qituvchisi - ega"
+          "e": "مُعَلِّمُ — Bu qishloq mahallasi idorasining o'qituvchisi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "o‘qituvchi"
         },
         {
-          "w": "شَابٌّ عَزَبٌ",
+          "w": "مَكْتَبِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَكْتَبِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
+        },
+        {
+          "w": "مَحَلَّةِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحَلَّةِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "mahallasi"
+        },
+        {
+          "w": "هَذِهِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَذِهِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْقَرْيَةِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
+        },
+        {
+          "w": "شَابٌّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Bo'ydoq yigit - xabar"
+          "e": "شَابٌّ — Bo'ydoq yigit - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yigit"
+        },
+        {
+          "w": "عَزَبٌ",
+          "r": "نعت مرفوع",
+          "rc": "tx",
+          "e": "عَزَبٌ xabar tarkibidagi sifatlovchi bo'lib, oldingi ismning ma'nosini aniqlaydi.",
+          "uz": "yigit"
         }
       ]
     },
@@ -777,16 +1389,46 @@
       "tr": "Anavi qishloq idorasining o'qituvchisi oilali kishidir",
       "parts": [
         {
-          "w": "مُعَلِّمُ مَكْتَبِ تِلْكَ الْقَرْيَةِ",
+          "w": "مُعَلِّمُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi qishloq idorasining o'qituvchisi - ega"
+          "e": "مُعَلِّمُ — Anavi qishloq idorasining o'qituvchisi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "o‘qituvchi"
         },
         {
-          "w": "رَجُلٌ مُتَأَهِّلٌ",
+          "w": "مَكْتَبِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَكْتَبِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
+        },
+        {
+          "w": "تِلْكَ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "تِلْكَ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْقَرْيَةِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْقَرْيَةِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qishloq"
+        },
+        {
+          "w": "رَجُلٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Oilali kishi - xabar"
+          "e": "رَجُلٌ — Oilali kishi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kishi"
+        },
+        {
+          "w": "مُتَأَهِّلٌ",
+          "r": "نعت مرفوع",
+          "rc": "tx",
+          "e": "مُتَأَهِّلٌ xabar tarkibidagi sifatlovchi bo'lib, oldingi ismning ma'nosini aniqlaydi.",
+          "uz": "kishi"
         }
       ]
     },
@@ -795,16 +1437,32 @@
       "tr": "Masjidimiz farroshi kambag'al qariyadir",
       "parts": [
         {
-          "w": "فَرَّاشُ مَسْجِدِنَا",
+          "w": "فَرَّاشُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Masjidimiz farroshi - ega"
+          "e": "فَرَّاشُ — Masjidimiz farroshi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "farrosh"
         },
         {
-          "w": "شَيْخٌ فَقِيرٌ",
+          "w": "مَسْجِدِنَا",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَسْجِدِنَا oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "farroshi"
+        },
+        {
+          "w": "شَيْخٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'al qariya - xabar"
+          "e": "شَيْخٌ — Kambag'al qariya - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qariya"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "نعت مرفوع",
+          "rc": "tx",
+          "e": "فَقِيرٌ xabar tarkibidagi sifatlovchi bo'lib, oldingi ismning ma'nosini aniqlaydi.",
+          "uz": "kambag‘al"
         }
       ]
     },
@@ -813,16 +1471,32 @@
       "tr": "Aksar masjidlarning farroshlari nodonlardir",
       "parts": [
         {
-          "w": "فَرَّاشُو أَكْثَرِ الْمَسَاجِدِ",
+          "w": "فَرَّاشُو",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aksar masjidlarning farroshlari - ega"
+          "e": "فَرَّاشُو — Aksar masjidlarning farroshlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Aksar"
+        },
+        {
+          "w": "أَكْثَرِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَكْثَرِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "masjidlarning"
+        },
+        {
+          "w": "الْمَسَاجِدِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَسَاجِدِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "farroshlari"
         },
         {
           "w": "جُهَلَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Nodon - xabar"
+          "e": "جُهَلَاءُ — Nodon - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "johillar"
         }
       ]
     },
@@ -834,43 +1508,50 @@
           "w": "مَحَلَّتُنَا",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "Mahallamiz - ega"
+          "e": "مَحَلَّتُنَا — Mahallamiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mahallamiz"
         },
         {
           "w": "لَيْسَتْ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Emas - fe'l"
+          "e": "لَيْسَتْ — Emas - fe'l; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emas"
         },
         {
           "w": "بِبَعِيدَةٍ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Uzoq emas - xabar"
+          "e": "بِبَعِيدَةٍ — Uzoq emas - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzoq emas"
         },
         {
           "w": "بَلْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Balki"
+          "e": "بَلْ — Balki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "balki"
         },
         {
           "w": "هِيَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هِيَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u (ayol)"
         },
         {
           "w": "قَرِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaqin - xabar"
+          "e": "قَرِيبَةٌ — Yaqin - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaqin"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -882,31 +1563,36 @@
           "w": "قَرْيَتُكُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Qishlog'ingiz - ega"
+          "e": "قَرْيَتُكُمْ — Qishlog'ingiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "qishlog'ingiz"
         },
         {
           "w": "إِمَّا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo"
+          "e": "إِمَّا — Yo; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emasmi"
         },
         {
           "w": "قَرِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaqin - xabar"
+          "e": "قَرِيبَةٌ — Yaqin - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaqin"
         },
         {
           "w": "أَوْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Yoki"
+          "e": "أَوْ — Yoki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yoki"
         },
         {
           "w": "بَعِيدَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Uzoq - xabar"
+          "e": "بَعِيدَةٌ — Uzoq - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uzoq"
         }
       ]
     },
@@ -918,49 +1604,57 @@
           "w": "دُكَّانِي",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "Mening do'konim - ega"
+          "e": "دُكَّانِي — Mening do'konim - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening do'konim"
         },
         {
           "w": "لَيْسَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Emas - fe'l"
+          "e": "لَيْسَ — Emas - fe'l; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emas"
         },
         {
           "w": "بِكَبِيرٍ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Katta emas - xabar"
+          "e": "بِكَبِيرٍ — Katta emas - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta emas"
         },
         {
           "w": "وَأَمَّا",
           "r": "harf",
           "rc": "tb",
-          "e": "Ammo"
+          "e": "وَأَمَّا — Ammo; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ammo"
         },
         {
           "w": "دُكَّانُكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sening do'koning - ega"
+          "e": "دُكَّانُكَ — Sening do'koning - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening do'koning"
         },
         {
           "w": "فَكَبِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Katta - xabar"
+          "e": "فَكَبِيرٌ — Katta - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "katta"
         },
         {
           "w": "وَوَاسِعٌ",
           "r": "ma'tuf",
           "rc": "tb",
-          "e": "Va keng - xabar"
+          "e": "وَوَاسِعٌ — Va keng - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "va keng"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -972,43 +1666,50 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "عَلِيٌّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ali - ega"
+          "e": "عَلِيٌّ — Ali - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Ali"
         },
         {
           "w": "غَنِيٌّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boy - xabar"
+          "e": "غَنِيٌّ — Boy - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
         },
         {
           "w": "نَعَمْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Ha - tasdiq"
+          "e": "نَعَمْ — Ha - tasdiq; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ha"
         },
         {
           "w": "هُوَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هُوَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u"
         },
         {
           "w": "غَنِيٌّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Boy - xabar"
+          "e": "غَنِيٌّ — Boy - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -1020,55 +1721,64 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "زَيْدٌ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Zayd - ega"
+          "e": "زَيْدٌ — Zayd - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Zayd"
         },
         {
           "w": "مَرِيضٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kasal - xabar"
+          "e": "مَرِيضٌ — Kasal - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kasal"
         },
         {
           "w": "لَا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo'q - inkor"
+          "e": "لَا — Yo'q - inkor; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yo'q"
         },
         {
           "w": "لَيْسَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Emas - fe'l"
+          "e": "لَيْسَ — Emas - fe'l; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emas"
         },
         {
           "w": "هُوَ",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هُوَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u"
         },
         {
           "w": "بِمَرِيضٍ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Kasal emas - xabar"
+          "e": "بِمَرِيضٍ — Kasal emas - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bemor emas"
         },
         {
           "w": "بَلْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Balki"
+          "e": "بَلْ — Balki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "balki"
         },
         {
           "w": "صَحِيحٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sog'lom - xabar"
+          "e": "صَحِيحٌ — Sog'lom - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sog'lom"
         }
       ]
     },
@@ -1080,49 +1790,57 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "هُوَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هُوَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u"
         },
         {
           "w": "فَقِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'al - xabar"
+          "e": "فَقِيرٌ — Kambag'al - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag‘al"
         },
         {
           "w": "أَوْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Yoki"
+          "e": "أَوْ — Yoki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yoki"
         },
         {
           "w": "لَا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo'q"
+          "e": "لَا — Yo'q; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yo'q"
         },
         {
           "w": "نَعَمْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Ha - tasdiq"
+          "e": "نَعَمْ — Ha - tasdiq; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ha"
         },
         {
           "w": "فَقِيرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Kambag'al - xabar"
+          "e": "فَقِيرٌ — Kambag'al - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kambag‘al"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -1134,49 +1852,57 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "أَنْتَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sen - ega"
+          "e": "أَنْتَ — Sen - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sen"
         },
         {
           "w": "مَحْزُونٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xafa - xabar"
+          "e": "مَحْزُونٌ — Xafa - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xafa"
         },
         {
           "w": "لَا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo'q - inkor"
+          "e": "لَا — Yo'q - inkor; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yo'q"
         },
         {
           "w": "لَسْتُ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Emas - fe'l"
+          "e": "لَسْتُ — Emas - fe'l; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emasman"
         },
         {
           "w": "أَنَا",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "Men - ega"
+          "e": "أَنَا — Men - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "men"
         },
         {
           "w": "بِمَحْزُونٍ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Xafa emas - xabar"
+          "e": "بِمَحْزُونٍ — Xafa emas - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xafa emas"
         },
         {
           "w": "أَصْلًا",
           "r": "hol",
           "rc": "th",
-          "e": "Aslo - hol"
+          "e": "أَصْلًا — Aslo - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "aslo"
         }
       ]
     },
@@ -1188,55 +1914,64 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "أَبُوكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Otang - ega"
+          "e": "أَبُوكَ — Otang - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening otang"
         },
         {
           "w": "عَالِمٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Olim - xabar"
+          "e": "عَالِمٌ — Olim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "olim"
         },
         {
           "w": "أَوْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Yoki"
+          "e": "أَوْ — Yoki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yoki"
         },
         {
           "w": "لَا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo'q"
+          "e": "لَا — Yo'q; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yo'q"
         },
         {
           "w": "نَعَمْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Ha - tasdiq"
+          "e": "نَعَمْ — Ha - tasdiq; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ha"
         },
         {
           "w": "أَبِي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Otam - ega"
+          "e": "أَبِي — Otam - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "otajon"
         },
         {
           "w": "عَالِمٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Olim - xabar"
+          "e": "عَالِمٌ — Olim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "olim"
         },
         {
           "w": "جِدًّا",
           "r": "hol",
           "rc": "th",
-          "e": "Juda - hol"
+          "e": "جِدًّا — Juda - hol; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "juda"
         }
       ]
     },
@@ -1248,67 +1983,78 @@
           "w": "هَلْ",
           "r": "harf istifhom",
           "rc": "tb",
-          "e": "Mi - so'roq harfi"
+          "e": "هَلْ — Mi - so'roq harfi; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mi"
         },
         {
           "w": "أَخُوكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Akang - ega"
+          "e": "أَخُوكَ — Akang - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening ukang"
         },
         {
           "w": "طَبِيبٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Tabib - xabar"
+          "e": "طَبِيبٌ — Tabib - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "tabib"
         },
         {
           "w": "لَا",
           "r": "harf",
           "rc": "tb",
-          "e": "Yo'q - inkor"
+          "e": "لَا — Yo'q - inkor; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yo'q"
         },
         {
           "w": "لَيْسَ",
           "r": "fe'l noqis",
           "rc": "tf",
-          "e": "Emas - fe'l"
+          "e": "لَيْسَ — Emas - fe'l; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "emas"
         },
         {
           "w": "أَخِي",
           "r": "ism laysa",
           "rc": "tm",
-          "e": "Akam - ega"
+          "e": "أَخِي — Akam - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening akam"
         },
         {
           "w": "بِطَبِيبٍ",
           "r": "xabar laysa",
           "rc": "tx",
-          "e": "Tabib emas - xabar"
+          "e": "بِطَبِيبٍ — Tabib emas - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "tabib emas"
         },
         {
           "w": "بَلْ",
           "r": "harf",
           "rc": "tb",
-          "e": "Balki"
+          "e": "بَلْ — Balki; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "balki"
         },
         {
           "w": "هُوَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هُوَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u"
         },
         {
           "w": "تَاجِرٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Savdogar - xabar"
+          "e": "تَاجِرٌ — Savdogar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "tojir"
         },
         {
           "w": "غَنِيٌّ",
           "r": "sifat",
           "rc": "ts",
-          "e": "Boy - sifat"
+          "e": "غَنِيٌّ — Boy - sifat; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
         }
       ]
     }

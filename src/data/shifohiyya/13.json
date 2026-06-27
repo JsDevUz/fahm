@@ -12,13 +12,15 @@
           "w": "هُوَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "U - ega"
+          "e": "هُوَ — U - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "u"
         },
         {
           "w": "طَيِّبٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshi - xabar"
+          "e": "طَيِّبٌ — Yaxshi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshi"
         }
       ]
     },
@@ -30,13 +32,15 @@
           "w": "هُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ular - ega"
+          "e": "هُمْ — Ular - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ular"
         },
         {
           "w": "طَيِّبُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshilar - xabar"
+          "e": "طَيِّبُونَ — Yaxshilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshilar"
         }
       ]
     },
@@ -48,13 +52,15 @@
           "w": "عَدُوِّي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening dushmanim - ega"
+          "e": "عَدُوِّي — Mening dushmanim - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "dushmanimni"
         },
         {
           "w": "خَبِيثٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomon - xabar"
+          "e": "خَبِيثٌ — Yomon - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomon"
         }
       ]
     },
@@ -66,13 +72,15 @@
           "w": "أَعْدَاؤُنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bizning dushmanlarimiz - ega"
+          "e": "أَعْدَاؤُنَا — Bizning dushmanlarimiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bizning dushmanlarimiz"
         },
         {
           "w": "خُبَثَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomonlar - xabar"
+          "e": "خُبَثَاءُ — Yomonlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomonlar"
         }
       ]
     },
@@ -84,13 +92,15 @@
           "w": "صَدِيقُكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sening do'sting - ega"
+          "e": "صَدِيقُكَ — Sening do'sting - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening do'sting"
         },
         {
           "w": "سَعِيدٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtli - xabar"
+          "e": "سَعِيدٌ — Baxtli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtli"
         }
       ]
     },
@@ -102,13 +112,15 @@
           "w": "أَصْدِقَاؤُكُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning do'stlaringiz - ega"
+          "e": "أَصْدِقَاؤُكُمْ — Sizlarning do'stlaringiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning do'stlaringiz"
         },
         {
           "w": "سُعَدَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtlilar - xabar"
+          "e": "سُعَدَاءُ — Baxtlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtlilar"
         }
       ]
     },
@@ -120,13 +132,15 @@
           "w": "عَدُوَّتُكِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sening (ayol) dushmaning - ega"
+          "e": "عَدُوَّتُكِ — Sening (ayol) dushmaning - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening (ayol) dushmaning"
         },
         {
           "w": "تَعِسَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsiz - xabar"
+          "e": "تَعِسَةٌ — Baxtsiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsiz"
         }
       ]
     },
@@ -138,13 +152,15 @@
           "w": "عَدُوَّاتُكُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning (ayollar) dushmanlaringiz - ega"
+          "e": "عَدُوَّاتُكُنَّ — Sizlarning (ayollar) dushmanlaringiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning (ayollar) dushmanlaringiz"
         },
         {
           "w": "تَعِسَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسَاتٌ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     },
@@ -156,13 +172,15 @@
           "w": "أَنْتَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sen - ega"
+          "e": "أَنْتَ — Sen - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sen"
         },
         {
           "w": "عَزِيزٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Aziz - xabar"
+          "e": "عَزِيزٌ — Aziz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "aziz"
         }
       ]
     },
@@ -174,13 +192,15 @@
           "w": "أَنْتُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlar - ega"
+          "e": "أَنْتُمْ — Sizlar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlar"
         },
         {
           "w": "أَعِزَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Azizlar - xabar"
+          "e": "أَعِزَّةٌ — Azizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "azizlar"
         }
       ]
     },
@@ -192,13 +212,15 @@
           "w": "أَنْتِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sen (ayol) - ega"
+          "e": "أَنْتِ — Sen (ayol) - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sen"
         },
         {
           "w": "ذَلِيلَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xorlangan - xabar"
+          "e": "ذَلِيلَةٌ — Xorlangan - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xorlangan"
         }
       ]
     },
@@ -210,13 +232,15 @@
           "w": "أَنْتُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlar (ayollar) - ega"
+          "e": "أَنْتُنَّ — Sizlar (ayollar) - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlar (ayollar)"
         },
         {
           "w": "ذَلِيلَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xorlanganlar - xabar"
+          "e": "ذَلِيلَاتٌ — Xorlanganlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xorlanganlar"
         }
       ]
     },
@@ -225,16 +249,25 @@
       "tr": "Bu kishi iffatlidir",
       "parts": [
         {
-          "w": "هَذَا الرَّجُلُ",
+          "w": "هَذَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu kishi - ega"
+          "e": "هَذَا — Bu kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الرَّجُلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الرَّجُلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
         },
         {
           "w": "عَفِيفٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatli - xabar"
+          "e": "عَفِيفٌ — Iffatli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatli"
         }
       ]
     },
@@ -243,16 +276,25 @@
       "tr": "Bu ayol iffatlidir",
       "parts": [
         {
-          "w": "هَذِهِ الْمَرْأَةُ",
+          "w": "هَذِهِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu ayol - ega"
+          "e": "هَذِهِ — Bu ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمَرْأَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمَرْأَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
         },
         {
           "w": "عَفِيفَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatli - xabar"
+          "e": "عَفِيفَةٌ — Iffatli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatli"
         }
       ]
     },
@@ -261,16 +303,25 @@
       "tr": "Anavi go'dak pok ko'ngillidir",
       "parts": [
         {
-          "w": "ذَاكَ الصَّبِيُّ",
+          "w": "ذَاكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi go'dak - ega"
+          "e": "ذَاكَ — Anavi go'dak - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الصَّبِيُّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الصَّبِيُّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bola"
         },
         {
           "w": "نَجِيبٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngilli - xabar"
+          "e": "نَجِيبٌ — Pok ko'ngilli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngilli"
         }
       ]
     },
@@ -279,16 +330,25 @@
       "tr": "Anavi go'dak qiz pok ko'ngillidir",
       "parts": [
         {
-          "w": "تِلْكَ الصَّبِيَّةُ",
+          "w": "تِلْكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi go'dak qiz - ega"
+          "e": "تِلْكَ — Anavi go'dak qiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الصَّبِيَّةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الصَّبِيَّةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "qiz bola"
         },
         {
           "w": "نَجِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngilli - xabar"
+          "e": "نَجِيبَةٌ — Pok ko'ngilli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngilli"
         }
       ]
     },
@@ -300,13 +360,15 @@
           "w": "أَنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Men - ega"
+          "e": "أَنَا — Men - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "men"
         },
         {
           "w": "عَفِيفٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatli - xabar"
+          "e": "عَفِيفٌ — Iffatli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatli"
         }
       ]
     },
@@ -318,13 +380,15 @@
           "w": "نَحْنُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Biz - ega"
+          "e": "نَحْنُ — Biz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "biz"
         },
         {
           "w": "أَعِفَّاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatlilar - xabar"
+          "e": "أَعِفَّاءُ — Iffatlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatlilar"
         }
       ]
     },
@@ -336,13 +400,15 @@
           "w": "أَنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Men (ayol) - ega"
+          "e": "أَنَا — Men (ayol) - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "men"
         },
         {
           "w": "نَجِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngilli - xabar"
+          "e": "نَجِيبَةٌ — Pok ko'ngilli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngilli"
         }
       ]
     },
@@ -354,13 +420,15 @@
           "w": "نَحْنُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Biz (ayollar) - ega"
+          "e": "نَحْنُ — Biz (ayollar) - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "biz"
         },
         {
           "w": "نَجِيبَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngillilar - xabar"
+          "e": "نَجِيبَاتٌ — Pok ko'ngillilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngillilar"
         }
       ]
     },
@@ -372,13 +440,15 @@
           "w": "عَلِيٌّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ali - ega"
+          "e": "عَلِيٌّ — Ali - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Ali"
         },
         {
           "w": "رَحِيمٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Rahm dil - xabar"
+          "e": "رَحِيمٌ — Rahm dil - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "rahm dil"
         }
       ]
     },
@@ -390,13 +460,15 @@
           "w": "مَحْمُودٌ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahmud - ega"
+          "e": "مَحْمُودٌ — Mahmud - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mahmud"
         },
         {
           "w": "حَلِيمٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Muloyim - xabar"
+          "e": "حَلِيمٌ — Muloyim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "muloyim"
         }
       ]
     },
@@ -408,13 +480,15 @@
           "w": "زَيْدٌ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Zayd - ega"
+          "e": "زَيْدٌ — Zayd - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Zayd"
         },
         {
           "w": "رَفِيقِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening hamrohim - xabar"
+          "e": "رَفِيقِي — Mening hamrohim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening hamrohim"
         }
       ]
     },
@@ -426,13 +500,15 @@
           "w": "بَكْرٌ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bakr - ega"
+          "e": "بَكْرٌ — Bakr - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bakr"
         },
         {
           "w": "شَرِيكِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening sherigim - xabar"
+          "e": "شَرِيكِي — Mening sherigim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening sherigim"
         }
       ]
     },
@@ -444,13 +520,15 @@
           "w": "رُفَقَائِي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening hamrohlarim - ega"
+          "e": "رُفَقَائِي — Mening hamrohlarim - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening hamrohlarim"
         },
         {
           "w": "أَعِفَّاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatlilar - xabar"
+          "e": "أَعِفَّاءُ — Iffatlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatlilar"
         }
       ]
     },
@@ -462,13 +540,15 @@
           "w": "شُرَكَائِي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening sheriklarim - ega"
+          "e": "شُرَكَائِي — Mening sheriklarim - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening sheriklarim"
         },
         {
           "w": "نُجَبَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngillilar - xabar"
+          "e": "نُجَبَاءُ — Pok ko'ngillilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngillilar"
         }
       ]
     },
@@ -480,13 +560,15 @@
           "w": "عَمُّهُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Uning amakisi - ega"
+          "e": "عَمُّهُ — Uning amakisi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uning amakisi"
         },
         {
           "w": "رَفِيقُكَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening hamrohing - xabar"
+          "e": "رَفِيقُكَ — Sening hamrohing - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening hamrohing"
         }
       ]
     },
@@ -498,13 +580,15 @@
           "w": "أَعْمَامُهُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ularning amakilari - ega"
+          "e": "أَعْمَامُهُمْ — Ularning amakilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ularning amakilari"
         },
         {
           "w": "رُفَقَاؤُكُمْ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sizlarning hamrohlaringiz - xabar"
+          "e": "رُفَقَاؤُكُمْ — Sizlarning hamrohlaringiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning hamrohlaringiz"
         }
       ]
     },
@@ -516,13 +600,15 @@
           "w": "عَمَّتُهَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Uning (ayol) ammasi - ega"
+          "e": "عَمَّتُهَا — Uning (ayol) ammasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "uning (ayol) ammasi"
         },
         {
           "w": "رَفِيقَتُكِ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening hamrohing - xabar"
+          "e": "رَفِيقَتُكِ — Sening hamrohing - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening hamrohing"
         }
       ]
     },
@@ -534,13 +620,15 @@
           "w": "عَمَّاتُهُنَّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ularning (ayollar) ammalari - ega"
+          "e": "عَمَّاتُهُنَّ — Ularning (ayollar) ammalari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ularning (ayollar) ammalari"
         },
         {
           "w": "رَفِيقَاتُكُنَّ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sizlarning hamrohlaringiz - xabar"
+          "e": "رَفِيقَاتُكُنَّ — Sizlarning hamrohlaringiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning hamrohlaringiz"
         }
       ]
     },
@@ -552,13 +640,15 @@
           "w": "خَالُكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sening tog'ang - ega"
+          "e": "خَالُكَ — Sening tog'ang - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening tog'ang"
         },
         {
           "w": "شَرِيكِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening sherigim - xabar"
+          "e": "شَرِيكِي — Mening sherigim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening sherigim"
         }
       ]
     },
@@ -570,13 +660,15 @@
           "w": "أَخْوَالُكُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning tog'alaringiz - ega"
+          "e": "أَخْوَالُكُمْ — Sizlarning tog'alaringiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning tog'alaringiz"
         },
         {
           "w": "شُرَكَاؤُنَا",
           "r": "xabar",
           "rc": "tx",
-          "e": "Bizning sheriklarimiz - xabar"
+          "e": "شُرَكَاؤُنَا — Bizning sheriklarimiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bizning sheriklarimiz"
         }
       ]
     },
@@ -588,13 +680,15 @@
           "w": "خَالَتِي",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening xolam - ega"
+          "e": "خَالَتِي — Mening xolam - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening xolam"
         },
         {
           "w": "عَمَّتُكَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening ammang - xabar"
+          "e": "عَمَّتُكَ — Sening ammang - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening ammang"
         }
       ]
     },
@@ -606,13 +700,15 @@
           "w": "خَالَاتُنَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bizning xolalarimiz - ega"
+          "e": "خَالَاتُنَا — Bizning xolalarimiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bizning xolalarimiz"
         },
         {
           "w": "عَمَّاتُكُمْ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sizlarning ammalaringiz - xabar"
+          "e": "عَمَّاتُكُمْ — Sizlarning ammalaringiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning ammalaringiz"
         }
       ]
     },
@@ -621,16 +717,25 @@
       "tr": "Mening otamning amakisi sening bobongdir",
       "parts": [
         {
-          "w": "عَمُّ أَبِي",
+          "w": "عَمُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening otamning amakisi - ega"
+          "e": "عَمُّ — Mening otamning amakisi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mening"
+        },
+        {
+          "w": "أَبِي",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَبِي oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "otamning"
         },
         {
           "w": "جَدُّكَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening bobong - xabar"
+          "e": "جَدُّكَ — Sening bobong - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening bobong"
         }
       ]
     },
@@ -639,16 +744,25 @@
       "tr": "Mening otamning ammasi sening buvingdir",
       "parts": [
         {
-          "w": "عَمَّةُ أَبِي",
+          "w": "عَمَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening otamning ammasi - ega"
+          "e": "عَمَّةُ — Mening otamning ammasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mening"
+        },
+        {
+          "w": "أَبِي",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "أَبِي oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "otamning"
         },
         {
           "w": "جَدَّتُكِ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening buving - xabar"
+          "e": "جَدَّتُكِ — Sening buving - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening buving"
         }
       ]
     },
@@ -657,16 +771,25 @@
       "tr": "Mening do'stimning xolasi sening keliningdir",
       "parts": [
         {
-          "w": "خَالَةُ صَدِيقِي",
+          "w": "خَالَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mening do'stimning xolasi - ega"
+          "e": "خَالَةُ — Mening do'stimning xolasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mening"
+        },
+        {
+          "w": "صَدِيقِي",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "صَدِيقِي oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "do'stimning"
         },
         {
           "w": "كَنَّتُكَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Sening kelining - xabar"
+          "e": "كَنَّتُكَ — Sening kelining - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sening kelining"
         }
       ]
     },
@@ -675,16 +798,25 @@
       "tr": "Bu o'qituvchi mening amakimdir",
       "parts": [
         {
-          "w": "هَذَا الْمُعَلِّمُ",
+          "w": "هَذَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu o'qituvchi - ega"
+          "e": "هَذَا — Bu o'qituvchi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمُعَلِّمُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "o‘qituvchi"
         },
         {
           "w": "عَمِّي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening amakim - xabar"
+          "e": "عَمِّي — Mening amakim - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening amakim"
         }
       ]
     },
@@ -693,16 +825,25 @@
       "tr": "Bu o'qituvchi ayol mening ammamdir",
       "parts": [
         {
-          "w": "هَذِهِ الْمُعَلِّمَةُ",
+          "w": "هَذِهِ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu o'qituvchi ayol - ega"
+          "e": "هَذِهِ — Bu o'qituvchi ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْمُعَلِّمَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمُعَلِّمَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "o‘qituvchi ayol"
         },
         {
           "w": "عَمَّتِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening ammam - xabar"
+          "e": "عَمَّتِي — Mening ammam - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening ammam"
         }
       ]
     },
@@ -711,16 +852,25 @@
       "tr": "Anavi o'qituvchi mening tog'amdir",
       "parts": [
         {
-          "w": "ذَاكَ الْمُعَلِّمُ",
+          "w": "ذَاكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi o'qituvchi - ega"
+          "e": "ذَاكَ — Anavi o'qituvchi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمُعَلِّمُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمُعَلِّمُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "o‘qituvchi"
         },
         {
           "w": "خَالِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening tog'am - xabar"
+          "e": "خَالِي — Mening tog'am - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening tog'am"
         }
       ]
     },
@@ -729,16 +879,25 @@
       "tr": "Anavi o'qituvchi ayol mening xolamdir",
       "parts": [
         {
-          "w": "تِلْكَ الْمُعَلِّمَةُ",
+          "w": "تِلْكَ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Anavi o'qituvchi ayol - ega"
+          "e": "تِلْكَ — Anavi o'qituvchi ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "anavi"
+        },
+        {
+          "w": "الْمُعَلِّمَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْمُعَلِّمَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "o‘qituvchi ayol"
         },
         {
           "w": "خَالَتِي",
           "r": "xabar",
           "rc": "tx",
-          "e": "Mening xolam - xabar"
+          "e": "خَالَتِي — Mening xolam - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mening xolam"
         }
       ]
     },
@@ -750,13 +909,15 @@
           "w": "الْعُلَمَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Olimlar - ega"
+          "e": "الْعُلَمَاءُ — Olimlar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "olimlar"
         },
         {
           "w": "أَعِزَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Azizlar - xabar"
+          "e": "أَعِزَّةٌ — Azizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "azizlar"
         }
       ]
     },
@@ -768,13 +929,15 @@
           "w": "الْجُهَلَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Nodonlar - ega"
+          "e": "الْجُهَلَاءُ — Nodonlar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "johillar"
         },
         {
           "w": "أَذِلَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xor - xabar"
+          "e": "أَذِلَّةٌ — Xor - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xorlanganlar"
         }
       ]
     },
@@ -786,13 +949,15 @@
           "w": "الْعُقَلَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Aqllilar - ega"
+          "e": "الْعُقَلَاءُ — Aqllilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "aqllilar"
         },
         {
           "w": "سُعَدَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtlilar - xabar"
+          "e": "سُعَدَاءُ — Baxtlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtlilar"
         }
       ]
     },
@@ -804,13 +969,15 @@
           "w": "السُّفَهَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Telbalar - ega"
+          "e": "السُّفَهَاءُ — Telbalar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "telbalar"
         },
         {
           "w": "تَعِسُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسُونَ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     },
@@ -819,16 +986,25 @@
       "tr": "Alining hamrohi yaxshidir",
       "parts": [
         {
-          "w": "رَفِيقُ عَلِيٍّ",
+          "w": "رَفِيقُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Alining hamrohi - ega"
+          "e": "رَفِيقُ — Alining hamrohi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Alining"
+        },
+        {
+          "w": "عَلِيٍّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَلِيٍّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Ali"
         },
         {
           "w": "طَيِّبٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshi - xabar"
+          "e": "طَيِّبٌ — Yaxshi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshi"
         }
       ]
     },
@@ -837,16 +1013,25 @@
       "tr": "Alining hamrohlari yaxshilardir",
       "parts": [
         {
-          "w": "رُفَقَاءُ عَلِيٍّ",
+          "w": "رُفَقَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Alining hamrohlari - ega"
+          "e": "رُفَقَاءُ — Alining hamrohlari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Alining"
+        },
+        {
+          "w": "عَلِيٍّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَلِيٍّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Ali"
         },
         {
           "w": "طَيِّبُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshilar - xabar"
+          "e": "طَيِّبُونَ — Yaxshilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshilar"
         }
       ]
     },
@@ -855,16 +1040,25 @@
       "tr": "Mahmudning sherigi yomondir",
       "parts": [
         {
-          "w": "شَرِيكُ مَحْمُودٍ",
+          "w": "شَرِيكُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Mahmudning sherigi - ega"
+          "e": "شَرِيكُ — Mahmudning sherigi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Mahmudning"
+        },
+        {
+          "w": "مَحْمُودٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَحْمُودٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Mahmud"
         },
         {
           "w": "خَبِيثٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomon - xabar"
+          "e": "خَبِيثٌ — Yomon - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomon"
         }
       ]
     },
@@ -873,16 +1067,25 @@
       "tr": "Xolidning sheriklari yomonlardir",
       "parts": [
         {
-          "w": "شُرَكَاءُ خَالِدٍ",
+          "w": "شُرَكَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Xolidning sheriklari - ega"
+          "e": "شُرَكَاءُ — Xolidning sheriklari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Xolidning"
+        },
+        {
+          "w": "خَالِدٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "خَالِدٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Xolid"
         },
         {
           "w": "خُبَثَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomonlar - xabar"
+          "e": "خُبَثَاءُ — Yomonlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomonlar"
         }
       ]
     },
@@ -891,16 +1094,25 @@
       "tr": "Zokirning ammasi iffatlidir",
       "parts": [
         {
-          "w": "عَمَّةُ ذَاكِرٍ",
+          "w": "عَمَّةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Zokirning ammasi - ega"
+          "e": "عَمَّةُ — Zokirning ammasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Zokirning"
+        },
+        {
+          "w": "ذَاكِرٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "ذَاكِرٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "Zokir"
         },
         {
           "w": "عَفِيفَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Iffatli - xabar"
+          "e": "عَفِيفَةٌ — Iffatli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "iffatli"
         }
       ]
     },
@@ -909,16 +1121,25 @@
       "tr": "Shahidning xolasi pok ko'ngillidir",
       "parts": [
         {
-          "w": "خَالَةُ شَهِيدٍ",
+          "w": "خَالَةُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Shahidning xolasi - ega"
+          "e": "خَالَةُ — Shahidning xolasi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Shahidning"
+        },
+        {
+          "w": "شَهِيدٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "شَهِيدٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "xolasi"
         },
         {
           "w": "نَجِيبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Pok ko'ngilli - xabar"
+          "e": "نَجِيبَةٌ — Pok ko'ngilli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "pok ko'ngilli"
         }
       ]
     },
@@ -927,16 +1148,32 @@
       "tr": "Har bir aqlli kishi rahm dildir",
       "parts": [
         {
-          "w": "كُلُّ رَجُلٍ عَاقِلٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir aqlli kishi - ega"
+          "e": "كُلُّ — Har bir aqlli kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "رَجُلٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "رَجُلٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
+        },
+        {
+          "w": "عَاقِلٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَاقِلٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "aqlli"
         },
         {
           "w": "رَحِيمٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Rahm dil - xabar"
+          "e": "رَحِيمٌ — Rahm dil - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "rahm dil"
         }
       ]
     },
@@ -945,16 +1182,32 @@
       "tr": "Har bir aqlli ayol halimadir",
       "parts": [
         {
-          "w": "كُلُّ امْرَأَةٍ عَاقِلَةٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir aqlli ayol - ega"
+          "e": "كُلُّ — Har bir aqlli ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "امْرَأَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "امْرَأَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
+        },
+        {
+          "w": "عَاقِلَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَاقِلَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "aqlli"
         },
         {
           "w": "حَلِيمَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Halima - xabar"
+          "e": "حَلِيمَةٌ — Halima - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "halima"
         }
       ]
     },
@@ -963,16 +1216,25 @@
       "tr": "Boylarning aksari baxtlidirlar",
       "parts": [
         {
-          "w": "أَكْثَرُ الْأَغْنِيَاءِ",
+          "w": "أَكْثَرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Boylarning aksari - ega"
+          "e": "أَكْثَرُ — Boylarning aksari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Boylarning"
+        },
+        {
+          "w": "الْأَغْنِيَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْأَغْنِيَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boylar"
         },
         {
           "w": "سُعَدَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtlilar - xabar"
+          "e": "سُعَدَاءُ — Baxtlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtlilar"
         }
       ]
     },
@@ -981,16 +1243,25 @@
       "tr": "Boylarning ba'zilari baxtsizdirlar",
       "parts": [
         {
-          "w": "بَعْضُ الْأَغْنِيَاءِ",
+          "w": "بَعْضُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Boylarning ba'zilari - ega"
+          "e": "بَعْضُ — Boylarning ba'zilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Boylarning"
+        },
+        {
+          "w": "الْأَغْنِيَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْأَغْنِيَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boylar"
         },
         {
           "w": "تَعِسُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسُونَ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     },
@@ -999,16 +1270,25 @@
       "tr": "Kambag'allarning aksari baxtsizdirlar",
       "parts": [
         {
-          "w": "أَكْثَرُ الْفُقَرَاءِ",
+          "w": "أَكْثَرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Kambag'allarning aksari - ega"
+          "e": "أَكْثَرُ — Kambag'allarning aksari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Kambag'allarning"
+        },
+        {
+          "w": "الْفُقَرَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْفُقَرَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kambag‘allar"
         },
         {
           "w": "تَعِسُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسُونَ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     },
@@ -1017,16 +1297,25 @@
       "tr": "Kambag'allarning ba'zilari baxtlidirlar",
       "parts": [
         {
-          "w": "بَعْضُ الْفُقَرَاءِ",
+          "w": "بَعْضُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Kambag'allarning ba'zilari - ega"
+          "e": "بَعْضُ — Kambag'allarning ba'zilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Kambag'allarning"
+        },
+        {
+          "w": "الْفُقَرَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْفُقَرَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kambag‘allar"
         },
         {
           "w": "سُعَدَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtlilar - xabar"
+          "e": "سُعَدَاءُ — Baxtlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtlilar"
         }
       ]
     },
@@ -1035,16 +1324,25 @@
       "tr": "Har bir sog'lom baxtlidir",
       "parts": [
         {
-          "w": "كُلُّ صَحِيحٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir sog'lom - ega"
+          "e": "كُلُّ — Har bir sog'lom - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "صَحِيحٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "صَحِيحٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bir"
         },
         {
           "w": "سَعِيدٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtli - xabar"
+          "e": "سَعِيدٌ — Baxtli - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtli"
         }
       ]
     },
@@ -1053,16 +1351,25 @@
       "tr": "Har bir kasal baxtsizdir",
       "parts": [
         {
-          "w": "كُلُّ مَرِيضٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir kasal - ega"
+          "e": "كُلُّ — Har bir kasal - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "مَرِيضٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "مَرِيضٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kasal"
         },
         {
           "w": "تَعِسٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsiz - xabar"
+          "e": "تَعِسٌ — Baxtsiz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsiz"
         }
       ]
     },
@@ -1071,16 +1378,25 @@
       "tr": "Saxiy boy azizdir (qadrlidir)",
       "parts": [
         {
-          "w": "الْغَنِيُّ السَّخِيُّ",
+          "w": "الْغَنِيُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Saxiy boy - ega"
+          "e": "الْغَنِيُّ — Saxiy boy - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
+        },
+        {
+          "w": "السَّخِيُّ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "السَّخِيُّ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boy"
         },
         {
           "w": "عَزِيزٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Aziz - xabar"
+          "e": "عَزِيزٌ — Aziz - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "aziz"
         }
       ]
     },
@@ -1089,16 +1405,25 @@
       "tr": "Baxil boy xordir",
       "parts": [
         {
-          "w": "الْغَنِيُّ الْبَخِيلُ",
+          "w": "الْغَنِيُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Baxil boy - ega"
+          "e": "الْغَنِيُّ — Baxil boy - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "boy"
+        },
+        {
+          "w": "الْبَخِيلُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْبَخِيلُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "boy"
         },
         {
           "w": "ذَلِيلٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xor - xabar"
+          "e": "ذَلِيلٌ — Xor - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xor"
         }
       ]
     },
@@ -1110,13 +1435,15 @@
           "w": "مُعَلِّمُوهُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ularning o'qituvchilari - ega"
+          "e": "مُعَلِّمُوهُمْ — Ularning o'qituvchilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ularning o'qituvchilari"
         },
         {
           "w": "رُحَمَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Rahm dilllar - xabar"
+          "e": "رُحَمَاءُ — Rahm dilllar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "rahm dilllar"
         }
       ]
     },
@@ -1128,13 +1455,15 @@
           "w": "مُدَرِّسُوكُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning mudarrislaringiz - ega"
+          "e": "مُدَرِّسُوكُمْ — Sizlarning mudarrislaringiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "mudarrislaringiz"
         },
         {
           "w": "حُلَمَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Halimlar - xabar"
+          "e": "حُلَمَاءُ — Halimlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "halimlar"
         }
       ]
     },
@@ -1146,13 +1475,15 @@
           "w": "فَلَّاحُوكُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Sizlarning dehqonlaringiz - ega"
+          "e": "فَلَّاحُوكُمْ — Sizlarning dehqonlaringiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "sizlarning dehqonlaringiz"
         },
         {
           "w": "سُعَدَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtlilar - xabar"
+          "e": "سُعَدَاءُ — Baxtlilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtlilar"
         }
       ]
     },
@@ -1164,13 +1495,15 @@
           "w": "حَمَّالُونَا",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bizning hammollarimiz - ega"
+          "e": "حَمَّالُونَا — Bizning hammollarimiz - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "bizning hammollarimiz"
         },
         {
           "w": "تَعِسُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسُونَ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     },
@@ -1182,13 +1515,15 @@
           "w": "حَدَّادُوهُمْ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Ularning temirchilari - ega"
+          "e": "حَدَّادُوهُمْ — Ularning temirchilari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ularning temirchilari"
         },
         {
           "w": "أَذِلَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Xor - xabar"
+          "e": "أَذِلَّةٌ — Xor - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "xorlanganlar"
         }
       ]
     },
@@ -1197,16 +1532,32 @@
       "tr": "Bu savdogarlarning dallollari azizdirlar",
       "parts": [
         {
-          "w": "دَلَّالُو هَؤُلَاءِ التُّجَّارِ",
+          "w": "دَلَّالُو",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Bu savdogarlarning dallollari - ega"
+          "e": "دَلَّالُو — Bu savdogarlarning dallollari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Bu"
+        },
+        {
+          "w": "هَؤُلَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "هَؤُلَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "bular"
+        },
+        {
+          "w": "التُّجَّارِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "التُّجَّارِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "dallollari"
         },
         {
           "w": "أَعِزَّةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Azizlar - xabar"
+          "e": "أَعِزَّةٌ — Azizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "azizlar"
         }
       ]
     },
@@ -1215,16 +1566,32 @@
       "tr": "Har bir iffatli kishi yaxshidir",
       "parts": [
         {
-          "w": "كُلُّ رَجُلٍ عَفِيفٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir iffatli kishi - ega"
+          "e": "كُلُّ — Har bir iffatli kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "رَجُلٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "رَجُلٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
+        },
+        {
+          "w": "عَفِيفٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَفِيفٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "iffatli"
         },
         {
           "w": "طَيِّبٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshi - xabar"
+          "e": "طَيِّبٌ — Yaxshi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshi"
         }
       ]
     },
@@ -1233,16 +1600,32 @@
       "tr": "Har bir iffatli ayol yaxshidir",
       "parts": [
         {
-          "w": "كُلُّ امْرَأَةٍ عَفِيفَةٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir iffatli ayol - ega"
+          "e": "كُلُّ — Har bir iffatli ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "امْرَأَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "امْرَأَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
+        },
+        {
+          "w": "عَفِيفَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "عَفِيفَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "iffatli"
         },
         {
           "w": "طَيِّبَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshi - xabar"
+          "e": "طَيِّبَةٌ — Yaxshi - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshi"
         }
       ]
     },
@@ -1251,16 +1634,32 @@
       "tr": "Har bir fosiq kishi yomondir",
       "parts": [
         {
-          "w": "كُلُّ رَجُلٍ فَاسِقٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir fosiq kishi - ega"
+          "e": "كُلُّ — Har bir fosiq kishi - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "رَجُلٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "رَجُلٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishi"
+        },
+        {
+          "w": "فَاسِقٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "فَاسِقٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "fosiq"
         },
         {
           "w": "خَبِيثٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomon - xabar"
+          "e": "خَبِيثٌ — Yomon - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomon"
         }
       ]
     },
@@ -1269,16 +1668,32 @@
       "tr": "Har bir fosiqa ayol yomondir",
       "parts": [
         {
-          "w": "كُلُّ امْرَأَةٍ فَاسِقَةٍ",
+          "w": "كُلُّ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Har bir fosiqa ayol - ega"
+          "e": "كُلُّ — Har bir fosiqa ayol - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Har"
+        },
+        {
+          "w": "امْرَأَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "امْرَأَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayol"
+        },
+        {
+          "w": "فَاسِقَةٍ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "فَاسِقَةٍ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "fosiqa"
         },
         {
           "w": "خَبِيثَةٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomon - xabar"
+          "e": "خَبِيثَةٌ — Yomon - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomon"
         }
       ]
     },
@@ -1287,16 +1702,25 @@
       "tr": "Olim kishilar yaxshilardir",
       "parts": [
         {
-          "w": "الرِّجَالُ الْعُلَمَاءُ",
+          "w": "الرِّجَالُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Olim kishilar - ega"
+          "e": "الرِّجَالُ — Olim kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kishilar"
+        },
+        {
+          "w": "الْعُلَمَاءُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْعُلَمَاءُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "olimlar"
         },
         {
           "w": "طَيِّبُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshilar - xabar"
+          "e": "طَيِّبُونَ — Yaxshilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshilar"
         }
       ]
     },
@@ -1305,16 +1729,25 @@
       "tr": "Soliha ayollar yaxshilardir",
       "parts": [
         {
-          "w": "النِّسَاءُ الصَّالِحَاتُ",
+          "w": "النِّسَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Soliha ayollar - ega"
+          "e": "النِّسَاءُ — Soliha ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ayollar"
+        },
+        {
+          "w": "الصَّالِحَاتُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الصَّالِحَاتُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "طَيِّبَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yaxshilar - xabar"
+          "e": "طَيِّبَاتٌ — Yaxshilar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yaxshilar"
         }
       ]
     },
@@ -1323,16 +1756,25 @@
       "tr": "Fosiq kishilar yomonlardir",
       "parts": [
         {
-          "w": "الرِّجَالُ الْفَسَقَةُ",
+          "w": "الرِّجَالُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Fosiq kishilar - ega"
+          "e": "الرِّجَالُ — Fosiq kishilar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "kishilar"
+        },
+        {
+          "w": "الْفَسَقَةُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْفَسَقَةُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "kishilar"
         },
         {
           "w": "خُبَثَاءُ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomonlar - xabar"
+          "e": "خُبَثَاءُ — Yomonlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomonlar"
         }
       ]
     },
@@ -1341,16 +1783,25 @@
       "tr": "Fosiqa ayollar yomonlardir",
       "parts": [
         {
-          "w": "النِّسَاءُ الْفَاسِقَاتُ",
+          "w": "النِّسَاءُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Fosiqa ayollar - ega"
+          "e": "النِّسَاءُ — Fosiqa ayollar - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "ayollar"
+        },
+        {
+          "w": "الْفَاسِقَاتُ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْفَاسِقَاتُ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "ayollar"
         },
         {
           "w": "خَبِيثَاتٌ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Yomonlar - xabar"
+          "e": "خَبِيثَاتٌ — Yomonlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "yomonlar"
         }
       ]
     },
@@ -1359,16 +1810,25 @@
       "tr": "Nodonlar (johillar) ning aksari baxtsizdirlar",
       "parts": [
         {
-          "w": "أَكْثَرُ الْجُهَلَاءِ",
+          "w": "أَكْثَرُ",
           "r": "mubtado",
           "rc": "tm",
-          "e": "Nodonlarning aksari - ega"
+          "e": "أَكْثَرُ — Nodonlarning aksari - ega; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "Nodonlarning"
+        },
+        {
+          "w": "الْجُهَلَاءِ",
+          "r": "بدل أو عطف بيان",
+          "rc": "tm",
+          "e": "الْجُهَلَاءِ oldingi ko'rsatish ismini izohlaydi; butun ibora mubtado vazifasida kelgan.",
+          "uz": "johillar"
         },
         {
           "w": "تَعِسُونَ",
           "r": "xabar",
           "rc": "tx",
-          "e": "Baxtsizlar - xabar"
+          "e": "تَعِسُونَ — Baxtsizlar - xabar; bu token alohida mashq qilinishi uchun ajratildi.",
+          "uz": "baxtsizlar"
         }
       ]
     }
