@@ -1,0 +1,586 @@
+{
+  "id": "qisas-81",
+  "title": "٨٢ ـ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+  "tuz": "Men sizlardan haq so‘ramayman",
+  "sub": "Solih qavmiga xolis nasihat qilayotganini bayon qiladi",
+  "page": 105,
+  "sentences": [
+    {
+      "ar": "وَيَا إِخْوَانِي لِمَاذَا تَفِرُّونَ مِنِّي؟ مَاذَا تَخَافُونَ؟ أَنَا لَا أُنْقِصُ مِنْ مَالِكُمْ شَيْئاً.",
+      "tr": "Ey birodarlarim, nega mendan qochyapsizlar? Nimadan qo‘rqyapsizlar? Men molingizdan hech narsani kamaytirmayman.",
+      "parts": [
+        {
+          "w": "وَيَا",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَيَا hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va ey"
+        },
+        {
+          "w": "إِخْوَانِي",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِخْوَانِي jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "birodarlarim"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لِمَاذَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "nima uchun"
+        },
+        {
+          "w": "تَفِرُّونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "تَفِرُّونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "qochyapsizlar"
+        },
+        {
+          "w": "مِنِّي",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مِنِّي jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "mendan"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَاذَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "nima"
+        },
+        {
+          "w": "تَخَافُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "تَخَافُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "qo‘rqyapsizlar"
+        },
+        {
+          "w": "أَنَا",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "أَنَا olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "men"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "emas; -maydi"
+        },
+        {
+          "w": "أُنْقِصُ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أُنْقِصُ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "kamaytiraman"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "مَالِكُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَالِكُمْ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "molingiz"
+        },
+        {
+          "w": "شَيْئاً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "شَيْئاً mansub ism; ko‘pincha maf’ul, hol yoki to‘ldiruvchi vazifasida keladi.",
+          "uz": "biror narsa"
+        }
+      ]
+    },
+    {
+      "ar": "أَنَا أَنْصَحُ لَكُمْ وَأُبَلِّغُكُمْ رِسَالَاتِ رَبِّي.",
+      "tr": "Men sizlarga nasihat qilaman va Robbimning risolatlarini yetkazaman.",
+      "parts": [
+        {
+          "w": "أَنَا",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "أَنَا olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "men"
+        },
+        {
+          "w": "أَنْصَحُ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَنْصَحُ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "nasihat qilaman"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لَكُمْ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "sizlarga"
+        },
+        {
+          "w": "وَأُبَلِّغُكُمْ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَأُبَلِّغُكُمْ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va sizlarga yetkazaman"
+        },
+        {
+          "w": "رِسَالَاتِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "رِسَالَاتِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "risolatlar"
+        },
+        {
+          "w": "رَبِّي",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "رَبِّي jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Robbim"
+        }
+      ]
+    },
+    {
+      "ar": "﴿وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ﴾.",
+      "tr": "Men buning uchun sizlardan hech qanday haq so‘ramayman; mening ajrim faqat olamlar Robbi zimmasidadir.",
+      "parts": [
+        {
+          "w": "وَمَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَمَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va nima; emas"
+        },
+        {
+          "w": "أَسْأَلُكُمْ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَسْأَلُكُمْ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "sizlardan so‘rayman"
+        },
+        {
+          "w": "عَلَيْهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عَلَيْهِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "unga"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "أَجْرٍ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَجْرٍ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "haq"
+        },
+        {
+          "w": "إِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِنْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "agar"
+        },
+        {
+          "w": "أَجْرِيَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَجْرِيَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "ajrim"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَّا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "عَلَىٰ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عَلَىٰ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "ustida; zimmasida"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "رَبِّ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Robb"
+        },
+        {
+          "w": "الْعَالَمِينَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْعَالَمِينَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "olamlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَا إِخْوَانِي لِمَاذَا لَا تُطِيعُونَنِي وَأَنَا لَكُمْ نَاصِحٌ أَمِينٌ؟",
+      "tr": "Ey birodarlarim, men sizlarga ishonchli nasihatgo‘y bo‘lsam ham nega menga itoat qilmaysizlar?",
+      "parts": [
+        {
+          "w": "وَيَا",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَيَا hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va ey"
+        },
+        {
+          "w": "إِخْوَانِي",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِخْوَانِي jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "birodarlarim"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لِمَاذَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "nima uchun"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "emas; -maydi"
+        },
+        {
+          "w": "تُطِيعُونَنِي",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "تُطِيعُونَنِي hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "menga itoat qilasizlar"
+        },
+        {
+          "w": "وَأَنَا",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَأَنَا hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va men"
+        },
+        {
+          "w": "لَكُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لَكُمْ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "sizlarga"
+        },
+        {
+          "w": "نَاصِحٌ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "نَاصِحٌ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "nasihatgo‘y"
+        },
+        {
+          "w": "أَمِينٌ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَمِينٌ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "ishonchli"
+        }
+      ]
+    },
+    {
+      "ar": "وَلِمَاذَا تُطِيعُونَ الَّذِينَ يَظْلِمُونَ النَّاسَ وَيَأْكُلُونَ أَمْوَالَهُمْ؟",
+      "tr": "Nega odamlarni zulm qiladigan va ularning mollarini yeydiganlarga itoat qilasizlar?",
+      "parts": [
+        {
+          "w": "وَلِمَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَلِمَاذَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va nima uchun"
+        },
+        {
+          "w": "تُطِيعُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "تُطِيعُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "itoat qilasizlar"
+        },
+        {
+          "w": "الَّذِينَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الَّذِينَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "kimsalar"
+        },
+        {
+          "w": "يَظْلِمُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "يَظْلِمُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "zulm qiladilar"
+        },
+        {
+          "w": "النَّاسَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "النَّاسَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "odamlarni"
+        },
+        {
+          "w": "وَيَأْكُلُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَيَأْكُلُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va yeydilar"
+        },
+        {
+          "w": "أَمْوَالَهُمْ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَمْوَالَهُمْ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "mollari"
+        }
+      ]
+    },
+    {
+      "ar": "وَالَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ !",
+      "tr": "Yer yuzida buzg‘unchilik qilib, isloh qilmaydiganlarga itoat qilasizlar!",
+      "parts": [
+        {
+          "w": "وَالَّذِينَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَالَّذِينَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va kimsalar"
+        },
+        {
+          "w": "يُفْسِدُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "يُفْسِدُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "buzg‘unchilik qiladilar"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "فِي harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "ichida; -da"
+        },
+        {
+          "w": "الْأَرْضِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْأَرْضِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "yer"
+        },
+        {
+          "w": "وَلَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "va emas"
+        },
+        {
+          "w": "يُصْلِحُونَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "يُصْلِحُونَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "isloh qiladilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَعَجَزَ الْقَوْمُ وَلَمْ يَجِدُوا عَلَى ذَلِكَ جَوَاباً.",
+      "tr": "Qavm ojiz qoldi va bunga javob topa olmadi.",
+      "parts": [
+        {
+          "w": "وَعَجَزَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَعَجَزَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va ojiz qoldi"
+        },
+        {
+          "w": "الْقَوْمُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْقَوْمُ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "qavm"
+        },
+        {
+          "w": "وَلَمْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَمْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "va -madi"
+        },
+        {
+          "w": "يَجِدُوا",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "يَجِدُوا hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "topmadilar"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "عَلَى harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "ustida; -ga"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "ذَلِكَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "o‘sha"
+        },
+        {
+          "w": "جَوَاباً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "جَوَاباً mansub ism; ko‘pincha maf’ul, hol yoki to‘ldiruvchi vazifasida keladi.",
+          "uz": "javob"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالُوا: ﴿إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ * مَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِآيَةٍ إِن كُنتَ مِنَ الصَّادِقِينَ﴾.",
+      "tr": "Ular: “Sen sehrlanganlardansan; sen bizga o‘xshagan bir insonsan, rostgo‘ylardan bo‘lsang, oyat keltir”, dedilar.",
+      "parts": [
+        {
+          "w": "فَقَالُوا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَقَالُوا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "shunda dedilar"
+        },
+        {
+          "w": "إِنَّمَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِنَّمَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "أَنتَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "أَنتَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "sen"
+        },
+        {
+          "w": "مِنَ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنَ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الْمُسَحَّرِينَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْمُسَحَّرِينَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "sehrlanganlar"
+        },
+        {
+          "w": "مَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "nima; narsa"
+        },
+        {
+          "w": "أَنتَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "أَنتَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "sen"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَّا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "faqat"
+        },
+        {
+          "w": "بَشَرٌ",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "بَشَرٌ marfu’ ism; odatda fo‘il, mubtado yoki xabar vazifasida keladi.",
+          "uz": "inson"
+        },
+        {
+          "w": "مِّثْلُنَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مِّثْلُنَا jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "bizga o‘xshagan"
+        },
+        {
+          "w": "فَأْتِ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "فَأْتِ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "keltir"
+        },
+        {
+          "w": "بِآيَةٍ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "بِآيَةٍ majrur ism; oldidagi jar harfi yoki izofa sabab bog‘langan.",
+          "uz": "bilan oyat"
+        },
+        {
+          "w": "إِن",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِن jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "agar"
+        },
+        {
+          "w": "كُنتَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "كُنتَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "eding"
+        },
+        {
+          "w": "مِنَ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنَ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الصَّادِقِينَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الصَّادِقِينَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "rostgo‘ylar"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas",
+  "pageStart": 105,
+  "pageEnd": 105,
+  "pageLabel": "105-bet"
+}

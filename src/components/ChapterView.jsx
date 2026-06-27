@@ -8,6 +8,7 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
   const [modalSentence, setModalSentence] = useState(null);
   const [tooltipState, setTooltipState] = useState({ isVisible: false, x: 0, y: 0, arabic: '', uzbek: '' });
   const [showPractice, setShowPractice] = useState(false);
+  const pageText = chapter.pageLabel || `${chapter.page}-bet`;
 
   const norm = (w) => w.replace(/[،؟?!*.،:؛﴿﴾۝\-\u0651\u064B\u064C\u064D\u0652\u0650\u064E\u064F,'"`[\]«»()]/g, '').replace(/\s+/g, ' ').trim();
 
@@ -209,7 +210,7 @@ export default function ChapterView({ chapter, words, onBack, chapterIndex, tota
       </div>
 
       <div style={{ fontSize: '13px', color: 'var(--text-muted)', textAlign: 'center', marginBottom: '24px' }}>
-        Sahifa {chapter.page}
+        Sahifa {pageText}
       </div>
 
       {/* Bottom: prev / practice / next */}

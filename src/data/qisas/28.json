@@ -2,7 +2,7 @@
   "title": "٢٩ ـ تَأْوِيلُ الرُّؤْيَا",
   "tuz": "Tush ta'biri",
   "sub": "Yusuf ikki mahbusning tushini ta'bir qiladi",
-  "page": 40,
+  "page": 41,
   "sentences": [
     {
       "ar": "وَلَمَّا فَرَغَ يُوسُفُ مِنْ مَوْعِظَتِهِ أَخْبَرَهُمَا بِتَأْوِيلِ الرُّؤْيَا.",
@@ -516,5 +516,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 41,
+  "pageEnd": 42,
+  "pageLabel": "41-42-betlar"
 }

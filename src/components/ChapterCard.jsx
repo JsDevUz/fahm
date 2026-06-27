@@ -1,5 +1,7 @@
 export default function ChapterCard({ chapter, onClick }) {
   const num = chapter.title.split('ـ')[0].trim();
+  const pageText = chapter.pageLabel || `${chapter.page}-bet`;
+
   return (
     <div className="glass-card" onClick={onClick} style={{ padding: '24px', cursor: 'pointer' }}>
       <div className="arabic-text" style={{ fontSize: '40px', color: '#cbd5e1', marginBottom: '12px' }}>
@@ -17,7 +19,7 @@ export default function ChapterCard({ chapter, onClick }) {
         paddingTop: '16px', 
         borderTop: '1px solid var(--border-color)' 
       }}>
-        Sahifa {chapter.page} • {chapter.sentenceCount || 0} gap
+        Sahifa {pageText} • {chapter.sentenceCount || 0} gap
       </div>
     </div>
   );

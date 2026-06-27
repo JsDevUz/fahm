@@ -883,5 +883,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 25,
+  "pageEnd": 26,
+  "pageLabel": "25-26-betlar"
 }

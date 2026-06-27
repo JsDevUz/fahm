@@ -2,7 +2,7 @@
   "title": "١٤ ـ رُؤْيَا إِبْرَاهِيمَ",
   "tuz": "Ibrohimning tushi",
   "sub": "Ibrohim tushida Ismoilni qurbon qilish buyuriladi",
-  "page": 23,
+  "page": 22,
   "sentences": [
     {
       "ar": "وَعَادَ إِبْرَاهِيمُ إِلَى مَكَّةَ بَعْدَ مُدَّةٍ.",
@@ -1373,5 +1373,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 22,
+  "pageEnd": 24,
+  "pageLabel": "22-24-betlar"
 }

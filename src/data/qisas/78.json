@@ -2,7 +2,7 @@
   "id": "qisas-78",
   "title": "٧٩ ـ صَالِحٌ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ",
   "tuz": "Solih alayhissalom",
-  "sub": "Alloh Samudga o‘zlaridan Solihni rasul qilib yuboradi",
+  "sub": "Solihning kelajagidan kutilgan dunyoviy umid o‘rniga Alloh uni risolatga tanlaydi",
   "page": 99,
   "sentences": [
     {
@@ -41,7 +41,7 @@
           "w": "يُرْسِلَ",
           "r": "فعل مضارع منصوب",
           "rc": "فعل مضارع منصوب",
-          "e": "يُرْسِلَ مضارع fe‘l bo‘lib, oldidagi أَنْ sababli منصوب kelgan; “... qilish” ma’nosini hosil qiladi.",
+          "e": "يُرْسِلَ مضارع fe‘l bo‘lib, oldidagi أَنْ sababli منصوب kelgan; masdar ma’nosini ma’nosini hosil qiladi.",
           "uz": "yuborishni"
         },
         {
@@ -63,7 +63,7 @@
           "r": "أداة تشبيه",
           "rc": "أداة تشبيه",
           "e": "كَمَا jumlada أداة تشبيه vazifasida kelgan; o‘zidan oldingi va keyingi so‘zlar bilan ma’no hosil qiladi.",
-          "uz": "xuddi ... kabi"
+          "uz": "xuddi shunday"
         },
         {
           "w": "أَرْسَلَ",
@@ -1085,6 +1085,293 @@
           "uz": "juda"
         }
       ]
+    },
+    {
+      "ar": "وَلَكِنَّ اللَّهَ أَرَادَ غَيْرَ ذَلِكَ، إِنَّ اللَّهَ قَدْ جَعَلَ مَلَكَ الْعُقُولِ كَمَا أَنَّهُ مَلَكُ الأَجْسَامِ.",
+      "tr": "Lekin Alloh bundan boshqasini iroda qildi; Alloh jismlarning egasi bo‘lgani kabi, aqllarning ham egasidir.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَكِنَّ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "اللَّهَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Allohni"
+        },
+        {
+          "w": "أَرَادَ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "أَرَادَ o‘tgan zamon fe’li; voqea ilgari sodir bo‘lgan ish sifatida bayon qilingan.",
+          "uz": "iroda qildi"
+        },
+        {
+          "w": "غَيْرَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "غَيْرَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "boshqa"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "ذَلِكَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "o‘sha"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِنَّ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "اللَّهَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Allohni"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "قَدْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "haqiqatan"
+        },
+        {
+          "w": "جَعَلَ",
+          "r": "فعل ماض",
+          "rc": "فعل ماض",
+          "e": "جَعَلَ o‘tgan zamon fe’li; voqea ilgari sodir bo‘lgan ish sifatida bayon qilingan.",
+          "uz": "qildi"
+        },
+        {
+          "w": "مَلَكَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَلَكَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "egasi"
+        },
+        {
+          "w": "الْعُقُولِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْعُقُولِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "aqllar"
+        },
+        {
+          "w": "كَمَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "كَمَا harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "xuddi kabi"
+        },
+        {
+          "w": "أَنَّهُ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "أَنَّهُ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "u albatta"
+        },
+        {
+          "w": "مَلَكُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَلَكُ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "egasi"
+        },
+        {
+          "w": "الأَجْسَامِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الأَجْسَامِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "jismlar"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَرَادَ اللَّهُ أَنْ يَخْتَارَ صَالِحاً لِرِسَالَتِهِ لِيُخْرِجَ النَّاسَ مِنْ عِبَادَةِ الْعِبَادِ إِلَى عِبَادَةِ اللَّهِ تَعَالَى.",
+      "tr": "Alloh Solihni O‘z risolati uchun tanlab, odamlarni bandalarga ibodat qilishdan Alloh taologa ibodat qilishga chiqarishni iroda qildi.",
+      "parts": [
+        {
+          "w": "وَأَرَادَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "وَأَرَادَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "va iroda qildi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "اللَّهُ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-ishni; -ishi"
+        },
+        {
+          "w": "يَخْتَارَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "يَخْتَارَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "tanlashni"
+        },
+        {
+          "w": "صَالِحاً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "صَالِحاً mansub ism; ko‘pincha maf’ul, hol yoki to‘ldiruvchi vazifasida keladi.",
+          "uz": "Solihni"
+        },
+        {
+          "w": "لِرِسَالَتِهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لِرِسَالَتِهِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "risolati uchun"
+        },
+        {
+          "w": "لِيُخْرِجَ",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "لِيُخْرِجَ hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "chiqarish uchun"
+        },
+        {
+          "w": "النَّاسَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "النَّاسَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "odamlarni"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "عِبَادَةِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عِبَادَةِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "ibodat"
+        },
+        {
+          "w": "الْعِبَادِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْعِبَادِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "bandalar"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَى harf bo‘lib, keyingi so‘z yoki jumlaga grammatik bog‘lanish beradi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "عِبَادَةِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عِبَادَةِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "ibodat"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "اللَّهِ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "Allohning"
+        },
+        {
+          "w": "تَعَالَى",
+          "r": "فعل مضارع / تركيب",
+          "rc": "فعل مضارع / تركيب",
+          "e": "تَعَالَى hozirgi-kelasi zamon yoki unga bog‘langan tarkib; harakat davomiy, kelajak yoki talab ma’nosini beradi.",
+          "uz": "taolo"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَلْ فَوْقَ ذَلِكَ شَرَفٌ؟ وَهَلْ فَوْقَ ذَلِكَ كَرَامَةٌ؟",
+      "tr": "Bundan yuqori sharaf bormi? Bundan yuqori karomat bormi?",
+      "parts": [
+        {
+          "w": "وَهَلْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَهَلْ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va -mi"
+        },
+        {
+          "w": "فَوْقَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَوْقَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "yuqorida"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "ذَلِكَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "o‘sha"
+        },
+        {
+          "w": "شَرَفٌ",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "شَرَفٌ marfu’ ism; odatda fo‘il, mubtado yoki xabar vazifasida keladi.",
+          "uz": "sharaf"
+        },
+        {
+          "w": "وَهَلْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَهَلْ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "va -mi"
+        },
+        {
+          "w": "فَوْقَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَوْقَ jumlada mustaqil so‘z/tarkib bo‘lib, atrofidagi so‘zlar bilan ma’noni to‘ldiradi.",
+          "uz": "yuqorida"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "ضمير / اسم إشارة",
+          "rc": "ضمير / اسم إشارة",
+          "e": "ذَلِكَ olmosh yoki ishora so‘zi; gapda shaxs, narsa yoki oldin zikr qilingan ma’noga ishora qiladi.",
+          "uz": "o‘sha"
+        },
+        {
+          "w": "كَرَامَةٌ",
+          "r": "اسم مرفوع",
+          "rc": "اسم مرفوع",
+          "e": "كَرَامَةٌ marfu’ ism; odatda fo‘il, mubtado yoki xabar vazifasida keladi.",
+          "uz": "karomat"
+        }
+      ]
     }
-  ]
+  ],
+  "pageStart": 99,
+  "pageEnd": 100,
+  "pageLabel": "99-100-betlar"
 }

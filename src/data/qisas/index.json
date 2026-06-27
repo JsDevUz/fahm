@@ -5,7 +5,10 @@
     "tuz": "Butlar sotuvchisi",
     "sub": "Ibrohim (a.s.) qissasi",
     "page": 9,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 9,
+    "pageEnd": 9,
+    "pageLabel": "9-bet"
   },
   {
     "id": "qisas-1",
@@ -13,7 +16,10 @@
     "tuz": "Ozarning o'g'li",
     "sub": "Ibrohimning bolalik davri",
     "page": 10,
-    "sentenceCount": 11
+    "sentenceCount": 11,
+    "pageStart": 10,
+    "pageEnd": 10,
+    "pageLabel": "10-bet"
   },
   {
     "id": "qisas-2",
@@ -21,7 +27,10 @@
     "tuz": "Ibrohimning nasihati",
     "sub": "Otasiga nasihat qilishi",
     "page": 11,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 11,
+    "pageEnd": 12,
+    "pageLabel": "11-12-betlar"
   },
   {
     "id": "qisas-3",
@@ -29,7 +38,10 @@
     "tuz": "Bayram kuni",
     "sub": "Ibrohimning butlarni sindirishi",
     "page": 12,
-    "sentenceCount": 13
+    "sentenceCount": 13,
+    "pageStart": 12,
+    "pageEnd": 12,
+    "pageLabel": "12-bet"
   },
   {
     "id": "qisas-4",
@@ -37,7 +49,10 @@
     "tuz": "Odamlarning qaytishi",
     "sub": "Ibrohimning butlarni sindirgani ma'lum bo'lishi",
     "page": 13,
-    "sentenceCount": 18
+    "sentenceCount": 18,
+    "pageStart": 13,
+    "pageEnd": 14,
+    "pageLabel": "13-14-betlar"
   },
   {
     "id": "qisas-5",
@@ -45,7 +60,10 @@
     "tuz": "Ibrohimning olovi",
     "sub": "Ibrohim (a.s.) olovga tashlanadi",
     "page": 14,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 14,
+    "pageEnd": 15,
+    "pageLabel": "14-15-betlar"
   },
   {
     "id": "qisas-6",
@@ -53,7 +71,10 @@
     "tuz": "Ibrohim yulduz, oy va quyoshni ko'rdi",
     "sub": "Ibrohimning yagona Allohni izlashi",
     "page": 15,
-    "sentenceCount": 19
+    "sentenceCount": 19,
+    "pageStart": 15,
+    "pageEnd": 16,
+    "pageLabel": "15-16-betlar"
   },
   {
     "id": "qisas-7",
@@ -61,7 +82,10 @@
     "tuz": "Mening Rabbim Allohdir",
     "sub": "Ibrohim yagona Allohni tan oladi",
     "page": 16,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 16,
+    "pageEnd": 17,
+    "pageLabel": "16-17-betlar"
   },
   {
     "id": "qisas-8",
@@ -69,7 +93,10 @@
     "tuz": "Ibrohimning da’vati",
     "sub": "Ibrohim qavmini Allohga chaqiradi",
     "page": 17,
-    "sentenceCount": 17
+    "sentenceCount": 17,
+    "pageStart": 17,
+    "pageEnd": 18,
+    "pageLabel": "17-18-betlar"
   },
   {
     "id": "qisas-9",
@@ -77,7 +104,10 @@
     "tuz": "Podshoh oldida",
     "sub": "Ibrohim zolim podshoh bilan bahslashadi",
     "page": 18,
-    "sentenceCount": 18
+    "sentenceCount": 18,
+    "pageStart": 18,
+    "pageEnd": 19,
+    "pageLabel": "18-19-betlar"
   },
   {
     "id": "qisas-10",
@@ -85,15 +115,21 @@
     "tuz": "Otani da’vat qilish",
     "sub": "Ibrohim otasini Allohga ibodat qilishga chaqiradi",
     "page": 20,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 20,
+    "pageEnd": 20,
+    "pageLabel": "20-bet"
   },
   {
     "id": "qisas-11",
     "title": "١٢ ـ إِلَى مَكَّةَ",
     "tuz": "Makkaga",
     "sub": "Ibrohim Makkaga yo‘l oladi",
-    "page": 21,
-    "sentenceCount": 12
+    "page": 20,
+    "sentenceCount": 12,
+    "pageStart": 20,
+    "pageEnd": 21,
+    "pageLabel": "20-21-betlar"
   },
   {
     "id": "qisas-12",
@@ -101,15 +137,21 @@
     "tuz": "Zamzam qudug‘i",
     "sub": "Zamzam suvining kelishi va Hojarning yugurishi",
     "page": 22,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 22,
+    "pageEnd": 22,
+    "pageLabel": "22-bet"
   },
   {
     "id": "qisas-13",
     "title": "١٤ ـ رُؤْيَا إِبْرَاهِيمَ",
     "tuz": "Ibrohimning tushi",
     "sub": "Ibrohim tushida Ismoilni qurbon qilish buyuriladi",
-    "page": 23,
-    "sentenceCount": 18
+    "page": 22,
+    "sentenceCount": 18,
+    "pageStart": 22,
+    "pageEnd": 24,
+    "pageLabel": "22-24-betlar"
   },
   {
     "id": "qisas-14",
@@ -117,7 +159,10 @@
     "tuz": "Ka’ba",
     "sub": "Ibrohim va Ismoil Ka’bani qurishadi",
     "page": 24,
-    "sentenceCount": 16
+    "sentenceCount": 16,
+    "pageStart": 24,
+    "pageEnd": 25,
+    "pageLabel": "24-25-betlar"
   },
   {
     "id": "qisas-15",
@@ -125,7 +170,10 @@
     "tuz": "Baytul-Maqdis",
     "sub": "Ishaq Baytul-Maqdisni quradi",
     "page": 25,
-    "sentenceCount": 11
+    "sentenceCount": 11,
+    "pageStart": 25,
+    "pageEnd": 26,
+    "pageLabel": "25-26-betlar"
   },
   {
     "id": "qisas-16",
@@ -133,7 +181,10 @@
     "tuz": "Eng go'zal qissa",
     "sub": "Yusuf (a.s.) qissasining boshlanishi",
     "page": 27,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 27,
+    "pageEnd": 28,
+    "pageLabel": "27-28-betlar"
   },
   {
     "id": "qisas-17",
@@ -141,7 +192,10 @@
     "tuz": "Eng go'zal qissa (davomi)",
     "sub": "Yusuf (a.s.) tushini otasiga aytadi",
     "page": 27,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 27,
+    "pageEnd": 28,
+    "pageLabel": "27-28-betlar"
   },
   {
     "id": "qisas-18",
@@ -149,15 +203,21 @@
     "tuz": "Aka-ukalarning hasadi",
     "sub": "Yusufning aka-ukalari unga hasad qiladilar",
     "page": 28,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 28,
+    "pageEnd": 29,
+    "pageLabel": "28-29-betlar"
   },
   {
     "id": "qisas-19",
     "title": "٢٠ ـ ذَهَابُ يُوسُفَ مَعَ الْإِخْوَةِ",
     "tuz": "Yusufning aka-ukalari bilan ketishi",
     "sub": "Yusuf aka-ukalari bilan o'yinga ketadi",
-    "page": 29,
-    "sentenceCount": 14
+    "page": 30,
+    "sentenceCount": 14,
+    "pageStart": 30,
+    "pageEnd": 31,
+    "pageLabel": "30-31-betlar"
   },
   {
     "id": "qisas-20",
@@ -165,7 +225,10 @@
     "tuz": "Yusufning quduqqa tashlanishi",
     "sub": "Aka-ukalar Yusufni quduqqa tashlaydilar",
     "page": 31,
-    "sentenceCount": 15
+    "sentenceCount": 15,
+    "pageStart": 31,
+    "pageEnd": 32,
+    "pageLabel": "31-32-betlar"
   },
   {
     "id": "qisas-21",
@@ -173,7 +236,10 @@
     "tuz": "Aka-ukalarning Ya'qubning oldiga kelishi",
     "sub": "Aka-ukalar yolg'on gapirib, otalarining oldiga kelishadi",
     "page": 32,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 32,
+    "pageEnd": 33,
+    "pageLabel": "32-33-betlar"
   },
   {
     "id": "qisas-22",
@@ -181,7 +247,10 @@
     "tuz": "Yusuf quduqda",
     "sub": "Yusuf quduqda yolg'iz qoladi",
     "page": 33,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 33,
+    "pageEnd": 34,
+    "pageLabel": "33-34-betlar"
   },
   {
     "id": "qisas-23",
@@ -189,7 +258,10 @@
     "tuz": "Quduqdan saroyga",
     "sub": "Yusuf quduqdan chiqarilib, Misrga olib ketiladi",
     "page": 34,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 34,
+    "pageEnd": 35,
+    "pageLabel": "34-35-betlar"
   },
   {
     "id": "qisas-24",
@@ -197,7 +269,10 @@
     "tuz": "Ifat va ishonchlilik",
     "sub": "Yusuf zino qilishdan bosh tortadi",
     "page": 35,
-    "sentenceCount": 15
+    "sentenceCount": 15,
+    "pageStart": 35,
+    "pageEnd": 36,
+    "pageLabel": "35-36-betlar"
   },
   {
     "id": "qisas-25",
@@ -205,7 +280,10 @@
     "tuz": "Zindon va'zi",
     "sub": "Yusuf zindonda odamlarni Allohga da'vat qiladi",
     "page": 36,
-    "sentenceCount": 26
+    "sentenceCount": 26,
+    "pageStart": 36,
+    "pageEnd": 38,
+    "pageLabel": "36-38-betlar"
   },
   {
     "id": "qisas-26",
@@ -213,7 +291,10 @@
     "tuz": "Yusufning hikmati",
     "sub": "Yusuf o'z nasihatini davom ettiradi",
     "page": 38,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 38,
+    "pageEnd": 39,
+    "pageLabel": "38-39-betlar"
   },
   {
     "id": "qisas-27",
@@ -221,23 +302,32 @@
     "tuz": "Tavhid nasihati",
     "sub": "Yusuf zindonda tavhidga da'vat qiladi",
     "page": 39,
-    "sentenceCount": 25
+    "sentenceCount": 25,
+    "pageStart": 39,
+    "pageEnd": 41,
+    "pageLabel": "39-41-betlar"
   },
   {
     "id": "qisas-28",
     "title": "٢٩ ـ تَأْوِيلُ الرُّؤْيَا",
     "tuz": "Tush ta'biri",
     "sub": "Yusuf ikki mahbusning tushini ta'bir qiladi",
-    "page": 40,
-    "sentenceCount": 7
+    "page": 41,
+    "sentenceCount": 7,
+    "pageStart": 41,
+    "pageEnd": 42,
+    "pageLabel": "41-42-betlar"
   },
   {
     "id": "qisas-29",
     "title": "٣٠ ـ رُؤْيَا المَلِكِ",
     "tuz": "Podshohning tushi",
     "sub": "Podshoh tushi va Yusufning ta'biri",
-    "page": 41,
-    "sentenceCount": 16
+    "page": 42,
+    "sentenceCount": 16,
+    "pageStart": 42,
+    "pageEnd": 43,
+    "pageLabel": "42-43-betlar"
   },
   {
     "id": "qisas-30",
@@ -245,7 +335,10 @@
     "tuz": "Podshoh Yusufga odam yuboradi",
     "sub": "Podshoh Yusufning ta'biri va tadbiridan xursand bo'ladi",
     "page": 43,
-    "sentenceCount": 4
+    "sentenceCount": 4,
+    "pageStart": 43,
+    "pageEnd": 43,
+    "pageLabel": "43-bet"
   },
   {
     "id": "qisas-31",
@@ -253,7 +346,10 @@
     "tuz": "Yusuf tekshiruv so'raydi",
     "sub": "Yusuf zindondan pokligi aniqlanmasdan chiqishni istamaydi",
     "page": 44,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 44,
+    "pageEnd": 45,
+    "pageLabel": "44-45-betlar"
   },
   {
     "id": "qisas-32",
@@ -261,7 +357,10 @@
     "tuz": "Yer xazinalari ustida",
     "sub": "Yusuf omonat va ilm bilan Misr xazinalarini boshqaradi",
     "page": 45,
-    "sentenceCount": 18
+    "sentenceCount": 18,
+    "pageStart": 45,
+    "pageEnd": 46,
+    "pageLabel": "45-46-betlar"
   },
   {
     "id": "qisas-33",
@@ -269,7 +368,10 @@
     "tuz": "Yusufning akalari keldi",
     "sub": "Qahatchilik sabab Yusufning akalari Misrga kelishadi",
     "page": 47,
-    "sentenceCount": 19
+    "sentenceCount": 19,
+    "pageStart": 47,
+    "pageEnd": 48,
+    "pageLabel": "47-48-betlar"
   },
   {
     "id": "qisas-34",
@@ -277,7 +379,10 @@
     "tuz": "Yusuf va akalari orasida",
     "sub": "Yusuf akalaridan oilasi haqida so'raydi",
     "page": 49,
-    "sentenceCount": 17
+    "sentenceCount": 17,
+    "pageStart": 49,
+    "pageEnd": 50,
+    "pageLabel": "49-50-betlar"
   },
   {
     "id": "qisas-35",
@@ -285,7 +390,10 @@
     "tuz": "Ya'qub va o'g'illari orasida",
     "sub": "Akalari Binyaminni olib ketish uchun Ya'qubdan ruxsat so'rashadi",
     "page": 50,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 50,
+    "pageEnd": 51,
+    "pageLabel": "50-51-betlar"
   },
   {
     "id": "qisas-36",
@@ -293,7 +401,10 @@
     "tuz": "Binyamin Yusuf huzurida",
     "sub": "Yusuf ukasi Binyaminni o'z huzurida olib qoladi",
     "page": 52,
-    "sentenceCount": 26
+    "sentenceCount": 26,
+    "pageStart": 52,
+    "pageEnd": 53,
+    "pageLabel": "52-53-betlar"
   },
   {
     "id": "qisas-37",
@@ -301,7 +412,10 @@
     "tuz": "Ya'qub huzuriga",
     "sub": "Akalari Binyaminsiz qaytishdan hayron qolishadi",
     "page": 54,
-    "sentenceCount": 18
+    "sentenceCount": 18,
+    "pageStart": 54,
+    "pageEnd": 55,
+    "pageLabel": "54-55-betlar"
   },
   {
     "id": "qisas-38",
@@ -309,7 +423,10 @@
     "tuz": "Sir ochiladi",
     "sub": "Yusuf akalariga o'zini tanitadi",
     "page": 56,
-    "sentenceCount": 23
+    "sentenceCount": 23,
+    "pageStart": 56,
+    "pageEnd": 57,
+    "pageLabel": "56-57-betlar"
   },
   {
     "id": "qisas-39",
@@ -317,7 +434,10 @@
     "tuz": "Yusuf Ya'qubga yuboradi",
     "sub": "Yusuf otasiga ko'ylagini yuboradi",
     "page": 58,
-    "sentenceCount": 6
+    "sentenceCount": 6,
+    "pageStart": 58,
+    "pageEnd": 59,
+    "pageLabel": "58-59-betlar"
   },
   {
     "id": "qisas-40",
@@ -325,7 +445,10 @@
     "tuz": "Ya'qub Yusuf huzurida",
     "sub": "Ya'qubning ko'zi ochiladi va oilasi Misrga keladi",
     "page": 59,
-    "sentenceCount": 13
+    "sentenceCount": 13,
+    "pageStart": 59,
+    "pageEnd": 60,
+    "pageLabel": "59-60-betlar"
   },
   {
     "id": "qisas-41",
@@ -333,7 +456,10 @@
     "tuz": "Chiroyli oqibat",
     "sub": "Yusufning shukri va go'zal yakuni",
     "page": 60,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 60,
+    "pageEnd": 61,
+    "pageLabel": "60-61-betlar"
   },
   {
     "id": "qisas-42",
@@ -341,7 +467,10 @@
     "tuz": "Odamdan keyin",
     "sub": "Nuh qissasi: Odam zurriyati ko‘payadi",
     "page": 62,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 62,
+    "pageEnd": 62,
+    "pageLabel": "62-bet"
   },
   {
     "id": "qisas-43",
@@ -349,7 +478,10 @@
     "tuz": "Shaytonning hasadi",
     "sub": "Iblis Odam zurriyatiga hasad qiladi",
     "page": 63,
-    "sentenceCount": 6
+    "sentenceCount": 6,
+    "pageStart": 63,
+    "pageEnd": 63,
+    "pageLabel": "63-bet"
   },
   {
     "id": "qisas-44",
@@ -357,7 +489,10 @@
     "tuz": "Shaytonning fikri",
     "sub": "Shayton odamlarni shirkka boshlash yo‘lini izlaydi",
     "page": 63,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 63,
+    "pageEnd": 64,
+    "pageLabel": "63-64-betlar"
   },
   {
     "id": "qisas-45",
@@ -365,7 +500,10 @@
     "tuz": "Shaytonning hiylasi",
     "sub": "Solih kishilar xotirasi orqali hiyla boshlanadi",
     "page": 64,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 64,
+    "pageEnd": 65,
+    "pageLabel": "64-65-betlar"
   },
   {
     "id": "qisas-46",
@@ -373,7 +511,10 @@
     "tuz": "Solihlarning rasmlari",
     "sub": "Solihlarni eslash uchun rasmlar tayyorlanadi",
     "page": 65,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 65,
+    "pageEnd": 65,
+    "pageLabel": "65-bet"
   },
   {
     "id": "qisas-47",
@@ -381,7 +522,10 @@
     "tuz": "Rasmlardan haykallarga",
     "sub": "Nuh qavmida solihlar rasmlarini haykallarga aylantirish",
     "page": 66,
-    "sentenceCount": 6
+    "sentenceCount": 6,
+    "pageStart": 66,
+    "pageEnd": 66,
+    "pageLabel": "66-bet"
   },
   {
     "id": "qisas-48",
@@ -389,7 +533,10 @@
     "tuz": "Haykallardan butlarga",
     "sub": "Keyingi avlodlarning haykallarni butga aylantirishi",
     "page": 66,
-    "sentenceCount": 6
+    "sentenceCount": 6,
+    "pageStart": 66,
+    "pageEnd": 67,
+    "pageLabel": "66-67-betlar"
   },
   {
     "id": "qisas-49",
@@ -397,7 +544,10 @@
     "tuz": "Allohning g‘azabi",
     "sub": "Shirk sabab Allohning qavmga g‘azab qilishi",
     "page": 67,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 67,
+    "pageEnd": 68,
+    "pageLabel": "67-68-betlar"
   },
   {
     "id": "qisas-50",
@@ -405,7 +555,10 @@
     "tuz": "Payg‘ambar",
     "sub": "Alloh odamlarga o‘zlaridan bir rasul yuborishni iroda qiladi",
     "page": 68,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 68,
+    "pageEnd": 68,
+    "pageLabel": "68-bet"
   },
   {
     "id": "qisas-51",
@@ -413,7 +566,10 @@
     "tuz": "Insonmi yoki farishtami",
     "sub": "Rasulning insonlardan bo‘lish hikmati",
     "page": 69,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 69,
+    "pageEnd": 70,
+    "pageLabel": "69-70-betlar"
   },
   {
     "id": "qisas-52",
@@ -421,7 +577,10 @@
     "tuz": "Nuh payg‘ambar",
     "sub": "Alloh Nuhni qavmiga rasul qilib tanlaydi",
     "page": 70,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 70,
+    "pageEnd": 71,
+    "pageLabel": "70-71-betlar"
   },
   {
     "id": "qisas-53",
@@ -429,7 +588,10 @@
     "tuz": "Qavm unga nima javob berdi?",
     "sub": "Nuhning da’vatiga qavmning inkor javoblari",
     "page": 71,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 71,
+    "pageEnd": 72,
+    "pageLabel": "71-72-betlar"
   },
   {
     "id": "qisas-54",
@@ -437,7 +599,10 @@
     "tuz": "Nuh va qavmi o‘rtasida",
     "sub": "Butparastlik va tavhid haqidagi qarama-qarshi qarashlar",
     "page": 72,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 72,
+    "pageEnd": 73,
+    "pageLabel": "72-73-betlar"
   },
   {
     "id": "qisas-55",
@@ -445,7 +610,10 @@
     "tuz": "Senga past tabaqalar ergashdi",
     "sub": "Boylarning kambag‘al mo‘minlarni mensimasligi",
     "page": 73,
-    "sentenceCount": 13
+    "sentenceCount": 13,
+    "pageStart": 73,
+    "pageEnd": 74,
+    "pageLabel": "73-74-betlar"
   },
   {
     "id": "qisas-56",
@@ -453,7 +621,10 @@
     "tuz": "Boylarning hujjati",
     "sub": "Boylarning haqni boylik mezoni bilan o‘lchashi",
     "page": 74,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 74,
+    "pageEnd": 75,
+    "pageLabel": "74-75-betlar"
   },
   {
     "id": "qisas-57",
@@ -461,7 +632,10 @@
     "tuz": "Nuhning da’vati",
     "sub": "Nuh qavmini imon, istig‘for va tafakkurga chaqiradi",
     "page": 75,
-    "sentenceCount": 13
+    "sentenceCount": 13,
+    "pageStart": 75,
+    "pageEnd": 76,
+    "pageLabel": "75-76-betlar"
   },
   {
     "id": "qisas-58",
@@ -469,7 +643,10 @@
     "tuz": "Nuhning duosi",
     "sub": "Nuh uzoq da’vatdan keyin qavmi haqida duo qiladi",
     "page": 77,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 77,
+    "pageEnd": 78,
+    "pageLabel": "77-78-betlar"
   },
   {
     "id": "qisas-59",
@@ -477,7 +654,10 @@
     "tuz": "Kema",
     "sub": "Nuh kemani yasaydi va qavm uni masxara qiladi",
     "page": 78,
-    "sentenceCount": 13
+    "sentenceCount": 13,
+    "pageStart": 78,
+    "pageEnd": 79,
+    "pageLabel": "78-79-betlar"
   },
   {
     "id": "qisas-60",
@@ -485,7 +665,10 @@
     "tuz": "To‘fon",
     "sub": "Allohning va’dasi kelib, suv hamma tomondan bosadi",
     "page": 79,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 79,
+    "pageEnd": 80,
+    "pageLabel": "79-80-betlar"
   },
   {
     "id": "qisas-61",
@@ -493,7 +676,10 @@
     "tuz": "Nuhning o‘g‘li",
     "sub": "Nuh o‘g‘lini kemaga chaqiradi, lekin u g‘arq bo‘ladi",
     "page": 80,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 80,
+    "pageEnd": 80,
+    "pageLabel": "80-bet"
   },
   {
     "id": "qisas-62",
@@ -501,7 +687,10 @@
     "tuz": "U sening ahlingdan emas",
     "sub": "Alloh nasab emas, amal mezon ekanini bildiradi",
     "page": 81,
-    "sentenceCount": 6
+    "sentenceCount": 6,
+    "pageStart": 81,
+    "pageEnd": 82,
+    "pageLabel": "81-82-betlar"
   },
   {
     "id": "qisas-63",
@@ -509,7 +698,10 @@
     "tuz": "To‘fondan keyin",
     "sub": "Kema to‘xtaydi, mo‘minlar najot topadi va Nuh qissasi yakunlanadi",
     "page": 82,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 82,
+    "pageEnd": 82,
+    "pageLabel": "82-bet"
   },
   {
     "id": "qisas-64",
@@ -517,7 +709,10 @@
     "tuz": "Nuhdan keyin",
     "sub": "Hud qissasi: Od qavmining kuchi va ne’matlari",
     "page": 83,
-    "sentenceCount": 11
+    "sentenceCount": 11,
+    "pageStart": 83,
+    "pageEnd": 84,
+    "pageLabel": "83-84-betlar"
   },
   {
     "id": "qisas-65",
@@ -525,7 +720,10 @@
     "tuz": "Odning noshukrligi",
     "sub": "Od qavmi ne’matlarni unutib butlarga qaytadi",
     "page": 84,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 84,
+    "pageEnd": 85,
+    "pageLabel": "84-85-betlar"
   },
   {
     "id": "qisas-66",
@@ -533,7 +731,10 @@
     "tuz": "Odning tajovuzi",
     "sub": "Kuch imonsizlik bilan zulm va buzg‘unchilikka aylanadi",
     "page": 85,
-    "sentenceCount": 11
+    "sentenceCount": 11,
+    "pageStart": 85,
+    "pageEnd": 86,
+    "pageLabel": "85-86-betlar"
   },
   {
     "id": "qisas-67",
@@ -541,7 +742,10 @@
     "tuz": "Odning qasrlari",
     "sub": "Od qavmi dabdaba va bekorchi bino bilan faxrlanadi",
     "page": 86,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 86,
+    "pageEnd": 87,
+    "pageLabel": "86-87-betlar"
   },
   {
     "id": "qisas-68",
@@ -549,7 +753,10 @@
     "tuz": "Hud rasul",
     "sub": "Alloh Od qavmiga o‘zlaridan bo‘lgan Hudni yuboradi",
     "page": 87,
-    "sentenceCount": 8
+    "sentenceCount": 8,
+    "pageStart": 87,
+    "pageEnd": 88,
+    "pageLabel": "87-88-betlar"
   },
   {
     "id": "qisas-69",
@@ -557,7 +764,10 @@
     "tuz": "Hudning da’vati",
     "sub": "Hud qavmini butlarni tashlab Allohga ibodat qilishga chaqiradi",
     "page": 88,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 88,
+    "pageEnd": 89,
+    "pageLabel": "88-89-betlar"
   },
   {
     "id": "qisas-70",
@@ -565,7 +775,10 @@
     "tuz": "Qavmning javobi",
     "sub": "Od qavmi Hudga nodonlik va yolg‘onchilik tuhmatini qiladi",
     "page": 89,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 89,
+    "pageEnd": 90,
+    "pageLabel": "89-90-betlar"
   },
   {
     "id": "qisas-71",
@@ -573,7 +786,10 @@
     "tuz": "Hudning hikmati",
     "sub": "Hud qavmini muloyimlik bilan o‘ylashga chaqiradi",
     "page": 90,
-    "sentenceCount": 10
+    "sentenceCount": 10,
+    "pageStart": 90,
+    "pageEnd": 91,
+    "pageLabel": "90-91-betlar"
   },
   {
     "id": "qisas-72",
@@ -581,7 +797,10 @@
     "tuz": "Hudning imoni",
     "sub": "Hud butlardan va qavmining tahdididan qo‘rqmasligini bildiradi",
     "page": 91,
-    "sentenceCount": 14
+    "sentenceCount": 14,
+    "pageStart": 91,
+    "pageEnd": 92,
+    "pageLabel": "91-92-betlar"
   },
   {
     "id": "qisas-73",
@@ -589,7 +808,10 @@
     "tuz": "Odning qaysarligi",
     "sub": "Od dalil talab qilib azobni shoshiradi",
     "page": 92,
-    "sentenceCount": 12
+    "sentenceCount": 12,
+    "pageStart": 92,
+    "pageEnd": 93,
+    "pageLabel": "92-93-betlar"
   },
   {
     "id": "qisas-74",
@@ -597,7 +819,10 @@
     "tuz": "Azob",
     "sub": "Od qavmi shamol bo‘roni bilan halok bo‘ladi",
     "page": 93,
-    "sentenceCount": 18
+    "sentenceCount": 18,
+    "pageStart": 93,
+    "pageEnd": 95,
+    "pageLabel": "93-95-betlar"
   },
   {
     "id": "qisas-75",
@@ -605,7 +830,10 @@
     "tuz": "Oddan keyin",
     "sub": "Samud qavmi Od izidan borib ne’mat va qudratda yashaydi",
     "page": 96,
-    "sentenceCount": 9
+    "sentenceCount": 9,
+    "pageStart": 96,
+    "pageEnd": 97,
+    "pageLabel": "96-97-betlar"
   },
   {
     "id": "qisas-76",
@@ -613,7 +841,10 @@
     "tuz": "Samudning noshukrligi",
     "sub": "Ko‘p ne’matlar Samudni shukrga emas, kufr va tug‘yonga olib boradi",
     "page": 97,
-    "sentenceCount": 7
+    "sentenceCount": 7,
+    "pageStart": 97,
+    "pageEnd": 98,
+    "pageLabel": "97-98-betlar"
   },
   {
     "id": "qisas-77",
@@ -621,14 +852,97 @@
     "tuz": "Butlarga ibodat",
     "sub": "Samud toshlarni yo‘nib, o‘sha toshlarga sig‘ina boshlaydi",
     "page": 98,
-    "sentenceCount": 11
+    "sentenceCount": 11,
+    "pageStart": 98,
+    "pageEnd": 99,
+    "pageLabel": "98-99-betlar"
   },
   {
     "id": "qisas-78",
     "title": "٧٩ ـ صَالِحٌ عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ",
     "tuz": "Solih alayhissalom",
-    "sub": "Alloh Samudga o‘zlaridan Solihni rasul qilib yuboradi",
+    "sub": "Solihning kelajagidan kutilgan dunyoviy umid o‘rniga Alloh uni risolatga tanlaydi",
     "page": 99,
-    "sentenceCount": 11
+    "sentenceCount": 14,
+    "pageStart": 99,
+    "pageEnd": 100,
+    "pageLabel": "99-100-betlar"
+  },
+  {
+    "id": "qisas-79",
+    "title": "٨٠ ـ دَعْوَةُ صَالِحٍ",
+    "tuz": "Solihning da’vati",
+    "sub": "Solih qavmini Allohga ibodat qilishga chaqiradi",
+    "page": 101,
+    "sentenceCount": 14,
+    "pageStart": 101,
+    "pageEnd": 102,
+    "pageLabel": "101-102-betlar"
+  },
+  {
+    "id": "qisas-80",
+    "title": "٨١ ـ نَاقَةُ اللَّهِ",
+    "tuz": "Allohning tuyasi",
+    "sub": "Samud qavmi Solihdan mo‘jiza so‘raydi va ularga tuya chiqariladi",
+    "page": 103,
+    "sentenceCount": 10,
+    "pageStart": 103,
+    "pageEnd": 104,
+    "pageLabel": "103-104-betlar"
+  },
+  {
+    "id": "qisas-81",
+    "title": "٨٢ ـ مَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+    "tuz": "Men sizlardan haq so‘ramayman",
+    "sub": "Solih qavmiga xolis nasihat qilayotganini bayon qiladi",
+    "page": 105,
+    "sentenceCount": 8,
+    "pageStart": 105,
+    "pageEnd": 105,
+    "pageLabel": "105-bet"
+  },
+  {
+    "id": "qisas-82",
+    "title": "٨٣ ـ نَاقَةُ اللَّهِ",
+    "tuz": "Allohning tuyasi",
+    "sub": "Solihdan homilador tuya mo‘jizasi so‘raladi",
+    "page": 105,
+    "sentenceCount": 7,
+    "pageStart": 105,
+    "pageEnd": 106,
+    "pageLabel": "105-106-betlar"
+  },
+  {
+    "id": "qisas-83",
+    "title": "٨٤ ـ النُّوْبَةُ",
+    "tuz": "Navbat",
+    "sub": "Tuya va qavm chorvasi uchun suv ichish navbati belgilanadi",
+    "page": 106,
+    "sentenceCount": 8,
+    "pageStart": 106,
+    "pageEnd": 107,
+    "pageLabel": "106-107-betlar"
+  },
+  {
+    "id": "qisas-84",
+    "title": "٨٥ ـ طُغْيَانُ ثَمُودَ",
+    "tuz": "Samudning tug‘yonga ketishi",
+    "sub": "Qavm kibr qilib tuyani o‘ldirishga kelishadi",
+    "page": 107,
+    "sentenceCount": 7,
+    "pageStart": 107,
+    "pageEnd": 107,
+    "pageLabel": "107-bet"
+  },
+  {
+    "id": "qisas-85",
+    "title": "٨٦ ـ الْعَذَابُ",
+    "tuz": "Azob",
+    "sub": "Samud qavmi tuyani o‘ldirgach halok bo‘ladi",
+    "page": 108,
+    "sentenceCount": 12,
+    "pageStart": 108,
+    "pageEnd": 109,
+    "pageLabel": "108-109-betlar"
   }
 ]

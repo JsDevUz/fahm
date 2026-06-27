@@ -2,7 +2,7 @@
   "title": "٣٠ ـ رُؤْيَا المَلِكِ",
   "tuz": "Podshohning tushi",
   "sub": "Podshoh tushi va Yusufning ta'biri",
-  "page": 41,
+  "page": 42,
   "sentences": [
     {
       "ar": "وَرَأَى مَلِكُ مِصْرَ رُؤْيَا عَجِيبَةً.",
@@ -1242,5 +1242,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 42,
+  "pageEnd": 43,
+  "pageLabel": "42-43-betlar"
 }

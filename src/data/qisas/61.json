@@ -286,5 +286,8 @@
         }
       ]
     }
-  ]
+  ],
+  "pageStart": 80,
+  "pageEnd": 80,
+  "pageLabel": "80-bet"
 }

@@ -2,7 +2,7 @@
   "title": "٢٠ ـ ذَهَابُ يُوسُفَ مَعَ الْإِخْوَةِ",
   "tuz": "Yusufning aka-ukalari bilan ketishi",
   "sub": "Yusuf aka-ukalari bilan o'yinga ketadi",
-  "page": 29,
+  "page": 30,
   "sentences": [
     {
       "ar": "وَلَمَّا اتَّفَقُوا عَلَى هَذَا الرَّأْيِ جَاؤُوا إِلَى يَعْقُوبَ.",
@@ -1286,5 +1286,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 30,
+  "pageEnd": 31,
+  "pageLabel": "30-31-betlar"
 }

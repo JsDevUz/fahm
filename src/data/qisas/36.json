@@ -8,523 +8,2716 @@
       "ar": "وَدَخَلَ الإِخْوَةُ مِنْ أَبْوَابٍ مُتَفَرِّقَةٍ كَمَا أَمَرَهُمْ أَبُوهُمْ وَوَصَلُوا إِلى يُوسُفَ.",
       "tr": "Akalari otalari buyurganidek turli eshiklardan kirdilar va Yusufning oldiga yetib bordilar.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "دَخَلَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "دَخَلَ — kirish fe'li.", "uz": "kirdi" },
-        { "w": "الإِخْوَةُ", "r": "فَاعِل", "rc": "tf", "e": "الإِخْوَةُ — daxala fe'lining fo'ili.", "uz": "akalar" },
-        { "w": "مِنْ", "r": "حَرف جَر", "rc": "tmt", "e": "مِنْ — jar harfi.", "uz": "-dan" },
-        { "w": "أَبْوَابٍ", "r": "اسم مَجرُور", "rc": "tmt", "e": "أَبْوَابٍ — jar harfi sababli kasra tanvini bilan majrur.", "uz": "eshiklar" },
-        { "w": "مُتَفَرِّقَةٍ", "r": "صِفَة", "rc": "tmt", "e": "مُتَفَرِّقَةٍ — abwabin sifati.", "uz": "turli-xil" },
-        { "w": "كَ", "r": "حَرف تَشبِيه", "rc": "tb", "e": "كَ — taqqoslash harfi.", "uz": "kabi" },
-        { "w": "مَا", "r": "حَرف مَصدَرِيَّة", "rc": "tb", "e": "مَا — masdariy harf.", "uz": "-ni" },
-        { "w": "أَمَرَ", "r": "فِعل مَاضٍ", "rc": "tb", "e": "أَمَرَ — buyurish fe'li.", "uz": "buyurdi" },
-        { "w": "هُمْ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُمْ — amara fe'lining maf'ul zamiri.", "uz": "ularga" },
-        { "w": "أَبُو", "r": "فَاعِل / مُضَاف", "rc": "tb", "e": "أَبُو — amara fe'lining fo'ili bo'lib vov bilan marfu' va muzofdir.", "uz": "otasi" },
-        { "w": "هُمْ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُمْ — muttasil zamir muzofun ilayh.", "uz": "ularning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "وَصَلُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "وَصَلُوا — yetib borish fe'li.", "uz": "yetib bordilar" },
-        { "w": "إِلى", "r": "حَرف جَر", "rc": "tf", "e": "إِلى — jar harfi.", "uz": "-ga" },
-        { "w": "يُوسُفَ", "r": "اسم مَجرُور", "rc": "tf", "e": "يُوسُفَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).", "uz": "Yusufning" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "دَخَلَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "دَخَلَ — kirish fe'li.",
+          "uz": "kirdi"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "الإِخْوَةُ — daxala fe'lining fo'ili.",
+          "uz": "akalar"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "أَبْوَابٍ",
+          "r": "اسم مَجرُور",
+          "rc": "tmt",
+          "e": "أَبْوَابٍ — jar harfi sababli kasra tanvini bilan majrur.",
+          "uz": "eshiklar"
+        },
+        {
+          "w": "مُتَفَرِّقَةٍ",
+          "r": "صِفَة",
+          "rc": "tmt",
+          "e": "مُتَفَرِّقَةٍ — abwabin sifati.",
+          "uz": "turli-xil"
+        },
+        {
+          "w": "كَ",
+          "r": "حَرف تَشبِيه",
+          "rc": "tb",
+          "e": "كَ — taqqoslash harfi.",
+          "uz": "kabi"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف مَصدَرِيَّة",
+          "rc": "tb",
+          "e": "مَا — masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "أَمَرَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "أَمَرَ — buyurish fe'li.",
+          "uz": "buyurdi"
+        },
+        {
+          "w": "هُمْ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُمْ — amara fe'lining maf'ul zamiri.",
+          "uz": "ularga"
+        },
+        {
+          "w": "أَبُو",
+          "r": "فَاعِل / مُضَاف",
+          "rc": "tb",
+          "e": "أَبُو — amara fe'lining fo'ili bo'lib vov bilan marfu' va muzofdir.",
+          "uz": "otasi"
+        },
+        {
+          "w": "هُمْ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُمْ — muttasil zamir muzofun ilayh.",
+          "uz": "ularning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "وَصَلُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "وَصَلُوا — yetib borish fe'li.",
+          "uz": "yetib bordilar"
+        },
+        {
+          "w": "إِلى",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "إِلى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم مَجرُور",
+          "rc": "tf",
+          "e": "يُوسُفَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Yusufning"
+        }
       ]
     },
     {
       "ar": "وَلَمَّا رَأَى يُوسُفُ بِنْيَامِينَ فَرِحَ جِدًّا وَأَنْزَلَهُ فِي بَيْتِهِ.",
       "tr": "Yusuf Binyaminni ko'rgach juda xursand bo'ldi va uni uyiga tushirdi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَمَّا", "r": "ظَرف شَرطِي", "rc": "tb", "e": "لَمَّا — qachon degan vaqt-shart zarfi.", "uz": "qachonki" },
-        { "w": "رَأَى", "r": "فِعل مَاضٍ", "rc": "tb", "e": "رَأَى — ko'rish fe'li.", "uz": "ko'rdi" },
-        { "w": "يُوسُفُ", "r": "فَاعِل", "rc": "tb", "e": "يُوسُفُ — ra'a fe'lining fo'ili.", "uz": "Yusuf" },
-        { "w": "بِنْيَامِينَ", "r": "مَفعُول بِهِ", "rc": "tb", "e": "بِنْيَامِينَ — ra'a fe'lining maf'ul bihi, fatha bilan mansub (g'ayri munsarif).", "uz": "Binyaminni" },
-        { "w": "فَرِحَ", "r": "فِعل مَاضٍ (جَوَاب لَمَّا)", "rc": "tf", "e": "فَرِحَ — lamma shartining javobi bo'lib xursandlik bildiradi.", "uz": "xursand bo'ldi" },
-        { "w": "جِدًّا", "r": "مَفعُول مُطْلَق", "rc": "tf", "e": "جِدًّا — juda darajasini bildiruvchi maf'ul mutlaq.", "uz": "juda" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "أَنْزَلَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "أَنْزَلَ — joylashtirish fe'li.", "uz": "tushirdi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — anzala fe'lining maf'ul zamiri, Binyaminga qaytadi.", "uz": "uni" },
-        { "w": "فِي", "r": "حَرف جَر", "rc": "tmt", "e": "فِي — jar harfi.", "uz": "-da" },
-        { "w": "بَيْتِ", "r": "اسم مَجرُور / مُضَاف", "rc": "tmt", "e": "بَيْتِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "uy" },
-        { "w": "هِ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tmt", "e": "هِ — muttasil zamir muzofun ilayh.", "uz": "uning" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَمَّا",
+          "r": "ظَرف شَرطِي",
+          "rc": "tb",
+          "e": "لَمَّا — qachon degan vaqt-shart zarfi.",
+          "uz": "qachonki"
+        },
+        {
+          "w": "رَأَى",
+          "r": "فِعل مَاضٍ",
+          "rc": "tb",
+          "e": "رَأَى — ko'rish fe'li.",
+          "uz": "ko'rdi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "يُوسُفُ — ra'a fe'lining fo'ili.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tb",
+          "e": "بِنْيَامِينَ — ra'a fe'lining maf'ul bihi, fatha bilan mansub (g'ayri munsarif).",
+          "uz": "Binyaminni"
+        },
+        {
+          "w": "فَرِحَ",
+          "r": "فِعل مَاضٍ (جَوَاب لَمَّا)",
+          "rc": "tf",
+          "e": "فَرِحَ — lamma shartining javobi bo'lib xursandlik bildiradi.",
+          "uz": "xursand bo'ldi"
+        },
+        {
+          "w": "جِدًّا",
+          "r": "مَفعُول مُطْلَق",
+          "rc": "tf",
+          "e": "جِدًّا — juda darajasini bildiruvchi maf'ul mutlaq.",
+          "uz": "juda"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "أَنْزَلَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "أَنْزَلَ — joylashtirish fe'li.",
+          "uz": "tushirdi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — anzala fe'lining maf'ul zamiri, Binyaminga qaytadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tmt",
+          "e": "بَيْتِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "uy"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "هِ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        }
       ]
     },
     {
       "ar": "وَقَالَ يُوسُفُ لِبِنْيَامِينَ: إِنِّي أَنَا أَخُوكَ وَاطْمَأَنَّ بِنْيَامِينُ.",
       "tr": "Yusuf Binyaminga: Albatta men sening akangman, — dedi va Binyamin xotirjam bo'ldi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "قَالَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "قَالَ — o'tgan zamon fe'li.", "uz": "dedi" },
-        { "w": "يُوسُفُ", "r": "فَاعِل", "rc": "tf", "e": "يُوسُفُ — qala fe'lining fo'ili.", "uz": "Yusuf" },
-        { "w": "لِ", "r": "حَرف جَر", "rc": "tf", "e": "لِ — jar harfi.", "uz": "-ga" },
-        { "w": "بِنْيَامِينَ", "r": "اسم مَجرُور", "rc": "tf", "e": "بِنْيَامِينَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).", "uz": "Binyaminga" },
-        { "w": "إِنِّي", "r": "إِنَّ + يَاء المُتَكَلِّم", "rc": "tb", "e": "إِنِّي — ta'kid harfi inna va birinchi shaxs zamiri.", "uz": "albatta men" },
-        { "w": "أَنَا", "r": "ضَمِير مُنْفَصِل (تَوكِيد)", "rc": "tb", "e": "أَنَا — ta'kidlovchi mustaqil zamir.", "uz": "men" },
-        { "w": "أَخُو", "r": "خَبَر إِنَّ / مُضَاف", "rc": "tb", "e": "أَخُو — inna ning xabari bo'lib vov bilan marfu' va muzofdir.", "uz": "akasi" },
-        { "w": "كَ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "كَ — ikkinchi shaxs birlik muttasil zamiri muzofun ilayh.", "uz": "sening" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "اطْمَأَنَّ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "اطْمَأَنَّ — xotirjam bo'lish fe'li.", "uz": "xotirjam bo'ldi" },
-        { "w": "بِنْيَامِينُ", "r": "فَاعِل", "rc": "tf", "e": "بِنْيَامِينُ — itma'anna fe'lining fo'ili.", "uz": "Binyamin" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَالَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "قَالَ — o'tgan zamon fe'li.",
+          "uz": "dedi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — qala fe'lining fo'ili.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "لِ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "اسم مَجرُور",
+          "rc": "tf",
+          "e": "بِنْيَامِينَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Binyaminga"
+        },
+        {
+          "w": "إِنِّي",
+          "r": "إِنَّ + يَاء المُتَكَلِّم",
+          "rc": "tb",
+          "e": "إِنِّي — ta'kid harfi inna va birinchi shaxs zamiri.",
+          "uz": "albatta men"
+        },
+        {
+          "w": "أَنَا",
+          "r": "ضَمِير مُنْفَصِل (تَوكِيد)",
+          "rc": "tb",
+          "e": "أَنَا — ta'kidlovchi mustaqil zamir.",
+          "uz": "men"
+        },
+        {
+          "w": "أَخُو",
+          "r": "خَبَر إِنَّ / مُضَاف",
+          "rc": "tb",
+          "e": "أَخُو — inna ning xabari bo'lib vov bilan marfu' va muzofdir.",
+          "uz": "akasi"
+        },
+        {
+          "w": "كَ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ — ikkinchi shaxs birlik muttasil zamiri muzofun ilayh.",
+          "uz": "sening"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "اطْمَأَنَّ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "اطْمَأَنَّ — xotirjam bo'lish fe'li.",
+          "uz": "xotirjam bo'ldi"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "بِنْيَامِينُ — itma'anna fe'lining fo'ili.",
+          "uz": "Binyamin"
+        }
       ]
     },
     {
       "ar": "وَلَقِيَ يُوسُفُ بِنْيَامِينَ بَعْدَ زَمَنٍ طويلٍ فَذَكَرَ أُمَّهُ وَأَباهُ وَذَكَرَ بَيْتَهُ وَذَكَرَ صِغَرَهُ.",
       "tr": "Yusuf uzoq vaqtdan keyin Binyamin bilan uchrashdi, onasini, otasini, uyini va bolaligini esladi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَقِيَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "لَقِيَ — uchrashish fe'li.", "uz": "uchrashdi" },
-        { "w": "يُوسُفُ", "r": "فَاعِل", "rc": "tf", "e": "يُوسُفُ — laqiya fe'lining fo'ili.", "uz": "Yusuf" },
-        { "w": "بِنْيَامِينَ", "r": "مَفعُول بِهِ", "rc": "tf", "e": "بِنْيَامِينَ — laqiya fe'lining maf'ul bihi, fatha bilan mansub (g'ayri munsarif).", "uz": "Binyaminni" },
-        { "w": "بَعْدَ", "r": "ظَرف زَمَان / مُضَاف", "rc": "th", "e": "بَعْدَ — keyin ma'nosidagi vaqt zarfi va muzofdir.", "uz": "keyin" },
-        { "w": "زَمَنٍ", "r": "مُضَاف إِلَيه", "rc": "th", "e": "زَمَنٍ — muzofun ilayh bo'lib kasra tanvini bilan majrur.", "uz": "vaqt" },
-        { "w": "طَوِيلٍ", "r": "صِفَة", "rc": "th", "e": "طَوِيلٍ — zamanin sifati.", "uz": "uzoq" },
-        { "w": "فَ", "r": "حَرف عَطف لِلتَّعقِيب", "rc": "tf", "e": "فَ — ketma-ketlik bildiruvchi atf harfi.", "uz": "so'ng" },
-        { "w": "ذَكَرَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "ذَكَرَ — eslash fe'li.", "uz": "esladi" },
-        { "w": "أُمَّ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tf", "e": "أُمَّ — zakara fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.", "uz": "ona" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "أَبَا", "r": "مَعطُوف / مُضَاف", "rc": "tf", "e": "أَبَا — oldingi maf'ulga atf qilingan ism bo'lib alif bilan mansub va muzofdir.", "uz": "ota" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "ذَكَرَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "ذَكَرَ — eslash fe'li.", "uz": "esladi" },
-        { "w": "بَيْتَ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tf", "e": "بَيْتَ — maf'ul bihi fatha bilan mansub va muzofdir.", "uz": "uy" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "ذَكَرَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "ذَكَرَ — eslash fe'li.", "uz": "esladi" },
-        { "w": "صِغَرَ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tf", "e": "صِغَرَ — bolalik ma'nosidagi maf'ul bihi, fatha bilan mansub va muzofdir.", "uz": "bolalik" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَقِيَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "لَقِيَ — uchrashish fe'li.",
+          "uz": "uchrashdi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — laqiya fe'lining fo'ili.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tf",
+          "e": "بِنْيَامِينَ — laqiya fe'lining maf'ul bihi, fatha bilan mansub (g'ayri munsarif).",
+          "uz": "Binyaminni"
+        },
+        {
+          "w": "بَعْدَ",
+          "r": "ظَرف زَمَان / مُضَاف",
+          "rc": "th",
+          "e": "بَعْدَ — keyin ma'nosidagi vaqt zarfi va muzofdir.",
+          "uz": "keyin"
+        },
+        {
+          "w": "زَمَنٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "th",
+          "e": "زَمَنٍ — muzofun ilayh bo'lib kasra tanvini bilan majrur.",
+          "uz": "vaqt"
+        },
+        {
+          "w": "طَوِيلٍ",
+          "r": "صِفَة",
+          "rc": "th",
+          "e": "طَوِيلٍ — zamanin sifati.",
+          "uz": "uzoq"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف لِلتَّعقِيب",
+          "rc": "tf",
+          "e": "فَ — ketma-ketlik bildiruvchi atf harfi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "ذَكَرَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "ذَكَرَ — eslash fe'li.",
+          "uz": "esladi"
+        },
+        {
+          "w": "أُمَّ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tf",
+          "e": "أُمَّ — zakara fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.",
+          "uz": "ona"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "أَبَا",
+          "r": "مَعطُوف / مُضَاف",
+          "rc": "tf",
+          "e": "أَبَا — oldingi maf'ulga atf qilingan ism bo'lib alif bilan mansub va muzofdir.",
+          "uz": "ota"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "ذَكَرَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "ذَكَرَ — eslash fe'li.",
+          "uz": "esladi"
+        },
+        {
+          "w": "بَيْتَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tf",
+          "e": "بَيْتَ — maf'ul bihi fatha bilan mansub va muzofdir.",
+          "uz": "uy"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "ذَكَرَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "ذَكَرَ — eslash fe'li.",
+          "uz": "esladi"
+        },
+        {
+          "w": "صِغَرَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tf",
+          "e": "صِغَرَ — bolalik ma'nosidagi maf'ul bihi, fatha bilan mansub va muzofdir.",
+          "uz": "bolalik"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        }
       ]
     },
     {
       "ar": "وَأَرَادَ يُوسُفُ أَنْ يَبْقَى عِنْدَهُ بِنْيَامِينُ يَرَاهُ كُلَّ يَوْمٍ وَيُكَلِّمُهُ وَيَسْأَلُهُ عَنْ بَيْتِهِ.",
       "tr": "Yusuf Binyamin yonida qolishini, uni har kuni ko'rishni, u bilan gaplashishni va uyidan so'rashni xohladi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "أَرَادَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "أَرَادَ — xohlash fe'li.", "uz": "xohladi" },
-        { "w": "يُوسُفُ", "r": "فَاعِل", "rc": "tf", "e": "يُوسُفُ — arada fe'lining fo'ili.", "uz": "Yusuf" },
-        { "w": "أَنْ", "r": "حَرف نَصب وَمَصدَرِيَّة", "rc": "tb", "e": "أَنْ — nasb va masdariy harf.", "uz": "-ni" },
-        { "w": "يَبْقَى", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tb", "e": "يَبْقَى — an harfi sababli fatha bilan mansub mudori' fe'li.", "uz": "qoladi" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tb", "e": "عِنْدَ — o'rin zarfi va muzof.", "uz": "yonida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "بِنْيَامِينُ", "r": "فَاعِل", "rc": "tb", "e": "بِنْيَامِينُ — yabqa fe'lining fo'ili.", "uz": "Binyamin" },
-        { "w": "يَرَا", "r": "فِعل مُضَارِع (حَال)", "rc": "th", "e": "يَرَا — ko'rish mudori' fe'li.", "uz": "ko'radi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "th", "e": "هُ — yara fe'lining maf'ul zamiri.", "uz": "uni" },
-        { "w": "كُلَّ", "r": "ظَرف زَمَان / مُضَاف", "rc": "th", "e": "كُلَّ — har degan ma'noda vaqt zarfi va muzofdir.", "uz": "har" },
-        { "w": "يَوْمٍ", "r": "مُضَاف إِلَيه", "rc": "th", "e": "يَوْمٍ — muzofun ilayh, kasra tanvini bilan majrur.", "uz": "kun" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "يُكَلِّمُ", "r": "فِعل مُضَارِع", "rc": "tf", "e": "يُكَلِّمُ — gaplashish mudori' fe'li.", "uz": "gaplashadi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — yukallimi fe'lining maf'ul zamiri.", "uz": "u bilan" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "يَسْأَلُ", "r": "فِعل مُضَارِع", "rc": "tf", "e": "يَسْأَلُ — so'rash mudori' fe'li.", "uz": "so'raydi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — yas'alu fe'lining maf'ul zamiri.", "uz": "undan" },
-        { "w": "عَنْ", "r": "حَرف جَر", "rc": "tmt", "e": "عَنْ — jar harfi.", "uz": "-dan" },
-        { "w": "بَيْتِ", "r": "اسم مَجرُور / مُضَاف", "rc": "tmt", "e": "بَيْتِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "uy" },
-        { "w": "هِ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tmt", "e": "هِ — muttasil zamir muzofun ilayh.", "uz": "uning" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "أَرَادَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "أَرَادَ — xohlash fe'li.",
+          "uz": "xohladi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — arada fe'lining fo'ili.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف نَصب وَمَصدَرِيَّة",
+          "rc": "tb",
+          "e": "أَنْ — nasb va masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "يَبْقَى",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tb",
+          "e": "يَبْقَى — an harfi sababli fatha bilan mansub mudori' fe'li.",
+          "uz": "qoladi"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tb",
+          "e": "عِنْدَ — o'rin zarfi va muzof.",
+          "uz": "yonida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "بِنْيَامِينُ — yabqa fe'lining fo'ili.",
+          "uz": "Binyamin"
+        },
+        {
+          "w": "يَرَا",
+          "r": "فِعل مُضَارِع (حَال)",
+          "rc": "th",
+          "e": "يَرَا — ko'rish mudori' fe'li.",
+          "uz": "ko'radi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "th",
+          "e": "هُ — yara fe'lining maf'ul zamiri.",
+          "uz": "uni"
+        },
+        {
+          "w": "كُلَّ",
+          "r": "ظَرف زَمَان / مُضَاف",
+          "rc": "th",
+          "e": "كُلَّ — har degan ma'noda vaqt zarfi va muzofdir.",
+          "uz": "har"
+        },
+        {
+          "w": "يَوْمٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "th",
+          "e": "يَوْمٍ — muzofun ilayh, kasra tanvini bilan majrur.",
+          "uz": "kun"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يُكَلِّمُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "يُكَلِّمُ — gaplashish mudori' fe'li.",
+          "uz": "gaplashadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — yukallimi fe'lining maf'ul zamiri.",
+          "uz": "u bilan"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَسْأَلُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "يَسْأَلُ — so'rash mudori' fe'li.",
+          "uz": "so'raydi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — yas'alu fe'lining maf'ul zamiri.",
+          "uz": "undan"
+        },
+        {
+          "w": "عَنْ",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "عَنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "بَيْتِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tmt",
+          "e": "بَيْتِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "uy"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "هِ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        }
       ]
     },
     {
       "ar": "وَلَكِنْ كَيْفَ السَّبِيلُ إِلَى ذلِكَ، وَبِنْيَامِينُ رَاجِعٌ غَداً إِلَى كَنْعَانَ؟",
       "tr": "Lekin bunga qanday yo'l bor, Binyamin ertaga Kan'onga qaytadigan bo'lsa?",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَكِنْ", "r": "حَرف اِستِدرَاك", "rc": "tb", "e": "لَكِنْ — istidrok harfi.", "uz": "lekin" },
-        { "w": "كَيْفَ", "r": "اسم اِستِفهَام", "rc": "tb", "e": "كَيْفَ — qanday degan holat so'roq olmosi.", "uz": "qanday" },
-        { "w": "السَّبِيلُ", "r": "مُبتَدَأ", "rc": "tb", "e": "السَّبِيلُ — mubtado bo'lib damma bilan marfu'.", "uz": "yo'l" },
-        { "w": "إِلى", "r": "حَرف جَر", "rc": "tb", "e": "إِلى — jar harfi.", "uz": "-ga" },
-        { "w": "ذَلِكَ", "r": "اسم إِشَارَة مَجرُور", "rc": "tb", "e": "ذَلِكَ — uzoqni ko'rsatuvchi ishora olmosi, jar harfi sababli mahallan majrur.", "uz": "bunga" },
-        { "w": "وَ", "r": "حَرف حَال", "rc": "th", "e": "وَ — hol jumlaini boshlaydi.", "uz": "va" },
-        { "w": "بِنْيَامِينُ", "r": "مُبتَدَأ", "rc": "th", "e": "بِنْيَامِينُ — hol jumlasining mubtadosi.", "uz": "Binyamin" },
-        { "w": "رَاجِعٌ", "r": "خَبَر", "rc": "th", "e": "رَاجِعٌ — mubtadoning xabari, damma tanvini bilan marfu'.", "uz": "qaytadi" },
-        { "w": "غَداً", "r": "ظَرف زَمَان", "rc": "th", "e": "غَداً — ertaga ma'nosidagi vaqt zarfi.", "uz": "ertaga" },
-        { "w": "إِلى", "r": "حَرف جَر", "rc": "th", "e": "إِلى — jar harfi.", "uz": "-ga" },
-        { "w": "كَنْعَانَ", "r": "اسم مَجرُور", "rc": "th", "e": "كَنْعَانَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).", "uz": "Kan'onga" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَكِنْ",
+          "r": "حَرف اِستِدرَاك",
+          "rc": "tb",
+          "e": "لَكِنْ — istidrok harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "كَيْفَ",
+          "r": "اسم اِستِفهَام",
+          "rc": "tb",
+          "e": "كَيْفَ — qanday degan holat so'roq olmosi.",
+          "uz": "qanday"
+        },
+        {
+          "w": "السَّبِيلُ",
+          "r": "مُبتَدَأ",
+          "rc": "tb",
+          "e": "السَّبِيلُ — mubtado bo'lib damma bilan marfu'.",
+          "uz": "yo'l"
+        },
+        {
+          "w": "إِلى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم إِشَارَة مَجرُور",
+          "rc": "tb",
+          "e": "ذَلِكَ — uzoqni ko'rsatuvchi ishora olmosi, jar harfi sababli mahallan majrur.",
+          "uz": "bunga"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف حَال",
+          "rc": "th",
+          "e": "وَ — hol jumlaini boshlaydi.",
+          "uz": "va"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "مُبتَدَأ",
+          "rc": "th",
+          "e": "بِنْيَامِينُ — hol jumlasining mubtadosi.",
+          "uz": "Binyamin"
+        },
+        {
+          "w": "رَاجِعٌ",
+          "r": "خَبَر",
+          "rc": "th",
+          "e": "رَاجِعٌ — mubtadoning xabari, damma tanvini bilan marfu'.",
+          "uz": "qaytadi"
+        },
+        {
+          "w": "غَداً",
+          "r": "ظَرف زَمَان",
+          "rc": "th",
+          "e": "غَداً — ertaga ma'nosidagi vaqt zarfi.",
+          "uz": "ertaga"
+        },
+        {
+          "w": "إِلى",
+          "r": "حَرف جَر",
+          "rc": "th",
+          "e": "إِلى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "كَنْعَانَ",
+          "r": "اسم مَجرُور",
+          "rc": "th",
+          "e": "كَنْعَانَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Kan'onga"
+        }
       ]
     },
     {
       "ar": "وَكَيْفَ السَّبِيلُ إِلَى ذَلِكَ والإِخْوَةُ عَاهَدُوا اللَّهَ عَلَى أَنْ يَرْجِعُوا بِهِ مَعَهُمْ؟",
       "tr": "Akalari uni o'zlari bilan qaytarishga Alloh nomi bilan ahd bergan bo'lsalar, bunga qanday yo'l bor?",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "كَيْفَ", "r": "اسم اِستِفهَام", "rc": "tb", "e": "كَيْفَ — so'roq olmosi.", "uz": "qanday" },
-        { "w": "السَّبِيلُ", "r": "مُبتَدَأ", "rc": "tb", "e": "السَّبِيلُ — mubtado.", "uz": "yo'l" },
-        { "w": "إِلى", "r": "حَرف جَر", "rc": "tb", "e": "إِلى — jar harfi.", "uz": "-ga" },
-        { "w": "ذَلِكَ", "r": "اسم إِشَارَة مَجرُور", "rc": "tb", "e": "ذَلِكَ — ishora olmosi.", "uz": "bunga" },
-        { "w": "وَ", "r": "حَرف حَال", "rc": "th", "e": "وَ — hol jumlasini boshlaydi.", "uz": "holda" },
-        { "w": "الإِخْوَةُ", "r": "مُبتَدَأ", "rc": "th", "e": "الإِخْوَةُ — hol jumlasining mubtadosi.", "uz": "akalar" },
-        { "w": "عَاهَدُوا", "r": "فِعل مَاضٍ وَفَاعِل (خَبَر)", "rc": "th", "e": "عَاهَدُوا — ahd qilish fe'li, xabar vazifasida.", "uz": "ahd berdilar" },
-        { "w": "اللَّهَ", "r": "مَفعُول بِهِ", "rc": "th", "e": "اللَّهَ — axadu fe'lining maf'ul bihi, fatha bilan mansub.", "uz": "Allohga" },
-        { "w": "عَلَيْ", "r": "حَرف جَر", "rc": "tmt", "e": "عَلَيْ — jar harfi.", "uz": "ustida" },
-        { "w": "أَنْ", "r": "حَرف نَصب وَمَصدَرِيَّة", "rc": "tmt", "e": "أَنْ — nasb va masdariy harf.", "uz": "-ni" },
-        { "w": "يَرْجِعُوا", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tmt", "e": "يَرْجِعُوا — an harfi sababli nun tushib mansub bo'lgan mudori' fe'li.", "uz": "qaytasizlar" },
-        { "w": "بِ", "r": "حَرف جَر", "rc": "tmt", "e": "بِ — jar harfi.", "uz": "bilan" },
-        { "w": "هِ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tmt", "e": "هِ — muttasil zamir majrur, Binyaminga qaytadi.", "uz": "uni" },
-        { "w": "مَعَ", "r": "ظَرف / مُضَاف", "rc": "tmt", "e": "مَعَ — birga ma'nosidagi zarf va muzofdir.", "uz": "bilan" },
-        { "w": "هُمْ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tmt", "e": "هُمْ — muttasil zamir muzofun ilayh.", "uz": "ular" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَيْفَ",
+          "r": "اسم اِستِفهَام",
+          "rc": "tb",
+          "e": "كَيْفَ — so'roq olmosi.",
+          "uz": "qanday"
+        },
+        {
+          "w": "السَّبِيلُ",
+          "r": "مُبتَدَأ",
+          "rc": "tb",
+          "e": "السَّبِيلُ — mubtado.",
+          "uz": "yo'l"
+        },
+        {
+          "w": "إِلى",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "إِلى — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم إِشَارَة مَجرُور",
+          "rc": "tb",
+          "e": "ذَلِكَ — ishora olmosi.",
+          "uz": "bunga"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف حَال",
+          "rc": "th",
+          "e": "وَ — hol jumlasini boshlaydi.",
+          "uz": "holda"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "مُبتَدَأ",
+          "rc": "th",
+          "e": "الإِخْوَةُ — hol jumlasining mubtadosi.",
+          "uz": "akalar"
+        },
+        {
+          "w": "عَاهَدُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل (خَبَر)",
+          "rc": "th",
+          "e": "عَاهَدُوا — ahd qilish fe'li, xabar vazifasida.",
+          "uz": "ahd berdilar"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "th",
+          "e": "اللَّهَ — axadu fe'lining maf'ul bihi, fatha bilan mansub.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "عَلَيْ",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "عَلَيْ — jar harfi.",
+          "uz": "ustida"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف نَصب وَمَصدَرِيَّة",
+          "rc": "tmt",
+          "e": "أَنْ — nasb va masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "يَرْجِعُوا",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tmt",
+          "e": "يَرْجِعُوا — an harfi sababli nun tushib mansub bo'lgan mudori' fe'li.",
+          "uz": "qaytasizlar"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "بِ — jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هِ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "هِ — muttasil zamir majrur, Binyaminga qaytadi.",
+          "uz": "uni"
+        },
+        {
+          "w": "مَعَ",
+          "r": "ظَرف / مُضَاف",
+          "rc": "tmt",
+          "e": "مَعَ — birga ma'nosidagi zarf va muzofdir.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هُمْ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tmt",
+          "e": "هُمْ — muttasil zamir muzofun ilayh.",
+          "uz": "ular"
+        }
       ]
     },
     {
       "ar": "وَكَيْفَ يُمْكِنُ لِيُوسُفَ أَنْ يَحْبِسَ بِنْيَامِينَ عِنْدَهُ بِغَيْرِ سَبَبٍ؟",
       "tr": "Yusuf Binyaminni hech bir sababsiz yonida ushlab qolishi qanday mumkin?",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "كَيْفَ", "r": "اسم اِستِفهَام", "rc": "tb", "e": "كَيْفَ — so'roq olmosi.", "uz": "qanday" },
-        { "w": "يُمْكِنُ", "r": "فِعل مُضَارِع", "rc": "tb", "e": "يُمْكِنُ — mumkin bo'lish mudori' fe'li.", "uz": "mumkin" },
-        { "w": "لِ", "r": "حَرف جَر", "rc": "tb", "e": "لِ — jar harfi.", "uz": "-ga" },
-        { "w": "يُوسُفَ", "r": "اسم مَجرُور", "rc": "tb", "e": "يُوسُفَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).", "uz": "Yusufga" },
-        { "w": "أَنْ", "r": "حَرف نَصب وَمَصدَرِيَّة", "rc": "tb", "e": "أَنْ — nasb va masdariy harf.", "uz": "-ni" },
-        { "w": "يَحْبِسَ", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tb", "e": "يَحْبِسَ — an harfi sababli fatha bilan mansub mudori' fe'li.", "uz": "ushlab qolish" },
-        { "w": "بِنْيَامِينَ", "r": "مَفعُول بِهِ", "rc": "tb", "e": "بِنْيَامِينَ — yaxbisa fe'lining maf'ul bihi, fatha bilan mansub.", "uz": "Binyaminni" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tb", "e": "عِنْدَ — o'rin zarfi va muzof.", "uz": "yonida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "بِ", "r": "حَرف جَر (لِلحَال)", "rc": "th", "e": "بِ — jar harfi.", "uz": "bilan" },
-        { "w": "غَيْرِ", "r": "اسم مَجرُور / مُضَاف", "rc": "th", "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yo'q" },
-        { "w": "سَبَبٍ", "r": "مُضَاف إِلَيه", "rc": "th", "e": "سَبَبٍ — muzofun ilayh, kasra tanvini bilan majrur.", "uz": "sabab" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَيْفَ",
+          "r": "اسم اِستِفهَام",
+          "rc": "tb",
+          "e": "كَيْفَ — so'roq olmosi.",
+          "uz": "qanday"
+        },
+        {
+          "w": "يُمْكِنُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "يُمْكِنُ — mumkin bo'lish mudori' fe'li.",
+          "uz": "mumkin"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "لِ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "يُوسُفَ — jar harfi sababli fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Yusufga"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف نَصب وَمَصدَرِيَّة",
+          "rc": "tb",
+          "e": "أَنْ — nasb va masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "يَحْبِسَ",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tb",
+          "e": "يَحْبِسَ — an harfi sababli fatha bilan mansub mudori' fe'li.",
+          "uz": "ushlab qolish"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tb",
+          "e": "بِنْيَامِينَ — yaxbisa fe'lining maf'ul bihi, fatha bilan mansub.",
+          "uz": "Binyaminni"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tb",
+          "e": "عِنْدَ — o'rin zarfi va muzof.",
+          "uz": "yonida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر (لِلحَال)",
+          "rc": "th",
+          "e": "بِ — jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "غَيْرِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "th",
+          "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "سَبَبٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "th",
+          "e": "سَبَبٍ — muzofun ilayh, kasra tanvini bilan majrur.",
+          "uz": "sabab"
+        }
       ]
     },
     {
       "ar": "وَيَقُولُ النَّاسُ: قَدْ حَبَسَ الْعَزِيزُ عِنْدَهُ كَنْعَانِيًّا بِغَيْرِ سَبَبٍ، إِنَّ هَذَا لَظُلْمٌ عَظِيمٌ.",
       "tr": "Odamlar: Aziz bir kan'onlikni hech sababsiz yonida ushlab qoldi, albatta bu katta zulmdir, — deyishadi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "يَقُولُ", "r": "فِعل مُضَارِع", "rc": "tf", "e": "يَقُولُ — aytish mudori' fe'li.", "uz": "deyishadi" },
-        { "w": "النَّاسُ", "r": "فَاعِل", "rc": "tf", "e": "النَّاسُ — yaqulu fe'lining fo'ili.", "uz": "odamlar" },
-        { "w": "قَدْ", "r": "حَرف تَحقِيق", "rc": "tf", "e": "قَدْ — ta'kid harfi.", "uz": "darhaqiqat" },
-        { "w": "حَبَسَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "حَبَسَ — ushlab qolish fe'li.", "uz": "ushlab qoldi" },
-        { "w": "الْعَزِيزُ", "r": "فَاعِل", "rc": "tf", "e": "الْعَزِيزُ — xabasa fe'lining fo'ili.", "uz": "Aziz" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tf", "e": "عِنْدَ — o'rin zarfi va muzof.", "uz": "yonida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "كَنْعَانِيًّا", "r": "مَفعُول بِهِ", "rc": "tf", "e": "كَنْعَانِيًّا — xabasa fe'lining maf'ul bihi, fatha tanvini bilan mansub.", "uz": "kan'onlikni" },
-        { "w": "بِ", "r": "حَرف جَر", "rc": "th", "e": "بِ — jar harfi.", "uz": "bilan" },
-        { "w": "غَيْرِ", "r": "اسم مَجرُور / مُضَاف", "rc": "th", "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yo'q" },
-        { "w": "سَبَبٍ", "r": "مُضَاف إِلَيه", "rc": "th", "e": "سَبَبٍ — muzofun ilayh.", "uz": "sabab" },
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "هَذَا", "r": "اسم إِشَارَة (اسم إِنَّ)", "rc": "tb", "e": "هَذَا — inna ning ismi bo'lib, mahallan mansub.", "uz": "bu" },
-        { "w": "لَ", "r": "لام التَّوكِيد", "rc": "tb", "e": "لَ — xabarni ta'kidlovchi lam harfi.", "uz": "albatta" },
-        { "w": "ظُلْمٌ", "r": "خَبَر إِنَّ", "rc": "tb", "e": "ظُلْمٌ — inna ning xabari bo'lib damma tanvini bilan marfu'.", "uz": "zulm" },
-        { "w": "عَظِيمٌ", "r": "صِفَة", "rc": "tb", "e": "عَظِيمٌ — zulmun sifati.", "uz": "katta" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يَقُولُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "يَقُولُ — aytish mudori' fe'li.",
+          "uz": "deyishadi"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "النَّاسُ — yaqulu fe'lining fo'ili.",
+          "uz": "odamlar"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حَرف تَحقِيق",
+          "rc": "tf",
+          "e": "قَدْ — ta'kid harfi.",
+          "uz": "darhaqiqat"
+        },
+        {
+          "w": "حَبَسَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "حَبَسَ — ushlab qolish fe'li.",
+          "uz": "ushlab qoldi"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "الْعَزِيزُ — xabasa fe'lining fo'ili.",
+          "uz": "Aziz"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tf",
+          "e": "عِنْدَ — o'rin zarfi va muzof.",
+          "uz": "yonida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "كَنْعَانِيًّا",
+          "r": "مَفعُول بِهِ",
+          "rc": "tf",
+          "e": "كَنْعَانِيًّا — xabasa fe'lining maf'ul bihi, fatha tanvini bilan mansub.",
+          "uz": "kan'onlikni"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "th",
+          "e": "بِ — jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "غَيْرِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "th",
+          "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "سَبَبٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "th",
+          "e": "سَبَبٍ — muzofun ilayh.",
+          "uz": "sabab"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "هَذَا",
+          "r": "اسم إِشَارَة (اسم إِنَّ)",
+          "rc": "tb",
+          "e": "هَذَا — inna ning ismi bo'lib, mahallan mansub.",
+          "uz": "bu"
+        },
+        {
+          "w": "لَ",
+          "r": "لام التَّوكِيد",
+          "rc": "tb",
+          "e": "لَ — xabarni ta'kidlovchi lam harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "ظُلْمٌ",
+          "r": "خَبَر إِنَّ",
+          "rc": "tb",
+          "e": "ظُلْمٌ — inna ning xabari bo'lib damma tanvini bilan marfu'.",
+          "uz": "zulm"
+        },
+        {
+          "w": "عَظِيمٌ",
+          "r": "صِفَة",
+          "rc": "tb",
+          "e": "عَظِيمٌ — zulmun sifati.",
+          "uz": "katta"
+        }
       ]
     },
     {
       "ar": "وَلَكِنَّ يُوسُفَ كَانَ ذَكِيًّا عَاقِلاً.",
       "tr": "Lekin Yusuf ziyrak va aqlli edi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَكِنَّ", "r": "حَرف اِستِدرَاك وَتَوكِيد وَنَصب", "rc": "tb", "e": "لَكِنَّ — istidrok, ta'kid va nasb harfi.", "uz": "lekin" },
-        { "w": "يُوسُفَ", "r": "اسم لَكِنَّ", "rc": "tb", "e": "يُوسُفَ — lakkinna ning ismi bo'lib fatha bilan mansub.", "uz": "Yusuf" },
-        { "w": "كَانَ", "r": "فِعل مَاضٍ نَاقِص", "rc": "tx", "e": "كَانَ — noqis fe'l.", "uz": "edi" },
-        { "w": "ذَكِيًّا", "r": "خَبَر كَانَ", "rc": "tx", "e": "ذَكِيًّا — kana ning birinchi xabari, fatha tanvini bilan mansub.", "uz": "ziyrak" },
-        { "w": "عَاقِلاً", "r": "خَبَر ثَانٍ لِكَانَ", "rc": "tx", "e": "عَاقِلاً — kana ning ikkinchi xabari, fatha tanvini bilan mansub.", "uz": "aqlli" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَكِنَّ",
+          "r": "حَرف اِستِدرَاك وَتَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "لَكِنَّ — istidrok, ta'kid va nasb harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم لَكِنَّ",
+          "rc": "tb",
+          "e": "يُوسُفَ — lakkinna ning ismi bo'lib fatha bilan mansub.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tx",
+          "e": "كَانَ — noqis fe'l.",
+          "uz": "edi"
+        },
+        {
+          "w": "ذَكِيًّا",
+          "r": "خَبَر كَانَ",
+          "rc": "tx",
+          "e": "ذَكِيًّا — kana ning birinchi xabari, fatha tanvini bilan mansub.",
+          "uz": "ziyrak"
+        },
+        {
+          "w": "عَاقِلاً",
+          "r": "خَبَر ثَانٍ لِكَانَ",
+          "rc": "tx",
+          "e": "عَاقِلاً — kana ning ikkinchi xabari, fatha tanvini bilan mansub.",
+          "uz": "aqlli"
+        }
       ]
     },
     {
       "ar": "كَانَ عِنْدَ يُوسُفَ إِنَاءٌ ثَمِينٌ، وَكَانَ يَشْرَبُ فِيهِ.",
       "tr": "Yusufning oldida qimmatbaho idish bor edi va u undan ichar edi.",
       "parts": [
-        { "w": "كَانَ", "r": "فِعل مَاضٍ نَاقِص", "rc": "tb", "e": "كَانَ — noqis fe'l.", "uz": "bor edi" },
-        { "w": "عِنْدَ", "r": "ظَرف (خَبَر مُقَدَّم) / مُضَاف", "rc": "tb", "e": "عِنْدَ — oldingi xabar sifatidagi zarf va muzof.", "uz": "yonida" },
-        { "w": "يُوسُفَ", "r": "مُضَاف إِلَيه", "rc": "tb", "e": "يُوسُفَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).", "uz": "Yusufning" },
-        { "w": "إِنَاءٌ", "r": "اسم كَانَ مُؤَخَّر", "rc": "tb", "e": "إِنَاءٌ — kana ning kechiktirilgan ismi, damma tanvini bilan marfu'.", "uz": "idish" },
-        { "w": "ثَمِينٌ", "r": "صِفَة", "rc": "tb", "e": "ثَمِينٌ — ina' ismining sifati.", "uz": "qimmatbaho" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tx", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "كَانَ", "r": "فِعل مَاضٍ نَاقِص", "rc": "tx", "e": "كَانَ — noqis fe'l.", "uz": "edi" },
-        { "w": "يَشْرَبُ", "r": "خَبَر كَانَ (فِعل مُضَارِع)", "rc": "tx", "e": "يَشْرَبُ — ichish mudori' fe'li bo'lib kana ning xabaridir.", "uz": "ichar" },
-        { "w": "فِي", "r": "حَرف جَر", "rc": "tx", "e": "فِي — jar harfi.", "uz": "-da" },
-        { "w": "هِ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tx", "e": "هِ — muttasil zamir majrur, idishga qaytadi.", "uz": "unda" }
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — noqis fe'l.",
+          "uz": "bor edi"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف (خَبَر مُقَدَّم) / مُضَاف",
+          "rc": "tb",
+          "e": "عِنْدَ — oldingi xabar sifatidagi zarf va muzof.",
+          "uz": "yonida"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tb",
+          "e": "يُوسُفَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Yusufning"
+        },
+        {
+          "w": "إِنَاءٌ",
+          "r": "اسم كَانَ مُؤَخَّر",
+          "rc": "tb",
+          "e": "إِنَاءٌ — kana ning kechiktirilgan ismi, damma tanvini bilan marfu'.",
+          "uz": "idish"
+        },
+        {
+          "w": "ثَمِينٌ",
+          "r": "صِفَة",
+          "rc": "tb",
+          "e": "ثَمِينٌ — ina' ismining sifati.",
+          "uz": "qimmatbaho"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tx",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tx",
+          "e": "كَانَ — noqis fe'l.",
+          "uz": "edi"
+        },
+        {
+          "w": "يَشْرَبُ",
+          "r": "خَبَر كَانَ (فِعل مُضَارِع)",
+          "rc": "tx",
+          "e": "يَشْرَبُ — ichish mudori' fe'li bo'lib kana ning xabaridir.",
+          "uz": "ichar"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tx",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "هِ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tx",
+          "e": "هِ — muttasil zamir majrur, idishga qaytadi.",
+          "uz": "unda"
+        }
       ]
     },
     {
       "ar": "وَضَعَ هَذَا الإِنَاءَ فِي مَتَاعِ بِنْيَامِينَ وَأَذَّنَ مُؤَذِّنٌ إِنَّكُمْ لَسَارِقُونَ.",
       "tr": "U bu idishni Binyaminning yukiga qo'ydi va bir jarchi: Albatta sizlar o'g'risizlar, — deb jar soldi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "وَضَعَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "وَضَعَ — qo'yish fe'li.", "uz": "qo'ydi" },
-        { "w": "هَذَا", "r": "مَفعُول بِهِ (اسم إِشَارَة)", "rc": "tf", "e": "هَذَا — maf'ul bihi bo'lib, mahallan mansub.", "uz": "bu" },
-        { "w": "الإِنَاءَ", "r": "بَدَل مِن هَذَا", "rc": "tf", "e": "الإِنَاءَ — haza dan badal bo'lib, fatha bilan mansub.", "uz": "idishni" },
-        { "w": "فِي", "r": "حَرف جَر", "rc": "tmt", "e": "فِي — jar harfi.", "uz": "-da" },
-        { "w": "مَتَاعِ", "r": "اسم مَجرُور / مُضَاف", "rc": "tmt", "e": "مَتَاعِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yukida" },
-        { "w": "بِنْيَامِينَ", "r": "مُضَاف إِلَيه", "rc": "tmt", "e": "بِنْيَامِينَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).", "uz": "Binyaminning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "أَذَّنَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "أَذَّنَ — jar solish fe'li.", "uz": "jar soldi" },
-        { "w": "مُؤَذِّنٌ", "r": "فَاعِل", "rc": "tf", "e": "مُؤَذِّنٌ — azzana fe'lining fo'ili, damma tanvini bilan marfu'.", "uz": "jarchi" },
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "كُمْ", "r": "اسم إِنَّ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "كُمْ — inna ning ismi bo'lib mahallan mansub.", "uz": "sizlar" },
-        { "w": "لَ", "r": "لام التَّوكِيد", "rc": "tb", "e": "لَ — ta'kidlovchi lam harfi.", "uz": "albatta" },
-        { "w": "سَارِقُونَ", "r": "خَبَر إِنَّ", "rc": "tb", "e": "سَارِقُونَ — inna ning xabari, vov bilan marfu'.", "uz": "o'g'rilar" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "وَضَعَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "وَضَعَ — qo'yish fe'li.",
+          "uz": "qo'ydi"
+        },
+        {
+          "w": "هَذَا",
+          "r": "مَفعُول بِهِ (اسم إِشَارَة)",
+          "rc": "tf",
+          "e": "هَذَا — maf'ul bihi bo'lib, mahallan mansub.",
+          "uz": "bu"
+        },
+        {
+          "w": "الإِنَاءَ",
+          "r": "بَدَل مِن هَذَا",
+          "rc": "tf",
+          "e": "الإِنَاءَ — haza dan badal bo'lib, fatha bilan mansub.",
+          "uz": "idishni"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "مَتَاعِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tmt",
+          "e": "مَتَاعِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yukida"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tmt",
+          "e": "بِنْيَامِينَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Binyaminning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "أَذَّنَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "أَذَّنَ — jar solish fe'li.",
+          "uz": "jar soldi"
+        },
+        {
+          "w": "مُؤَذِّنٌ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "مُؤَذِّنٌ — azzana fe'lining fo'ili, damma tanvini bilan marfu'.",
+          "uz": "jarchi"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "كُمْ",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كُمْ — inna ning ismi bo'lib mahallan mansub.",
+          "uz": "sizlar"
+        },
+        {
+          "w": "لَ",
+          "r": "لام التَّوكِيد",
+          "rc": "tb",
+          "e": "لَ — ta'kidlovchi lam harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "سَارِقُونَ",
+          "r": "خَبَر إِنَّ",
+          "rc": "tb",
+          "e": "سَارِقُونَ — inna ning xabari, vov bilan marfu'.",
+          "uz": "o'g'rilar"
+        }
       ]
     },
     {
       "ar": "وَالْتَفَتَ الإِخْوَةُ، وَقَالُوا مَاذَا تَفْقِدُونَ؟",
       "tr": "Akalari burilib qaradilar va: Nimani yo'qotdingizlar? — dedilar.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "الْتَفَتَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "الْتَفَتَ — burilish fe'li.", "uz": "burildi" },
-        { "w": "الإِخْوَةُ", "r": "فَاعِل", "rc": "tf", "e": "الإِخْوَةُ — iltafata fe'lining fo'ili.", "uz": "akalar" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "dedilar" },
-        { "w": "مَاذَا", "r": "اسم اِستِفهَام", "rc": "tf", "e": "مَاذَا — nima degan so'roq olmosi.", "uz": "nimani" },
-        { "w": "تَفْقِدُونَ", "r": "فِعل مُضَارِع", "rc": "tf", "e": "تَفْقِدُونَ — yo'qotish mudori' fe'li.", "uz": "yo'qotdingizlar" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "الْتَفَتَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "الْتَفَتَ — burilish fe'li.",
+          "uz": "burildi"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "الإِخْوَةُ — iltafata fe'lining fo'ili.",
+          "uz": "akalar"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "dedilar"
+        },
+        {
+          "w": "مَاذَا",
+          "r": "اسم اِستِفهَام",
+          "rc": "tf",
+          "e": "مَاذَا — nima degan so'roq olmosi.",
+          "uz": "nimani"
+        },
+        {
+          "w": "تَفْقِدُونَ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "تَفْقِدُونَ — yo'qotish mudori' fe'li.",
+          "uz": "yo'qotdingizlar"
+        }
       ]
     },
     {
       "ar": "قَالُوا: نَفْقِدُ صُوَاعَ (إِنَاءَ) الْمَلِكِ، وَلِمَنْ جَاءَ بِهِ حِمْلُ بَعِيرٍ.",
       "tr": "Ular: Podshohning so'voni, ya'ni idishini yo'qotdik. Uni olib kelgan kishiga bir tuya yuki bor, — dedilar.",
       "parts": [
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "ular dedilar" },
-        { "w": "نَفْقِدُ", "r": "فِعل مُضَارِع", "rc": "tf", "e": "نَفْقِدُ — yo'qotish mudori' fe'li.", "uz": "yo'qotdik" },
-        { "w": "صُوَاعَ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tf", "e": "صُوَاعَ — nafqidu fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.", "uz": "so'von" },
-        { "w": "إِنَاءَ", "r": "بَدَل / تَفسِير", "rc": "tb", "e": "إِنَاءَ — suva' so'zining tafsiri yoki badali.", "uz": "idishi" },
-        { "w": "الْمَلِكِ", "r": "مُضَاف إِلَيه", "rc": "tf", "e": "الْمَلِكِ — muzofun ilayh, kasra bilan majrur.", "uz": "podshohning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tm", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لِ", "r": "حَرف جَر (خَبَر مُقَدَّم)", "rc": "tm", "e": "لِ — jar harfi, oldingi xabar.", "uz": "-ga" },
-        { "w": "مَنْ", "r": "اسم مَوصُول", "rc": "tm", "e": "مَنْ — nisbiy olmos.", "uz": "kim" },
-        { "w": "جَاءَ", "r": "فِعل مَاضٍ (صِلَة)", "rc": "tm", "e": "جَاءَ — man ning sila fe'li.", "uz": "keldi" },
-        { "w": "بِ", "r": "حَرف جَر", "rc": "tm", "e": "بِ — jar harfi.", "uz": "bilan" },
-        { "w": "هِ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tm", "e": "هِ — muttasil zamir majrur.", "uz": "uni" },
-        { "w": "حِمْلُ", "r": "مُبتَدَأ مُؤَخَّر / مُضَاف", "rc": "tm", "e": "حِمْلُ — kechiktirilgan mubtado bo'lib damma bilan marfu' va muzofdir.", "uz": "yuki" },
-        { "w": "بَعِيرٍ", "r": "مُضَاف إِلَيه", "rc": "tm", "e": "بَعِيرٍ — muzofun ilayh, kasra tanvini bilan majrur.", "uz": "tuya" }
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "نَفْقِدُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "نَفْقِدُ — yo'qotish mudori' fe'li.",
+          "uz": "yo'qotdik"
+        },
+        {
+          "w": "صُوَاعَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tf",
+          "e": "صُوَاعَ — nafqidu fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.",
+          "uz": "so'von"
+        },
+        {
+          "w": "إِنَاءَ",
+          "r": "بَدَل / تَفسِير",
+          "rc": "tb",
+          "e": "إِنَاءَ — suva' so'zining tafsiri yoki badali.",
+          "uz": "idishi"
+        },
+        {
+          "w": "الْمَلِكِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tf",
+          "e": "الْمَلِكِ — muzofun ilayh, kasra bilan majrur.",
+          "uz": "podshohning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tm",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر (خَبَر مُقَدَّم)",
+          "rc": "tm",
+          "e": "لِ — jar harfi, oldingi xabar.",
+          "uz": "-ga"
+        },
+        {
+          "w": "مَنْ",
+          "r": "اسم مَوصُول",
+          "rc": "tm",
+          "e": "مَنْ — nisbiy olmos.",
+          "uz": "kim"
+        },
+        {
+          "w": "جَاءَ",
+          "r": "فِعل مَاضٍ (صِلَة)",
+          "rc": "tm",
+          "e": "جَاءَ — man ning sila fe'li.",
+          "uz": "keldi"
+        },
+        {
+          "w": "بِ",
+          "r": "حَرف جَر",
+          "rc": "tm",
+          "e": "بِ — jar harfi.",
+          "uz": "bilan"
+        },
+        {
+          "w": "هِ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tm",
+          "e": "هِ — muttasil zamir majrur.",
+          "uz": "uni"
+        },
+        {
+          "w": "حِمْلُ",
+          "r": "مُبتَدَأ مُؤَخَّر / مُضَاف",
+          "rc": "tm",
+          "e": "حِمْلُ — kechiktirilgan mubtado bo'lib damma bilan marfu' va muzofdir.",
+          "uz": "yuki"
+        },
+        {
+          "w": "بَعِيرٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tm",
+          "e": "بَعِيرٍ — muzofun ilayh, kasra tanvini bilan majrur.",
+          "uz": "tuya"
+        }
       ]
     },
     {
       "ar": "قَالُوا: ﴿تَاللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنَفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ﴾!",
       "tr": "Ular dedilar: «Allohga qasamki, sizlar bilasizlar, biz yerda buzg'unchilik qilish uchun kelmadik va biz o'g'ri emas edik!»",
       "parts": [
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "ular dedilar" },
-        { "w": "تَ", "r": "حَرف قَسَم", "rc": "tf", "e": "تَ — qasam harfi.", "uz": "qasam" },
-        { "w": "اللَّهِ", "r": "اسم مَجرُور (قَسَم)", "rc": "tf", "e": "اللَّهِ — qasam harfi sababli kasra bilan majrur.", "uz": "Allohga" },
-        { "w": "لَ", "r": "لام التَّوكِيد", "rc": "tf", "e": "لَ — ta'kidlovchi lam harfi.", "uz": "albatta" },
-        { "w": "قَدْ", "r": "حَرف تَحقِيق", "rc": "tf", "e": "قَدْ — ta'kid harfi.", "uz": "darhaqiqat" },
-        { "w": "عَلِمْتُمْ", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "عَلِمْتُمْ — ikkinchi shaxs ko'plik o'tgan zamon fe'li.", "uz": "bildingiz" },
-        { "w": "مَا", "r": "حَرف نَفي", "rc": "tb", "e": "مَا — inkor harfi.", "uz": "emas" },
-        { "w": "جِئْنَا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tb", "e": "جِئْنَا — birinchi shaxs ko'plik o'tgan zamon fe'li.", "uz": "keldik" },
-        { "w": "لِ", "r": "حَرف جَر لِلتَّعلِيل", "rc": "tb", "e": "لِ — sabab bildiruvchi jar harfi.", "uz": "uchun" },
-        { "w": "نَفْسِدَ", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tb", "e": "نَفْسِدَ — buzg'unchilik qilish mudori' fe'li, mansub.", "uz": "buzg'unchilik" },
-        { "w": "فِي", "r": "حَرف جَر", "rc": "tb", "e": "فِي — jar harfi.", "uz": "-da" },
-        { "w": "الْأَرْضِ", "r": "اسم مَجرُور", "rc": "tb", "e": "الْأَرْضِ — jar harfi sababli kasra bilan majrur.", "uz": "yer" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "مَا", "r": "حَرف نَفي", "rc": "tb", "e": "مَا — inkor harfi.", "uz": "emas" },
-        { "w": "كُنَّا", "r": "فِعل مَاضٍ نَاقِص وَفَاعِل", "rc": "tb", "e": "كُنَّا — birinchi shaxs ko'plik noqis fe'li.", "uz": "edik" },
-        { "w": "سَارِقِينَ", "r": "خَبَر كَانَ", "rc": "tb", "e": "سَارِقِينَ — kana ning xabari bo'lib ya' bilan mansub.", "uz": "o'g'rilar" }
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "تَ",
+          "r": "حَرف قَسَم",
+          "rc": "tf",
+          "e": "تَ — qasam harfi.",
+          "uz": "qasam"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مَجرُور (قَسَم)",
+          "rc": "tf",
+          "e": "اللَّهِ — qasam harfi sababli kasra bilan majrur.",
+          "uz": "Allohga"
+        },
+        {
+          "w": "لَ",
+          "r": "لام التَّوكِيد",
+          "rc": "tf",
+          "e": "لَ — ta'kidlovchi lam harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حَرف تَحقِيق",
+          "rc": "tf",
+          "e": "قَدْ — ta'kid harfi.",
+          "uz": "darhaqiqat"
+        },
+        {
+          "w": "عَلِمْتُمْ",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "عَلِمْتُمْ — ikkinchi shaxs ko'plik o'tgan zamon fe'li.",
+          "uz": "bildingiz"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "مَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "جِئْنَا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tb",
+          "e": "جِئْنَا — birinchi shaxs ko'plik o'tgan zamon fe'li.",
+          "uz": "keldik"
+        },
+        {
+          "w": "لِ",
+          "r": "حَرف جَر لِلتَّعلِيل",
+          "rc": "tb",
+          "e": "لِ — sabab bildiruvchi jar harfi.",
+          "uz": "uchun"
+        },
+        {
+          "w": "نَفْسِدَ",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tb",
+          "e": "نَفْسِدَ — buzg'unchilik qilish mudori' fe'li, mansub.",
+          "uz": "buzg'unchilik"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "الْأَرْضِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْأَرْضِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "yer"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "مَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "مَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "كُنَّا",
+          "r": "فِعل مَاضٍ نَاقِص وَفَاعِل",
+          "rc": "tb",
+          "e": "كُنَّا — birinchi shaxs ko'plik noqis fe'li.",
+          "uz": "edik"
+        },
+        {
+          "w": "سَارِقِينَ",
+          "r": "خَبَر كَانَ",
+          "rc": "tb",
+          "e": "سَارِقِينَ — kana ning xabari bo'lib ya' bilan mansub.",
+          "uz": "o'g'rilar"
+        }
       ]
     },
     {
       "ar": "قَالُوا: ﴿فَمَا جَزَاؤُهُ إِن كُنتُمْ كَاذِبِينَ﴾؟",
       "tr": "Ular: «Agar yolg'onchi bo'lsangiz, uning jazosi nima?» — dedilar.",
       "parts": [
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "ular dedilar" },
-        { "w": "فَ", "r": "حَرف عَطف", "rc": "tm", "e": "فَ — atf harfi.", "uz": "so'ng" },
-        { "w": "مَا", "r": "اسم اِستِفهَام (مُبتَدَأ)", "rc": "tm", "e": "مَا — so'roq ismidagi mubtado.", "uz": "nima" },
-        { "w": "جَزَاؤُ", "r": "خَبَر / مُضَاف", "rc": "tm", "e": "جَزَاؤُ — xabar va muzofdir.", "uz": "jazosi" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tm", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "إِنْ", "r": "حَرف شَرط", "rc": "tb", "e": "إِنْ — shart harfi.", "uz": "agar" },
-        { "w": "كُنتُمْ", "r": "فِعل مَاضٍ نَاقِص وَفَاعِل (شَرط)", "rc": "tb", "e": "كُنتُمْ — shart fe'li bo'lgan noqis o'tgan zamon.", "uz": "bo'ldingizlar" },
-        { "w": "كَاذِبِينَ", "r": "خَبَر كَانَ", "rc": "tb", "e": "كَاذِبِينَ — kana ning xabari, ya' bilan mansub.", "uz": "yolg'onchilar" }
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف",
+          "rc": "tm",
+          "e": "فَ — atf harfi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "مَا",
+          "r": "اسم اِستِفهَام (مُبتَدَأ)",
+          "rc": "tm",
+          "e": "مَا — so'roq ismidagi mubtado.",
+          "uz": "nima"
+        },
+        {
+          "w": "جَزَاؤُ",
+          "r": "خَبَر / مُضَاف",
+          "rc": "tm",
+          "e": "جَزَاؤُ — xabar va muzofdir.",
+          "uz": "jazosi"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tm",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "إِنْ",
+          "r": "حَرف شَرط",
+          "rc": "tb",
+          "e": "إِنْ — shart harfi.",
+          "uz": "agar"
+        },
+        {
+          "w": "كُنتُمْ",
+          "r": "فِعل مَاضٍ نَاقِص وَفَاعِل (شَرط)",
+          "rc": "tb",
+          "e": "كُنتُمْ — shart fe'li bo'lgan noqis o'tgan zamon.",
+          "uz": "bo'ldingizlar"
+        },
+        {
+          "w": "كَاذِبِينَ",
+          "r": "خَبَر كَانَ",
+          "rc": "tb",
+          "e": "كَاذِبِينَ — kana ning xabari, ya' bilan mansub.",
+          "uz": "yolg'onchilar"
+        }
       ]
     },
     {
       "ar": "قَالُوا: ﴿جَزَاؤُهُ مَن وُجِدَ فِي رَحْلِهِ فَهُوَ جَزَاؤُهُ كَذَلِكَ نَجْزِي الظَّالِمِينَ﴾.",
       "tr": "Ular dedilar: «Jazosi shuki, kimning yukidan topilsa, o'sha uning jazosidir. Zolimlarni shunday jazolaymiz».",
       "parts": [
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "ular dedilar" },
-        { "w": "جَزَاؤُ", "r": "مُبتَدَأ / مُضَاف", "rc": "tm", "e": "جَزَاؤُ — mubtado va muzofdir.", "uz": "jazosi" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tm", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "مَنْ", "r": "اسم شَرط", "rc": "tb", "e": "مَنْ — shart ismosi.", "uz": "kim" },
-        { "w": "وُجِدَ", "r": "فِعل مَاضٍ مَجهُول (شَرط)", "rc": "tb", "e": "وُجِدَ — majhul shart fe'li.", "uz": "topilsa" },
-        { "w": "فِي", "r": "حَرف جَر", "rc": "tb", "e": "فِي — jar harfi.", "uz": "-da" },
-        { "w": "رَحْلِ", "r": "اسم مَجرُور / مُضَاف", "rc": "tb", "e": "رَحْلِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yukida" },
-        { "w": "هِ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هِ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "فَ", "r": "حَرف جَوَاب الشَّرط", "rc": "tm", "e": "فَ — shart javobini boshlaydi.", "uz": "u holda" },
-        { "w": "هُوَ", "r": "مُبتَدَأ (ضَمِير مُنْفَصِل)", "rc": "tm", "e": "هُوَ — mustaqil zamir mubtado.", "uz": "u" },
-        { "w": "جَزَاؤُ", "r": "خَبَر / مُضَاف", "rc": "tm", "e": "جَزَاؤُ — xabar va muzofdir.", "uz": "jazosi" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tm", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "كَذَلِكَ", "r": "اسم إِشَارَة (مَفعُول مُطْلَق)", "rc": "tf", "e": "كَذَلِكَ — shunday tarzda degan ma'noda ishlatilgan ishora.", "uz": "shunday" },
-        { "w": "نَجْزِي", "r": "فِعل مُضَارِع", "rc": "tf", "e": "نَجْزِي — jazolaymiz mudori' fe'li.", "uz": "jazolaymiz" },
-        { "w": "الظَّالِمِينَ", "r": "مَفعُول بِهِ", "rc": "tf", "e": "الظَّالِمِينَ — najzi fe'lining maf'ul bihi, ya' bilan mansub.", "uz": "zolimlarni" }
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "جَزَاؤُ",
+          "r": "مُبتَدَأ / مُضَاف",
+          "rc": "tm",
+          "e": "جَزَاؤُ — mubtado va muzofdir.",
+          "uz": "jazosi"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tm",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "مَنْ",
+          "r": "اسم شَرط",
+          "rc": "tb",
+          "e": "مَنْ — shart ismosi.",
+          "uz": "kim"
+        },
+        {
+          "w": "وُجِدَ",
+          "r": "فِعل مَاضٍ مَجهُول (شَرط)",
+          "rc": "tb",
+          "e": "وُجِدَ — majhul shart fe'li.",
+          "uz": "topilsa"
+        },
+        {
+          "w": "فِي",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "فِي — jar harfi.",
+          "uz": "-da"
+        },
+        {
+          "w": "رَحْلِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tb",
+          "e": "رَحْلِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yukida"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هِ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف جَوَاب الشَّرط",
+          "rc": "tm",
+          "e": "فَ — shart javobini boshlaydi.",
+          "uz": "u holda"
+        },
+        {
+          "w": "هُوَ",
+          "r": "مُبتَدَأ (ضَمِير مُنْفَصِل)",
+          "rc": "tm",
+          "e": "هُوَ — mustaqil zamir mubtado.",
+          "uz": "u"
+        },
+        {
+          "w": "جَزَاؤُ",
+          "r": "خَبَر / مُضَاف",
+          "rc": "tm",
+          "e": "جَزَاؤُ — xabar va muzofdir.",
+          "uz": "jazosi"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tm",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "كَذَلِكَ",
+          "r": "اسم إِشَارَة (مَفعُول مُطْلَق)",
+          "rc": "tf",
+          "e": "كَذَلِكَ — shunday tarzda degan ma'noda ishlatilgan ishora.",
+          "uz": "shunday"
+        },
+        {
+          "w": "نَجْزِي",
+          "r": "فِعل مُضَارِع",
+          "rc": "tf",
+          "e": "نَجْزِي — jazolaymiz mudori' fe'li.",
+          "uz": "jazolaymiz"
+        },
+        {
+          "w": "الظَّالِمِينَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tf",
+          "e": "الظَّالِمِينَ — najzi fe'lining maf'ul bihi, ya' bilan mansub.",
+          "uz": "zolimlarni"
+        }
       ]
     },
     {
       "ar": "وَخَرَجَ الإِناءُ مِنْ مَتَاعِ بِنْيَامِينَ فَخَجِلَ الْإِخْوَةُ وَلَكِنْ قَالُوا مِنْ غَيْرِ خَجَلٍ:",
       "tr": "Idish Binyaminning yukidan chiqdi, akalari uyalib qoldilar, lekin uyalmay dedilar:",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "خَرَجَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "خَرَجَ — chiqish fe'li.", "uz": "chiqdi" },
-        { "w": "الإِنَاءُ", "r": "فَاعِل", "rc": "tf", "e": "الإِنَاءُ — xaraja fe'lining fo'ili.", "uz": "idish" },
-        { "w": "مِنْ", "r": "حَرف جَر", "rc": "tmt", "e": "مِنْ — jar harfi.", "uz": "-dan" },
-        { "w": "مَتَاعِ", "r": "اسم مَجرُور / مُضَاف", "rc": "tmt", "e": "مَتَاعِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yukidan" },
-        { "w": "بِنْيَامِينَ", "r": "مُضَاف إِلَيه", "rc": "tmt", "e": "بِنْيَامِينَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).", "uz": "Binyaminning" },
-        { "w": "فَ", "r": "حَرف عَطف لِلتَّعقِيب", "rc": "tf", "e": "فَ — ketma-ketlik bildiruvchi atf harfi.", "uz": "so'ng" },
-        { "w": "خَجِلَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "خَجِلَ — uyalish fe'li.", "uz": "uyaldi" },
-        { "w": "الإِخْوَةُ", "r": "فَاعِل", "rc": "tf", "e": "الإِخْوَةُ — xajila fe'lining fo'ili.", "uz": "akalar" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَكِنْ", "r": "حَرف اِستِدرَاك", "rc": "tf", "e": "لَكِنْ — istidrok harfi.", "uz": "lekin" },
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "dedilar" },
-        { "w": "مِنْ", "r": "حَرف جَر (لِلحَال)", "rc": "th", "e": "مِنْ — jar harfi.", "uz": "-dan" },
-        { "w": "غَيْرِ", "r": "اسم مَجرُور / مُضَاف", "rc": "th", "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "yo'q" },
-        { "w": "خَجَلٍ", "r": "مُضَاف إِلَيه", "rc": "th", "e": "خَجَلٍ — muzofun ilayh, kasra tanvini bilan majrur.", "uz": "uyat" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "خَرَجَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "خَرَجَ — chiqish fe'li.",
+          "uz": "chiqdi"
+        },
+        {
+          "w": "الإِنَاءُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "الإِنَاءُ — xaraja fe'lining fo'ili.",
+          "uz": "idish"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tmt",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "مَتَاعِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tmt",
+          "e": "مَتَاعِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yukidan"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tmt",
+          "e": "بِنْيَامِينَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Binyaminning"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف لِلتَّعقِيب",
+          "rc": "tf",
+          "e": "فَ — ketma-ketlik bildiruvchi atf harfi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "خَجِلَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "خَجِلَ — uyalish fe'li.",
+          "uz": "uyaldi"
+        },
+        {
+          "w": "الإِخْوَةُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "الإِخْوَةُ — xajila fe'lining fo'ili.",
+          "uz": "akalar"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَكِنْ",
+          "r": "حَرف اِستِدرَاك",
+          "rc": "tf",
+          "e": "لَكِنْ — istidrok harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "dedilar"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر (لِلحَال)",
+          "rc": "th",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "غَيْرِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "th",
+          "e": "غَيْرِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "yo'q"
+        },
+        {
+          "w": "خَجَلٍ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "th",
+          "e": "خَجَلٍ — muzofun ilayh, kasra tanvini bilan majrur.",
+          "uz": "uyat"
+        }
       ]
     },
     {
       "ar": "إِنْ يَسْرِقْ بِنْيَامِينُ فَقَدْ سَرَقَ أَخٌ لَهُ يُوسُفُ مِنْ قَبْلُ.",
       "tr": "Agar Binyamin o'g'irlagan bo'lsa, undan oldin uning akasi Yusuf ham o'g'irlagan edi, dedilar.",
       "parts": [
-        { "w": "إِنْ", "r": "حَرف شَرط", "rc": "tb", "e": "إِنْ — shart harfi.", "uz": "agar" },
-        { "w": "يَسْرِقْ", "r": "فِعل مُضَارِع مَجْزُوم (شَرط)", "rc": "tb", "e": "يَسْرِقْ — shart fe'li bo'lib sukun bilan majzum.", "uz": "o'g'irlasa" },
-        { "w": "بِنْيَامِينُ", "r": "فَاعِل", "rc": "tb", "e": "بِنْيَامِينُ — yasriq fe'lining fo'ili.", "uz": "Binyamin" },
-        { "w": "فَ", "r": "حَرف جَوَاب الشَّرط", "rc": "tf", "e": "فَ — shart javobini boshlaydi.", "uz": "u holda" },
-        { "w": "قَدْ", "r": "حَرف تَحقِيق", "rc": "tf", "e": "قَدْ — ta'kid harfi.", "uz": "darhaqiqat" },
-        { "w": "سَرَقَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "سَرَقَ — o'g'irlash fe'li.", "uz": "o'g'irladi" },
-        { "w": "أَخٌ", "r": "فَاعِل", "rc": "tf", "e": "أَخٌ — saraqa fe'lining fo'ili, damma tanvini bilan marfu'.", "uz": "aka" },
-        { "w": "لَ", "r": "حَرف جَر (صِفَة)", "rc": "tf", "e": "لَ — jar harfi.", "uz": "-ga" },
-        { "w": "هُ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir majrur.", "uz": "uning" },
-        { "w": "يُوسُفُ", "r": "بَدَل مِن أَخ", "rc": "tf", "e": "يُوسُفُ — axun dan badal bo'lib nomni aniqlashtiradi.", "uz": "Yusuf" },
-        { "w": "مِنْ", "r": "حَرف جَر", "rc": "tf", "e": "مِنْ — jar harfi.", "uz": "-dan" },
-        { "w": "قَبْلُ", "r": "اسم مَجرُور (مَبنِيّ عَلَى الضَّم)", "rc": "tf", "e": "قَبْلُ — oldin zarfi, qo'shimcha tushishi sababli damm bilan binoli.", "uz": "oldin" }
+        {
+          "w": "إِنْ",
+          "r": "حَرف شَرط",
+          "rc": "tb",
+          "e": "إِنْ — shart harfi.",
+          "uz": "agar"
+        },
+        {
+          "w": "يَسْرِقْ",
+          "r": "فِعل مُضَارِع مَجْزُوم (شَرط)",
+          "rc": "tb",
+          "e": "يَسْرِقْ — shart fe'li bo'lib sukun bilan majzum.",
+          "uz": "o'g'irlasa"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "فَاعِل",
+          "rc": "tb",
+          "e": "بِنْيَامِينُ — yasriq fe'lining fo'ili.",
+          "uz": "Binyamin"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف جَوَاب الشَّرط",
+          "rc": "tf",
+          "e": "فَ — shart javobini boshlaydi.",
+          "uz": "u holda"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حَرف تَحقِيق",
+          "rc": "tf",
+          "e": "قَدْ — ta'kid harfi.",
+          "uz": "darhaqiqat"
+        },
+        {
+          "w": "سَرَقَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "سَرَقَ — o'g'irlash fe'li.",
+          "uz": "o'g'irladi"
+        },
+        {
+          "w": "أَخٌ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "أَخٌ — saraqa fe'lining fo'ili, damma tanvini bilan marfu'.",
+          "uz": "aka"
+        },
+        {
+          "w": "لَ",
+          "r": "حَرف جَر (صِفَة)",
+          "rc": "tf",
+          "e": "لَ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "هُ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir majrur.",
+          "uz": "uning"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "بَدَل مِن أَخ",
+          "rc": "tf",
+          "e": "يُوسُفُ — axun dan badal bo'lib nomni aniqlashtiradi.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "قَبْلُ",
+          "r": "اسم مَجرُور (مَبنِيّ عَلَى الضَّم)",
+          "rc": "tf",
+          "e": "قَبْلُ — oldin zarfi, qo'shimcha tushishi sababli damm bilan binoli.",
+          "uz": "oldin"
+        }
       ]
     },
     {
       "ar": "وَسَمِعَ يُوسُفُ هَذَا البُهْتَانَ فَسَكَتَ وَلَمْ يَغْضَبْ وَكَانَ يُوسُفُ كَريماً حَلِيماً.",
       "tr": "Yusuf bu tuhmatni eshitdi, sukut qildi, g'azablanmadi va Yusuf karim hamda halim edi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "سَمِعَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "سَمِعَ — eshitish fe'li.", "uz": "eshitdi" },
-        { "w": "يُوسُفُ", "r": "فَاعِل", "rc": "tf", "e": "يُوسُفُ — sami'a fe'lining fo'ili.", "uz": "Yusuf" },
-        { "w": "هَذَا", "r": "مَفعُول بِهِ (اسم إِشَارَة)", "rc": "tf", "e": "هَذَا — maf'ul bihi bo'lgan ishora olmosi.", "uz": "bu" },
-        { "w": "الْبُهْتَانَ", "r": "بَدَل مِن هَذَا", "rc": "tf", "e": "الْبُهْتَانَ — haza dan badal bo'lib fatha bilan mansub.", "uz": "tuhmat" },
-        { "w": "فَ", "r": "حَرف عَطف لِلتَّعقِيب", "rc": "tf", "e": "فَ — ketma-ketlik bildiruvchi atf harfi.", "uz": "so'ng" },
-        { "w": "سَكَتَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "سَكَتَ — sukut qilish fe'li.", "uz": "sukut qildi" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "لَمْ", "r": "حَرف جَزم وَنَفي", "rc": "tf", "e": "لَمْ — inkor va jazm harfi.", "uz": "emas" },
-        { "w": "يَغْضَبْ", "r": "فِعل مُضَارِع مَجْزُوم", "rc": "tf", "e": "يَغْضَبْ — lam harfi sababli sukun bilan jazmlangan mudori' fe'li.", "uz": "g'azablandi" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "كَانَ", "r": "فِعل مَاضٍ نَاقِص", "rc": "tb", "e": "كَانَ — noqis fe'l.", "uz": "edi" },
-        { "w": "يُوسُفُ", "r": "اسم كَانَ", "rc": "tb", "e": "يُوسُفُ — kana ning ismi.", "uz": "Yusuf" },
-        { "w": "كَرِيماً", "r": "خَبَر كَانَ", "rc": "tb", "e": "كَرِيماً — kana ning birinchi xabari.", "uz": "saxovatli" },
-        { "w": "حَلِيماً", "r": "خَبَر ثَانٍ لِكَانَ", "rc": "tb", "e": "حَلِيماً — kana ning ikkinchi xabari.", "uz": "halim" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "سَمِعَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "سَمِعَ — eshitish fe'li.",
+          "uz": "eshitdi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "يُوسُفُ — sami'a fe'lining fo'ili.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "هَذَا",
+          "r": "مَفعُول بِهِ (اسم إِشَارَة)",
+          "rc": "tf",
+          "e": "هَذَا — maf'ul bihi bo'lgan ishora olmosi.",
+          "uz": "bu"
+        },
+        {
+          "w": "الْبُهْتَانَ",
+          "r": "بَدَل مِن هَذَا",
+          "rc": "tf",
+          "e": "الْبُهْتَانَ — haza dan badal bo'lib fatha bilan mansub.",
+          "uz": "tuhmat"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف لِلتَّعقِيب",
+          "rc": "tf",
+          "e": "فَ — ketma-ketlik bildiruvchi atf harfi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "سَكَتَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "سَكَتَ — sukut qilish fe'li.",
+          "uz": "sukut qildi"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "لَمْ",
+          "r": "حَرف جَزم وَنَفي",
+          "rc": "tf",
+          "e": "لَمْ — inkor va jazm harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَغْضَبْ",
+          "r": "فِعل مُضَارِع مَجْزُوم",
+          "rc": "tf",
+          "e": "يَغْضَبْ — lam harfi sababli sukun bilan jazmlangan mudori' fe'li.",
+          "uz": "g'azablandi"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — noqis fe'l.",
+          "uz": "edi"
+        },
+        {
+          "w": "يُوسُفُ",
+          "r": "اسم كَانَ",
+          "rc": "tb",
+          "e": "يُوسُفُ — kana ning ismi.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "كَرِيماً",
+          "r": "خَبَر كَانَ",
+          "rc": "tb",
+          "e": "كَرِيماً — kana ning birinchi xabari.",
+          "uz": "saxovatli"
+        },
+        {
+          "w": "حَلِيماً",
+          "r": "خَبَر ثَانٍ لِكَانَ",
+          "rc": "tb",
+          "e": "حَلِيماً — kana ning ikkinchi xabari.",
+          "uz": "halim"
+        }
       ]
     },
     {
       "ar": "قَالُوا: ﴿يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ﴾.",
       "tr": "Ular dedilar: «Ey Aziz, uning keksa otasi bor, uning o'rniga bizlardan birimizni ol. Albatta biz seni yaxshilik qiluvchilardan deb ko'ramiz».",
       "parts": [
-        { "w": "قَالُوا", "r": "فِعل مَاضٍ وَفَاعِل", "rc": "tf", "e": "قَالُوا — o'tgan zamon fe'li.", "uz": "ular dedilar" },
-        { "w": "يَا", "r": "حَرف نِدَاء", "rc": "tb", "e": "يَا — nido harfi.", "uz": "ey" },
-        { "w": "أَيُّهَا", "r": "اسم نِدَاء لِلتَّعرِيف", "rc": "tb", "e": "أَيُّهَا — aniq predmet uchun nido olmosi.", "uz": "siz" },
-        { "w": "الْعَزِيزُ", "r": "مُنَادَى (بَدَل / عَطف بَيَان)", "rc": "tb", "e": "الْعَزِيزُ — ayyuha dan badal bo'lib marfu'.", "uz": "Aziz" },
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "لَ", "r": "حَرف جَر (خَبَر مُقَدَّم)", "rc": "tb", "e": "لَ — jar harfi.", "uz": "-ga" },
-        { "w": "هُ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — muttasil zamir majrur.", "uz": "uning" },
-        { "w": "أَباً", "r": "اسم إِنَّ مُؤَخَّر", "rc": "tb", "e": "أَباً — inna ning kechiktirilgan ismi, fatha tanvini bilan mansub.", "uz": "ota" },
-        { "w": "شَيْخاً", "r": "صِفَة", "rc": "tb", "e": "شَيْخاً — aban ismining sifati.", "uz": "keksa" },
-        { "w": "كَبِيراً", "r": "صِفَة ثَانِيَة", "rc": "tb", "e": "كَبِيراً — aban ning ikkinchi sifati.", "uz": "ulug'" },
-        { "w": "فَ", "r": "حَرف عَطف لِلتَّسبِيب", "rc": "tf", "e": "فَ — sababiyat bildiruvchi atf harfi.", "uz": "shuning uchun" },
-        { "w": "خُذْ", "r": "فِعل أَمْر", "rc": "tf", "e": "خُذْ — olish buyruq fe'li.", "uz": "ol" },
-        { "w": "أَحَدَ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tf", "e": "أَحَدَ — xuz fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.", "uz": "biri" },
-        { "w": "نَا", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "نَا — muttasil zamir muzofun ilayh.", "uz": "bizning" },
-        { "w": "مَكَانَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tf", "e": "مَكَانَ — o'rin zarfi va muzofdir.", "uz": "o'rnida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "نَا", "r": "اسم إِنَّ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "نَا — inna ning ismi sifatida mahallan mansub.", "uz": "biz" },
-        { "w": "نَرَا", "r": "فِعل مُضَارِع", "rc": "tb", "e": "نَرَا — ko'rish mudori' fe'li.", "uz": "ko'ramiz" },
-        { "w": "كَ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "كَ — nara fe'lining maf'ul zamiri.", "uz": "seni" },
-        { "w": "مِنَ", "r": "حَرف جَر", "rc": "tb", "e": "مِنَ — jar harfi.", "uz": "-dan" },
-        { "w": "الْمُحْسِنِينَ", "r": "اسم مَجرُور", "rc": "tb", "e": "الْمُحْسِنِينَ — jar harfi sababli ya' bilan majrur.", "uz": "yaxshilik qiluvchilar" }
+        {
+          "w": "قَالُوا",
+          "r": "فِعل مَاضٍ وَفَاعِل",
+          "rc": "tf",
+          "e": "قَالُوا — o'tgan zamon fe'li.",
+          "uz": "ular dedilar"
+        },
+        {
+          "w": "يَا",
+          "r": "حَرف نِدَاء",
+          "rc": "tb",
+          "e": "يَا — nido harfi.",
+          "uz": "ey"
+        },
+        {
+          "w": "أَيُّهَا",
+          "r": "اسم نِدَاء لِلتَّعرِيف",
+          "rc": "tb",
+          "e": "أَيُّهَا — aniq predmet uchun nido olmosi.",
+          "uz": "siz"
+        },
+        {
+          "w": "الْعَزِيزُ",
+          "r": "مُنَادَى (بَدَل / عَطف بَيَان)",
+          "rc": "tb",
+          "e": "الْعَزِيزُ — ayyuha dan badal bo'lib marfu'.",
+          "uz": "Aziz"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "لَ",
+          "r": "حَرف جَر (خَبَر مُقَدَّم)",
+          "rc": "tb",
+          "e": "لَ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "هُ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — muttasil zamir majrur.",
+          "uz": "uning"
+        },
+        {
+          "w": "أَباً",
+          "r": "اسم إِنَّ مُؤَخَّر",
+          "rc": "tb",
+          "e": "أَباً — inna ning kechiktirilgan ismi, fatha tanvini bilan mansub.",
+          "uz": "ota"
+        },
+        {
+          "w": "شَيْخاً",
+          "r": "صِفَة",
+          "rc": "tb",
+          "e": "شَيْخاً — aban ismining sifati.",
+          "uz": "keksa"
+        },
+        {
+          "w": "كَبِيراً",
+          "r": "صِفَة ثَانِيَة",
+          "rc": "tb",
+          "e": "كَبِيراً — aban ning ikkinchi sifati.",
+          "uz": "ulug'"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف لِلتَّسبِيب",
+          "rc": "tf",
+          "e": "فَ — sababiyat bildiruvchi atf harfi.",
+          "uz": "shuning uchun"
+        },
+        {
+          "w": "خُذْ",
+          "r": "فِعل أَمْر",
+          "rc": "tf",
+          "e": "خُذْ — olish buyruq fe'li.",
+          "uz": "ol"
+        },
+        {
+          "w": "أَحَدَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tf",
+          "e": "أَحَدَ — xuz fe'lining maf'ul bihi bo'lib fatha bilan mansub va muzofdir.",
+          "uz": "biri"
+        },
+        {
+          "w": "نَا",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "نَا — muttasil zamir muzofun ilayh.",
+          "uz": "bizning"
+        },
+        {
+          "w": "مَكَانَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tf",
+          "e": "مَكَانَ — o'rin zarfi va muzofdir.",
+          "uz": "o'rnida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "نَا",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نَا — inna ning ismi sifatida mahallan mansub.",
+          "uz": "biz"
+        },
+        {
+          "w": "نَرَا",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "نَرَا — ko'rish mudori' fe'li.",
+          "uz": "ko'ramiz"
+        },
+        {
+          "w": "كَ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "كَ — nara fe'lining maf'ul zamiri.",
+          "uz": "seni"
+        },
+        {
+          "w": "مِنَ",
+          "r": "حَرف جَر",
+          "rc": "tb",
+          "e": "مِنَ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الْمُحْسِنِينَ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الْمُحْسِنِينَ — jar harfi sababli ya' bilan majrur.",
+          "uz": "yaxshilik qiluvchilar"
+        }
       ]
     },
     {
       "ar": "قَالَ: ﴿مَعَاذَ اللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَاعَنَا عِندَهُ إِنَّا إِذًا لَّظَالِمُونَ﴾.",
       "tr": "U dedi: «Alloh saqlasin, narsamizni yonidan topgan kishidan boshqasini olishdan. Unday qilsak, albatta zolimlardan bo'lamiz».",
       "parts": [
-        { "w": "قَالَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "قَالَ — o'tgan zamon fe'li.", "uz": "dedi" },
-        { "w": "مَعَاذَ", "r": "مَصدَر دُعَائِيّ / مُضَاف", "rc": "tf", "e": "مَعَاذَ — panoh so'rash masdariy iborasi, muzofdir.", "uz": "Alloh saqlasin" },
-        { "w": "اللَّهِ", "r": "مُضَاف إِلَيه", "rc": "tf", "e": "اللَّهِ — muzofun ilayh bo'lib kasra bilan majrur.", "uz": "Allohning" },
-        { "w": "أَنْ", "r": "حَرف نَصب وَمَصدَرِيَّة", "rc": "tb", "e": "أَنْ — nasb va masdariy harf.", "uz": "-ni" },
-        { "w": "نَأْخُذَ", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tb", "e": "نَأْخُذَ — an harfi sababli fatha bilan mansub mudori' fe'li.", "uz": "olishdan" },
-        { "w": "إِلَّا", "r": "حَرف اِستِثنَاء", "rc": "tb", "e": "إِلَّا — istisno harfi.", "uz": "bundan tashqari" },
-        { "w": "مَنْ", "r": "اسم مَوصُول", "rc": "tb", "e": "مَنْ — nisbiy olmos.", "uz": "kim" },
-        { "w": "وَجَدْنَا", "r": "فِعل مَاضٍ وَفَاعِل (صِلَة)", "rc": "tb", "e": "وَجَدْنَا — man ning sila fe'li.", "uz": "topdik" },
-        { "w": "مَتَاعَ", "r": "مَفعُول بِهِ / مُضَاف", "rc": "tb", "e": "مَتَاعَ — wajadna fe'lining maf'ul bihi, fatha bilan mansub va muzofdir.", "uz": "narsalarimiz" },
-        { "w": "نَا", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "نَا — muttasil zamir muzofun ilayh.", "uz": "bizning" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tb", "e": "عِنْدَ — o'rin zarfi va muzofdir.", "uz": "yonida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "نَا", "r": "اسم إِنَّ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "نَا — inna ning ismi sifatida mahallan mansub.", "uz": "biz" },
-        { "w": "إِذاً", "r": "حَرف جَوَاب وَجَزَاء", "rc": "tb", "e": "إِذاً — unday bo'lsa degan natija harfi.", "uz": "u holda" },
-        { "w": "لَ", "r": "لام التَّوكِيد", "rc": "tb", "e": "لَ — ta'kidlovchi lam harfi.", "uz": "albatta" },
-        { "w": "ظَالِمُونَ", "r": "خَبَر إِنَّ", "rc": "tb", "e": "ظَالِمُونَ — inna ning xabari bo'lib vov bilan marfu'.", "uz": "zolimlar" }
+        {
+          "w": "قَالَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "قَالَ — o'tgan zamon fe'li.",
+          "uz": "dedi"
+        },
+        {
+          "w": "مَعَاذَ",
+          "r": "مَصدَر دُعَائِيّ / مُضَاف",
+          "rc": "tf",
+          "e": "مَعَاذَ — panoh so'rash masdariy iborasi, muzofdir.",
+          "uz": "Alloh saqlasin"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tf",
+          "e": "اللَّهِ — muzofun ilayh bo'lib kasra bilan majrur.",
+          "uz": "Allohning"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف نَصب وَمَصدَرِيَّة",
+          "rc": "tb",
+          "e": "أَنْ — nasb va masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "نَأْخُذَ",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tb",
+          "e": "نَأْخُذَ — an harfi sababli fatha bilan mansub mudori' fe'li.",
+          "uz": "olishdan"
+        },
+        {
+          "w": "إِلَّا",
+          "r": "حَرف اِستِثنَاء",
+          "rc": "tb",
+          "e": "إِلَّا — istisno harfi.",
+          "uz": "bundan tashqari"
+        },
+        {
+          "w": "مَنْ",
+          "r": "اسم مَوصُول",
+          "rc": "tb",
+          "e": "مَنْ — nisbiy olmos.",
+          "uz": "kim"
+        },
+        {
+          "w": "وَجَدْنَا",
+          "r": "فِعل مَاضٍ وَفَاعِل (صِلَة)",
+          "rc": "tb",
+          "e": "وَجَدْنَا — man ning sila fe'li.",
+          "uz": "topdik"
+        },
+        {
+          "w": "مَتَاعَ",
+          "r": "مَفعُول بِهِ / مُضَاف",
+          "rc": "tb",
+          "e": "مَتَاعَ — wajadna fe'lining maf'ul bihi, fatha bilan mansub va muzofdir.",
+          "uz": "narsalarimiz"
+        },
+        {
+          "w": "نَا",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نَا — muttasil zamir muzofun ilayh.",
+          "uz": "bizning"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tb",
+          "e": "عِنْدَ — o'rin zarfi va muzofdir.",
+          "uz": "yonida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "نَا",
+          "r": "اسم إِنَّ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "نَا — inna ning ismi sifatida mahallan mansub.",
+          "uz": "biz"
+        },
+        {
+          "w": "إِذاً",
+          "r": "حَرف جَوَاب وَجَزَاء",
+          "rc": "tb",
+          "e": "إِذاً — unday bo'lsa degan natija harfi.",
+          "uz": "u holda"
+        },
+        {
+          "w": "لَ",
+          "r": "لام التَّوكِيد",
+          "rc": "tb",
+          "e": "لَ — ta'kidlovchi lam harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "ظَالِمُونَ",
+          "r": "خَبَر إِنَّ",
+          "rc": "tb",
+          "e": "ظَالِمُونَ — inna ning xabari bo'lib vov bilan marfu'.",
+          "uz": "zolimlar"
+        }
       ]
     },
     {
       "ar": "وَهَكَذَا بَقِيَ بِنْيَامِينُ عِنْدَ يُوسُفَ وَفَرِحَ الأَخَوَانِ جَمِيعاً.",
       "tr": "Shunday qilib Binyamin Yusufning yonida qoldi va ikki aka-uka birgalikda xursand bo'ldi.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "هَكَذَا", "r": "اسم إِشَارَة", "rc": "tf", "e": "هَكَذَا — shunday tarzda ma'nosidagi ishora.", "uz": "shunday" },
-        { "w": "بَقِيَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "بَقِيَ — qolish fe'li.", "uz": "qoldi" },
-        { "w": "بِنْيَامِينُ", "r": "فَاعِل", "rc": "tf", "e": "بِنْيَامِينُ — baqiya fe'lining fo'ili.", "uz": "Binyamin" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tmt", "e": "عِنْدَ — o'rin zarfi va muzofdir.", "uz": "yonida" },
-        { "w": "يُوسُفَ", "r": "مُضَاف إِلَيه", "rc": "tmt", "e": "يُوسُفَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).", "uz": "Yusufning" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "فَرِحَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "فَرِحَ — xursand bo'lish fe'li.", "uz": "xursand bo'ldi" },
-        { "w": "الأَخَوَانِ", "r": "فَاعِل (مُثَنَّى)", "rc": "tf", "e": "الأَخَوَانِ — farixa fe'lining ikkilik fo'ili, alif bilan marfu'.", "uz": "ikki aka" },
-        { "w": "جَمِيعاً", "r": "حَال", "rc": "th", "e": "جَمِيعاً — birgalikda ma'nosidagi hol, fatha tanvini bilan mansub.", "uz": "birga" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "هَكَذَا",
+          "r": "اسم إِشَارَة",
+          "rc": "tf",
+          "e": "هَكَذَا — shunday tarzda ma'nosidagi ishora.",
+          "uz": "shunday"
+        },
+        {
+          "w": "بَقِيَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "بَقِيَ — qolish fe'li.",
+          "uz": "qoldi"
+        },
+        {
+          "w": "بِنْيَامِينُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "بِنْيَامِينُ — baqiya fe'lining fo'ili.",
+          "uz": "Binyamin"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tmt",
+          "e": "عِنْدَ — o'rin zarfi va muzofdir.",
+          "uz": "yonida"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "مُضَاف إِلَيه",
+          "rc": "tmt",
+          "e": "يُوسُفَ — muzofun ilayh, fatha bilan majrur (g'ayri munsarif).",
+          "uz": "Yusufning"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "فَرِحَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "فَرِحَ — xursand bo'lish fe'li.",
+          "uz": "xursand bo'ldi"
+        },
+        {
+          "w": "الأَخَوَانِ",
+          "r": "فَاعِل (مُثَنَّى)",
+          "rc": "tf",
+          "e": "الأَخَوَانِ — farixa fe'lining ikkilik fo'ili, alif bilan marfu'.",
+          "uz": "ikki aka"
+        },
+        {
+          "w": "جَمِيعاً",
+          "r": "حَال",
+          "rc": "th",
+          "e": "جَمِيعاً — birgalikda ma'nosidagi hol, fatha tanvini bilan mansub.",
+          "uz": "birga"
+        }
       ]
     },
     {
       "ar": "إِنَّ يُوسُفَ كَانَ وَحِيداً مُنْذُ زَمَنٍ طَوِيلٍ لا يَرَى أَحَداً مِنْ أَهْلِهِ.",
       "tr": "Yusuf uzoq zamondan beri yolg'iz edi, ahli oilasidan hech kimni ko'rmas edi.",
       "parts": [
-        { "w": "إِنَّ", "r": "حَرف تَوكِيد وَنَصب", "rc": "tb", "e": "إِنَّ — ta'kid va nasb harfi.", "uz": "albatta" },
-        { "w": "يُوسُفَ", "r": "اسم إِنَّ", "rc": "tb", "e": "يُوسُفَ — inna ning ismi bo'lib fatha bilan mansub.", "uz": "Yusuf" },
-        { "w": "كَانَ", "r": "فِعل مَاضٍ نَاقِص", "rc": "tb", "e": "كَانَ — noqis fe'l.", "uz": "edi" },
-        { "w": "وَحِيداً", "r": "خَبَر كَانَ", "rc": "tb", "e": "وَحِيداً — kana ning xabari, fatha tanvini bilan mansub.", "uz": "yolg'iz" },
-        { "w": "مُنْذُ", "r": "حَرف جَر (لِلِابتِدَاء)", "rc": "th", "e": "مُنْذُ — ibtido vaqtini bildiruvchi jar harfi.", "uz": "dan beri" },
-        { "w": "زَمَنٍ", "r": "اسم مَجرُور", "rc": "th", "e": "زَمَنٍ — jar harfi sababli kasra tanvini bilan majrur.", "uz": "zamon" },
-        { "w": "طَوِيلٍ", "r": "صِفَة", "rc": "th", "e": "طَوِيلٍ — zamanin sifati.", "uz": "uzoq" },
-        { "w": "لَا", "r": "حَرف نَفي", "rc": "th", "e": "لَا — inkor harfi.", "uz": "emas" },
-        { "w": "يَرَى", "r": "فِعل مُضَارِع (جُمْلَة حَالِيَّة)", "rc": "th", "e": "يَرَى — ko'rish mudori' fe'li.", "uz": "ko'radi" },
-        { "w": "أَحَداً", "r": "مَفعُول بِهِ", "rc": "th", "e": "أَحَداً — yara fe'lining maf'ul bihi, fatha tanvini bilan mansub.", "uz": "hech kim" },
-        { "w": "مِنْ", "r": "حَرف جَر", "rc": "th", "e": "مِنْ — jar harfi.", "uz": "-dan" },
-        { "w": "أَهْلِ", "r": "اسم مَجرُور / مُضَاف", "rc": "th", "e": "أَهْلِ — jar harfi sababli kasra bilan majrur va muzofdir.", "uz": "ahli" },
-        { "w": "هِ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "th", "e": "هِ — muttasil zamir muzofun ilayh.", "uz": "uning" }
+        {
+          "w": "إِنَّ",
+          "r": "حَرف تَوكِيد وَنَصب",
+          "rc": "tb",
+          "e": "إِنَّ — ta'kid va nasb harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "يُوسُفَ",
+          "r": "اسم إِنَّ",
+          "rc": "tb",
+          "e": "يُوسُفَ — inna ning ismi bo'lib fatha bilan mansub.",
+          "uz": "Yusuf"
+        },
+        {
+          "w": "كَانَ",
+          "r": "فِعل مَاضٍ نَاقِص",
+          "rc": "tb",
+          "e": "كَانَ — noqis fe'l.",
+          "uz": "edi"
+        },
+        {
+          "w": "وَحِيداً",
+          "r": "خَبَر كَانَ",
+          "rc": "tb",
+          "e": "وَحِيداً — kana ning xabari, fatha tanvini bilan mansub.",
+          "uz": "yolg'iz"
+        },
+        {
+          "w": "مُنْذُ",
+          "r": "حَرف جَر (لِلِابتِدَاء)",
+          "rc": "th",
+          "e": "مُنْذُ — ibtido vaqtini bildiruvchi jar harfi.",
+          "uz": "dan beri"
+        },
+        {
+          "w": "زَمَنٍ",
+          "r": "اسم مَجرُور",
+          "rc": "th",
+          "e": "زَمَنٍ — jar harfi sababli kasra tanvini bilan majrur.",
+          "uz": "zamon"
+        },
+        {
+          "w": "طَوِيلٍ",
+          "r": "صِفَة",
+          "rc": "th",
+          "e": "طَوِيلٍ — zamanin sifati.",
+          "uz": "uzoq"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "th",
+          "e": "لَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَرَى",
+          "r": "فِعل مُضَارِع (جُمْلَة حَالِيَّة)",
+          "rc": "th",
+          "e": "يَرَى — ko'rish mudori' fe'li.",
+          "uz": "ko'radi"
+        },
+        {
+          "w": "أَحَداً",
+          "r": "مَفعُول بِهِ",
+          "rc": "th",
+          "e": "أَحَداً — yara fe'lining maf'ul bihi, fatha tanvini bilan mansub.",
+          "uz": "hech kim"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حَرف جَر",
+          "rc": "th",
+          "e": "مِنْ — jar harfi.",
+          "uz": "-dan"
+        },
+        {
+          "w": "أَهْلِ",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "th",
+          "e": "أَهْلِ — jar harfi sababli kasra bilan majrur va muzofdir.",
+          "uz": "ahli"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "th",
+          "e": "هِ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        }
       ]
     },
     {
       "ar": "وَقَدْ سَاقَ اللَّهُ إِلَيْهِ بِنْيَامِينَ أَفَلَا يَحْبِسُهُ عِنْدَهُ يَرَاهُ وَيُكَلِّمُهُ.",
       "tr": "Alloh Binyaminni uning oldiga yetaklab kelgan edi. Endi uni yonida olib qolib, ko'rib va gaplashib turmaydimi?",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tf", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "قَدْ", "r": "حَرف تَحقِيق", "rc": "tf", "e": "قَدْ — ta'kid harfi.", "uz": "darhaqiqat" },
-        { "w": "سَاقَ", "r": "فِعل مَاضٍ", "rc": "tf", "e": "سَاقَ — yetaklash fe'li.", "uz": "yetakladi" },
-        { "w": "اللَّهُ", "r": "فَاعِل", "rc": "tf", "e": "اللَّهُ — saqa fe'lining fo'ili.", "uz": "Alloh" },
-        { "w": "إِلَيْ", "r": "حَرف جَر", "rc": "tf", "e": "إِلَيْ — jar harfi.", "uz": "-ga" },
-        { "w": "هِ", "r": "اسم مَجرُور (ضَمِير مُتَّصِل)", "rc": "tf", "e": "هِ — muttasil zamir majrur.", "uz": "uning" },
-        { "w": "بِنْيَامِينَ", "r": "مَفعُول بِهِ", "rc": "tf", "e": "بِنْيَامِينَ — saqa fe'lining maf'ul bihi, fatha bilan mansub.", "uz": "Binyaminni" },
-        { "w": "أَ", "r": "همزة اِستِفهَام إِنكَارِيَّة", "rc": "tb", "e": "أَ — inkoriy so'roq hamzasi.", "uz": "vaholanki" },
-        { "w": "فَ", "r": "حَرف عَطف", "rc": "tb", "e": "فَ — atf harfi.", "uz": "so'ng" },
-        { "w": "لَا", "r": "حَرف نَفي", "rc": "tb", "e": "لَا — inkor harfi.", "uz": "emas" },
-        { "w": "يَحْبِسُ", "r": "فِعل مُضَارِع", "rc": "tb", "e": "يَحْبِسُ — ushlab qolish mudori' fe'li.", "uz": "ushlab qoladi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — yaxbisu fe'lining maf'ul zamiri.", "uz": "uni" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tb", "e": "عِنْدَ — o'rin zarfi va muzofdir.", "uz": "yonida" },
-        { "w": "هُ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tb", "e": "هُ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "يَرَا", "r": "فِعل مُضَارِع (حَال)", "rc": "th", "e": "يَرَا — ko'rish mudori' fe'li.", "uz": "ko'radi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "th", "e": "هُ — yara fe'lining maf'ul zamiri.", "uz": "uni" },
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "th", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "يُكَلِّمُ", "r": "فِعل مُضَارِع", "rc": "th", "e": "يُكَلِّمُ — gaplashish mudori' fe'li.", "uz": "gaplashadi" },
-        { "w": "هُ", "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)", "rc": "th", "e": "هُ — yukallimi fe'lining maf'ul zamiri.", "uz": "u bilan" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tf",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "قَدْ",
+          "r": "حَرف تَحقِيق",
+          "rc": "tf",
+          "e": "قَدْ — ta'kid harfi.",
+          "uz": "darhaqiqat"
+        },
+        {
+          "w": "سَاقَ",
+          "r": "فِعل مَاضٍ",
+          "rc": "tf",
+          "e": "سَاقَ — yetaklash fe'li.",
+          "uz": "yetakladi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "فَاعِل",
+          "rc": "tf",
+          "e": "اللَّهُ — saqa fe'lining fo'ili.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "إِلَيْ",
+          "r": "حَرف جَر",
+          "rc": "tf",
+          "e": "إِلَيْ — jar harfi.",
+          "uz": "-ga"
+        },
+        {
+          "w": "هِ",
+          "r": "اسم مَجرُور (ضَمِير مُتَّصِل)",
+          "rc": "tf",
+          "e": "هِ — muttasil zamir majrur.",
+          "uz": "uning"
+        },
+        {
+          "w": "بِنْيَامِينَ",
+          "r": "مَفعُول بِهِ",
+          "rc": "tf",
+          "e": "بِنْيَامِينَ — saqa fe'lining maf'ul bihi, fatha bilan mansub.",
+          "uz": "Binyaminni"
+        },
+        {
+          "w": "أَ",
+          "r": "همزة اِستِفهَام إِنكَارِيَّة",
+          "rc": "tb",
+          "e": "أَ — inkoriy so'roq hamzasi.",
+          "uz": "vaholanki"
+        },
+        {
+          "w": "فَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "فَ — atf harfi.",
+          "uz": "so'ng"
+        },
+        {
+          "w": "لَا",
+          "r": "حَرف نَفي",
+          "rc": "tb",
+          "e": "لَا — inkor harfi.",
+          "uz": "emas"
+        },
+        {
+          "w": "يَحْبِسُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "tb",
+          "e": "يَحْبِسُ — ushlab qolish mudori' fe'li.",
+          "uz": "ushlab qoladi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — yaxbisu fe'lining maf'ul zamiri.",
+          "uz": "uni"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tb",
+          "e": "عِنْدَ — o'rin zarfi va muzofdir.",
+          "uz": "yonida"
+        },
+        {
+          "w": "هُ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tb",
+          "e": "هُ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "يَرَا",
+          "r": "فِعل مُضَارِع (حَال)",
+          "rc": "th",
+          "e": "يَرَا — ko'rish mudori' fe'li.",
+          "uz": "ko'radi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "th",
+          "e": "هُ — yara fe'lining maf'ul zamiri.",
+          "uz": "uni"
+        },
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "th",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "يُكَلِّمُ",
+          "r": "فِعل مُضَارِع",
+          "rc": "th",
+          "e": "يُكَلِّمُ — gaplashish mudori' fe'li.",
+          "uz": "gaplashadi"
+        },
+        {
+          "w": "هُ",
+          "r": "مَفعُول بِهِ (ضَمِير مُتَّصِل)",
+          "rc": "th",
+          "e": "هُ — yukallimi fe'lining maf'ul zamiri.",
+          "uz": "u bilan"
+        }
       ]
     },
     {
       "ar": "وَهَلْ مِنَ الظُّلْمِ أَنْ يُقِيمَ أَخٌ عِنْدَ أَخِيهِ؟ أَبَداً.",
       "tr": "Akaning akasi yonida turishi zulmdanmi? Aslo.",
       "parts": [
-        { "w": "وَ", "r": "حَرف عَطف", "rc": "tb", "e": "وَ — atf harfi.", "uz": "va" },
-        { "w": "هَلْ", "r": "حَرف اِستِفهَام إِنكَارِيّ", "rc": "tb", "e": "هَلْ — inkoriy so'roq harfi.", "uz": "vaholanki" },
-        { "w": "مِنَ", "r": "حَرف جَر (خَبَر مُقَدَّم)", "rc": "tb", "e": "مِنَ — jar harfi, oldingi xabar.", "uz": "-dan" },
-        { "w": "الظُّلْمِ", "r": "اسم مَجرُور", "rc": "tb", "e": "الظُّلْمِ — jar harfi sababli kasra bilan majrur.", "uz": "zulm" },
-        { "w": "أَنْ", "r": "حَرف نَصب وَمَصدَرِيَّة", "rc": "tm", "e": "أَنْ — nasb va masdariy harf.", "uz": "-ni" },
-        { "w": "يُقِيمَ", "r": "فِعل مُضَارِع مَنْصُوب", "rc": "tm", "e": "يُقِيمَ — an harfi sababli fatha bilan mansub mudori' fe'li.", "uz": "turishi" },
-        { "w": "أَخٌ", "r": "فَاعِل", "rc": "tm", "e": "أَخٌ — yuqima fe'lining fo'ili, damma tanvini bilan marfu'.", "uz": "aka" },
-        { "w": "عِنْدَ", "r": "ظَرف مَكَان / مُضَاف", "rc": "tm", "e": "عِنْدَ — o'rin zarfi va muzofdir.", "uz": "yonida" },
-        { "w": "أَخِي", "r": "اسم مَجرُور / مُضَاف", "rc": "tm", "e": "أَخِي — jar harfi sababli kasra bilan majrur (beshta ismdan biri) va muzofdir.", "uz": "akasi" },
-        { "w": "هِ", "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)", "rc": "tm", "e": "هِ — muttasil zamir muzofun ilayh.", "uz": "uning" },
-        { "w": "أَبَداً", "r": "ظَرف زَمَان لِلتَّأكِيد", "rc": "tb", "e": "أَبَداً — qat'iy inkor zarfi.", "uz": "aslo" }
+        {
+          "w": "وَ",
+          "r": "حَرف عَطف",
+          "rc": "tb",
+          "e": "وَ — atf harfi.",
+          "uz": "va"
+        },
+        {
+          "w": "هَلْ",
+          "r": "حَرف اِستِفهَام إِنكَارِيّ",
+          "rc": "tb",
+          "e": "هَلْ — inkoriy so'roq harfi.",
+          "uz": "vaholanki"
+        },
+        {
+          "w": "مِنَ",
+          "r": "حَرف جَر (خَبَر مُقَدَّم)",
+          "rc": "tb",
+          "e": "مِنَ — jar harfi, oldingi xabar.",
+          "uz": "-dan"
+        },
+        {
+          "w": "الظُّلْمِ",
+          "r": "اسم مَجرُور",
+          "rc": "tb",
+          "e": "الظُّلْمِ — jar harfi sababli kasra bilan majrur.",
+          "uz": "zulm"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حَرف نَصب وَمَصدَرِيَّة",
+          "rc": "tm",
+          "e": "أَنْ — nasb va masdariy harf.",
+          "uz": "-ni"
+        },
+        {
+          "w": "يُقِيمَ",
+          "r": "فِعل مُضَارِع مَنْصُوب",
+          "rc": "tm",
+          "e": "يُقِيمَ — an harfi sababli fatha bilan mansub mudori' fe'li.",
+          "uz": "turishi"
+        },
+        {
+          "w": "أَخٌ",
+          "r": "فَاعِل",
+          "rc": "tm",
+          "e": "أَخٌ — yuqima fe'lining fo'ili, damma tanvini bilan marfu'.",
+          "uz": "aka"
+        },
+        {
+          "w": "عِنْدَ",
+          "r": "ظَرف مَكَان / مُضَاف",
+          "rc": "tm",
+          "e": "عِنْدَ — o'rin zarfi va muzofdir.",
+          "uz": "yonida"
+        },
+        {
+          "w": "أَخِي",
+          "r": "اسم مَجرُور / مُضَاف",
+          "rc": "tm",
+          "e": "أَخِي — jar harfi sababli kasra bilan majrur (beshta ismdan biri) va muzofdir.",
+          "uz": "akasi"
+        },
+        {
+          "w": "هِ",
+          "r": "مُضَاف إِلَيه (ضَمِير مُتَّصِل)",
+          "rc": "tm",
+          "e": "هِ — muttasil zamir muzofun ilayh.",
+          "uz": "uning"
+        },
+        {
+          "w": "أَبَداً",
+          "r": "ظَرف زَمَان لِلتَّأكِيد",
+          "rc": "tb",
+          "e": "أَبَداً — qat'iy inkor zarfi.",
+          "uz": "aslo"
+        }
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 52,
+  "pageEnd": 53,
+  "pageLabel": "52-53-betlar"
 }

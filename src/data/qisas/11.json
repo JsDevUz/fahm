@@ -2,7 +2,7 @@
   "title": "١٢ ـ إِلَى مَكَّةَ",
   "tuz": "Makkaga",
   "sub": "Ibrohim Makkaga yo'l oladi",
-  "page": 21,
+  "page": 20,
   "sentences": [
     {
       "ar": "وَأَرَادَ إِبْرَاهِيمُ أَنْ يُسَافِرَ إِلَى بَلَدٍ آخَرَ وَيَعْبُدَ فِيهِ اللَّهَ وَيَدْعُو النَّاسَ إِلَى اللَّهِ.",
@@ -903,5 +903,8 @@
       ]
     }
   ],
-  "bookId": "qisas"
+  "bookId": "qisas",
+  "pageStart": 20,
+  "pageEnd": 21,
+  "pageLabel": "20-21-betlar"
 }
