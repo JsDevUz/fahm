@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Amiri:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap");
 
 :root {
   /* Color Palette */
@@ -91,7 +91,7 @@ body {
 
 /* Typography */
 .arabic-text {
-  font-family: "Amiri", "Traditional Arabic", serif;
+  font-family: "Noto Naskh Arabic", serif;
   direction: rtl;
   line-height: 2.2;
 }
