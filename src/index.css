@@ -92,6 +92,7 @@ body {
 /* Typography */
 .arabic-text {
   font-family: "Noto Naskh Arabic", serif;
+  font-weight: 600;
   direction: rtl;
   line-height: 2.2;
 }
@@ -420,8 +421,7 @@ textarea.input-base {
 
 /* Interlinear Translation Styles */
 .sentence-text-container {
-  font-size: 26px;
-  /* Decreased from 28px as requested */
+  font-size: 24px;
   line-height: 2.2;
 }
 
