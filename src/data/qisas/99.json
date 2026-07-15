@@ -1,0 +1,1020 @@
+{
+  "id": "qisas-99",
+  "title": "١٠٠ ـ مِنْ مِصْرَ إِلَى مَدْيَنَ",
+  "tuz": "Misrdan Madyanga",
+  "sub": "Musoning Fir'avn zulmidan qochib ozod va tinch yurt bo'lmish Madyan tomonga yo'l olishi",
+  "page": 133,
+  "pageStart": 133,
+  "pageEnd": 134,
+  "pageLabel": "133-134-betlar",
+  "sentences": [
+    {
+      "ar": "وَلَكِنْ إِلَى أَيْنِ يَذْهَبُ مُوسَى، وَمِصْرُ كُلُّهَا مَمْلَكَةٌ لِفِرْعَوْنَ؟! ",
+      "tr": "Biroq Muso qayerga ham borsin, axir butun Misr Fir’avnning saltanati bo‘lsa?!",
+      "parts": [
+        {
+          "w": "وَلَكِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَكِنْ istidrok (lekin).",
+          "uz": "lekin"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَى jar harfi.",
+          "uz": "ga"
+        },
+        {
+          "w": "أَيْنِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "أَيْنِ majrur so‘roq ismi. O‘zbekcha ma’nosi: qayerga.",
+          "uz": "qayerga"
+        },
+        {
+          "w": "يَذْهَبُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَذْهَبُ hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: ketadi / boradi.",
+          "uz": "ketadi / boradi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل (marfu‘).",
+          "uz": "Muso"
+        },
+        {
+          "w": "وَمِصْرُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَمِصْرُ وَ va mubtado (marfu‘). O‘zbekcha ma’nosi: va Misr.",
+          "uz": "va Misr"
+        },
+        {
+          "w": "كُلُّهَا",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "كُلُّهَا kull (ta’kid) va hā olmoshi. O‘zbekcha ma’nosi: barchasi / hammasi.",
+          "uz": "barchasi / hammasi"
+        },
+        {
+          "w": "مَمْلَكَةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَمْلَكَةٌ xabar (marfu‘). O‘zbekcha ma’nosi: podshohlik / saltanat.",
+          "uz": "podshohlik / saltanat"
+        },
+        {
+          "w": "لِفِرْعَوْنَ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "لِفِرْعَوْنَ lām (jar) va Fir‘avn (majrur, fatha bilan). O‘zbekcha ma’nosi: Fir'avnga.",
+          "uz": "Fir'avnga"
+        }
+      ]
+    },
+    {
+      "ar": "وَشُرْطَةُ فِرْعَوْنَ بِالْمِرْصَادِ، وَلَهُمْ عُيُونُ الْغُرَابِ وَشَامَّةُ النَّمْلِ! ",
+      "tr": "Fir’avnning mirshablari uni poylamoqda, ularning esa ko‘zlari qarg‘anikidek o‘tkir, hid bilishlari chumolinikidek kuchlidir!",
+      "parts": [
+        {
+          "w": "وَشُرْطَةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَشُرْطَةُ وَ va mubtado (izofa boshlanishi). O‘zbekcha ma’nosi: va mirshablar / politsiya.",
+          "uz": "va mirshablar / politsiya"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ muzofun ilayh (majrur).",
+          "uz": "Fir'avnning"
+        },
+        {
+          "w": "بِالْمِرْصَادِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "بِالْمِرْصَادِ bi (jar) va mirsād (majrur, xabar). O‘zbekcha ma’nosi: poyloqchilikda / poylab turibdi.",
+          "uz": "poyloqchilikda / poylab turibdi"
+        },
+        {
+          "w": "وَلَهُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَلَهُمْ وَ, lām (jar) va hum olmoshi (xabar).",
+          "uz": "va ularning bor"
+        },
+        {
+          "w": "عُيُونُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عُيُونُ mubtado (marfu‘, izofa boshlanishi). O‘zbekcha ma’nosi: ko‘zlari.",
+          "uz": "ko‘zlari"
+        },
+        {
+          "w": "الْغُرَابِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْغُرَابِ muzofun ilayh.",
+          "uz": "qarg‘aning"
+        },
+        {
+          "w": "وَشَامَّةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَشَامَّةُ وَ va shāmmah (mubtadoga atf). O‘zbekcha ma’nosi: va hid bilish sezgisi.",
+          "uz": "va hid bilish sezgisi"
+        },
+        {
+          "w": "النَّمْلِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "النَّمْلِ muzofun ilayh.",
+          "uz": "chumolining"
+        }
+      ]
+    },
+    {
+      "ar": "أَلْهَمَ اللَّهُ مُوسَى أَنْ يَذْهَبَ إِلَى مَدْيَنَ الْبَلَدِ الْعَرَبِيِّ، حَيْثُ لَا تَصِلُ إِلَيْهِ يَدُ فِرْعَوْنَ.",
+      "tr": "Alloh Musoning ko‘ngliga Fir’avnning qo‘li yetmaydigan arab yurti bo‘lmish Madyanga borishni soldi.",
+      "parts": [
+        {
+          "w": "أَلْهَمَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "أَلْهَمَ o‘tgan zamon fe’li alhama. O‘zbekcha ma’nosi: ko‘ngliga soldi / ilhom qildi.",
+          "uz": "ko‘ngliga soldi / ilhom qildi"
+        },
+        {
+          "w": "اللَّهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "اللَّهُ فاعل.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مُوسَى maf’ulun bih.",
+          "uz": "Muso"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنْ nasb qiluvchi harf.",
+          "uz": "ki / -ishni"
+        },
+        {
+          "w": "يَذْهَبَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَذْهَبَ nasb bo‘lgan hozirgi-kelasi zamon fe’li.",
+          "uz": "borishini / ketishini"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَى jar harfi.",
+          "uz": "ga"
+        },
+        {
+          "w": "مَدْيَنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَدْيَنَ majrur ism (g‘ayri munsarif fatha bilan). O‘zbekcha ma’nosi: Madyanga.",
+          "uz": "Madyanga"
+        },
+        {
+          "w": "الْبَلَدِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْبَلَدِ badal (majrur). O‘zbekcha ma’nosi: yurtga / shaharga.",
+          "uz": "yurtga / shaharga"
+        },
+        {
+          "w": "الْعَرَبِيِّ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْعَرَبِيِّ sifat (majrur). O‘zbekcha ma’nosi: arab.",
+          "uz": "arab"
+        },
+        {
+          "w": "حَيْثُ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "حَيْثُ o‘rin zarfi. O‘zbekcha ma’nosi: u yerda / qayerdaki.",
+          "uz": "u yerda / qayerdaki"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy harfi.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "تَصِلُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تَصِلُ hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: yetadi / yetib boradi.",
+          "uz": "yetadi / yetib boradi"
+        },
+        {
+          "w": "إِلَيْهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِلَيْهِ jar va olmosh.",
+          "uz": "unga"
+        },
+        {
+          "w": "يَدُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "يَدُ فاعل (marfu‘, izofa).",
+          "uz": "qo‘li"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ muzofun ilayh.",
+          "uz": "Fir'avnning"
+        }
+      ]
+    },
+    {
+      "ar": "إِنَّ مَدْيَنَ بَادِيَةٌ وَقُرًى لَيْسَتْ فِيهَا مَدِينَةُ مِصْرَ.",
+      "tr": "Albatta, Madyan sahro va qishloqlardan iborat bo‘lib, u yerda Misr shahri yo‘q edi.",
+      "parts": [
+        {
+          "w": "إِنَّ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِنَّ إِنَّ.",
+          "uz": "albatta"
+        },
+        {
+          "w": "مَدْيَنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَدْيَنَ إِنَّ ismi.",
+          "uz": "Madyanga"
+        },
+        {
+          "w": "بَادِيَةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بَادِيَةٌ إِنَّ xabari (marfu‘). O‘zbekcha ma’nosi: sahro / cho‘l.",
+          "uz": "sahro / cho‘l"
+        },
+        {
+          "w": "وَقُرًى",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "وَقُرًى وَ va ko‘plik ism (atf). O‘zbekcha ma’nosi: va qishloqlar.",
+          "uz": "va qishloqlar"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "لَيْسَتْ noqis inkor fe’li (muأَنَّs). O‘zbekcha ma’nosi: emas / yo‘q.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "فِيهَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فِيهَا jar va olmosh (xabar).",
+          "uz": "unda / ichida"
+        },
+        {
+          "w": "مَدِينَةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مَدِينَةُ laysat ismi (marfu‘, izofa). O‘zbekcha ma’nosi: shahri / shahar.",
+          "uz": "shahri / shahar"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مِصْرَ muzofun ilayh.",
+          "uz": "Misr"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَيْسَ فِيهَا قُصُورُ مِصْرَ وَأَسْوَاقُ مِصْرَ.",
+      "tr": "U yerda Misrdagi kabi saroylar va Misr bozorlari yo‘q edi.",
+      "parts": [
+        {
+          "w": "وَلَيْسَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَلَيْسَ وَ va noqis inkor fe’li laysa. O‘zbekcha ma’nosi: va emas / yo‘q.",
+          "uz": "va emas / yo‘q"
+        },
+        {
+          "w": "فِيهَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فِيهَا jar va olmosh (xabar).",
+          "uz": "unda / ichida"
+        },
+        {
+          "w": "قُصُورُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "قُصُورُ laysa ismi (marfu‘ ko‘plik, izofa). O‘zbekcha ma’nosi: saroylari.",
+          "uz": "saroylari"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مِصْرَ muzofun ilayh.",
+          "uz": "Misr"
+        },
+        {
+          "w": "وَأَسْوَاقُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَأَسْوَاقُ وَ va ko‘plik ism aswāq (atf, izofa). O‘zbekcha ma’nosi: va bozorlari.",
+          "uz": "va bozorlari"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مِصْرَ muzofun ilayh.",
+          "uz": "Misr"
+        }
+      ]
+    },
+    {
+      "ar": "وَلَكِنَّهَا بِلَادٌ سَعِيدَةٌ لِأَنَّهَا بَعِيدَةٌ مِنْ فِرْعَوْنَ.",
+      "tr": "Biroq u baxtli bir yurt edi, chunki u Fir’avndan uzoqda edi.",
+      "parts": [
+        {
+          "w": "وَلَكِنَّهَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَكِنَّهَا lākإِنَّ (lekin) va hā olmoshi. O‘zbekcha ma’nosi: lekin u / biroq u.",
+          "uz": "lekin u / biroq u"
+        },
+        {
+          "w": "بِلَادٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بِلَادٌ lākإِنَّ xabari (marfu‘). O‘zbekcha ma’nosi: yurt / o‘lka.",
+          "uz": "yurt / o‘lka"
+        },
+        {
+          "w": "سَعِيدَةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "سَعِيدَةٌ sifat (marfu‘). O‘zbekcha ma’nosi: baxtli / farovon.",
+          "uz": "baxtli / farovon"
+        },
+        {
+          "w": "لِأَنَّهَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لِأَنَّهَا لِأَنَّ va hā olmoshi. O‘zbekcha ma’nosi: chunki u.",
+          "uz": "chunki u"
+        },
+        {
+          "w": "بَعِيدَةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بَعِيدَةٌ لِأَنَّ xabari (marfu‘). O‘zbekcha ma’nosi: uzoqdir.",
+          "uz": "uzoqdir"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ jar harfi.",
+          "uz": "dan"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ majrur.",
+          "uz": "Fir'avnning"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِنَّهَا سَعِيدَةٌ لِأَنَّهَا بِلَادٌ حُرَّةٌ لَيْسَتْ تَحْتَ حُكْمِ فِرْعَوْنَ.",
+      "tr": "Va albatta, u ozod o‘lka bo‘lgani, Fir’avn hukmi ostida bo‘lmagani uchun baxtli edi.",
+      "parts": [
+        {
+          "w": "وَإِنَّهَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَإِنَّهَا وَ, إِنَّ va hā olmoshi. O‘zbekcha ma’nosi: va albatta u.",
+          "uz": "va albatta u"
+        },
+        {
+          "w": "سَعِيدَةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "سَعِيدَةٌ إِنَّ xabari.",
+          "uz": "baxtli / farovon"
+        },
+        {
+          "w": "لِأَنَّهَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لِأَنَّهَا chunki u.",
+          "uz": "chunki u"
+        },
+        {
+          "w": "بِلَادٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بِلَادٌ لِأَنَّ xabari.",
+          "uz": "yurt / o‘lka"
+        },
+        {
+          "w": "حُرَّةٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "حُرَّةٌ sifat (marfu‘). O‘zbekcha ma’nosi: ozod / hur.",
+          "uz": "ozod / hur"
+        },
+        {
+          "w": "لَيْسَتْ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "لَيْسَتْ noqis fe’l.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "تَحْتَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "تَحْتَ o‘rin zarfi. O‘zbekcha ma’nosi: ostida.",
+          "uz": "ostida"
+        },
+        {
+          "w": "حُكْمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "حُكْمِ muzofun ilayh. O‘zbekcha ma’nosi: hukmi.",
+          "uz": "hukmi"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ muzofun ilayh.",
+          "uz": "Fir'avnning"
+        }
+      ]
+    },
+    {
+      "ar": "يَا حَبَّذَا الْبَدَاوَةُ مَعَ الْحُرِّيَّةِ وَالْعَدْلِ.",
+      "tr": "Ozodlik va adolat bilan birga bo‘lgan sahro hayoti naqadar go‘zal!",
+      "parts": [
+        {
+          "w": "يَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "يَا nido.",
+          "uz": "ey"
+        },
+        {
+          "w": "حَبَّذَا",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "حَبَّذَا maqsh va ismi ishora tarkibi. O‘zbekcha ma’nosi: qanday ham yaxshi / naqadar ajoyib.",
+          "uz": "qanday ham yaxshi / naqadar ajoyib"
+        },
+        {
+          "w": "الْبَدَاوَةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْبَدَاوَةُ maxsus mubtado (marfu‘). O‘zbekcha ma’nosi: sahro hayoti / badaviylik.",
+          "uz": "sahro hayoti / badaviylik"
+        },
+        {
+          "w": "مَعَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَعَ zarf.",
+          "uz": "bilan"
+        },
+        {
+          "w": "الْحُرِّيَّةِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْحُرِّيَّةِ majrur ism. O‘zbekcha ma’nosi: ozodlik / hurriyat.",
+          "uz": "ozodlik / hurriyat"
+        },
+        {
+          "w": "وَالْعَدْلِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "وَالْعَدْلِ وَ va majrur ism ‘adl (atf). O‘zbekcha ma’nosi: va adolat.",
+          "uz": "va adolat"
+        }
+      ]
+    },
+    {
+      "ar": "وَيَا شَقَاوَةَ الْمَدِينَةِ مَعَ الْعُبُودِيَّةِ وَالذُّلِّ.",
+      "tr": "Qullik va xorlik bilan birga bo‘lgan shahar hayoti esa qanday baxtsizlikdir!",
+      "parts": [
+        {
+          "w": "وَيَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَيَا وَ va nido harfi. O‘zbekcha ma’nosi: va ey.",
+          "uz": "va ey"
+        },
+        {
+          "w": "شَقَاوَةَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "شَقَاوَةَ munodo (mansub, izofa). O‘zbekcha ma’nosi: baxtsizlik / azob.",
+          "uz": "baxtsizlik / azob"
+        },
+        {
+          "w": "الْمَدِينَةِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْمَدِينَةِ muzofun ilayh. O‘zbekcha ma’nosi: shaharning / shahar.",
+          "uz": "shaharning / shahar"
+        },
+        {
+          "w": "مَعَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَعَ zarf.",
+          "uz": "bilan"
+        },
+        {
+          "w": "الْعُبُودِيَّةِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْعُبُودِيَّةِ majrur ism. O‘zbekcha ma’nosi: qullik / qaramlik.",
+          "uz": "qullik / qaramlik"
+        },
+        {
+          "w": "وَالذُّلِّ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "وَالذُّلِّ وَ va dhull (majrur, atf). O‘zbekcha ma’nosi: va xorlik.",
+          "uz": "va xorlik"
+        }
+      ]
+    },
+    {
+      "ar": "هُنَالِكَ يُصْبِحُ كُلُّ أَحَدٍ لَا يَخَافُ سَطْوَةَ فِرْعَوْنَ وَقَهْرَهُ.",
+      "tr": "U yerda har bir kishi Fir’avnning tazyiqi va zulmidan qo‘rqmay tong ottiradi.",
+      "parts": [
+        {
+          "w": "هُنَالِكَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "هُنَالِكَ o‘rin zarfi. O‘zbekcha ma’nosi: u yerda.",
+          "uz": "u yerda"
+        },
+        {
+          "w": "يُصْبِحُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يُصْبِحُ noqis fe’l (tong ottiradi). O‘zbekcha ma’nosi: bo‘ladi / tong ottiradi.",
+          "uz": "bo‘ladi / tong ottiradi"
+        },
+        {
+          "w": "كُلُّ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "كُلُّ yusbihu ismi (marfu‘, izofa). O‘zbekcha ma’nosi: har bir / har kim.",
+          "uz": "har bir / har kim"
+        },
+        {
+          "w": "أَحَدٍ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "أَحَدٍ muzofun ilayh. O‘zbekcha ma’nosi: biror kishi.",
+          "uz": "biror kishi"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "يَخَافُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَخَافُ hozirgi-kelasi zamon fe’li (yusbihu xabari). O‘zbekcha ma’nosi: qo‘rqadi.",
+          "uz": "qo‘rqadi"
+        },
+        {
+          "w": "سَطْوَةَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "سَطْوَةَ maf’ulun bih (izofa). O‘zbekcha ma’nosi: satvasi / zug‘midan.",
+          "uz": "satvasi / zug‘midan"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ muzofun ilayh.",
+          "uz": "Fir'avnning"
+        },
+        {
+          "w": "وَقَهْرَهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَقَهْرَهُ وَ va qahr (mansub, atf) va hu olmoshi. O‘zbekcha ma’nosi: va uning qahridan / zulmidan.",
+          "uz": "va uning qahridan / zulmidan"
+        }
+      ]
+    },
+    {
+      "ar": "وَهُنَالِكَ يَبِيتُ كُلُّ أَحَدٍ لَا يَخَافُ شُرْطَةَ فِرْعَوْنَ وَشَرَّهُ هُنَالِكَ لَا تُذْبَحُ الْأَبْنَاءُ.",
+      "tr": "U yerda har bir kishi Fir’avn mirshablari va ularning yomonligidan qo‘rqmasdan tunaydi; u yerda o‘g‘il bolalar so‘yilmaydi.",
+      "parts": [
+        {
+          "w": "وَهُنَالِكَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "وَهُنَالِكَ وَ va zarf.",
+          "uz": "va u yerda"
+        },
+        {
+          "w": "يَبِيتُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَبِيتُ noqis fe’li yabītu (tunashadi). O‘zbekcha ma’nosi: tunashadi / tunaydi.",
+          "uz": "tunashadi / tunaydi"
+        },
+        {
+          "w": "كُلُّ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "كُلُّ yabītu ismi.",
+          "uz": "har bir / har kim"
+        },
+        {
+          "w": "أَحَدٍ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "أَحَدٍ muzofun ilayh.",
+          "uz": "biror kishi"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "يَخَافُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَخَافُ fe’l.",
+          "uz": "qo‘rqadi"
+        },
+        {
+          "w": "شُرْطَةَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "شُرْطَةَ maf’ul (izofa). O‘zbekcha ma’nosi: mirshablaridan / politsiyasidan.",
+          "uz": "mirshablaridan / politsiyasidan"
+        },
+        {
+          "w": "فِرْعَوْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "فِرْعَوْنَ muzofun ilayh.",
+          "uz": "Fir'avnning"
+        },
+        {
+          "w": "وَشَرَّهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَشَرَّهُ وَ va sharr (atf) va hu olmoshi. O‘zbekcha ma’nosi: va uning yomonligidan.",
+          "uz": "va uning yomonligidan"
+        },
+        {
+          "w": "هُنَالِكَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "هُنَالِكَ zarf.",
+          "uz": "u yerda"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q"
+        },
+        {
+          "w": "تُذْبَحُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تُذْبَحُ majhul hozirgi-kelasi zamon fe’li tudbahu. O‘zbekcha ma’nosi: so‘yiladi.",
+          "uz": "so‘yiladi"
+        },
+        {
+          "w": "الْأَبْنَاءُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الْأَبْنَاءُ noib فاعل (marfu‘ ko‘plik). O‘zbekcha ma’nosi: o‘g‘il bolalar / farzandlar.",
+          "uz": "o‘g‘il bolalar / farzandlar"
+        }
+      ]
+    },
+    {
+      "ar": "قَصَدَ مُوسَى مَدْيَنَ.",
+      "tr": "Muso Madyanga yo‘l oldi.",
+      "parts": [
+        {
+          "w": "قَصَدَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "قَصَدَ o‘tgan zamon fe’li qasada. O‘zbekcha ma’nosi: qasd qildi / yo‘l oldi.",
+          "uz": "qasd qildi / yo‘l oldi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل.",
+          "uz": "Muso"
+        },
+        {
+          "w": "مَدْيَنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَدْيَنَ maf’ul (mansub, fatha bilan).",
+          "uz": "Madyanga"
+        }
+      ]
+    },
+    {
+      "ar": "وَخَرَجَ مِنْ مِصْرَ خَائِفاً يَتَرَقَّبُ أَيَتْبَعُهُ أَحَدٌ، وَلَكِنْ نَامَ عَنْهُ الشُّرْطَةُ.",
+      "tr": "U o‘zini kimdir ta’qib qilarmikan, deb xavfsirab, poylab Misrdan chiqdi, biroq mirshablar uxlab qolgan edilar.",
+      "parts": [
+        {
+          "w": "وَخَرَجَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَخَرَجَ وَ va o‘tgan zamon fe’li.",
+          "uz": "va chiqdi"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ jar harfi.",
+          "uz": "dan"
+        },
+        {
+          "w": "مِصْرَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مِصْرَ majrur ism (g‘ayri munsarif). O‘zbekcha ma’nosi: Misr.",
+          "uz": "Misr"
+        },
+        {
+          "w": "خَائِفاً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "خَائِفاً hol.",
+          "uz": "qo‘rquvda / xavfsirab"
+        },
+        {
+          "w": "يَتَرَقَّبُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَتَرَقَّبُ hozirgi-kelasi zamon fe’li (hol). O‘zbekcha ma’nosi: poylab / kutib.",
+          "uz": "poylab / kutib"
+        },
+        {
+          "w": "أَيَتْبَعُهُ",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "أَيَتْبَعُهُ hamza (so‘roq), hozirgi-kelasi zamon fe’li yatba‘u va hu olmoshi. O‘zbekcha ma’nosi: ortidan tusharmikan / uni ta’qib qilarmikan.",
+          "uz": "ortidan tusharmikan / uni ta’qib qilarmikan"
+        },
+        {
+          "w": "أَحَدٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "أَحَدٌ فاعل.",
+          "uz": "biror kishi"
+        },
+        {
+          "w": "وَلَكِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَكِنْ istidrok harfi.",
+          "uz": "lekin"
+        },
+        {
+          "w": "نَامَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "نَامَ o‘tgan zamon fe’li nāma. O‘zbekcha ma’nosi: uxladi.",
+          "uz": "uxladi"
+        },
+        {
+          "w": "عَنْهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عَنْهُ jar va olmosh (undan g‘ofil qoldi). O‘zbekcha ma’nosi: undan.",
+          "uz": "undan"
+        },
+        {
+          "w": "الشُّرْطَةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "الشُّرْطَةُ فاعل.",
+          "uz": "mirshablar / politsiya"
+        }
+      ]
+    },
+    {
+      "ar": "خَرَجَ مُوسَى عَلَى اسْمِ اللَّهِ يَدْعُو اللَّهَ وَيَطْلُبُ مِنْهُ النَّصْرَ.",
+      "tr": "Muso Allohning nomi bilan, Allohga duo qilib va Undan yordam so‘rab yo‘lga chiqdi.",
+      "parts": [
+        {
+          "w": "خَرَجَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "خَرَجَ o‘tgan zamon fe’li.",
+          "uz": "chiqdi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل.",
+          "uz": "Muso"
+        },
+        {
+          "w": "عَلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "عَلَى jar harfi.",
+          "uz": "ustiga"
+        },
+        {
+          "w": "اسْمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "اسْمِ majrur ism (izofa). O‘zbekcha ma’nosi: nomi / ismi.",
+          "uz": "nomi / ismi"
+        },
+        {
+          "w": "اللَّهِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "اللَّهِ majrur ism jalola.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "يَدْعُو",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَدْعُو hozirgi-kelasi zamon fe’li (hol). O‘zbekcha ma’nosi: duo qiladi / chaqiradi.",
+          "uz": "duo qiladi / chaqiradi"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "اللَّهَ maf’ul (ism jalola).",
+          "uz": "Alloh"
+        },
+        {
+          "w": "وَيَطْلُبُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَيَطْلُبُ وَ va hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: va so‘raydi / talab qiladi.",
+          "uz": "va so‘raydi / talab qiladi"
+        },
+        {
+          "w": "مِنْهُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مِنْهُ jar va olmosh (Undan).",
+          "uz": "undan"
+        },
+        {
+          "w": "النَّصْرَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "النَّصْرَ maf’ulun bih. O‘zbekcha ma’nosi: yordam / nusrat.",
+          "uz": "yordam / nusrat"
+        }
+      ]
+    },
+    {
+      "ar": "﴿وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّي أَن يَهْدِيَنِي سَوَاءَ السَّبِيلِ﴾.",
+      "tr": "«Madyan tomonga yuzlangach: «Shoyadki, Rabbim meni to‘g‘ri yo‘lga yo‘llasa», dedi».",
+      "parts": [
+        {
+          "w": "وَلَمَّا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَمَّا وَ va shart zarfi lammā.",
+          "uz": "va qachonki"
+        },
+        {
+          "w": "تَوَجَّهَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تَوَجَّهَ o‘tgan zamon fe’li tawajjaha. O‘zbekcha ma’nosi: yuzlandi / yo‘naldi.",
+          "uz": "yuzlandi / yo‘naldi"
+        },
+        {
+          "w": "تِلْقَاءَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "تِلْقَاءَ yo‘nalish zarfi (mansub, izofa). O‘zbekcha ma’nosi: tomoniga / ro‘parasiga.",
+          "uz": "tomoniga / ro‘parasiga"
+        },
+        {
+          "w": "مَدْيَنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَدْيَنَ muzofun ilayh.",
+          "uz": "Madyanga"
+        },
+        {
+          "w": "قَالَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "قَالَ o‘tgan zamon fe’li.",
+          "uz": "dedi"
+        },
+        {
+          "w": "عَسَىٰ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "عَسَىٰ umid fe’li ‘asā. O‘zbekcha ma’nosi: shoyad / umidki.",
+          "uz": "shoyad / umidki"
+        },
+        {
+          "w": "رَبِّي",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "رَبِّي ‘asā ismi (muzof va mutakallim olmoshi). O‘zbekcha ma’nosi: Rabbim.",
+          "uz": "Rabbim"
+        },
+        {
+          "w": "أَن",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَن nasb harfi.",
+          "uz": "ki / -ishni"
+        },
+        {
+          "w": "يَهْدِيَنِي",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "يَهْدِيَنِي nasb bo‘lgan fe’li yahdiya va nī olmoshi. O‘zbekcha ma’nosi: meni yo‘llashi / hidoyat qilishi.",
+          "uz": "meni yo‘llashi / hidoyat qilishi"
+        },
+        {
+          "w": "سَوَاءَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "سَوَاءَ ikkinchi maf’ul (izofa). O‘zbekcha ma’nosi: to‘g‘ri.",
+          "uz": "to‘g‘ri"
+        },
+        {
+          "w": "السَّبِيلِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "السَّبِيلِ muzofun ilayh. O‘zbekcha ma’nosi: yo‘lga.",
+          "uz": "yo‘lga"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}

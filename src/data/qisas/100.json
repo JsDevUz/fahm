@@ -1,0 +1,1000 @@
+{
+  "id": "qisas-100",
+  "title": "١٠١ ـ فِي مَدْيَنَ",
+  "tuz": "Madyanda",
+  "sub": "Musoning Madyan qudug'i bo'yida ikki zaifa ayolga yordam berishi",
+  "page": 134,
+  "pageStart": 134,
+  "pageEnd": 135,
+  "pageLabel": "134-135-betlar",
+  "sentences": [
+    {
+      "ar": "وَصَلَ مُوسَى إِلَى مَدْيَنَ، لَا يَعْرِفُ أَحَداً وَلَا يَعْرِفُهُ أَحَدٌ.",
+      "tr": "Muso Madyanga yetib bordi, u hech kimni tanimas edi va uni ham hech kim tanimas edi.",
+      "parts": [
+        {
+          "w": "وَصَلَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَصَلَ o‘tgan zamon fe’li wasala. O‘zbekcha ma’nosi: yetib bordi / yetdi.",
+          "uz": "yetib bordi / yetdi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل (marfu‘).",
+          "uz": "Muso"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَى jar harfi.",
+          "uz": "ga"
+        },
+        {
+          "w": "مَدْيَنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مَدْيَنَ majrur (fatha bilan). O‘zbekcha ma’nosi: Madyanga.",
+          "uz": "Madyanga"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy harfi.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَعْرِفُ hozirgi-kelasi zamon fe’li ya‘rifu. O‘zbekcha ma’nosi: biladi / taniydi.",
+          "uz": "biladi / taniydi"
+        },
+        {
+          "w": "أَحَداً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "أَحَداً maf’ulun bih. O‘zbekcha ma’nosi: hech kimni / biror kishini.",
+          "uz": "hech kimni / biror kishini"
+        },
+        {
+          "w": "وَلَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَا وَ va nafiy.",
+          "uz": "va emas"
+        },
+        {
+          "w": "يَعْرِفُهُ",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "يَعْرِفُهُ hozirgi-kelasi zamon fe’li va hu olmoshi. O‘zbekcha ma’nosi: uni taniydi / uni biladi.",
+          "uz": "uni taniydi / uni biladi"
+        },
+        {
+          "w": "أَحَدٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "أَحَدٌ فاعل. O‘zbekcha ma’nosi: hech kim / biror kishi.",
+          "uz": "hech kim / biror kishi"
+        }
+      ]
+    },
+    {
+      "ar": "فَمَنْ يَأْوِي إِلَيْهِ فِي اللَّيْلِ؟ وَأَيْنَ يَبِيتُ.",
+      "tr": "Xo‘sh, tunda u kimnikiga joylashadi? Va qayerda tunaydi?",
+      "parts": [
+        {
+          "w": "فَمَنْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَمَنْ فَ va so‘roq ismi (mubtado). O‘zbekcha ma’nosi: bas, kim / xo‘sh, kimga.",
+          "uz": "bas, kim / xo‘sh, kimga"
+        },
+        {
+          "w": "يَأْوِي",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَأْوِي hozirgi-kelasi zamon fe’li (xabar). O‘zbekcha ma’nosi: boradi / joylashadi / boshpana topadi.",
+          "uz": "boradi / joylashadi / boshpana topadi"
+        },
+        {
+          "w": "إِلَيْهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِلَيْهِ jar va olmosh.",
+          "uz": "unga"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "فِي jar harfi.",
+          "uz": "ichida / da"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "اللَّيْلِ majrur ism. O‘zbekcha ma’nosi: tunda / kechasi.",
+          "uz": "tunda / kechasi"
+        },
+        {
+          "w": "وَأَيْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "وَأَيْنَ وَ va so‘roq zarfi. O‘zbekcha ma’nosi: va qayerda.",
+          "uz": "va qayerda"
+        },
+        {
+          "w": "يَبِيتُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَبِيتُ hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: tunaydi / yotib qoladi.",
+          "uz": "tunaydi / yotib qoladi"
+        }
+      ]
+    },
+    {
+      "ar": "تَحَيَّرَ مُوسَى وَلَكِنَّهُ أَيْقَنَ أَنَّ اللَّهَ لَا يُضِيعُهُ.",
+      "tr": "Muso hayron bo‘ldi (ikkilandi), biroq u Alloh uni tashlab qo‘ymasligiga qat’iy ishondi.",
+      "parts": [
+        {
+          "w": "تَحَيَّرَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تَحَيَّرَ o‘tgan zamon fe’li tahayyara. O‘zbekcha ma’nosi: hayron bo‘ldi / ikkilandi.",
+          "uz": "hayron bo‘ldi / ikkilandi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل.",
+          "uz": "Muso"
+        },
+        {
+          "w": "وَلَكِنَّهُ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَكِنَّهُ lākإِنَّ va hu olmoshi. O‘zbekcha ma’nosi: lekin u.",
+          "uz": "lekin u"
+        },
+        {
+          "w": "أَيْقَنَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "أَيْقَنَ o‘tgan zamon fe’li. O‘zbekcha ma’nosi: ishondi / aniq bildi.",
+          "uz": "ishondi / aniq bildi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنَّ أَنَّ ta’kid harfi.",
+          "uz": "albatta"
+        },
+        {
+          "w": "اللَّهَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "اللَّهَ ism jalola (أَنَّ ismi). O‘zbekcha ma’nosi: Alloh.",
+          "uz": "Alloh"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy harfi.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "يُضِيعُهُ",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "يُضِيعُهُ hozirgi-kelasi zamon fe’li yudī‘u va hu olmoshi (أَنَّ xabari). O‘zbekcha ma’nosi: uni zoye qiladi / tashlab qo‘yadi.",
+          "uz": "uni zoye qiladi / tashlab qo‘yadi"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَانَ هُنَالِكَ بِئْرٌ يَسْقِي عَلَيْهَا النَّاسُ غَنَمَهُمْ وَمَاشِيَتَهُمْ.",
+      "tr": "U yerda bir quduq bor bo‘lib, odamlar uning ustida qo‘ylari va chorvalarini sug‘orishayotgan edi.",
+      "parts": [
+        {
+          "w": "وَكَانَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَكَانَ وَ va noqis fe’l.",
+          "uz": "va edi"
+        },
+        {
+          "w": "هُنَالِكَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "هُنَالِكَ o‘rin zarfi.",
+          "uz": "u yerda"
+        },
+        {
+          "w": "بِئْرٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بِئْرٌ كَانَ ning ismi (marfu‘). O‘zbekcha ma’nosi: quduq.",
+          "uz": "quduq"
+        },
+        {
+          "w": "يَسْقِي",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَسْقِي hozirgi-kelasi zamon fe’li yasqī (كَانَ xabari). O‘zbekcha ma’nosi: sug‘orishardi.",
+          "uz": "sug‘orishardi"
+        },
+        {
+          "w": "عَلَيْهَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "عَلَيْهَا jar va muأَنَّs olmosh (quduq muأَنَّs bo‘lgani uchun). O‘zbekcha ma’nosi: undan / uning ustida.",
+          "uz": "undan / uning ustida"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "النَّاسُ فاعل.",
+          "uz": "odamlar"
+        },
+        {
+          "w": "غَنَمَهُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "غَنَمَهُمْ ghanam (maf’ul) va hum olmoshi. O‘zbekcha ma’nosi: qo‘ylarini.",
+          "uz": "qo‘ylarini"
+        },
+        {
+          "w": "وَمَاشِيَتَهُمْ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَمَاشِيَتَهُمْ وَ, māshiyah (maf’ul) va hum olmoshi. O‘zbekcha ma’nosi: va chorvalarini / ulovlarini.",
+          "uz": "va chorvalarini / ulovlarini"
+        }
+      ]
+    },
+    {
+      "ar": "وَوَجَدَ امْرَأَتَيْنِ تَذُودَانِ غَنَمَهُمَا وَتَنْتَظِرَانِ أَنْ يَسْقِيَ النَّاسُ فَتَسْقِيَا.",
+      "tr": "U qo‘ylarini boshqalardan to‘sib, odamlar sug‘orib bo‘lishini va keyin o‘zlari sug‘orishni kutib turgan ikki ayolni ko‘rdi.",
+      "parts": [
+        {
+          "w": "وَوَجَدَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَوَجَدَ وَ va o‘tgan zamon fe’li.",
+          "uz": "va topdi / ko‘rdi"
+        },
+        {
+          "w": "امْرَأَتَيْنِ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "امْرَأَتَيْنِ maf’ul (mansub, yā bilan ikkilik). O‘zbekcha ma’nosi: ikki ayolni.",
+          "uz": "ikki ayolni"
+        },
+        {
+          "w": "تَذُودَانِ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تَذُودَانِ hozirgi-kelasi zamon fe’li (ikkilik muأَنَّs, hol). O‘zbekcha ma’nosi: to‘sayotgan / qaytarayotgan.",
+          "uz": "to‘sayotgan / qaytarayotgan"
+        },
+        {
+          "w": "غَنَمَهُمَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "غَنَمَهُمَا ghanam (maf’ul) va humā olmoshi. O‘zbekcha ma’nosi: ikki qo‘ylarini.",
+          "uz": "ikki qo‘ylarini"
+        },
+        {
+          "w": "وَتَنْتَظِرَانِ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَتَنْتَظِرَانِ وَ va hozirgi-kelasi zamon fe’li tantazirāni (atf). O‘zbekcha ma’nosi: va kutayotgan.",
+          "uz": "va kutayotgan"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنْ nasb harfi.",
+          "uz": "ki / -ishni"
+        },
+        {
+          "w": "يَسْقِيَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَسْقِيَ nasb bo‘lgan hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: sug‘orishini.",
+          "uz": "sug‘orishini"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "النَّاسُ فاعل.",
+          "uz": "odamlar"
+        },
+        {
+          "w": "فَتَسْقِيَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "فَتَسْقِيَا فَ va nasb bo‘lgan hozirgi-kelasi zamon fe’li tasqiyā (ikkilik). O‘zbekcha ma’nosi: so‘ng sug‘orishni / sug‘orish uchun.",
+          "uz": "so‘ng sug‘orishni / sug‘orish uchun"
+        }
+      ]
+    },
+    {
+      "ar": "رَأَى مُوسَى ذَلِكَ وَفِي قَلْبِهِ حَنَانٌ الْكَرِيمِ وَشَفَقَةُ الْأَبِ الرَّحِيمِ.",
+      "tr": "Muso buni ko‘rdi, holbuki uning qalbida olijanob kishining mehri va mehribon otaning shafqati bor edi.",
+      "parts": [
+        {
+          "w": "رَأَى",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "رَأَى o‘tgan zamon fe’li.",
+          "uz": "ko‘rdi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل.",
+          "uz": "Muso"
+        },
+        {
+          "w": "ذَلِكَ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "ذَلِكَ ismi ishora.",
+          "uz": "buni / o‘shani"
+        },
+        {
+          "w": "وَفِي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَفِي وَ (haliya) va jar harfi. O‘zbekcha ma’nosi: va ichida.",
+          "uz": "va ichida"
+        },
+        {
+          "w": "قَلْبِهِ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "قَلْبِهِ jar va olmosh (xabar). O‘zbekcha ma’nosi: uning qalbida.",
+          "uz": "uning qalbida"
+        },
+        {
+          "w": "حَنَانٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "حَنَانٌ mubtado (marfu‘, izofa). O‘zbekcha ma’nosi: mehri / shafqati.",
+          "uz": "mehri / shafqati"
+        },
+        {
+          "w": "الْكَرِيمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْكَرِيمِ muzofun ilayh. O‘zbekcha ma’nosi: kramatlining / olijanobning.",
+          "uz": "kramatlining / olijanobning"
+        },
+        {
+          "w": "وَشَفَقَةُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَشَفَقَةُ وَ va shafaqah (mubtadoga atf, izofa). O‘zbekcha ma’nosi: va rahm-shafqati / mehribonligi.",
+          "uz": "va rahm-shafqati / mehribonligi"
+        },
+        {
+          "w": "الْأَبِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْأَبِ muzofun ilayh. O‘zbekcha ma’nosi: otaning.",
+          "uz": "otaning"
+        },
+        {
+          "w": "الرَّحِيمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الرَّحِيمِ sifat (majrur). O‘zbekcha ma’nosi: mehribon.",
+          "uz": "mehribon"
+        }
+      ]
+    },
+    {
+      "ar": "فَقَالَ: لِمَاذَا لَا تَسْقِيَانِ؟",
+      "tr": "U: «Nega sug‘ormayapsizlar?» dedi.",
+      "parts": [
+        {
+          "w": "فَقَالَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "فَقَالَ فَ va o‘tgan zamon fe’li. O‘zbekcha ma’nosi: so‘ng dedi / aytdi.",
+          "uz": "so‘ng dedi / aytdi"
+        },
+        {
+          "w": "لِمَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لِمَاذَا so‘roq zarfi (nega). O‘zbekcha ma’nosi: nega / nima uchun.",
+          "uz": "nega / nima uchun"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "تَسْقِيَانِ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "تَسْقِيَانِ hozirgi-kelasi zamon fe’li (ikkilik). O‘zbekcha ma’nosi: sug‘oryapsizlar.",
+          "uz": "sug‘oryapsizlar"
+        }
+      ]
+    },
+    {
+      "ar": "قَالَتَا: لَا يُمْكِنُ لَنَا أَنْ نَسْقِيَ غَنَمَنَا حَتَّى يَسْقِيَ النَّاسُ، لِأَنَّهُمْ أَقْوِيَاءُ، وَنَحْنُ ضُعَفَاءُ، وَلِأَنَّهُمْ رِجَالٌ وَنَحْنُ إِنَاثٌ.",
+      "tr": "Ikki ayol: «Odamlar sug‘orib ketgunlarigacha biz qo‘ylarimizni sug‘ora olmaymiz. Chunki ular baquvvat, biz esa zaifmiz; ular erkak, biz esa ayollarmiz», dedilar.",
+      "parts": [
+        {
+          "w": "قَالَتَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "قَالَتَا o‘tgan zamon fe’li (ikkilik muأَنَّs). O‘zbekcha ma’nosi: ikki ayol dedilar.",
+          "uz": "ikki ayol dedilar"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy harfi.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "يُمْكِنُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يُمْكِنُ hozirgi-kelasi zamon fe’li yumkinu. O‘zbekcha ma’nosi: mumkin bo‘ladi.",
+          "uz": "mumkin bo‘ladi"
+        },
+        {
+          "w": "لَنَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لَنَا jar va olmosh. O‘zbekcha ma’nosi: bizga / biz uchun.",
+          "uz": "bizga / biz uchun"
+        },
+        {
+          "w": "أَنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنْ nasb harfi.",
+          "uz": "ki / -ishni"
+        },
+        {
+          "w": "نَسْقِيَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "نَسْقِيَ nasb bo‘lgan hozirgi-kelasi zamon fe’li. O‘zbekcha ma’nosi: sug‘orishimiz.",
+          "uz": "sug‘orishimiz"
+        },
+        {
+          "w": "غَنَمَنَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "غَنَمَنَا ghanam va nā olmoshi. O‘zbekcha ma’nosi: qo‘ylarimizni.",
+          "uz": "qo‘ylarimizni"
+        },
+        {
+          "w": "حَتَّى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "حَتَّى jar harfi (toki). O‘zbekcha ma’nosi: toki / gacha.",
+          "uz": "hatto"
+        },
+        {
+          "w": "يَسْقِيَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَسْقِيَ nasb bo‘lgan fe’l.",
+          "uz": "sug‘orishini"
+        },
+        {
+          "w": "النَّاسُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "النَّاسُ فاعل.",
+          "uz": "odamlar"
+        },
+        {
+          "w": "لِأَنَّهُمْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لِأَنَّهُمْ لِأَنَّ va hum olmoshi. O‘zbekcha ma’nosi: chunki ular.",
+          "uz": "chunki u"
+        },
+        {
+          "w": "أَقْوِيَاءُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "أَقْوِيَاءُ لِأَنَّ xabari (ko‘plik). O‘zbekcha ma’nosi: kuchlidirlar / baquvvatdirlar.",
+          "uz": "kuchlidirlar / baquvvatdirlar"
+        },
+        {
+          "w": "وَنَحْنُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَنَحْنُ وَ va kishilik olmoshi nahnu. O‘zbekcha ma’nosi: va biz.",
+          "uz": "va biz"
+        },
+        {
+          "w": "ضُعَفَاءُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "ضُعَفَاءُ xabar (ko‘plik). O‘zbekcha ma’nosi: zaifdirlar / zaifmiz.",
+          "uz": "zaifdirlar / zaifmiz"
+        },
+        {
+          "w": "وَلِأَنَّهُمْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلِأَنَّهُمْ وَ va لِأَنَّ va hum.",
+          "uz": "chunki u"
+        },
+        {
+          "w": "رِجَالٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "رِجَالٌ لِأَنَّ xabari. O‘zbekcha ma’nosi: erkaklardir / erkaklar.",
+          "uz": "erkaklardir / erkaklar"
+        },
+        {
+          "w": "وَنَحْنُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَنَحْنُ وَ va nahnu.",
+          "uz": "va biz"
+        },
+        {
+          "w": "إِنَاثٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِنَاثٌ xabar (ko‘plik). O‘zbekcha ma’nosi: ayollardir / ayollarmiz.",
+          "uz": "ayollardir / ayollarmiz"
+        }
+      ]
+    },
+    {
+      "ar": "وَكَأَنَّمَا عَرَفَتَا أَنَّ مُوسَى سَيَسْأَلُهُمَا: فَلِمَاذَا لَا يَسْقِي أَحَدٌ مِنْ رِجَالِ بَيْتِكُنَّ؟",
+      "tr": "Go‘yoki ular Muso: «Uyingiz erkaklaridan birortasi nega sug‘ormaydi?» deb so‘rashini bilgandek bo‘ldilar.",
+      "parts": [
+        {
+          "w": "وَكَأَنَّمَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَكَأَنَّمَا وَ va ka-أَنَّmā (go‘yoki) o‘xshatish harfi. O‘zbekcha ma’nosi: va go‘yoki.",
+          "uz": "va go‘yoki"
+        },
+        {
+          "w": "عَرَفَتَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "عَرَفَتَا o‘tgan zamon fe’li (ikkilik). O‘zbekcha ma’nosi: ikkisi bildi.",
+          "uz": "ikkisi bildi"
+        },
+        {
+          "w": "أَنَّ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "أَنَّ أَنَّ.",
+          "uz": "albatta"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "مُوسَى أَنَّ ismi.",
+          "uz": "Muso"
+        },
+        {
+          "w": "سَيَسْأَلُهُمَا",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "سَيَسْأَلُهُمَا sīn (kelasi zamon), hozirgi-kelasi zamon fe’li yas’alu va humā olmoshi. O‘zbekcha ma’nosi: ularning ikkisidan so‘raydi.",
+          "uz": "ularning ikkisidan so‘raydi"
+        },
+        {
+          "w": "فَلِمَاذَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَلِمَاذَا فَ va so‘roq (bas, nega). O‘zbekcha ma’nosi: bas, nega / nega unda.",
+          "uz": "bas, nega / nega unda"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "يَسْقِي",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَسْقِي fe’l.",
+          "uz": "sug‘orishardi"
+        },
+        {
+          "w": "أَحَدٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "أَحَدٌ فاعل. O‘zbekcha ma’nosi: biror kishi.",
+          "uz": "biror kishi"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ jar harfi.",
+          "uz": "dan"
+        },
+        {
+          "w": "رِجَالِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "رِجَالِ majrur ism (izofa). O‘zbekcha ma’nosi: erkaklardan / kishilardan.",
+          "uz": "erkaklardan / kishilardan"
+        },
+        {
+          "w": "بَيْتِكُنَّ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "بَيْتِكُنَّ bayt (majrur, izofa) va kunna olmoshi (ayollar ko‘pligi). O‘zbekcha ma’nosi: uyingizdagi / uyingiz erkaklaridan.",
+          "uz": "uyingizdagi / uyingiz erkaklaridan"
+        }
+      ]
+    },
+    {
+      "ar": "فَسَبَقَتَا وَقَالَتَا: ﴿وَأَبُونَا شَيْخٌ كَبِيرٌ﴾.",
+      "tr": "Ular gapni qisqa qilib: «Otamiz esa yoshi ulug‘ keksadir (shuning uchun o‘zlari kela olmaydilar)», dedilar.",
+      "parts": [
+        {
+          "w": "فَسَبَقَتَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "فَسَبَقَتَا فَ va o‘tgan zamon fe’li sabaqatā (ikkilik muأَنَّs). O‘zbekcha ma’nosi: bas, oldinroq harakat qildilar / shoshildilar.",
+          "uz": "bas, oldinroq harakat qildilar / shoshildilar"
+        },
+        {
+          "w": "وَقَالَتَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَقَالَتَا وَ va o‘tgan zamon fe’li.",
+          "uz": "ikki ayol dedilar"
+        },
+        {
+          "w": "وَأَبُونَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "وَأَبُونَا وَ (haliya), abū (mubtado, marfu‘ وَ bilan) va nā olmoshi. O‘zbekcha ma’nosi: va otamiz.",
+          "uz": "va otamiz"
+        },
+        {
+          "w": "شَيْخٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "شَيْخٌ xabar. O‘zbekcha ma’nosi: chol / keksadir.",
+          "uz": "chol / keksadir"
+        },
+        {
+          "w": "كَبِيرٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "كَبِيرٌ sifat. O‘zbekcha ma’nosi: katta / yoshi ulug‘.",
+          "uz": "katta / yoshi ulug‘"
+        }
+      ]
+    },
+    {
+      "ar": "وَهَاجَ فِي مُوسَى حَنَانُ الْكَرِيمِ وَسَقَى لَهُمَا وَذَهَبَتَا.",
+      "tr": "Musoning qalbida olijanoblik mehri jo‘sh urdi, ularga (qo‘ylarini) sug‘orib berdi va ular ketishdi.",
+      "parts": [
+        {
+          "w": "وَهَاجَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَهَاجَ وَ va o‘tgan zamon fe’li hāja. O‘zbekcha ma’nosi: va qo‘zg‘aldi / jo‘sh urdi.",
+          "uz": "va qo‘zg‘aldi / jo‘sh urdi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "فِي jar harfi.",
+          "uz": "ichida / da"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "مُوسَى majrur.",
+          "uz": "Muso"
+        },
+        {
+          "w": "حَنَانُ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "حَنَانُ فاعل (marfu‘, izofa). O‘zbekcha ma’nosi: mehri / shafqati.",
+          "uz": "mehri / shafqati"
+        },
+        {
+          "w": "الْكَرِيمِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الْكَرِيمِ muzofun ilayh.",
+          "uz": "karamatlining / olijanobning"
+        },
+        {
+          "w": "وَسَقَى",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَسَقَى وَ va o‘tgan zamon fe’li saqā. O‘zbekcha ma’nosi: va sug‘ordi.",
+          "uz": "va sug‘ordi"
+        },
+        {
+          "w": "لَهُمَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لَهُمَا jar va ikkilik olmosh. O‘zbekcha ma’nosi: ikki ayol uchun / ikkisiga.",
+          "uz": "ikki ayol uchun / ikkisiga"
+        },
+        {
+          "w": "وَذَهَبَتَا",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "وَذَهَبَتَا وَ va o‘tgan zamon fe’li dhahabatā (ikkilik muأَنَّs). O‘zbekcha ma’nosi: va ikkisi ketdilar.",
+          "uz": "va ikkisi ketdilar"
+        }
+      ]
+    },
+    {
+      "ar": "وَأَيْنَ يَذْهَبُ مُوسَى الْآنَ؟! ",
+      "tr": "Xo‘sh, endi Muso qayerga ham boradi?!",
+      "parts": [
+        {
+          "w": "وَأَيْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "وَأَيْنَ وَ va so‘roq zarfi.",
+          "uz": "va qayerda"
+        },
+        {
+          "w": "يَذْهَبُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَذْهَبُ hozirgi-kelasi zamon fe’li.",
+          "uz": "ketadi / boradi"
+        },
+        {
+          "w": "مُوسَى",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "مُوسَى فاعل.",
+          "uz": "Muso"
+        },
+        {
+          "w": "الْآنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "الْآنَ zamon zarfi (mansub). O‘zbekcha ma’nosi: hozir / endi.",
+          "uz": "hozir / endi"
+        }
+      ]
+    },
+    {
+      "ar": "وَإِلَى أَيْنِ يَأْوِي فِي اللَّيْلِ وَأَيْنَ يَبِيتُ؟! إِنَّهُ لَا يَعْرِفُ أَحَداً وَلَا يَعْرِفُهُ أَحَدٌ!",
+      "tr": "U tunda kimnikiga joylashadi va qayerda tunaydi?! Axir u hech kimni tanimaydi, uni ham hech kim tanimaydi-ku!",
+      "parts": [
+        {
+          "w": "وَإِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَإِلَى وَ va jar.",
+          "uz": "va ga"
+        },
+        {
+          "w": "أَيْنِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "أَيْنِ so‘roq ismi.",
+          "uz": "qayerga"
+        },
+        {
+          "w": "يَأْوِي",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَأْوِي fe’l.",
+          "uz": "joylashadi / boshpana topadi"
+        },
+        {
+          "w": "فِي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "فِي jar.",
+          "uz": "ichida / da"
+        },
+        {
+          "w": "اللَّيْلِ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "اللَّيْلِ majrur.",
+          "uz": "tunda / kechasi"
+        },
+        {
+          "w": "وَأَيْنَ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "وَأَيْنَ وَ va zarf.",
+          "uz": "va qayerda"
+        },
+        {
+          "w": "يَبِيتُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَبِيتُ fe’l.",
+          "uz": "tunaydi / yotib qoladi"
+        },
+        {
+          "w": "إِنَّهُ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِنَّهُ إِنَّ va hu.",
+          "uz": "albatta u"
+        },
+        {
+          "w": "لَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "لَا nafiy.",
+          "uz": "emas / yo‘q / -maydi"
+        },
+        {
+          "w": "يَعْرِفُ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "يَعْرِفُ fe’l.",
+          "uz": "biladi / taniydi"
+        },
+        {
+          "w": "أَحَداً",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "أَحَداً maf’ul.",
+          "uz": "hech kimni / biror kishini"
+        },
+        {
+          "w": "وَلَا",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "وَلَا وَ va nafiy.",
+          "uz": "va emas"
+        },
+        {
+          "w": "يَعْرِفُهُ",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "يَعْرِفُهُ fe’l va hu.",
+          "uz": "uni taniydi / uni biladi"
+        },
+        {
+          "w": "أَحَدٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "أَحَدٌ فاعل.",
+          "uz": "hech kim / biror kishi"
+        }
+      ]
+    },
+    {
+      "ar": "﴿فَتَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ﴾.",
+      "tr": "U soyaga burildi va: «Parvardigorim, albatta men Sen menga tushiradigan har qanday yaxshilikka muhtojman», dedi.",
+      "parts": [
+        {
+          "w": "فَتَوَلَّىٰ",
+          "r": "فعل / تركيب",
+          "rc": "فعل / تركيب",
+          "e": "فَتَوَلَّىٰ فَ va o‘tgan zamon fe’li tawallā. O‘zbekcha ma’nosi: bas, burildi.",
+          "uz": "bas, burildi"
+        },
+        {
+          "w": "إِلَى",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِلَى jar.",
+          "uz": "ga"
+        },
+        {
+          "w": "الظِّلِّ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "الظِّلِّ majrur ism. O‘zbekcha ma’nosi: soyaga.",
+          "uz": "soyaga"
+        },
+        {
+          "w": "فَقَالَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "فَقَالَ فَ va dedi.",
+          "uz": "so‘ng dedi / aytdi"
+        },
+        {
+          "w": "رَبِّ",
+          "r": "اسم منصوب",
+          "rc": "اسم منصوب",
+          "e": "رَبِّ munodo.",
+          "uz": "ey Rabbim"
+        },
+        {
+          "w": "إِنِّي",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "إِنِّي إِنَّ va men.",
+          "uz": "albatta men"
+        },
+        {
+          "w": "لِمَا",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "لِمَا jar li va mavsul ismi mā. O‘zbekcha ma’nosi: nimaniki / o‘shangaki.",
+          "uz": "nimaniki / o‘shangaki"
+        },
+        {
+          "w": "أَنزَلْتَ",
+          "r": "فعل",
+          "rc": "فعل",
+          "e": "أَنزَلْتَ o‘tgan zamon fe’li (ikkinchi shaxs). O‘zbekcha ma’nosi: tushirding.",
+          "uz": "tushirding"
+        },
+        {
+          "w": "إِلَيَّ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "إِلَيَّ jar va olmosh.",
+          "uz": "menga / men tomonga"
+        },
+        {
+          "w": "مِنْ",
+          "r": "حرف",
+          "rc": "حرف",
+          "e": "مِنْ jar.",
+          "uz": "dan"
+        },
+        {
+          "w": "خَيْرٍ",
+          "r": "اسم مجرور",
+          "rc": "اسم مجرور",
+          "e": "خَيْرٍ majrur ism. O‘zbekcha ma’nosi: yaxshilikdan / yaxshilikka.",
+          "uz": "yaxshilikdan / yaxshilikka"
+        },
+        {
+          "w": "فَقِيرٌ",
+          "r": "اسم / تركيب",
+          "rc": "اسم / تركيب",
+          "e": "فَقِيرٌ إِنَّ xabari (marfu‘). O‘zbekcha ma’nosi: muhtojman / faqirman.",
+          "uz": "muhtojman / faqirman"
+        }
+      ]
+    }
+  ],
+  "bookId": "qisas"
+}
